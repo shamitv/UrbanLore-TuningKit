@@ -1,160 +1,50 @@
-# Generator agent
+# Generator Agent
 
-The generator builds a fictional city corpus using a LangGraph state machine. It creates a city concept, then iteratively generates section narratives until it hits the target word count or exhausts all sections.
-
----
-
-## State diagram
-
-```
-                        ┌──────────────────┐
-                        │      START       │
-                        └────────┬─────────┘
-                                 │
-                                 ▼
-                      ┌──────────────────────┐
-                      │   create_concept     │
-                      │  (generate city idea)│
-                      └──────────┬───────────┘
-                                 │
-                                 ▼
-                      ┌──────────────────────┐
-              ┌──────▶│   generate_section   │
-              │       │ (write current section)│
-              │       └──────────┬───────────┘
-              │                  │
-              │                  ▼
-              │       ┌──────────────────────┐
-              │       │  route_next_section  │
-              │       │   (conditional edge) │
-              │       └──────────┬───────────┘
-              │                  │
-              │       ┌──────────┴───────────┐
-              │       │                      │
-              │  word_count < target   word_count >= target
-              │  AND sections left      OR sections empty
-              │       │                      │
-              │       ▼                      ▼
-              │   "generate"            "finalize"
-              │       │                      │
-              └───────┘                      ▼
-                                  ┌──────────────────────┐
-                                  │       finalize       │
-                                  │  (log completion)    │
-                                  └──────────┬───────────┘
-                                             │
-                                             ▼
-                                  ┌──────────────────────┐
-                                  │         END          │
-                                  └──────────────────────┘
-```
+The generator builds a fictional city corpus using a **Fractal Expansion** strategies over a LangGraph state machine. It parses the "World Bible" prompt (`docs/agents/sample_prompt.md`) to establish detailed categories, then recursively expands each category into sub-sections to achieve high word counts (target: ~200k words).
 
 ---
 
-## How it works
+## Architecture
 
-### 1) State model (`CorpusState`)
+### Fractal Generation Strategy
+Instead of writing broad summaries, the agent uses a **Depth-First Expansion** approach:
 
-Defined at [agents/generator.py#L21-L28](../agents/generator.py#L21-L28).
-
-| Field               | Type                | Description                                       |
-|---------------------|---------------------|---------------------------------------------------|
-| `city_name`         | `str`               | Generated name of the fictional city              |
-| `sections`          | `List[str]`         | Queue of section keys still to generate           |
-| `current_section`   | `str`               | The section currently being generated             |
-| `generated_content` | `Dict[str, str]`    | Map of section key → generated text               |
-| `word_count`        | `int`               | Running total of words generated                  |
-| `target_words`      | `int`               | Word count target (default 200 000)               |
-
-### 2) Graph nodes
-
-Built in `build_corpus_graph()` at [agents/generator.py#L124-L147](../agents/generator.py#L124-L147).
-
-| Node               | Function             | Purpose                                                                                   |
-|--------------------|----------------------|-------------------------------------------------------------------------------------------|
-| `create_concept`   | `create_city_concept`| Calls LLM to invent city name & concept; stores result in `generated_content["concept"]` |
-| `generate_section` | `generate_section`   | Generates prose for `current_section`; appends to `generated_content`; updates word count|
-| `finalize`         | `finalize_corpus`    | Logs completion; no file I/O (writing happens in `generate_city_corpus`)                 |
-
-### 3) Edges
-
-| From               | To                 | Condition                                                    |
-|--------------------|--------------------|--------------------------------------------------------------|
-| START              | `create_concept`   | Entry point                                                  |
-| `create_concept`   | `generate_section` | Unconditional                                                |
-| `generate_section` | (conditional)      | Routed by `route_next_section`                               |
-|                    | → `generate_section` | `word_count < target_words` **and** `sections` not empty   |
-|                    | → `finalize`       | Otherwise                                                    |
-| `finalize`         | END                | Unconditional                                                |
-
-### 4) Routing logic
-
-`route_next_section()` at [agents/generator.py#L106-L116](../agents/generator.py#L106-L116):
-
-1. If `word_count >= target_words` → return `"finalize"`.
-2. Else if `sections` list is empty → return `"finalize"`.
-3. Else pop the first item from `sections` into `current_section` → return `"generate"`.
-
-### 5) Section queue
-
-The section order is hard-coded when `CorpusState` is initialised in `generate_city_corpus()` at [agents/generator.py#L170](../agents/generator.py#L170):
-
-```python
-sections=["history", "geography", "culture", "economy",
-          "government", "daily_life", "notable_figures", "mysteries"]
-```
-
-Each section has a target word count baked into `section_prompts` inside `generate_section()`:
-
-| Section          | Target words |
-|------------------|--------------|
-| history          | 3000         |
-| geography        | 2500         |
-| culture          | 3000         |
-| economy          | 2500         |
-| government       | 2500         |
-| daily_life       | 3000         |
-| notable_figures  | 2500         |
-| mysteries        | 2000         |
+1.  **Parse**: Loads 22+ high-level categories (Geography, Economy, The Underbelly, etc.) from `sample_prompt.md`.
+2.  **Concept**: Generates the core city identity (Name, Vibe, Conflict).
+3.  **Route & Expand**:
+    *   If a section is a **Category** (e.g., "Architecture"): The agent calls the LLM to break it down into 5-8 atomic "scenes" or "sub-chapters" (e.g., "The Slum Skyline", "The Crystal Palaces", "Bridge Mechanics").
+    *   These sub-chapters are prepended to the work queue.
+4.  **Write**: The agent writes a detailed (2k-3k word) entry for each sub-chapter, referencing the parent category for context.
 
 ---
 
-## Output artifacts
+## State Diagram
 
-`generate_city_corpus()` writes two files after the graph completes:
+```mermaid
+graph TD
+    START --> CreateConcept
+    CreateConcept --> Route
+    
+    Route{Queue Empty?}
+    Route -- Yes --> Finalize
+    Route -- No --> Generate[Generate/Expand Section]
+    
+    Generate --> Route
+    
+    Finalize --> END
+```
 
-| File                         | Contents                                                   |
-|------------------------------|------------------------------------------------------------|
-| `corpus/city_corpus.txt`     | Full corpus with markdown section headers                  |
-| `corpus/corpus_metadata.json`| JSON with `city_name`, `word_count`, `target_words`, `sections` |
+*Note: The `Generate` node handles both expansion (adding new items to queue) and writing (generating text).*
 
 ---
 
 ## Configuration
 
-Environment variables (loaded via `load_dotenv()`):
+| Environment Variable | Description |
+|----------------------|-------------|
+| `OPENAI_MODEL`       | LLM Model (default: `gpt-4`) |
+| `target_words`       | Goal for corpus size (default: 200,000) |
 
-| Variable          | Default                         | Used for                        |
-|-------------------|---------------------------------|---------------------------------|
-| `OPENAI_MODEL`    | `gpt-4`                         | LLM model name                  |
-| `OPENAI_BASE_URL` | `https://api.openai.com/v1`     | API endpoint                    |
-| `TEMPERATURE`     | `0.7`                           | Sampling temperature            |
-
----
-
-## Running the generator
-
-```bash
-# As a module
-python -m agents.generator
-
-# Via CLI
-python urbanlore.py generate-corpus --target-words 200000 --output-dir corpus
-```
-
----
-
-## Notes
-
-- The pipeline stops as soon as `word_count >= target_words` **or** all sections are exhausted, so the final corpus may be slightly above or below the target.
-- `city_name` is extracted from the LLM response as JSON; if parsing fails, it falls back to `"Neo-Haven"`.
+## Output
+- `corpus/city_corpus.txt`: The full compiled Markdown bible.
+- `corpus/corpus_metadata.json`: Stats on word count and sections.
