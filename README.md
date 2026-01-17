@@ -53,6 +53,8 @@ cd UrbanLore-TuningKit
 make setup
 ```
 
+For a quick, script-based setup that creates required folders and initializes .env (if missing), see [docs/infra/INIT_SETUP.md](docs/infra/INIT_SETUP.md).
+
 ### 2. Configuration
 
 Copy `.env.example` to `.env` and configure your settings:

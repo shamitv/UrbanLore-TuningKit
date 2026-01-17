@@ -38,7 +38,15 @@ def create_city_concept(state: CorpusState) -> CorpusState:
     
     prompt = ChatPromptTemplate.from_messages([
         ("system", "You are a creative world-builder specializing in fictional cities."),
-        ("user", "Create a unique fictional city. Provide: 1) City name, 2) Brief description (50 words), 3) Key characteristics. Format as JSON.")
+        ("user", 
+         """
+         Create a unique fictional city. Provide: 1) City name, 2) Brief description (50 words), 3) Key characteristics. Format as JSON.
+
+         Some inputs from user : 
+
+            Yorkbori that is like NYC, Isambul and Osaka had a child. Flavours of all three cities combined to create it. 
+
+         """)
     ])
     
     chain = prompt | llm
