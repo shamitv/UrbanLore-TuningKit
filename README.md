@@ -67,8 +67,8 @@ cp .env.example .env
 **Key Configuration Variables:**
 - `OPENAI_API_KEY`: Your OpenAI API key
 - `OPENAI_BASE_URL`: OpenAI API base URL (default: https://api.openai.com/v1)
-- `OPENAI_MODEL`: Model to use for generation (default: gpt-4)
-- `BASE_MODEL`: HuggingFace model for fine-tuning (default: microsoft/phi-2)
+- `OPENAI_MODEL`: Model to use for generation (default: gpt-5-nano)
+- `BASE_MODEL`: HuggingFace model for fine-tuning (default: Qwen/Qwen3-0.6B)
 - `USE_QLORA`: Enable QLoRA quantization (default: true)
 
 ### 3. Run the Pipeline
@@ -159,7 +159,7 @@ Fine-tune a model using LoRA/QLoRA:
 ```bash
 python urbanlore.py finetune \
   --dataset-file dataset/train.jsonl \
-  --base-model microsoft/phi-2 \
+  --base-model Qwen/Qwen3-0.6B \
   --use-qlora \
   --epochs 3 \
   --output-dir finetune/models
@@ -226,14 +226,14 @@ The `.env` file controls all aspects of the pipeline. Key variables:
 # OpenAI API Configuration
 OPENAI_API_KEY=your-api-key-here
 OPENAI_BASE_URL=https://api.openai.com/v1
-OPENAI_MODEL=gpt-4
+OPENAI_MODEL=gpt-5-nano
 
 # Generation Parameters
 CORPUS_TARGET_WORDS=200000
 TEMPERATURE=0.7
 
 # Fine-tuning Configuration
-BASE_MODEL=microsoft/phi-2
+BASE_MODEL=Qwen/Qwen3-0.6B
 LORA_R=16
 LORA_ALPHA=32
 USE_QLORA=true

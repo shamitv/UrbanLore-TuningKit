@@ -14,7 +14,7 @@ def generate_custom_corpus():
     """Generate a custom corpus with specific parameters"""
     
     # Override environment variables for this run
-    os.environ["OPENAI_MODEL"] = "gpt-4"
+    os.environ["OPENAI_MODEL"] = "gpt-5-nano"
     os.environ["TEMPERATURE"] = "0.8"
     
     # Generate corpus with custom parameters

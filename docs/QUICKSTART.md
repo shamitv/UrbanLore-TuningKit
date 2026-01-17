@@ -41,8 +41,8 @@ OPENAI_API_KEY=sk-your-api-key-here
 ```
 
 Optional configurations:
-- `OPENAI_MODEL=gpt-4` (or gpt-3.5-turbo for lower cost)
-- `BASE_MODEL=microsoft/phi-2` (model to fine-tune)
+- `OPENAI_MODEL=gpt-5-nano` (or gpt-3.5-turbo for lower cost)
+- `BASE_MODEL=Qwen/Qwen3-0.6B` (model to fine-tune)
 - `CORPUS_TARGET_WORDS=200000` (adjust for faster testing)
 
 ## Quick Test Run
@@ -129,6 +129,8 @@ Output:
 make finetune
 # or
 python urbanlore.py finetune
+# or
+python urbanlore.py finetune --base-model Qwen/Qwen3-0.6B
 ```
 
 Output:
