@@ -1,0 +1,7 @@
+{
+  "num_qa_pairs": 50,
+  "num_instruction_pairs": 25,
+  "total_examples": 75,
+  "train_examples": 67,
+  "test_examples": 8
+}
