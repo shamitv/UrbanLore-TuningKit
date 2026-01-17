@@ -1,6 +1,6 @@
 # PyTorch on RTX 5080 (Windows) — Setup & Verification Guide
 
-This guide is for **Windows + NVIDIA GeForce RTX 5080** and assumes your GPU is visible in `nvidia-smi` (you showed **Driver 591.44** on Windows/WDDM).
+This guide is for **Windows + NVIDIA GeForce RTX 5080** and assumes your GPU is visible in `nvidia-smi` (E.g.: **Driver 591.44** on Windows/WDDM).
 
 ---
 
