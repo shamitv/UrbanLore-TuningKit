@@ -19,6 +19,7 @@ from transformers import (
 )
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 from trl import SFTTrainer
+import inspect
 
 load_dotenv()
 
@@ -109,6 +110,10 @@ def train_model(dataset_file: str = "dataset/train.jsonl",
     Returns:
         Path to the saved model
     """
+    if use_qlora and not torch.cuda.is_available():
+        print("QLoRA requires a CUDA GPU; falling back to standard LoRA on CPU.")
+        use_qlora = False
+
     print(f"Starting fine-tuning with {'QLoRA' if use_qlora else 'LoRA'}...")
     
     # Load dataset
@@ -142,23 +147,34 @@ def train_model(dataset_file: str = "dataset/train.jsonl",
         logging_steps=10,
         save_steps=100,
         save_total_limit=3,
-        fp16=True if torch.cuda.is_available() else False,
+        fp16=False,
+        bf16=True if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else False,
         optim="paged_adamw_8bit" if use_qlora else "adamw_torch",
         warmup_ratio=0.05,
         lr_scheduler_type="cosine",
         report_to=["none"],  # Disable wandb/tensorboard for simplicity
     )
     
-    # Initialize trainer
-    trainer = SFTTrainer(
+    # Initialize trainer (compat across TRL versions)
+    sft_kwargs = dict(
         model=model,
         train_dataset=dataset,
         args=training_args,
-        tokenizer=tokenizer,
         dataset_text_field="text",
         max_seq_length=int(os.getenv("MAX_SEQ_LENGTH", "512")),
         packing=False,
     )
+
+    sft_params = inspect.signature(SFTTrainer.__init__).parameters
+    if "tokenizer" in sft_params:
+        sft_kwargs["tokenizer"] = tokenizer
+    elif "processing_class" in sft_params:
+        sft_kwargs["processing_class"] = tokenizer
+
+    # Filter kwargs to only those supported by this TRL version
+    sft_kwargs = {k: v for k, v in sft_kwargs.items() if k in sft_params}
+
+    trainer = SFTTrainer(**sft_kwargs)
     
     # Train the model
     print("Starting training...")

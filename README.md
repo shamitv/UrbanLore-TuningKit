@@ -53,6 +53,8 @@ cd UrbanLore-TuningKit
 make setup
 ```
 
+For a quick, script-based setup that creates required folders and initializes .env (if missing), see [docs/infra/INIT_SETUP.md](docs/infra/INIT_SETUP.md).
+
 ### 2. Configuration
 
 Copy `.env.example` to `.env` and configure your settings:
@@ -187,6 +189,10 @@ python urbanlore.py evaluate \
 Creates:
 - `eval/results/evaluation_results.json`: ROUGE scores and metrics
 - `eval/results/sample_predictions.json`: Example predictions
+
+## 🧪 Test Runs
+
+See the recorded pipeline run summary at [docs/runs/test_pipeline_2026-01-17.md](docs/runs/test_pipeline_2026-01-17.md).
 
 ## 🔧 Environment Variables
 

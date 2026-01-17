@@ -207,8 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 # UrbanLore-TuningKit generated data
-corpus/*.txt
-corpus/*.json
 dataset/*.jsonl
 dataset/*.json
 finetune/models/*
