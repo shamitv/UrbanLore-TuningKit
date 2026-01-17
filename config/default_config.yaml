@@ -1,0 +1,75 @@
+# UrbanLore-TuningKit Default Configuration
+
+# Corpus Generation
+corpus:
+  target_words: 200000
+  temperature: 0.7
+  max_tokens: 4096
+  sections:
+    - history
+    - geography
+    - culture
+    - economy
+    - government
+    - daily_life
+    - notable_figures
+    - mysteries
+
+# Dataset Generation
+dataset:
+  num_qa_pairs: 1000
+  num_instruction_pairs: 500
+  train_test_split: 0.9
+  random_seed: 42
+
+# Fine-tuning
+finetune:
+  base_model: "microsoft/phi-2"
+  use_qlora: true
+  lora:
+    r: 16
+    alpha: 32
+    dropout: 0.05
+    target_modules:
+      - q_proj
+      - k_proj
+      - v_proj
+      - o_proj
+  training:
+    batch_size: 4
+    gradient_accumulation_steps: 4
+    num_epochs: 3
+    learning_rate: 2.0e-4
+    max_seq_length: 512
+    warmup_ratio: 0.05
+    lr_scheduler_type: "cosine"
+    fp16: true
+
+# Evaluation
+evaluation:
+  max_examples: 100
+  max_new_tokens: 256
+  temperature: 0.7
+  top_p: 0.9
+  metrics:
+    - rouge1
+    - rouge2
+    - rougeL
+
+# OpenAI API (for corpus/dataset generation)
+openai:
+  api_key: ${OPENAI_API_KEY}
+  base_url: ${OPENAI_BASE_URL}
+  model: ${OPENAI_MODEL}
+
+# Paths
+paths:
+  corpus_dir: "corpus/"
+  dataset_dir: "dataset/"
+  finetune_dir: "finetune/models/"
+  eval_dir: "eval/results/"
+
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
