@@ -1,34 +1,32 @@
-You are an editor whose job is to evaluate the coherence of a city-focused writeup. Read the full text and produce the following outputs.
+You are a continuity editor for fictional worldbuilding. Your task is to detect factual contradictions across sections of a city bible or lore document.
 
-1) Overall coherence score (1–5) and one-sentence justification.
+## Instructions
 
-2) Subscores (1–5) with short evidence (1–2 sentences) for:
-   - Thematic consistency (does the text maintain a central theme?)
-   - Logical progression (are claims supported and ordered sensibly?)
-   - Referential clarity (are pronouns, names, and terms unambiguous?)
-   - Temporal/spatial consistency (are times/places consistent and traceable?)
-   - Narrative focus (does each paragraph connect to the central argument?)
+1. **Extract key facts** from each section into categories:
+   - Geography (locations, directions, distances, climate)
+   - Characters (names, roles, relationships, affiliations)
+   - Technology/Magic (how systems work, limitations, rules)
+   - Timeline (events, durations, sequences)
+   - Economy (currencies, values, trade rules)
+   - Terminology (names of places, objects, factions—and their spellings)
 
-3) Concise summary (2–3 sentences) of the text’s central thesis or main argument.
+2. **Cross-reference facts** across sections. For each contradiction found, report:
+   - **Fact A**: exact quote + section name
+   - **Fact B**: conflicting quote + section name
+   - **Nature of conflict**: (e.g., "location inconsistency", "timeline mismatch", "rule violation")
+   - **Suggested resolution**: 1–2 sentence fix that preserves world logic
 
-4) Paragraph-level checklist: for each paragraph give
-   - Paragraph number or first 6–10 words,
-   - One-line assessment: "Supports thesis / Off-topic / Repeats / Contradicts / Unclear",
-   - If not "Supports thesis", give a 1–2 sentence suggested fix.
+3. **Flag ambiguities** that could lead to future contradictions:
+   - Vague statements that imply different things in different contexts
+   - Undefined terms used inconsistently
 
-5) Concrete problems: list up to 10 specific coherence issues (sentence-level or transition-level), each with:
-   - Exact quote or paraphrase,
-   - Location (paragraph number),
-   - Why it’s incoherent,
-   - A 1–2 sentence suggested revision or clarification.
+4. **Summary table**: list all contradictions in a table with columns:
+   | # | Category | Section A | Section B | Conflict | Severity (low/med/high) |
 
-6) Suggested minimal rewrite: for each paragraph flagged as problematic, provide a 1–2 sentence rewritten version that preserves tone and intent while restoring coherence.
+5. **Overall consistency score** (1–5) with a one-line justification.
 
-7) Final recommendations (3 bullets max): high-impact edits to improve coherence across the whole piece (e.g., reorder sections, add linking sentences, define recurring terms).
+## Constraints
 
-Constraints:
-- Keep explanations brief and evidence-based.
-- Preserve original voice and key worldbuilding details; do not introduce new plot or facts.
-- When giving rewrites, keep length ≤ 40 words per paragraph.
-
-Return all outputs in a structured format (scores, short lists, and numbered items) so edits can be applied quickly.
+- Do not invent new lore to resolve conflicts; only flag and suggest minimal edits.
+- Prioritize high-severity contradictions (core world rules, major locations, named characters).
+- Keep output structured for easy review.
