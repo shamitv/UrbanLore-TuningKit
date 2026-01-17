@@ -14,6 +14,8 @@ I. The Physical World
 
 Location: Where is the city situated? (e.g., cliffside, stratosphere, underground).
 
+Location: Continent.
+
 Climate & Atmosphere: Describe the weather, visibility, and air quality.
 
 Sensory Profile: What are the dominant smells and sounds of the city?
