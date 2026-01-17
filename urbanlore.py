@@ -98,8 +98,16 @@ def generate_qa(facts_file, corpus_file, output_dir, num_qa, num_instructions, f
 @click.option("--output-dir", default="finetune/models", help="Output directory for fine-tuned model")
 @click.option("--use-qlora", is_flag=True, default=True, help="Use QLoRA for training")
 @click.option("--epochs", default=3, help="Number of training epochs")
-def finetune(dataset_file, base_model, output_dir, use_qlora, epochs):
+@click.option("--force", is_flag=True, default=False, help="Regenerate even if output exists")
+def finetune(dataset_file, base_model, output_dir, use_qlora, epochs, force):
     """Fine-tune model with LoRA/QLoRA"""
+    final_model_dir = os.path.join(output_dir, "final")
+    metadata_file = os.path.join(final_model_dir, "training_metadata.json")
+
+    if not force and file_exists_and_not_empty(metadata_file):
+        click.echo(f"⏭  Fine-tuned model already exists at {final_model_dir}, skipping (use --force to retrain)")
+        return
+
     from finetune.train import train_model
     
     click.echo(f"Fine-tuning {base_model}...")
@@ -117,8 +125,15 @@ def finetune(dataset_file, base_model, output_dir, use_qlora, epochs):
 @click.option("--model-dir", default="finetune/models/final", help="Fine-tuned model directory")
 @click.option("--test-file", default="dataset/test.jsonl", help="Test dataset JSONL file")
 @click.option("--output-dir", default="eval/results", help="Output directory for results")
-def evaluate(model_dir, test_file, output_dir):
+@click.option("--force", is_flag=True, default=False, help="Regenerate even if output exists")
+def evaluate(model_dir, test_file, output_dir, force):
     """Run model evaluation"""
+    results_file = os.path.join(output_dir, "evaluation_results.json")
+
+    if not force and file_exists_and_not_empty(results_file):
+        click.echo(f"⏭  Evaluation results already exist at {results_file}, skipping (use --force to re-evaluate)")
+        return
+
     from eval.evaluate import evaluate_model
     
     click.echo(f"Evaluating model from {model_dir}...")
@@ -132,8 +147,14 @@ def evaluate(model_dir, test_file, output_dir):
 
 @cli.command()
 @click.option("--target-words", default=200000, help="Target word count for corpus")
+@click.option("--corpus-dir", default="corpus", help="Output directory for corpus/facts")
+@click.option("--dataset-dir", default="dataset", help="Output directory for dataset")
+@click.option("--model-dir", default="finetune/models", help="Output directory for fine-tuned model")
+@click.option("--eval-dir", default="eval/results", help="Output directory for evaluation results")
+@click.option("--num-qa", default=1000, help="Number of QA pairs to generate")
+@click.option("--num-instructions", default=500, help="Number of instruction pairs to generate")
 @click.option("--force", is_flag=True, default=False, help="Regenerate all steps even if outputs exist")
-def run_all(target_words, force):
+def run_all(target_words, corpus_dir, dataset_dir, model_dir, eval_dir, num_qa, num_instructions, force):
     """Run complete pipeline (corpus -> QA -> finetune -> eval)"""
     click.echo("Starting complete UrbanLore pipeline...")
     
@@ -141,14 +162,30 @@ def run_all(target_words, force):
     from click import Context
     ctx = Context(cli)
     
-    ctx.invoke(generate_corpus, target_words=target_words, output_dir="corpus", force=force)
-    ctx.invoke(extract_facts, corpus_file="corpus/city_corpus.txt", output_dir="corpus", force=force)
-    ctx.invoke(generate_qa, facts_file="corpus/facts.json", corpus_file="corpus/city_corpus.txt", 
-               output_dir="dataset", num_qa=1000, num_instructions=500, force=force)
-    ctx.invoke(finetune, dataset_file="dataset/train.jsonl", base_model="microsoft/phi-2", 
-               output_dir="finetune/models", use_qlora=True, epochs=3)
-    ctx.invoke(evaluate, model_dir="finetune/models/final", test_file="dataset/test.jsonl", 
-               output_dir="eval/results")
+    corpus_file = os.path.join(corpus_dir, "city_corpus.txt")
+    facts_file = os.path.join(corpus_dir, "facts.json")
+    train_file = os.path.join(dataset_dir, "train.jsonl")
+    test_file = os.path.join(dataset_dir, "test.jsonl")
+    final_model_dir = os.path.join(model_dir, "final")
+    model_metadata = os.path.join(final_model_dir, "training_metadata.json")
+    eval_results = os.path.join(eval_dir, "evaluation_results.json")
+
+    ctx.invoke(generate_corpus, target_words=target_words, output_dir=corpus_dir, force=force)
+    ctx.invoke(extract_facts, corpus_file=corpus_file, output_dir=corpus_dir, force=force)
+    ctx.invoke(generate_qa, facts_file=facts_file, corpus_file=corpus_file, 
+               output_dir=dataset_dir, num_qa=num_qa, num_instructions=num_instructions, force=force)
+
+    if force or not file_exists_and_not_empty(model_metadata):
+        ctx.invoke(finetune, dataset_file=train_file, base_model="microsoft/phi-2", 
+                   output_dir=model_dir, use_qlora=True, epochs=3, force=force)
+    else:
+        click.echo(f"⏭  Fine-tuned model already exists at {final_model_dir}, skipping (use --force to retrain)")
+
+    if force or not file_exists_and_not_empty(eval_results):
+        ctx.invoke(evaluate, model_dir=final_model_dir, test_file=test_file, 
+                   output_dir=eval_dir, force=force)
+    else:
+        click.echo(f"⏭  Evaluation results already exist at {eval_results}, skipping (use --force to re-evaluate)")
     
     click.echo("✓ Complete pipeline finished!")
 
