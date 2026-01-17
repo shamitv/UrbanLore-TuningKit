@@ -39,7 +39,9 @@ Greenery: Is nature preserved in parks, or paved over entirely?
 II. Demographics & Population
 4. Population Dynamics
 
-Trend: Is the population booming, stagnant, or collapsing?
+Total population: How has it evolved over decades and centuries 
+Trend: Is the population now booming, stagnant, or collapsing?
+Ages : What is the distribution by Age, yound, middle age, Old. What is the backstory ? 
 
 Age Structure: Is this a city of children, or a "graying" city of elders?
 
