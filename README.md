@@ -207,6 +207,7 @@ Comprehensive documentation for UrbanLore-TuningKit:
 
 ### Architecture & Design
 - **[ARCHITECTURE.md](docs/design/ARCHITECTURE.md)**: System design and multi-agent workflow details.
+- **[PIPELINE_DETAILS.md](docs/design/PIPELINE_DETAILS.md)**: Technical deep-dive into dataset creation and chat formatting.
 - **[GENERATOR.md](docs/agents/GENERATOR.md)**: Technical details on the corpus generation agent.
 
 ### Evaluation & Results
