@@ -7,6 +7,7 @@ Refactored to match 'World Bible' prompt structure and use fractal expansion.
 import os
 import json
 import re
+import time
 from pathlib import Path
 from typing import Dict, List, Any, Optional
 
@@ -33,6 +34,7 @@ class CorpusState(dict):
     word_count: int
     target_words: int
     concept_data: str # Store the raw concept text
+    start_time: float # Epoch time when generation started
 
 
 def get_llm():
@@ -180,6 +182,13 @@ def expand_category(state: CorpusState, category: Dict[str, Any]) -> List[Dict[s
     print(f"    -> Created {len(sub_sections)} sub-sections.")
     return sub_sections
 
+def format_duration(seconds: float) -> str:
+    m, s = divmod(seconds, 60)
+    h, m = divmod(m, 60)
+    if h > 0:
+        return f"{int(h)}h {int(m)}m {int(s)}s"
+    return f"{int(m)}m {int(s)}s"
+
 
 def generate_section_node(state: CorpusState) -> CorpusState:
     """
@@ -205,7 +214,8 @@ def generate_section_node(state: CorpusState) -> CorpusState:
     else:
         # WRITING PHASE (sub_section)
         llm = get_llm()
-        # print(f"  > Writing: {section['name']}")
+        section_start = time.time()
+        print(f"  > Writing: '{section['name']}'...", flush=True)
         
         prompt = ChatPromptTemplate.from_messages([
             ("system", "You are a lead writer for an immersive fictional city encyclopedia. Write in a vivid, 'Show, Don't Tell' style."),
@@ -244,7 +254,11 @@ def generate_section_node(state: CorpusState) -> CorpusState:
         state["generated_content"][section["name"]] = content
         state["word_count"] += word_count
         
-        print(f"[OK] Generated '{section['name']}' ({word_count} words). Total: {state['word_count']}")
+        duration = time.time() - section_start
+        total_elapsed = time.time() - state["start_time"]
+        
+        print(f"[OK] Completed '{section['name']}'")
+        print(f"     Stats: {word_count} words | Time: {format_duration(duration)} | Total Elapsed: {format_duration(total_elapsed)} | Total Words: {state['word_count']}")
         return state
 
 
@@ -320,7 +334,8 @@ def generate_city_corpus(target_words: int = 200000, output_dir: str = "corpus")
         generated_content={},
         word_count=0,
         target_words=target_words,
-        concept_data=""
+        concept_data="",
+        start_time=time.time()
     )
     
     graph = build_corpus_graph()
