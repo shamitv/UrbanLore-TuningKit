@@ -1,0 +1,21 @@
+# Neo-Haven: A Fictional City
+
+## History
+
+In the year 1847, explorer Marcus Thornwood discovered a natural harbor along the eastern seaboard that would become Neo-Haven. The city was officially founded on March 15, 1848, when the first settlers established Fort Thornwood at the harbor's edge. The early years were marked by rapid growth as immigrants from across Europe arrived seeking new opportunities.
+
+The Great Fire of 1889 destroyed much of the old city, but led to a complete redesign by architect Helena Voss, who implemented the radial street pattern that characterizes Neo-Haven today. This catastrophe, while devastating, allowed the city to modernize its infrastructure and establish building codes that would serve it well into the future.
+
+During the Industrial Revolution, Neo-Haven became a center for manufacturing, particularly in textiles and steel production. The Riverside Steel Works, established in 1895 by industrialist James Blackwell, employed over 10,000 workers at its peak and shaped the city's economy for generations.
+
+## Geography
+
+Neo-Haven spans approximately 145 square miles across both banks of the River Meridian. The city is divided into seven major districts: Old Town, the Financial Quarter, Riverside, The Heights, The Gardens, Industrial Zone, and New Harbor.
+
+The most prominent natural feature is Mount Sentinel, which rises 2,400 feet above sea level on the city's western edge. From its summit, one can see the entire city sprawl and, on clear days, the ocean 30 miles to the east.
+
+## Culture
+
+Neo-Haven is known for its vibrant arts scene and cultural diversity. The annual Lantern Festival, held every October, draws visitors from around the world to witness the lighting of 100,000 handcrafted lanterns throughout the city...
+
+[Sample excerpt - full corpus would be ~200,000 words]
