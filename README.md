@@ -53,7 +53,7 @@ cd UrbanLore-TuningKit
 make setup
 ```
 
-For a quick, script-based setup that creates required folders and initializes .env (if missing), see [docs/infra/INIT_SETUP.md](docs/infra/INIT_SETUP.md).
+For a quick, script-based setup that creates required folders and initializes .env (if missing), see [docs/infra/INIT_SETUP.md](docs/infra/INIT_SETUP.md) and the [docs/QUICKSTART.md](docs/QUICKSTART.md).
 
 ### 2. Configuration
 
@@ -195,6 +195,28 @@ For detailed information on the evaluation metrics and methodology, see [docs/ev
 ## 🧪 Test Runs
 
 See the recorded pipeline run summary at [docs/runs/test_pipeline_2026-01-17.md](docs/runs/test_pipeline_2026-01-17.md).
+
+## 📚 Documentation
+
+Comprehensive documentation for UrbanLore-TuningKit:
+
+### Setup & Getting Started
+- **[QUICKSTART.md](docs/QUICKSTART.md)**: Fastest way to get the pipeline running.
+- **[INIT_SETUP.md](docs/infra/INIT_SETUP.md)**: Automated environment initialization.
+- **[PYTORCH_SETUP.md](docs/infra/pytorch_rtx5080_windows_setup.md)**: Detailed CUDA/GPU configuration for RTX 50-series.
+
+### Architecture & Design
+- **[ARCHITECTURE.md](docs/design/ARCHITECTURE.md)**: System design and multi-agent workflow details.
+- **[GENERATOR.md](docs/agents/GENERATOR.md)**: Technical details on the corpus generation agent.
+
+### Evaluation & Results
+- **[EVALUATION.md](docs/eval/EVALUATION.md)**: Explanation of ROUGE metrics and scoring logic.
+- **[Test Runs](docs/runs/test_pipeline_2026-01-17.md)**: Evidence of successful pipeline execution.
+
+### Project & Contribution
+- **[CONTRIBUTING.md](docs/project/CONTRIBUTING.md)**: Guidelines for contributing to the toolkit.
+- **[PROJECT_SUMMARY.md](docs/project/PROJECT_SUMMARY.md)**: High-level overview of goals and features.
+
 
 ## 🔧 Environment Variables
 
