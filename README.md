@@ -190,6 +190,10 @@ Creates:
 - `eval/results/evaluation_results.json`: ROUGE scores and metrics
 - `eval/results/sample_predictions.json`: Example predictions
 
+## 🧪 Test Runs
+
+See the recorded pipeline run summary at [docs/runs/test_pipeline_2026-01-17.md](docs/runs/test_pipeline_2026-01-17.md).
+
 ## 🔧 Environment Variables
 
 The `.env` file controls all aspects of the pipeline. Key variables:
