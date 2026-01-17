@@ -94,13 +94,16 @@ def generate_qa(facts_file, corpus_file, output_dir, num_qa, num_instructions, f
 
 @cli.command()
 @click.option("--dataset-file", default="dataset/train.jsonl", help="Training dataset JSONL file")
-@click.option("--base-model", default="microsoft/phi-2", help="Base model to fine-tune")
+@click.option("--base-model", default="Qwen/Qwen3-0.6B", help="Base model to fine-tune")
 @click.option("--output-dir", default="finetune/models", help="Output directory for fine-tuned model")
 @click.option("--use-qlora", is_flag=True, default=True, help="Use QLoRA for training")
 @click.option("--epochs", default=3, help="Number of training epochs")
 @click.option("--force", is_flag=True, default=False, help="Regenerate even if output exists")
 def finetune(dataset_file, base_model, output_dir, use_qlora, epochs, force):
     """Fine-tune model with LoRA/QLoRA"""
+    if not base_model:
+        base_model = os.getenv("BASE_MODEL", "Qwen/Qwen3-0.6B")
+
     final_model_dir = os.path.join(output_dir, "final")
     metadata_file = os.path.join(final_model_dir, "training_metadata.json")
 
@@ -150,11 +153,13 @@ def evaluate(model_dir, test_file, output_dir, force):
 @click.option("--corpus-dir", default="corpus", help="Output directory for corpus/facts")
 @click.option("--dataset-dir", default="dataset", help="Output directory for dataset")
 @click.option("--model-dir", default="finetune/models", help="Output directory for fine-tuned model")
+@click.option("--base-model", default="Qwen/Qwen3-0.6B", help="Base model to fine-tune")
 @click.option("--eval-dir", default="eval/results", help="Output directory for evaluation results")
 @click.option("--num-qa", default=1000, help="Number of QA pairs to generate")
 @click.option("--num-instructions", default=500, help="Number of instruction pairs to generate")
+@click.option("--use-qlora", default=None, help="Use QLoRA for training (true/false)")
 @click.option("--force", is_flag=True, default=False, help="Regenerate all steps even if outputs exist")
-def run_all(target_words, corpus_dir, dataset_dir, model_dir, eval_dir, num_qa, num_instructions, force):
+def run_all(target_words, corpus_dir, dataset_dir, model_dir, eval_dir, base_model, num_qa, num_instructions, use_qlora, force):
     """Run complete pipeline (corpus -> QA -> finetune -> eval)"""
     click.echo("Starting complete UrbanLore pipeline...")
     
@@ -176,8 +181,15 @@ def run_all(target_words, corpus_dir, dataset_dir, model_dir, eval_dir, num_qa, 
                output_dir=dataset_dir, num_qa=num_qa, num_instructions=num_instructions, force=force)
 
     if force or not file_exists_and_not_empty(model_metadata):
-        ctx.invoke(finetune, dataset_file=train_file, base_model="microsoft/phi-2", 
-                   output_dir=model_dir, use_qlora=True, epochs=3, force=force)
+        if not base_model:
+            base_model = os.getenv("BASE_MODEL", "Qwen/Qwen3-0.6B")
+
+        if use_qlora is None:
+            use_qlora_env = os.getenv("USE_QLORA", "true").strip().lower()
+            use_qlora = use_qlora_env in {"1", "true", "yes", "y"}
+
+        ctx.invoke(finetune, dataset_file=train_file, base_model=base_model, 
+                   output_dir=model_dir, use_qlora=use_qlora, epochs=3, force=force)
     else:
         click.echo(f"⏭  Fine-tuned model already exists at {final_model_dir}, skipping (use --force to retrain)")
 
