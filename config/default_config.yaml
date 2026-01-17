@@ -24,7 +24,7 @@ dataset:
 
 # Fine-tuning
 finetune:
-  base_model: "microsoft/phi-2"
+  base_model: "Qwen/Qwen3-0.6B"
   use_qlora: true
   lora:
     r: 16

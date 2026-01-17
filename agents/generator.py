@@ -39,7 +39,7 @@ class CorpusState(dict):
 
 def get_llm():
     return ChatOpenAI(
-        model=os.getenv("OPENAI_MODEL", "gpt-4"),
+        model=os.getenv("OPENAI_MODEL", "gpt-5-nano"),
         base_url=os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1"),
         temperature=float(os.getenv("TEMPERATURE", "0.7"))
     )

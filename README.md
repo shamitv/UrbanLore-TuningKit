@@ -53,7 +53,7 @@ cd UrbanLore-TuningKit
 make setup
 ```
 
-For a quick, script-based setup that creates required folders and initializes .env (if missing), see [docs/infra/INIT_SETUP.md](docs/infra/INIT_SETUP.md).
+For a quick, script-based setup that creates required folders and initializes .env (if missing), see [docs/infra/INIT_SETUP.md](docs/infra/INIT_SETUP.md) and the [docs/QUICKSTART.md](docs/QUICKSTART.md).
 
 ### 2. Configuration
 
@@ -67,8 +67,8 @@ cp .env.example .env
 **Key Configuration Variables:**
 - `OPENAI_API_KEY`: Your OpenAI API key
 - `OPENAI_BASE_URL`: OpenAI API base URL (default: https://api.openai.com/v1)
-- `OPENAI_MODEL`: Model to use for generation (default: gpt-4)
-- `BASE_MODEL`: HuggingFace model for fine-tuning (default: microsoft/phi-2)
+- `OPENAI_MODEL`: Model to use for generation (default: gpt-5-nano)
+- `BASE_MODEL`: HuggingFace model for fine-tuning (default: Qwen/Qwen3-0.6B)
 - `USE_QLORA`: Enable QLoRA quantization (default: true)
 
 ### 3. Run the Pipeline
@@ -159,7 +159,7 @@ Fine-tune a model using LoRA/QLoRA:
 ```bash
 python urbanlore.py finetune \
   --dataset-file dataset/train.jsonl \
-  --base-model microsoft/phi-2 \
+  --base-model Qwen/Qwen3-0.6B \
   --use-qlora \
   --epochs 3 \
   --output-dir finetune/models
@@ -190,9 +190,33 @@ Creates:
 - `eval/results/evaluation_results.json`: ROUGE scores and metrics
 - `eval/results/sample_predictions.json`: Example predictions
 
+For detailed information on the evaluation metrics and methodology, see [docs/eval/EVALUATION.md](docs/eval/EVALUATION.md).
+
 ## 🧪 Test Runs
 
 See the recorded pipeline run summary at [docs/runs/test_pipeline_2026-01-17.md](docs/runs/test_pipeline_2026-01-17.md).
+
+## 📚 Documentation
+
+Comprehensive documentation for UrbanLore-TuningKit:
+
+### Setup & Getting Started
+- **[QUICKSTART.md](docs/QUICKSTART.md)**: Fastest way to get the pipeline running.
+- **[INIT_SETUP.md](docs/infra/INIT_SETUP.md)**: Automated environment initialization.
+- **[PYTORCH_SETUP.md](docs/infra/pytorch_rtx5080_windows_setup.md)**: Detailed CUDA/GPU configuration for RTX 50-series.
+
+### Architecture & Design
+- **[ARCHITECTURE.md](docs/design/ARCHITECTURE.md)**: System design and multi-agent workflow details.
+- **[GENERATOR.md](docs/agents/GENERATOR.md)**: Technical details on the corpus generation agent.
+
+### Evaluation & Results
+- **[EVALUATION.md](docs/eval/EVALUATION.md)**: Explanation of ROUGE metrics and scoring logic.
+- **[Test Runs](docs/runs/test_pipeline_2026-01-17.md)**: Evidence of successful pipeline execution.
+
+### Project & Contribution
+- **[CONTRIBUTING.md](docs/project/CONTRIBUTING.md)**: Guidelines for contributing to the toolkit.
+- **[PROJECT_SUMMARY.md](docs/project/PROJECT_SUMMARY.md)**: High-level overview of goals and features.
+
 
 ## 🔧 Environment Variables
 
@@ -202,14 +226,14 @@ The `.env` file controls all aspects of the pipeline. Key variables:
 # OpenAI API Configuration
 OPENAI_API_KEY=your-api-key-here
 OPENAI_BASE_URL=https://api.openai.com/v1
-OPENAI_MODEL=gpt-4
+OPENAI_MODEL=gpt-5-nano
 
 # Generation Parameters
 CORPUS_TARGET_WORDS=200000
 TEMPERATURE=0.7
 
 # Fine-tuning Configuration
-BASE_MODEL=microsoft/phi-2
+BASE_MODEL=Qwen/Qwen3-0.6B
 LORA_R=16
 LORA_ALPHA=32
 USE_QLORA=true
@@ -292,6 +316,8 @@ make clean
 │   evaluate.py)     │
 └─────────────────────┘
 ```
+
+For a detailed technical deep-dive into how the dataset is created and how we ensure chat format alignment, see [docs/design/PIPELINE_DETAILS.md](docs/design/PIPELINE_DETAILS.md).
 
 ## 🤝 Contributing
 

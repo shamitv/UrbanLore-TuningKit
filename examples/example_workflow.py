@@ -48,7 +48,7 @@ def main():
     print("\n[Step 4/5] Fine-tuning model with LoRA/QLoRA...")
     model_dir = train_model(
         dataset_file=dataset_files["train"],
-        base_model="microsoft/phi-2",
+        base_model="Qwen/Qwen3-0.6B",
         output_dir="examples/output/finetune",
         use_qlora=True,
         epochs=1  # Fewer epochs for example

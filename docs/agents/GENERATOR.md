@@ -7,14 +7,15 @@ The generator builds a fictional city corpus using a **Fractal Expansion** strat
 ## Architecture
 
 ### Fractal Generation Strategy
-Instead of writing broad summaries, the agent uses a **Depth-First Expansion** approach:
+The agent uses a **Depth-First Expansion** approach:
 
+- **Model**: `gpt-5-nano` (configurable via `.env`)
 1.  **Parse**: Loads 22+ high-level categories (Geography, Economy, The Underbelly, etc.) from `sample_prompt.md`.
 2.  **Concept**: Generates the core city identity (Name, Vibe, Conflict).
 3.  **Route & Expand**:
     *   If a section is a **Category** (e.g., "Architecture"): The agent calls the LLM to break it down into 5-8 atomic "scenes" or "sub-chapters" (e.g., "The Slum Skyline", "The Crystal Palaces", "Bridge Mechanics").
     *   These sub-chapters are prepended to the work queue.
-4.  **Write**: The agent writes a detailed (2k-3k word) entry for each sub-chapter, referencing the parent category for context.
+5.  **Write**: The agent writes a detailed (2k-3k word) entry for each sub-chapter, referencing the parent category for context.
 
 ---
 

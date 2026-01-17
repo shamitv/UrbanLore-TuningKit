@@ -71,9 +71,9 @@ def extract_facts_from_corpus(corpus_file: str = "corpus/city_corpus.txt",
     
     # Initialize LLM
     llm = ChatOpenAI(
-        model=os.getenv("OPENAI_MODEL", "gpt-4"),
+        model=os.getenv("OPENAI_MODEL", "gpt-5-nano"),
         base_url=os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1"),
-        temperature=0.0  # Use low temperature for fact extraction
+        temperature=float(os.getenv("TEMPERATURE", "0.1"))
     )
     
     # Split corpus into sections for processing
