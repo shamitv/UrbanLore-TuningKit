@@ -1,0 +1,272 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "Type",
+    "value": "City",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "Architectural feature",
+    "value": "Radiant glass towers and living prism architecture that read and amplify daylight",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "Memory philosophy",
+    "value": "Memory inheritance is kinship\u2014a lineage of light rather than blood",
+    "context": "Overview"
+  },
+  {
+    "entity": "Memory seed",
+    "attribute": "Definition",
+    "value": "A crystalline ember imbued with living experiences transferred from grandparent to newborn; seed glows briefly during transfer",
+    "context": "Memory inheritance"
+  },
+  {
+    "entity": "Grandparents",
+    "attribute": "Action",
+    "value": "Deposit a memory seed into the newborn",
+    "context": "Memory inheritance"
+  },
+  {
+    "entity": "Elders",
+    "attribute": "Role",
+    "value": "Guard lineage, tend the memory archive, read and weave memory in light",
+    "context": "Elders"
+  },
+  {
+    "entity": "Ledger of Light",
+    "attribute": "Type",
+    "value": "Living document etched in prisms that records lineage, seeds, stories, and silences",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Luminants",
+    "attribute": "Role",
+    "value": "Council of elders overseeing lineage and sanctity of memory transfer",
+    "context": "Elders"
+  },
+  {
+    "entity": "Sunwrights",
+    "attribute": "Role",
+    "value": "Governing council that allocates daylight and manages memory resources during drought",
+    "context": "Governance"
+  },
+  {
+    "entity": "Memory Conservatories",
+    "attribute": "Role",
+    "value": "Archivists who cultivate memory, mediate disputes, and guard the Ledger of Light",
+    "context": "Archivists"
+  },
+  {
+    "entity": "Sapphire orchards",
+    "attribute": "Function",
+    "value": "Memory farms that feed prisms with resonant daylight",
+    "context": "Economy"
+  },
+  {
+    "entity": "The Drying/Drought",
+    "attribute": "Threat",
+    "value": "Period of scarce daylight that tests the memory economy and consent structures",
+    "context": "Crisis"
+  },
+  {
+    "entity": "Seed Transfer Decree",
+    "attribute": "Type",
+    "value": "Formal yearly document codifying seed transfer eligibility, qualifying life events, and misappropriation consequences",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Luminal Ledger Excerpt",
+    "attribute": "Date",
+    "value": "2177",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Luminal Ledger Excerpt",
+    "attribute": "Content concept",
+    "value": "Memory is a river that runs inward and outward; retaining strengthens kin while sharing sustains the city",
+    "context": "2177 excerpt"
+  },
+  {
+    "entity": "Naming Scroll of House Aster",
+    "attribute": "Function",
+    "value": "Sequence of glow-dots aligned with each newborn; color shifts per generation indicate memory emphasis",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Memory Seed Transfer Report",
+    "attribute": "Content",
+    "value": "Seed transfer details: Seed A221 transferred to child Lira on date 5/12; consent: mother and grandmother; accepted by Grandline Conservator",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Seed Transfer Report #A221",
+    "attribute": "Recipient",
+    "value": "Child Lira",
+    "context": "Seed Transfer Report"
+  },
+  {
+    "entity": "Seed Transfer Report #A221",
+    "attribute": "Date",
+    "value": "5/12",
+    "context": "Seed Transfer Report"
+  },
+  {
+    "entity": "Seed Transfer Report #A221",
+    "attribute": "Consent",
+    "value": "Mother and grandmother",
+    "context": "Seed Transfer Report"
+  },
+  {
+    "entity": "Grandline Conservator",
+    "attribute": "Role",
+    "value": "Authority that approves seed transfers",
+    "context": "Seed Transfer Report"
+  },
+  {
+    "entity": "The Memory Houses",
+    "attribute": "Location/Role",
+    "value": "Where the Luminants govern lineage and memory archive",
+    "context": "Memory Houses"
+  },
+  {
+    "entity": "Corra",
+    "attribute": "Role",
+    "value": "Head nurse at a district hospital; speaks about memory-related healing and light budgets",
+    "context": "Scenes of memory in crisis"
+  },
+  {
+    "entity": "District hospital",
+    "attribute": "Function",
+    "value": "Rely on memory prisms to regulate healing rituals; memory-based treatments",
+    "context": "Scenes of memory in crisis"
+  },
+  {
+    "entity": "Diary Entry",
+    "attribute": "Date",
+    "value": "2189-06-06",
+    "context": "Diary entry"
+  },
+  {
+    "entity": "Diary Entry",
+    "attribute": "Content",
+    "value": "Council would not grant more light for seed transfer; instead lent light to a school memory lab; seed will survive but a memory may dim; bridge between city and family",
+    "context": "Diary entry"
+  },
+  {
+    "entity": "Traveler",
+    "attribute": "Question",
+    "value": "Why must lineage share memory with strangers if memory is currency?",
+    "context": "In-dialogue"
+  },
+  {
+    "entity": "Archivist Miro",
+    "attribute": "Answer",
+    "value": "Memory grows stronger when it travels; memory is a shared hive; every voice matters",
+    "context": "In-dialogue"
+  },
+  {
+    "entity": "Memory Ledger",
+    "attribute": "Behavior",
+    "value": "Glow and tempo shift with city mood; pulses can accelerate or steady",
+    "context": "In-world notes"
+  },
+  {
+    "entity": "Inter-house seed exchange networks",
+    "attribute": "Strategy",
+    "value": "Allows excess memory light to be shared with less advantaged lineages with reciprocal obligations",
+    "context": "Future strategies"
+  },
+  {
+    "entity": "Memory-technology patches",
+    "attribute": "Strategy",
+    "value": "Embed memory seeds to endure longer daylight shortages; increase drought resilience",
+    "context": "Future strategies"
+  },
+  {
+    "entity": "Community memory farms",
+    "attribute": "Strategy",
+    "value": "Solar-prism orchards designed to maximize daylight capture and distribute memory supply",
+    "context": "Future strategies"
+  },
+  {
+    "entity": "Ritual adjustments",
+    "attribute": "Strategy",
+    "value": "New ceremonies to reaffirm consent under scarcity and promote communal reciprocity; light loan concept",
+    "context": "Future strategies"
+  },
+  {
+    "entity": "Keil",
+    "attribute": "Role",
+    "value": "Memory pilgrim who collects and verifies memories during drought",
+    "context": "Personal dimension"
+  },
+  {
+    "entity": "Keil",
+    "attribute": "Statement",
+    "value": "I gather memories; some are fragile, some inexhaustible; we guard what matters and borrow light only as needed to share",
+    "context": "Personal dimension"
+  },
+  {
+    "entity": "Harbor memory (via Arin seed note)",
+    "attribute": "Content",
+    "value": "Seed carries grandmother's memory of the harbor lighthouse on the cliff line",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Grand Illumine",
+    "attribute": "Proclamation",
+    "value": "Let memory be a bridge, not a wall; daylight sharing to heal the weary",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Glossary",
+    "attribute": "Term",
+    "value": "Memory seed",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glossary",
+    "attribute": "Term",
+    "value": "Living light",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glossary",
+    "attribute": "Term",
+    "value": "Ledger of Light",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glossary",
+    "attribute": "Term",
+    "value": "Luminants",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glossary",
+    "attribute": "Term",
+    "value": "Sunwrights",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glossary",
+    "attribute": "Term",
+    "value": "Memory Conservatories",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glossary",
+    "attribute": "Term",
+    "value": "Memory pilgrimage",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glossary",
+    "attribute": "Term",
+    "value": "The Drying/Drought",
+    "context": "Glossary"
+  }
+]

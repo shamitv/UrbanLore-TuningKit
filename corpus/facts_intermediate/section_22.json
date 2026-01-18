@@ -1,0 +1,230 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "city",
+    "context": "Opening description of Gleamspire and its Prism Economy"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "memory currency",
+    "value": "Memory Currency",
+    "context": "Memory and wealth are stored as a tangible, humming aura"
+  },
+  {
+    "entity": "Prism Economy",
+    "attribute": "structure",
+    "value": "two-hemisphere system: labor frontier and dividend frontier",
+    "context": "Overview: two labor lines, two separate life cycles"
+  },
+  {
+    "entity": "Builders, Calibrators, and Maintainers",
+    "attribute": "role",
+    "value": "wrestle glass into shape, calibrate prisms, troubleshoot mind-systems; priests of light; calibrations and alignment ceremonies",
+    "context": "The Builders, Calibrators, and Maintainers labor line"
+  },
+  {
+    "entity": "Reapers, Harvesters, and Dividend Harvesters",
+    "attribute": "role",
+    "value": "reap energy and memory dividends; weave light\u2019s yield into the city\u2019s economic and social structure; create memory credits",
+    "context": "The Reapers, Harvesters, and Dividend Harvesters labor line"
+  },
+  {
+    "entity": "Memory credits",
+    "attribute": "definition",
+    "value": "an account that families pass down like an heirloom; memory dividends stored as photons or weather forecasts wrapped in parchment",
+    "context": "Description of memory credits concept"
+  },
+  {
+    "entity": "The Lumen Spine",
+    "attribute": "district type",
+    "value": "central business arc; main prisms cluster; memory dividends traded; repair crews on call",
+    "context": "District description"
+  },
+  {
+    "entity": "The Aether Quarters",
+    "attribute": "district type",
+    "value": "north edge; taller towers; experimental prisms; attracts risk-takers; volatile heat cycles",
+    "context": "District description"
+  },
+  {
+    "entity": "Shimmer\u2019s Gate",
+    "attribute": "district type",
+    "value": "harbor district; memory archives; older forms of memory exchange",
+    "context": "District description"
+  },
+  {
+    "entity": "The Gloam-Fronts",
+    "attribute": "district type",
+    "value": "south belt; light is thin; retirees and memory stewards reside; debates about excess daylight",
+    "context": "District description"
+  },
+  {
+    "entity": "First Light Induction",
+    "attribute": "step",
+    "value": "12\u201314",
+    "context": "Step 1 of the apprenticeship pipeline"
+  },
+  {
+    "entity": "Lattice Academy",
+    "attribute": "step",
+    "value": "14\u201316",
+    "context": "Step 2 of the apprenticeship pipeline"
+  },
+  {
+    "entity": "Lumen Apprenticeship",
+    "attribute": "step",
+    "value": "16\u201320",
+    "context": "Step 3 of the apprenticeship pipeline"
+  },
+  {
+    "entity": "Journeyman Council Review",
+    "attribute": "step",
+    "value": "20\u201324",
+    "context": "Step 4 of the apprenticeship pipeline"
+  },
+  {
+    "entity": "Senior Agreement",
+    "attribute": "step",
+    "value": "25\u201340",
+    "context": "Step 5 of the apprenticeship pipeline"
+  },
+  {
+    "entity": "Retirement as Memory Steward",
+    "attribute": "step",
+    "value": "40+",
+    "context": "Step 6 of the apprenticeship pipeline"
+  },
+  {
+    "entity": "Daybreak Drought",
+    "attribute": "climate anomaly",
+    "value": "prolonged reduction in daylight; memory distortion; memory dividends shrink",
+    "context": "The drought of daylight main conflict"
+  },
+  {
+    "entity": "Memory dividends",
+    "attribute": "rate (Lumen Spine)",
+    "value": "0.92 memory credits per household",
+    "context": "Document A: Daybook of Light Exchange"
+  },
+  {
+    "entity": "Memory dividends",
+    "attribute": "rate (Aether Quarters)",
+    "value": "0.56 memory credits per household",
+    "context": "Document A: Daybook of Light Exchange"
+  },
+  {
+    "entity": "Memory dividends",
+    "attribute": "citywide change",
+    "value": "drop of 0.25% across the city since last cycle",
+    "context": "Document A: Daybook of Light Exchange"
+  },
+  {
+    "entity": "Document A",
+    "attribute": "date",
+    "value": "Day 1879",
+    "context": "Document A: Prism Ledger, Daybook of Light Exchange"
+  },
+  {
+    "entity": "Document A",
+    "attribute": "calibration event",
+    "value": "17:30 Sunset: Primary prism C-112 reports minor lattice drift; calibration completed by M. Varrin, journeyman, with 2.4% improvement in transmission coherence",
+    "context": "Document A entry"
+  },
+  {
+    "entity": "Document B",
+    "attribute": "content",
+    "value": "A fund will subsidize memory dividends for households in the Shaded Sectors during years of daylight scarcity; funded by city reserves and a weak-light tax on nonessential luminous devices",
+    "context": "Document B: The Charter of Light Exchange"
+  },
+  {
+    "entity": "Document C",
+    "attribute": "term",
+    "value": "4 years",
+    "context": "Document C: Apprenticeship Contract"
+  },
+  {
+    "entity": "Document C",
+    "attribute": "conditions",
+    "value": "1 daily practice of calibration; 3 successful full-prism alignments; memory dividends earned belong to city treasury if apprentice leaves",
+    "context": "Document C: Apprenticeship Contract"
+  },
+  {
+    "entity": "Document D",
+    "attribute": "focus",
+    "value": "external light sources must pass ethical tests; no foreign memory contamination; second-order prisms recycle ambient light without interfering memory privacy",
+    "context": "Document D: Memorandum from the Council of Lumen"
+  },
+  {
+    "entity": "Ora Lume",
+    "attribute": "role",
+    "value": "memory steward; regulator; participant in dialogues about dividends",
+    "context": "Voices from the street"
+  },
+  {
+    "entity": "Jintara",
+    "attribute": "role",
+    "value": "senior calibrator",
+    "context": "Voices from the street"
+  },
+  {
+    "entity": "Ril",
+    "attribute": "role",
+    "value": "senior calibrator",
+    "context": "Dialogues between memory and mechanism"
+  },
+  {
+    "entity": "Prism Ledger",
+    "attribute": "form",
+    "value": "glass-and-gleam book; pages etched with nanographic ink that glows when touched",
+    "context": "In-world materials and sensory cues"
+  },
+  {
+    "entity": "Memory Bank",
+    "attribute": "storage form",
+    "value": "vault-like chamber where memory dividends are stored as photons",
+    "context": "In-world materials and sensory cues"
+  },
+  {
+    "entity": "Apprentices\u2019 Lanterns",
+    "attribute": "function",
+    "value": "tiny pocket prisms carried by apprentices; glow brighter with competence; dim with learner progress",
+    "context": "In-world materials and sensory cues"
+  },
+  {
+    "entity": "Two-lane model of labor",
+    "attribute": "significance",
+    "value": "core city concept; drought tests whether lanes stay parallel or drift apart",
+    "context": "Notes on core city concept"
+  },
+  {
+    "entity": "Night markets and street vendors",
+    "attribute": "economic activity",
+    "value": "trade daylight in a grey economy; exchange memory glimpses of better times",
+    "context": "Drought period economics"
+  },
+  {
+    "entity": "Memory-archive council",
+    "attribute": "function",
+    "value": "decide who receives extra dividends during the drought",
+    "context": "Dialogues about distribution of dividends"
+  },
+  {
+    "entity": "External light sources",
+    "attribute": "ethical requirement",
+    "value": "must pass the city\u2019s ethical tests: no foreign memory contamination; no conflict with native daylight; no misappropriation of weather patterns",
+    "context": "Document D"
+  },
+  {
+    "entity": "Second-order prisms",
+    "attribute": "capability",
+    "value": "recycle ambient light from storm patterns without interfering with residents\u2019 memory privacy",
+    "context": "Document D"
+  },
+  {
+    "entity": "Memory economy",
+    "attribute": "purpose",
+    "value": "binds light to memory, weather forecasts, and wealth to enable decisions about education, infrastructure, and welfare",
+    "context": "Closing conceptual summary"
+  }
+]

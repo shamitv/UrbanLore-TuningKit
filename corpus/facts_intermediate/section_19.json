@@ -1,0 +1,176 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "Daylight as resource",
+    "value": "Daylight is carried, bottled, and bartered; it shapes where people live, how households form, and when they age.",
+    "context": "Opening description of Gleamspire's population dynamics"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "Light Terrains (lume maps)",
+    "value": "Neighborhoods are organized by daylight corridors: primary gleams (prisms concentrate daylight), secondary corridors (light leaks through narrower prisms), and shadowed fringes where memory vaults become the social focus.",
+    "context": "Description of lume maps"
+  },
+  {
+    "entity": "Memory Vault Districts",
+    "attribute": "Density pattern",
+    "value": "Around Memory Vault Districts, population density is highest; memory stored in daylight is portable yet heavy like ancestry claims.",
+    "context": "Index of density around vaults"
+  },
+  {
+    "entity": "Sunway Strips",
+    "attribute": "Function",
+    "value": "A corridor where daylight spills from a primary lumen spine into long terraces; hosts high-density middle-income households; daylight minutes traded for labor, childcare, or school enrollment.",
+    "context": "Description of Sunway Strips"
+  },
+  {
+    "entity": "Quarter of Wet Light",
+    "attribute": "Harbor pattern",
+    "value": "Near the harbor, daylight is tempered by weather; daylight is scarce; balconies and courtyards catch the morning prism.",
+    "context": "Oldest pattern near harbor"
+  },
+  {
+    "entity": "East Prism Spine",
+    "attribute": "Commuting corridor",
+    "value": "Dawn corridor with a chrome-thin river of people; daylight is passed to adjacent blocks along prism networks.",
+    "context": "Commuting corridor description"
+  },
+  {
+    "entity": "Evening Shimmer",
+    "attribute": "Commuting corridor function",
+    "value": "Runs westward as daylight banks shift; guides residents toward evening employment clusters and memory vaults' night-relief rituals.",
+    "context": "Evening route description"
+  },
+  {
+    "entity": "Memory Vaults",
+    "attribute": "Role",
+    "value": "Store personal histories, weather patterns, and the city\u2019s collective dreams; accessible to those who can light their way to them.",
+    "context": "Memory vaults as archives"
+  },
+  {
+    "entity": "Vaults",
+    "attribute": "Social anchor",
+    "value": "Act as neighborhood anchors; people borrow daylight for life milestones and family events; memory exchange occurs here.",
+    "context": "Social economy around vaults"
+  },
+  {
+    "entity": "Daylight nursery",
+    "attribute": "Infant care",
+    "value": "Newborns bathed in light via prism-lit incubators; room light budgets influence circadian memory and infant sleep.",
+    "context": "Description of daylight nursery"
+  },
+  {
+    "entity": "Aging of Light",
+    "attribute": "Demographic measure",
+    "value": "Vitality described in light-years of stored daylight; elderly glow is a social asset and aids family guidance.",
+    "context": "Concept of aging measured in daylight"
+  },
+  {
+    "entity": "Mira",
+    "attribute": "Observations",
+    "value": "When daylight is abundant, households cluster around vaults and daylight-dependent schools; when scarce, drift splits families between those who can import light and those who cannot.",
+    "context": "Planner\u2019s memo"
+  },
+  {
+    "entity": "Niko",
+    "attribute": "Market role",
+    "value": "Vendor at prism hub cafe; offers 'Glow Tokens' traded for daylight minutes; emphasizes keeping families near vaults.",
+    "context": "Market scene"
+  },
+  {
+    "entity": "Lumen Assembly",
+    "attribute": "Policy process",
+    "value": "A quarterly gathering where residents vote on daylight-sharing policies and vault access; notes written in ultraviolet script; forecasts a 14% reduction in daylight minutes by next solstice; proposes tiered daylight ration.",
+    "context": "In-world assembly notes"
+  },
+  {
+    "entity": "Dark Antechambers",
+    "attribute": "Neighborhood pattern",
+    "value": "Blocks with attenuated prism reach due to air currents/architecture; high social turnover; mutual aid networks form there.",
+    "context": "Neighborhood description"
+  },
+  {
+    "entity": "Fertility",
+    "attribute": "Daylight effect",
+    "value": "Daylight influences the 'daylight window'; plentiful daylight districts show rising fertility; daylight-scarce zones see declines or delays in childbearing.",
+    "context": "Fertility patterns"
+  },
+  {
+    "entity": "Migration flows",
+    "attribute": "Movement pattern",
+    "value": "Migration driven by daylight budgets; families relocate during birth phases or when elder care exceeds local daylight; tracked via residency permits, daylight exchange contracts, and memory vault visits.",
+    "context": "Migration dynamics"
+  },
+  {
+    "entity": "Prism hubs",
+    "attribute": "Economic physics",
+    "value": "High-energy nodes where daylight concentrates; daylight budgets reallocate; age profiles shift with daylight access (youth near schools, middle-aged near vaults, elderly in quieter precincts).",
+    "context": "Prism hubs as social calculus"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "Impact",
+    "value": "Polarizes: bright districts become more prosperous; dimmer districts age in place and rely on mutual aid; daylight redistributed to protect essential services.",
+    "context": "Drought effects"
+  },
+  {
+    "entity": "Nikouna",
+    "attribute": "Field diarist",
+    "value": "Field diary notes Morning: density around vault nodes increases; Noon: drift toward longer daylight leases; Evening: vaults extend access at cost.",
+    "context": "Field diary entry"
+  },
+  {
+    "entity": "Ari",
+    "attribute": "Dialogue",
+    "value": "\"The light bank is getting thinner, you can feel it.\"",
+    "context": "Dialogue snippet"
+  },
+  {
+    "entity": "Mila",
+    "attribute": "Dialogue",
+    "value": "\"Then we trade a few minutes with a family on the other side of the block. It\u2019s not charity; it\u2019s strategy, and it\u2019s kinship.\"",
+    "context": "Dialogue snippet"
+  },
+  {
+    "entity": "Memory vault corridor",
+    "attribute": "Sensory",
+    "value": "Corridor glows with memory orbs; resin scent; memory whispers; sea-spray scent; memory gravity.",
+    "context": "Vignette description"
+  },
+  {
+    "entity": "Policy memo snippet",
+    "attribute": "Policy content",
+    "value": "Equitable daylight allocation; tiered budgets by neighborhood; near schools; daylight-sharing facilitators; prism farms in dim districts to reduce inequality.",
+    "context": "Policy document excerpt"
+  },
+  {
+    "entity": "Market scene",
+    "attribute": "Economy",
+    "value": "Glow Tokens traded for daylight; deals sealed with handshake; grandmother mentors; decisions about vault vs longer, less bright corridors.",
+    "context": "Market scene"
+  },
+  {
+    "entity": "City\u2019s core narrative",
+    "attribute": "Theme",
+    "value": "Memory, weather, and wealth condensed into light; daylight as infrastructure and social gravity.",
+    "context": "Closing reflection"
+  },
+  {
+    "entity": "In-world document",
+    "attribute": "Data reference",
+    "value": "Variation of Population Density by Light Flux; Year 5 of the Drought Cycle; 12% increase near vaults within 500m during daylight dips; 7% decrease in harbor quarter; 4% uptick in western plateau.",
+    "context": "In-world data excerpt"
+  },
+  {
+    "entity": "Ari",
+    "attribute": "Dialogue (repeat)",
+    "value": "\"The light bank is getting thinner, you can feel it.\"",
+    "context": "Dialogue snippet (reiterated)"
+  },
+  {
+    "entity": "Mila",
+    "attribute": "Dialogue (repeat)",
+    "value": "\"Then we trade a few minutes with a family on the other side of the block. It\u2019s not charity; it\u2019s strategy, and it\u2019s kinship.\"",
+    "context": "Dialogue snippet (reiterated)"
+  }
+]

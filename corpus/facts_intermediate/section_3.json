@@ -1,0 +1,356 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "dawn glow",
+    "value": "pale blue halo",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "architecture",
+    "value": "glass lungs; towers of coral-yellow resin and cut crystal",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Daylight",
+    "attribute": "nature in Gleamspire",
+    "value": "held breath; stored memory; currency stamped in temperamental color",
+    "context": "Overview"
+  },
+  {
+    "entity": "Daylight",
+    "attribute": "handling",
+    "value": "harvested, coaxed, and stored as living prisms",
+    "context": "Core concept"
+  },
+  {
+    "entity": "Daylight",
+    "attribute": "color-coded memory",
+    "value": "amber for childhood; aquamarine for first rain; violet for a forgotten argument resolved in the night",
+    "context": "Memory taxonomy"
+  },
+  {
+    "entity": "Gleamspire Banks",
+    "attribute": "form",
+    "value": "organic domes grown from pollen-silk and resin-wood",
+    "context": "Geography of banks"
+  },
+  {
+    "entity": "Gleamspire Banks",
+    "attribute": "surface",
+    "value": "veins of living chrome thrum when daylight flows",
+    "context": "Geography of banks"
+  },
+  {
+    "entity": "Gleamspire Banks",
+    "attribute": "behavior",
+    "value": "breathe; remember; judge",
+    "context": "Geography of banks"
+  },
+  {
+    "entity": "Prism",
+    "attribute": "nature",
+    "value": "a micro-biome with its own temperature, scent, and mood",
+    "context": "Biology-meets-architecture"
+  },
+  {
+    "entity": "Prism",
+    "attribute": "outputs",
+    "value": "microclimate; memory-fluid; color as social signal",
+    "context": "Biology-meets-architecture"
+  },
+  {
+    "entity": "Memory signals",
+    "attribute": "color-coding",
+    "value": "amber=childhood; emerald=civil achievement; cobalt=scientific discovery; apricot=communal joy",
+    "context": "Memory color codes"
+  },
+  {
+    "entity": "Neighborhood prism",
+    "attribute": "memory safety",
+    "value": "bright glow = stories are safe; dull glow = memory slips",
+    "context": "Neighborhood rule"
+  },
+  {
+    "entity": "Brightness",
+    "attribute": "social significance",
+    "value": "corresponds to weight of vote; price of dawn-tide meal; length of schooling about meteorology and memory",
+    "context": "Daylight economy"
+  },
+  {
+    "entity": "Brightness",
+    "attribute": "sanctions",
+    "value": "sanctions for stealing brightness; mercies for those who need brightness in a drought",
+    "context": "Governance"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "economic role",
+    "value": "memory has a price tag; weather has a bank statement",
+    "context": "Economics"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "current status",
+    "value": "weeks of prisms growing dim; tuners losing resonance",
+    "context": "Crisis"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "effects",
+    "value": "sky pale; conduits tremble; banks shudder with memory they cannot retain",
+    "context": "Crisis"
+  },
+  {
+    "entity": "Conduits",
+    "attribute": "vulnerability",
+    "value": "tremble; banks unable to retain memory",
+    "context": "Crisis"
+  },
+  {
+    "entity": "Gleamwrights",
+    "attribute": "role",
+    "value": "maintenance ward; repair prisms; manage memory sanctity",
+    "context": "Maintenance"
+  },
+  {
+    "entity": "Memory-scribes",
+    "attribute": "role",
+    "value": "ink color into prisms",
+    "context": "Maintenance"
+  },
+  {
+    "entity": "Gleamwrights",
+    "attribute": "tools",
+    "value": "prismscrapers; memory-tweezers; color-lanterns",
+    "context": "Maintenance"
+  },
+  {
+    "entity": "Memory-bloom",
+    "attribute": "definition",
+    "value": "memory-laden prisms produce a delicate, floral glow near memory saturation",
+    "context": "Maintenance"
+  },
+  {
+    "entity": "Memory-bloom",
+    "attribute": "consequence",
+    "value": "dense blooms lead to memory-stasis; color dulling gray",
+    "context": "Maintenance"
+  },
+  {
+    "entity": "Memory-leaves",
+    "attribute": "handling",
+    "value": "pruned into memory-polymer scrolls and stored within banks",
+    "context": "Maintenance"
+  },
+  {
+    "entity": "Resonance",
+    "attribute": "tuning",
+    "value": "field-needle modulates photon inflow; brightness stabilized for communal needs",
+    "context": "Maintenance"
+  },
+  {
+    "entity": "Harvest",
+    "attribute": "process",
+    "value": "daylight siphoned into canisters (bottles of light); stored for demand",
+    "context": "Maintenance"
+  },
+  {
+    "entity": "Harvest",
+    "attribute": "ritual",
+    "value": "pronouncement by lead keeper; whispered to listening walls; conduit pulse",
+    "context": "Maintenance"
+  },
+  {
+    "entity": "Prism memory",
+    "attribute": "cultivation",
+    "value": "daylight is something you practice",
+    "context": "Cultural"
+  },
+  {
+    "entity": "Drought causes",
+    "attribute": "origins",
+    "value": "weather shifts beyond models; internal resonance over-saturation; lunar/solar cues lacking",
+    "context": "Causes"
+  },
+  {
+    "entity": "Climate",
+    "attribute": "predictability",
+    "value": "less predictable as memory is lost",
+    "context": "Crisis"
+  },
+  {
+    "entity": "Memory economy",
+    "attribute": "social role",
+    "value": "memory exchange; festival trading memory; social capital",
+    "context": "Economics"
+  },
+  {
+    "entity": "Memory Anthology",
+    "attribute": "format",
+    "value": "annual book of recollections",
+    "context": "Seasonal practice"
+  },
+  {
+    "entity": "Memory Anthology",
+    "attribute": "storage",
+    "value": "Prism Vault at Summit Banks; walls lined with brightest memories",
+    "context": "Seasonal practice"
+  },
+  {
+    "entity": "Lumen Garden",
+    "attribute": "definition",
+    "value": "network of artificial micro-forests in shaded courtyards",
+    "context": "Seasonal adaptation"
+  },
+  {
+    "entity": "Lumen Garden",
+    "attribute": "function",
+    "value": "capture artificial daylight from prism banks; release gradually to create safe, even glow",
+    "context": "Seasonal adaptation"
+  },
+  {
+    "entity": "Lumen Garden",
+    "attribute": "construction",
+    "value": "glass and living wood",
+    "context": "Seasonal adaptation"
+  },
+  {
+    "entity": "Shadow gardens",
+    "attribute": "definition",
+    "value": "areas with artificial twilight to extend the day\u2019s schedule",
+    "context": "Crisis response"
+  },
+  {
+    "entity": "Shadow gardens",
+    "attribute": "purpose",
+    "value": "allow residents to work or learn in consistent, predictable light",
+    "context": "Crisis response"
+  },
+  {
+    "entity": "Ledger Entry",
+    "attribute": "reference",
+    "value": "Year of Salted Glass, Tide 32; Basin Banks 4% increase in daylight storage efficiency after pruning; apricot memory bloom surplus; district 7 weather harmony; conduits stable resonance",
+    "context": "Artifact"
+  },
+  {
+    "entity": "Public Charter",
+    "attribute": "Article 9 Clause 3",
+    "value": "when daylight economy falters, council may authorize temporary daylight credit to socioeconomically vulnerable districts; credits repaid in next season\u2019s memory yields; interest measured in color",
+    "context": "Legal"
+  },
+  {
+    "entity": "Eila Marn",
+    "attribute": "profession",
+    "value": "Prism-Warden; memory-scribe",
+    "context": "Diary Page"
+  },
+  {
+    "entity": "Ridge Prism",
+    "attribute": "memory state",
+    "value": "glow dimmed to pale silver-blue; memory-fluid thick with late-summer memories",
+    "context": "Diary"
+  },
+  {
+    "entity": "Diary entry",
+    "attribute": "note",
+    "value": "\"Let no memory slip through our fingers unbound; let no light go unfed.\"",
+    "context": "Diary"
+  },
+  {
+    "entity": "Prism Bank at Waterline Quarter",
+    "attribute": "status",
+    "value": "glows flicker irregularly; one prism\u2019s glow drops to gray",
+    "context": "Daily vignette"
+  },
+  {
+    "entity": "Director",
+    "attribute": "identity",
+    "value": "tall woman with haircut catching light like a blade of ice",
+    "context": "Character"
+  },
+  {
+    "entity": "Director",
+    "attribute": "tool",
+    "value": "transparent tablet showing map of memory flows with red and blue lines",
+    "context": "Character"
+  },
+  {
+    "entity": "Public announcement",
+    "attribute": "date",
+    "value": "Dawn, Day 47, Year of Quiet Oceans",
+    "context": "Announcement"
+  },
+  {
+    "entity": "Poem",
+    "attribute": "location",
+    "value": "etched into prism\u2019s shell; visible when light at a certain angle",
+    "context": "Artifact"
+  },
+  {
+    "entity": "Poem",
+    "attribute": "text",
+    "value": "Memory breathes in glass and sun, A river of color, old as rain. We trade the light until it\u2019s done, Then wake to dawn again.",
+    "context": "Artifact"
+  },
+  {
+    "entity": "Gleamspire geography",
+    "attribute": "heart",
+    "value": "prism banks are the geographic heart of Gleamspire",
+    "context": "Geography"
+  },
+  {
+    "entity": "Conduits",
+    "attribute": "role",
+    "value": "carry memory through city; resemble pale nerves",
+    "context": "Infrastructure"
+  },
+  {
+    "entity": "Wind-towers",
+    "attribute": "function",
+    "value": "catch daylight\u2019s last sigh; spit into prism interiors",
+    "context": "Infrastructure"
+  },
+  {
+    "entity": "Analysts",
+    "attribute": "method",
+    "value": "read memory colors as weather reports",
+    "context": "Analytics"
+  },
+  {
+    "entity": "Summit Banks",
+    "attribute": "location",
+    "value": "top of the highest towers",
+    "context": "Geography"
+  },
+  {
+    "entity": "Ridge Banks",
+    "attribute": "location",
+    "value": "high on granite escarpments",
+    "context": "Geography"
+  },
+  {
+    "entity": "Shoreline Banks",
+    "attribute": "location",
+    "value": "near the docks",
+    "context": "Geography"
+  },
+  {
+    "entity": "Basin Banks",
+    "attribute": "location",
+    "value": "near the old harbor; near Lighthouse Quarter",
+    "context": "Geography"
+  },
+  {
+    "entity": "Memory fluids",
+    "attribute": "storage",
+    "value": "in glass galleries within prism banks; memory-fluids suspended in vials",
+    "context": "Infrastructure"
+  },
+  {
+    "entity": "Memory signals",
+    "attribute": "types",
+    "value": "red; emerald; cobalt; apricot",
+    "context": "Data"
+  }
+]

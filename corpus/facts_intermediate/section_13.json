@@ -1,0 +1,314 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "city",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "daylight role",
+    "value": "daylight functions as both currency and skin",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "towers material",
+    "value": "irradiant glass",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire's towers",
+    "attribute": "height claim",
+    "value": "tall enough to drink every hour of sun",
+    "context": "Overview"
+  },
+  {
+    "entity": "Prismatic filaments",
+    "attribute": "nature",
+    "value": "living, hungry filaments of light; protean, intimate, inseparable from memory",
+    "context": "Overview"
+  },
+  {
+    "entity": "Prisms",
+    "attribute": "memory storage",
+    "value": "memory stored as shimmering chromatic patterns along filaments",
+    "context": "What the prisms are"
+  },
+  {
+    "entity": "Prisms",
+    "attribute": "photon intake",
+    "value": "ingest photons",
+    "context": "What the prisms are"
+  },
+  {
+    "entity": "Prisms",
+    "attribute": "metabolic process",
+    "value": "metabolize photons through micro-biochemical cytochromes tuned to daylight\u2019s spectrum",
+    "context": "What the prisms are"
+  },
+  {
+    "entity": "Prisms",
+    "attribute": "byproduct",
+    "value": "excrete spent energy as chromatic memory",
+    "context": "What the prisms are"
+  },
+  {
+    "entity": "Facet surfaces",
+    "attribute": "structure",
+    "value": "mosaic of tiny facets; each facet a micro-terrace for photomicrobes",
+    "context": "What the prisms are"
+  },
+  {
+    "entity": "Photomicrobes",
+    "attribute": "role on facets",
+    "value": "gather light and leave memory residues on facets",
+    "context": "Surface ecology"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "encoding",
+    "value": "memory-hue speaks to a moment (e.g., thunderstorm, love, turbine tremor)",
+    "context": "Memory encoding"
+  },
+  {
+    "entity": "Prisms",
+    "attribute": "molt cycle",
+    "value": "Dawn: memory-salt rinse; Noon: reconfigure toward strongest daylight; Dusk: calm with cooler chroma",
+    "context": "Lifecycle"
+  },
+  {
+    "entity": "Weather and daylight",
+    "attribute": "interdependence",
+    "value": "memory, weather, and ecology form a single, interdependent system",
+    "context": "Overview"
+  },
+  {
+    "entity": "Memory colors on clear days",
+    "attribute": "description",
+    "value": "crescents of violet, shards of pale blue, honey-orange glow along lower filaments",
+    "context": "Daylight effect"
+  },
+  {
+    "entity": "Memory saturation",
+    "attribute": "effect of clouds",
+    "value": "cloudy days dampen memory-saturation; world texture dulled; voices muffled",
+    "context": "Weather effect"
+  },
+  {
+    "entity": "Sea breeze with ozone",
+    "attribute": "effect",
+    "value": "sharpens prisms; facets catch air\u2019s scent; electric glimmer in promenades",
+    "context": "Weather effect"
+  },
+  {
+    "entity": "Biofilms",
+    "attribute": "role",
+    "value": "essential agents; form thin biofilms that convert stray photons into durable memory patterns",
+    "context": "Microbial ecology"
+  },
+  {
+    "entity": "Memory ecology",
+    "attribute": "triad",
+    "value": "photons, biofilms, and weather create a single ecosystem",
+    "context": "Ecology"
+  },
+  {
+    "entity": "Memory economy",
+    "attribute": "wealth basis",
+    "value": "wealth accrues through harvesting, storing, and controlling light",
+    "context": "Socioeconomics"
+  },
+  {
+    "entity": "Dawn sun exposure",
+    "attribute": "economic effect",
+    "value": "houses with prime exposure to dawn sun tend to be most prosperous",
+    "context": "Housing economics"
+  },
+  {
+    "entity": "Great Atrium",
+    "attribute": "function",
+    "value": "memory marketplace; trade in memory-prints",
+    "context": "Marketplace"
+  },
+  {
+    "entity": "Archive House",
+    "attribute": "role",
+    "value": "intellectual heart; long-term memory-prisms studied; stores memory",
+    "context": "Institutions"
+  },
+  {
+    "entity": "Living Prisms",
+    "attribute": "power system",
+    "value": "their memory-filtered glow powers core machines and wind turbines",
+    "context": "Infrastructure"
+  },
+  {
+    "entity": "Nobility",
+    "attribute": "economic role",
+    "value": "keepers and traders of high-saturation memory-swirl",
+    "context": "Social structure"
+  },
+  {
+    "entity": "Commoners",
+    "attribute": "economic role",
+    "value": "maintain microbial ecologies on facet surfaces",
+    "context": "Social structure"
+  },
+  {
+    "entity": "Engineers and scientists",
+    "attribute": "role",
+    "value": "priesthood of light; understand how to glow with right memory and calibrate weather for memory integrity",
+    "context": "Social structure"
+  },
+  {
+    "entity": "Prismwrights",
+    "attribute": "role",
+    "value": "architects of memory; coax memory to bloom; shape refractive geometry; route daylight",
+    "context": "Occupation"
+  },
+  {
+    "entity": "Lumen Conservators",
+    "attribute": "role",
+    "value": "oversee microbial life on facet surfaces; maintain memory soil",
+    "context": "Occupation"
+  },
+  {
+    "entity": "Archive House",
+    "attribute": "role (archive)",
+    "value": "stores oldest memory-prints and fragile narratives",
+    "context": "Archive"
+  },
+  {
+    "entity": "Memory Market",
+    "attribute": "cultural touchstone",
+    "value": "memory-prints and chromatic tokens traded; memory swatches flutter like living leaves",
+    "context": "Culture"
+  },
+  {
+    "entity": "Annual Daylight Festival",
+    "attribute": "cultural touchstone",
+    "value": "city-wide embrace of light; prisms molt synchronously; memory streaks released as lantern-like filaments",
+    "context": "Culture"
+  },
+  {
+    "entity": "Conservator\u2019s Almanac",
+    "attribute": "cultural touchstone",
+    "value": "book of weather lore; practices for maintaining memory; reads sky hues as memory weather",
+    "context": "Culture"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "core conflict",
+    "value": "a drought of daylight threatens prisms, memory, weather, and wealth",
+    "context": "Conflict"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "causes",
+    "value": "overcast days and fog; contested causes include atmospheric pollution from distant mills, cosmic patterns, and sea-salt effects on microbes",
+    "context": "Conflict"
+  },
+  {
+    "entity": "Field Log, The Lumen Conservatory, Log 72",
+    "attribute": "date",
+    "value": "Dawn 0427",
+    "context": "In-universe document"
+  },
+  {
+    "entity": "Field Log, The Lumen Conservatory, Log 72",
+    "attribute": "location",
+    "value": "Harbor District",
+    "context": "In-universe document"
+  },
+  {
+    "entity": "Field Log, The Lumen Conservatory, Log 72",
+    "attribute": "observations",
+    "value": "temperature mild, humidity rising",
+    "context": "In-universe document"
+  },
+  {
+    "entity": "Field Log, The Lumen Conservatory, Log 72",
+    "attribute": "microbial trial",
+    "value": "tested a new microbial consortium on facet plate 9; thrives on short-wave violet flank; glow intensified then faded with a north wind; prisms reoriented; memory cloths lengthened; emerald tint observed; day brightened again",
+    "context": "In-universe document"
+  },
+  {
+    "entity": "Daybreak Memory",
+    "attribute": "item",
+    "value": "One bottle of Daybreak Memory",
+    "context": "Ledger Page, Memory-Male Market, Entry 109"
+  },
+  {
+    "entity": "Daybreak Memory",
+    "attribute": "price",
+    "value": "4 drams",
+    "context": "Ledger Page, Memory-Male Market, Entry 109"
+  },
+  {
+    "entity": "Daybreak Memory",
+    "attribute": "notes",
+    "value": "retains harbor\u2019s first ship memory; buyer: seamstress; risk: memory inherits buyer\u2019s mood; color shifts to high-strung teal; use with ceremonial purposes",
+    "context": "Ledger Page, Memory-Male Market, Entry 109"
+  },
+  {
+    "entity": "Guild of Prismwrights",
+    "attribute": "correspondence subject",
+    "value": "Urgent petition for daylight routing adjustments",
+    "context": "Correspondence"
+  },
+  {
+    "entity": "Correspondence, Guild of Prismwrights",
+    "attribute": "proposal",
+    "value": "a revised daylight routing schema favoring districts with robust microbial colonies; minor structural realignment of spires; temporary reduction in daylight exposure to certain facets during peak humidity",
+    "context": "Correspondence"
+  },
+  {
+    "entity": "Lumen Conservators",
+    "attribute": "report",
+    "value": "microbial efficacy on facet surfaces declined by twenty-three percent in the last season; sky\u2019s spectral balance is off; daylight signaling stutters",
+    "context": "Quarterly report"
+  },
+  {
+    "entity": "The Language of Light pamphlet",
+    "attribute": "content",
+    "value": "color-weather mapping: blue memory indicates sea\u2019s breath; orange indicates warmth and labor; violet deepens memory",
+    "context": "In-world ephemera"
+  },
+  {
+    "entity": "Memory Market poster",
+    "attribute": "slogan",
+    "value": "Remember Light is Wealth; Protect the facet surfaces, preserve our memory",
+    "context": "In-world ephemera"
+  },
+  {
+    "entity": "Closing reflections",
+    "attribute": "principle",
+    "value": "memory is a form of light, and light is a form of wealth; drought prompts reexamination of light and memory ownership and city identity when glow fades",
+    "context": "Closing reflections"
+  },
+  {
+    "entity": "Gleamspire\u2019s history",
+    "attribute": "pattern",
+    "value": "cycles of flourishing and distress followed by adaptation and reemergence",
+    "context": "Closing reflections"
+  },
+  {
+    "entity": "Dawn balcony scene",
+    "attribute": "description",
+    "value": "air bites with ozone and citrus; harbor prism line awakens; bells chime; resin sweetness; salt on lips; rising brightness",
+    "context": "Closing reflections"
+  },
+  {
+    "entity": "Ending message",
+    "attribute": "core truth",
+    "value": "memory is light, and light is memory; prisms teach the city to live with both in conversation with sky, sea, and microbes",
+    "context": "End"
+  },
+  {
+    "entity": "The Living Prisms",
+    "attribute": "nature of existence",
+    "value": "an ongoing experiment; living, changing system that endures as long as the city cares for it",
+    "context": "Field note"
+  }
+]

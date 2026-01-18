@@ -1,0 +1,266 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "Nature",
+    "value": "city of radiant glass and living prisms built to convert daylight into memory, weather, and wealth",
+    "context": "Overview of Gleamspire in a light-wary era"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "Urban metabolism",
+    "value": "hums when the sun concedes a smile and swallows shadows when it must",
+    "context": "City description"
+  },
+  {
+    "entity": "Households in Gleamspire",
+    "attribute": "Adaptation in light-wary era",
+    "value": "multiply kin; codify care; turn memory into portable currency",
+    "context": "Social adaptation"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "Form",
+    "value": "stored as light",
+    "context": "Memory economy"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "Mobility",
+    "value": "travels with the family through the city's shared corridors",
+    "context": "Memory economy"
+  },
+  {
+    "entity": "Prismbanks",
+    "attribute": "Behavior during drought",
+    "value": "tighten their grip on daylight; memory becomes more precious and volatile",
+    "context": "Drought"
+  },
+  {
+    "entity": "Daylight",
+    "attribute": "Use when abundant",
+    "value": "harvest hours, bottle them, ferry to public spires, cast into faces of children",
+    "context": "Abundant daylight"
+  },
+  {
+    "entity": "Prisms",
+    "attribute": "Role during drought",
+    "value": "store daylight; reflect mood; influence memory value",
+    "context": "Drought era"
+  },
+  {
+    "entity": "Births",
+    "attribute": "Timing",
+    "value": "cluster in the bright windows of the late morning",
+    "context": "Population dynamics"
+  },
+  {
+    "entity": "Elders",
+    "attribute": "Movement",
+    "value": "orbit memory wards like comets, drawn by care",
+    "context": "Population dynamics"
+  },
+  {
+    "entity": "Kinship networks",
+    "attribute": "Role",
+    "value": "stitch a dense fabric of households",
+    "context": "Population dynamics"
+  },
+  {
+    "entity": "Reproduction trends",
+    "attribute": "Purpose",
+    "value": "continuity\u2014pass on a name, a memory, a ritual, a method for finding light",
+    "context": "Reproduction trends"
+  },
+  {
+    "entity": "Households in sun-strained districts",
+    "attribute": "Pattern",
+    "value": "multiply households that share memory, light, and labor",
+    "context": "Sun-strained districts"
+  },
+  {
+    "entity": "Fertility clinics",
+    "attribute": "Role",
+    "value": "memory-temple clinics; couples narrate imagined futures into a prism that stores memory of risk and reward",
+    "context": "Reproduction in light economy"
+  },
+  {
+    "entity": "Potential child",
+    "attribute": "Memory value",
+    "value": "weighed with the city\u2019s daylight forecasts",
+    "context": "Reproduction in light economy"
+  },
+  {
+    "entity": "Nursery districts",
+    "attribute": "Rituals",
+    "value": "first lullaby transmitted through a soft, glass-born resonance; cradle glows blue when the prism breathes; nurse speaks softly to a newborn",
+    "context": "Nursery rituals"
+  },
+  {
+    "entity": "Young mother",
+    "attribute": "Statement",
+    "value": "We are not multiplying because we want more bodies; we are multiplying because we want more memory keepers, more hands to hold the daylight when we wake in the dark",
+    "context": "Dialogue with grandmother"
+  },
+  {
+    "entity": "Grandmother",
+    "attribute": "Response",
+    "value": "Memory is not given; it is borrowed. You must know when to lend and when to keep your own for the child who will need it most",
+    "context": "Dialogue"
+  },
+  {
+    "entity": "Drenna",
+    "attribute": "Role",
+    "value": "Nurse in The Nursery of First Light",
+    "context": "Vignette"
+  },
+  {
+    "entity": "Baby",
+    "attribute": "Development",
+    "value": "Fingers curl; a micro-prism awakens to the distant surf",
+    "context": "Nursery Ward"
+  },
+  {
+    "entity": "Ledger of Light and Memory (Third Quarter Edition)",
+    "attribute": "Birth rate per ward (adjusted for daylight accessibility)",
+    "value": "+1.3% year-over-year in sectors with tiered daylight delivery; -0.7% in sectors with intermittent prism feed",
+    "context": "Document excerpt"
+  },
+  {
+    "entity": "Ledger of Light and Memory (Third Quarter Edition)",
+    "attribute": "Memory credits issued at birth",
+    "value": "1,000 light-marks deposited in a ward\u2019s common pool for the child\u2019s future schooling and care credits",
+    "context": "Document excerpt"
+  },
+  {
+    "entity": "Ledger of Light and Memory (Third Quarter Edition)",
+    "attribute": "Observed trend",
+    "value": "households of three or more adults experience higher infant survival rates in drought periods; kin networks as protective buffers",
+    "context": "Document excerpt"
+  },
+  {
+    "entity": "Evening Hearth",
+    "attribute": "Function",
+    "value": "shared warmth chamber for cooking, storytelling, and passing daylight; memory archive device projects hologram-like memory",
+    "context": "Vignette"
+  },
+  {
+    "entity": "Memory archive device",
+    "attribute": "Size",
+    "value": "the size of a hand",
+    "context": "Evening Hearth"
+  },
+  {
+    "entity": "Memory archive device",
+    "attribute": "Capability",
+    "value": "projects a hologram-like memory (e.g., a childhood walk along a shore)",
+    "context": "Evening Hearth"
+  },
+  {
+    "entity": "Grandmother",
+    "attribute": "Statement about memory weight",
+    "value": "Memory weighs more when daylight is scarce",
+    "context": "Evening Hearth"
+  },
+  {
+    "entity": "Ward 7, Memory Aerie",
+    "attribute": "Diary appendix location",
+    "value": "Date: Third Day of the Drought",
+    "context": "Appendix diary"
+  },
+  {
+    "entity": "Memory wards",
+    "attribute": "Architecture",
+    "value": "Exterior walls clad in mosaic glass; catches daylight and returns it as soft luminescence",
+    "context": "Memory wards architecture"
+  },
+  {
+    "entity": "Memory wards",
+    "attribute": "Interior ambiance",
+    "value": "like a ship\u2019s cabin in a harbor of charmed fog; low murmur of a choir; prisms storing light",
+    "context": "Memory wards"
+  },
+  {
+    "entity": "Memory wards",
+    "attribute": "Role in aging",
+    "value": "preserve voices, songs, recipes, and admonitions; preserve language of daylight",
+    "context": "Cultural function"
+  },
+  {
+    "entity": "Care cooperatives",
+    "attribute": "Function",
+    "value": "mutual aid; pool resources, labor, and memory into portable social capital; rosters and poems-like contracts",
+    "context": "In-world governance"
+  },
+  {
+    "entity": "Charter of Gleamspire Care Cooperative",
+    "attribute": "Article I",
+    "value": "Mutual Aid as Light Exchange; daylight credits to communal prism-larder distributed by need and contribution year by year",
+    "context": "In-world document"
+  },
+  {
+    "entity": "Charter of Gleamspire Care Cooperative",
+    "attribute": "Article II",
+    "value": "Guardianship roster; every elder has a designated guardian or small team of guardians rotating weekly; ensures continuity of memory and light",
+    "context": "In-world document"
+  },
+  {
+    "entity": "Charter of Gleamspire Care Cooperative",
+    "attribute": "Article III",
+    "value": "Memory Safety; no one shall withdraw memory that belongs to another without consent; memory remains in the common pool when needed for communal rituals, to be restored with the prior owner\u2019s agreement",
+    "context": "In-world document"
+  },
+  {
+    "entity": "Charter of Gleamspire Care Cooperative",
+    "attribute": "Article IV",
+    "value": "Night Light; night-time rosters ensure every door remains lit and every house keeps a boundary of safety against the dark",
+    "context": "In-world document"
+  },
+  {
+    "entity": "Great Sharing of Light",
+    "attribute": "Event",
+    "value": "ritual in major plazas to exchange daylight credits as public vow; no family left without memory when night falls",
+    "context": "Cultural ritual"
+  },
+  {
+    "entity": "Great Sharing of Light",
+    "attribute": "Ambiance",
+    "value": "chorus of chimes and turbine hums; distant surf",
+    "context": "Cultural ritual"
+  },
+  {
+    "entity": "Memory perfume",
+    "attribute": "Effect",
+    "value": "scent of orange blossoms and resin wafts through the crowd",
+    "context": "Cultural ritual"
+  },
+  {
+    "entity": "Gleamspire Core Concept",
+    "attribute": "High Concept",
+    "value": "Radiant glass towers store memory, weather, and wealth as light; memory value measurable in ledger; wealth anchored to storing/sharing light and memory",
+    "context": "Core city concept"
+  },
+  {
+    "entity": "Population under stress",
+    "attribute": "Resilience",
+    "value": "dense kinship networks; memory wards; care cooperatives knitting families into a thick social fabric",
+    "context": "Vision of population under stress"
+  },
+  {
+    "entity": "Final city statement",
+    "attribute": "Theme",
+    "value": "Even in drought, memory, love, and mutual aid can ignite a brighter future; a city grows taller towers not to catch light alone but to catch each other",
+    "context": "Dialogue final"
+  },
+  {
+    "entity": "Appendix diary entry",
+    "attribute": "Synopsis",
+    "value": "Third Day of the Drought; Ward 7, Memory Aerie; memory question about bottling light; elder memory; sharing as rite",
+    "context": "Appendix"
+  },
+  {
+    "entity": "Rafi",
+    "attribute": "Question",
+    "value": "whether light could be bottled forever; memory bottled cannot be cooked into a meal and must be shared at table",
+    "context": "Appendix diary"
+  }
+]

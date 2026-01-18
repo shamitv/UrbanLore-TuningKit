@@ -1,0 +1,260 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "description",
+    "value": "a city that drinks the day and excretes it as living prisms",
+    "context": "Opening depiction"
+  },
+  {
+    "entity": "Gateways",
+    "attribute": "role",
+    "value": "listening mouths; glass tongues that cradle the voice of a traveler",
+    "context": "Opening depiction"
+  },
+  {
+    "entity": "Gateways",
+    "attribute": "effect_on_arrivals",
+    "value": "remind travelers they belong to a larger ledger where memory and daylight are resources",
+    "context": "Opening depiction"
+  },
+  {
+    "entity": "Neris",
+    "attribute": "occupation",
+    "value": "ledger clerk; memory-scribe",
+    "context": "Introduction"
+  },
+  {
+    "entity": "Neris",
+    "attribute": "greeting_method",
+    "value": "speaks with a thread of light braided from her palm to the traveler\u2019s forehead",
+    "context": "Introduction"
+  },
+  {
+    "entity": "Calaith",
+    "attribute": "role",
+    "value": "leader of the Coastal Traders' Ring",
+    "context": "Arrival 1"
+  },
+  {
+    "entity": "Calaith",
+    "attribute": "memory_tokens",
+    "value": "salt-crystal tokens; memory-cores including a net knot, a shell, and a reef pebble",
+    "context": "Arrival 1"
+  },
+  {
+    "entity": "Calaith",
+    "attribute": "memories_offered",
+    "value": "sea-songs; weight of a hull\u2019s memory; salt",
+    "context": "Arrival 1"
+  },
+  {
+    "entity": "Calaith",
+    "attribute": "deposit",
+    "value": "places salt-crystal tokens into the ledger bowl",
+    "context": "Arrival 1"
+  },
+  {
+    "entity": "Saltwater Row",
+    "attribute": "neighborhood",
+    "value": "the coastal ring\u2019s architectural fiber; ground described as slick with memory of shore",
+    "context": "Arrival 1"
+  },
+  {
+    "entity": "Sihun",
+    "attribute": "role",
+    "value": "leader of the Desert Caravaneers",
+    "context": "Arrival 2"
+  },
+  {
+    "entity": "Sihun",
+    "attribute": "memory_escrow_theme",
+    "value": "desert memory: shade inside packs; memory of finding water; aspens of memory (coolness, balance, faith)",
+    "context": "Arrival 2"
+  },
+  {
+    "entity": "Duneview Basin",
+    "attribute": "neighborhood",
+    "value": "quarter built around shade plazas, windcatchers, and memory-ware",
+    "context": "Arrival 2"
+  },
+  {
+    "entity": "Aine",
+    "attribute": "role",
+    "value": "mother of famine refugees",
+    "context": "Arrival 3"
+  },
+  {
+    "entity": "Aine",
+    "attribute": "memory",
+    "value": "carries memory of bread; owns a carved wooden box that holds memory of the loaf",
+    "context": "Arrival 3"
+  },
+  {
+    "entity": "Crustline",
+    "attribute": "neighborhood",
+    "value": "bread-bloom; ovens; memory-scent and nourishment memories",
+    "context": "Arrival 3"
+  },
+  {
+    "entity": "The famine refugees",
+    "attribute": "memory_escrow_content",
+    "value": "daily somatic memory of meals\u2014images of meals, grandmother\u2019s soup, crumbly crust",
+    "context": "Arrival 3"
+  },
+  {
+    "entity": "K\u00e9la",
+    "attribute": "role",
+    "value": "envoy of the Diasporic Memory-Keepers",
+    "context": "Arrival 4"
+  },
+  {
+    "entity": "K\u00e9la",
+    "attribute": "appearance",
+    "value": "robe stitched from old maps; headdress with glass beads like stars",
+    "context": "Arrival 4"
+  },
+  {
+    "entity": "Diasporic Memory-Keepers",
+    "attribute": "memory_keepers_group",
+    "value": "network carrying memory-cores with dozens of cultures; multilingual scripts",
+    "context": "Arrival 4"
+  },
+  {
+    "entity": "Archive Row",
+    "attribute": "neighborhood",
+    "value": "memory-keepers\u2019 quarter; scripts on sidewalks; memory-cores on shelves",
+    "context": "Arrival 4"
+  },
+  {
+    "entity": "Sea Gate Quarter",
+    "attribute": "neighborhood_feature",
+    "value": "ports and canals; houses on stilts above shallow canals; salt wind",
+    "context": "Enclaves"
+  },
+  {
+    "entity": "Duneview Basin",
+    "attribute": "neighborhood_feature",
+    "value": "shade-centered space; memory-glas as cooling; caravaneers\u2019 memory-ware as fashion",
+    "context": "Enclaves"
+  },
+  {
+    "entity": "Crustline",
+    "attribute": "neighborhood_feature",
+    "value": "bread ovens; ovens\u2019 steam; communal kitchen for edible memory",
+    "context": "Enclaves"
+  },
+  {
+    "entity": "Archive Row",
+    "attribute": "neighborhood_feature",
+    "value": "memory-keepers\u2019 quarters; memory-cores in glass cases; seeds labeled with micro-stories",
+    "context": "Enclaves"
+  },
+  {
+    "entity": "memory economy",
+    "attribute": "concept",
+    "value": "sunlight harvested as daylight; memory stored as memory-cores and memory scripts; memory traded as a resource",
+    "context": "World-building"
+  },
+  {
+    "entity": "Sea-Lanes",
+    "attribute": "trade_route",
+    "value": "westward coastal routes; memory trade: shells, salted fish, kelp-memory, sea-songs",
+    "context": "Trade Routes"
+  },
+  {
+    "entity": "Caravan Paths",
+    "attribute": "trade_route",
+    "value": "Desert routes; supply of shade and cooling devices; links to memory-keepers",
+    "context": "Trade Routes"
+  },
+  {
+    "entity": "Bread Roads",
+    "attribute": "trade_route",
+    "value": "Crustline\u2019s bread memory trades as currency of hope",
+    "context": "Trade Routes"
+  },
+  {
+    "entity": "Script Circuits",
+    "attribute": "trade_route",
+    "value": "Archive Row\u2019s memory-keepers connect past, present, and future memories",
+    "context": "Trade Routes"
+  },
+  {
+    "entity": "The drought",
+    "attribute": "threat",
+    "value": "daylight is scarce; prism banks dim; memory requires daylight to power weather and economy",
+    "context": "Main Conflict"
+  },
+  {
+    "entity": "Lio",
+    "attribute": "role",
+    "value": "young archivist; advocates co-building, shared memory pools, and expanded memory escrow during drought",
+    "context": "Main Conflict"
+  },
+  {
+    "entity": "Radiant Gateways Protocol, Version 3.1",
+    "attribute": "document",
+    "value": "governs immigration rites, asylum for memory escrow, and temporary residency during daylight droughts",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Ledger Entry #G-0149",
+    "attribute": "document",
+    "value": "Origin: Coastal traders\u2019 Ring; memory tokens include sea-songs, salt, and hull memory; guardian note confirms exchange for shelter",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Excerpt: Sea Gate Quarter memory song",
+    "attribute": "content",
+    "value": "\"The tide keeps the city\u2019s memory safe; the harbor guards the dawn that follows every night. When the rope creaks, we remember to breathe.\"",
+    "context": "In-world excerpts"
+  },
+  {
+    "entity": "Excerpt: Duneview Basin memory-mistle",
+    "attribute": "content",
+    "value": "\"Shade is a language. We learned to listen to a well speak in the language of stars. Our memory cores drink the night\u2019s cool as a glass drinks the rain.\"",
+    "context": "In-world excerpts"
+  },
+  {
+    "entity": "Excerpt: Crustline Bread Memory Covenant",
+    "attribute": "content",
+    "value": "\"Share the loaf and you share a memory of morning; share the morning and you share the future of a family.\"",
+    "context": "In-world excerpts"
+  },
+  {
+    "entity": "Excerpt: Archive Row Chorus Script",
+    "attribute": "content",
+    "value": "\"If memory is a river that flows in many channels, let us be boats that carry one another\u2019s oars.\"",
+    "context": "In-world excerpts"
+  },
+  {
+    "entity": "memory-cores",
+    "attribute": "role",
+    "value": "repositories of daylight and memory; central to trade and identity",
+    "context": "World-building"
+  },
+  {
+    "entity": "Light Hall",
+    "attribute": "location",
+    "value": "cavernous council chamber where daylight drought is discussed",
+    "context": "Main Conflict"
+  },
+  {
+    "entity": "Gleamspire\u2019s towers",
+    "attribute": "structure",
+    "value": "tall, pale, porous with prisms; living repositories of daylight",
+    "context": "World-building"
+  },
+  {
+    "entity": "The four neighborhoods",
+    "attribute": "composition",
+    "value": "Sea Gate Quarter; Duneview Basin; Crustline; Archive Row",
+    "context": "World-building"
+  },
+  {
+    "entity": "Gleamspire\u2019s memory-architecture",
+    "attribute": "concept",
+    "value": "neighborhoods emerge as projections of arrivals; memory reshapes what the city can store and trade",
+    "context": "World-building"
+  }
+]

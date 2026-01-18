@@ -1,0 +1,248 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "city",
+    "context": "Introduction / Setting"
+  },
+  {
+    "entity": "Light",
+    "attribute": "role in Gleamspire",
+    "value": "resource, governance problem, and vessel for memory, weather, and revenue",
+    "context": "Introduction"
+  },
+  {
+    "entity": "Light",
+    "attribute": "function",
+    "value": "stores collective recollections, weather patterns, and the day\u2019s revenue",
+    "context": "Introduction"
+  },
+  {
+    "entity": "Lattice Authority",
+    "attribute": "role",
+    "value": "city\u2019s governance of luminous property; maintains a daylight grid",
+    "context": "Introduction"
+  },
+  {
+    "entity": "Lattice Authority",
+    "attribute": "policy",
+    "value": "advertises daylight as a public utility",
+    "context": "Introduction"
+  },
+  {
+    "entity": "Umbra Lines",
+    "attribute": "type",
+    "value": "rebellion network; operates in gaps; reverberant pathways",
+    "context": "Introduction"
+  },
+  {
+    "entity": "Umbra Lines",
+    "attribute": "belief",
+    "value": "daylight is a living right; fights monopolies on storing/selling/healing with light",
+    "context": "Introduction"
+  },
+  {
+    "entity": "Sinew Spires",
+    "attribute": "function",
+    "value": "primary daylight harvesters; capture daylight with resonant prisms; compress into living prisms; release artificial dawn / memory stream / microclimate shift",
+    "context": "Anatomy of Light Control"
+  },
+  {
+    "entity": "Memory Atriums",
+    "attribute": "function",
+    "value": "store memory as light signatures; return warm recollection when light is released",
+    "context": "Anatomy of Light Control"
+  },
+  {
+    "entity": "Weather Cores",
+    "attribute": "function",
+    "value": "track atmospheric conditions and translate into luminal fluctuations; modulate prices and microclimates",
+    "context": "Anatomy of Light Control"
+  },
+  {
+    "entity": "Dawn Ripple",
+    "attribute": "event",
+    "value": "memory flood via release of golden light that erases half a day\u2019s recollections",
+    "context": "Underground Passages, Hidden Conduits, Unauthorized Release Mechanisms"
+  },
+  {
+    "entity": "Westward Arc",
+    "attribute": "location",
+    "value": "upper terraces and harbor area; site of Memory Atriums",
+    "context": "Location context"
+  },
+  {
+    "entity": "East Market",
+    "attribute": "location",
+    "value": "market district where the Dawn Ripple incident occurred",
+    "context": "Event description"
+  },
+  {
+    "entity": "Underground passages",
+    "attribute": "feature",
+    "value": "corridors beneath main thoroughfares; used for movement in the dark season; some uncharted",
+    "context": "Underground Passages, Hidden Conduits, Unauthorized Release Mechanisms"
+  },
+  {
+    "entity": "Hidden conduits",
+    "attribute": "feature",
+    "value": "pipes of light and fiber-like veins; Umbra Lines siphon light at vent points",
+    "context": "Underground Passages, Hidden Conduits, Unauthorized Release Mechanisms"
+  },
+  {
+    "entity": "Unauthorized release mechanisms",
+    "attribute": "feature",
+    "value": "release light signature abruptly; flood area with unregulated glow; memory flood",
+    "context": "Underground Passages, Hidden Conduits, Unauthorized Release Mechanisms"
+  },
+  {
+    "entity": "Dawn Ripple",
+    "attribute": "impact",
+    "value": "memory vaults briefly lose data; memory banks recover after hours",
+    "context": "Dawn Ripple"
+  },
+  {
+    "entity": "Quieting Aisle",
+    "attribute": "location",
+    "value": "behind the old Zephyr Market",
+    "context": "Rebel Pathways: Routes, Rooms, and Rituals"
+  },
+  {
+    "entity": "Quieting Aisle",
+    "attribute": "technique",
+    "value": "breathing in the prism; bending light with breath",
+    "context": "Rebel Pathways: Routes, Rooms, and Rituals"
+  },
+  {
+    "entity": "Silver-Sight Strand",
+    "attribute": "location",
+    "value": "along the old harbor",
+    "context": "Rebel Pathways: Routes, Rooms, and Rituals"
+  },
+  {
+    "entity": "Crack of Dawn",
+    "attribute": "location",
+    "value": "catacombs beneath Gleamspire\u2019s oldest temple district",
+    "context": "Rebel Pathways: Routes, Rooms, and Rituals"
+  },
+  {
+    "entity": "Crack of Dawn",
+    "attribute": "purpose",
+    "value": "ritualized pathway for a new generation of light rebels; memory-based security",
+    "context": "Rebel Pathways: Routes, Rooms, and Rituals"
+  },
+  {
+    "entity": "Guard stations",
+    "attribute": "function",
+    "value": "conduit junctures; project calm optical illusion of order; measure memory loss risk",
+    "context": "The City as Policy Battlefield"
+  },
+  {
+    "entity": "Guard stations",
+    "attribute": "appearance",
+    "value": "elegant lamp installations",
+    "context": "The City as Policy Battlefield"
+  },
+  {
+    "entity": "Schedule wars",
+    "attribute": "effect",
+    "value": "light routing depends on schedules; gaps allow spikes of light in dimmed neighborhoods",
+    "context": "The City as Policy Battlefield"
+  },
+  {
+    "entity": "The retrofit paradox",
+    "attribute": "effect",
+    "value": "upgrades widen inequality; Umbra Lines demand right to retrofit for justice",
+    "context": "The City as Policy Battlefield"
+  },
+  {
+    "entity": "The drought",
+    "attribute": "effect",
+    "value": "reduces memory vault capacity; tightens budgets; memory price rises; weather control affected",
+    "context": "The City as Policy Battlefield"
+  },
+  {
+    "entity": "Memory vaults",
+    "attribute": "function",
+    "value": "store recollections as memories; capacity affected by drought; memory price tied to light",
+    "context": "The Memory Economy"
+  },
+  {
+    "entity": "Public memory bill",
+    "attribute": "purpose",
+    "value": "guarantee baseline memory allotment for every citizen; right to remember; daylight as public good",
+    "context": "The Memory Economy"
+  },
+  {
+    "entity": "Private memory auction",
+    "attribute": "purpose",
+    "value": "market for memory signatures; wealthy buy extra; poor risk losing minutes of a day",
+    "context": "The Memory Economy"
+  },
+  {
+    "entity": "Lumen Council",
+    "attribute": "role",
+    "value": "voices in documents; argues daylight as a shared resource; coordinates memory and weather policy",
+    "context": "In-World Documents: Primary Voices"
+  },
+  {
+    "entity": "Letter from the Lumen Council",
+    "attribute": "content",
+    "value": "daylight is a shared resource; memory is a public asset; drought affects all; prudent distribution; resist profit-driven glow",
+    "context": "In-World Documents: Primary Voices"
+  },
+  {
+    "entity": "Westward Arc",
+    "attribute": "example",
+    "value": "prudent distribution of daylight",
+    "context": "Letter from the Lumen Council"
+  },
+  {
+    "entity": "Prism Commons",
+    "attribute": "future design",
+    "value": "public daylight commons; guaranteed memory line; climate program; upgrades benefit all; memory right as civic obligation",
+    "context": "Vision of the City\u2019s Possible Futures"
+  },
+  {
+    "entity": "Luminous Ledger",
+    "attribute": "future design",
+    "value": "fully privatized daylight economy; daylight priced by risk and demand; memory vaults privately controlled; oversight to prevent data loss",
+    "context": "Vision of the City\u2019s Possible Futures"
+  },
+  {
+    "entity": "Umbra Chorus",
+    "attribute": "future design",
+    "value": "hybrid future; integrated underground and surface daylight; memory exchanges; communities trade stories and luminal energy",
+    "context": "Vision of the City\u2019s Possible Futures"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "significance",
+    "value": "the city\u2019s test of what it means to live with light and share it",
+    "context": "Moment of Choice"
+  },
+  {
+    "entity": "Umbra Lines",
+    "attribute": "role in future",
+    "value": "persist; shift from stealth warfare to social architecture; map reverberant pathways to help communities remember together",
+    "context": "Moment of Choice"
+  },
+  {
+    "entity": "Memory vaults",
+    "attribute": "potential",
+    "value": "open as public forums under shared daylight future",
+    "context": "Moment of Choice"
+  },
+  {
+    "entity": "Conduits",
+    "attribute": "accessibility",
+    "value": "should be accessible to those who need daylight most under shared daylight future",
+    "context": "Moment of Choice"
+  },
+  {
+    "entity": "Privatized daylight future",
+    "attribute": "outcome",
+    "value": "memory and weather minted into coins; memory price measured in hours of daylight; inequality",
+    "context": "Moment of Choice"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "description",
+    "value": "A city of radiant glass towers that drink the sun and spit back memory",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "architecture",
+    "value": "Vertical corridors of glass and prism; rooms shimmer with a quiet radiance; stairwells glow with the instant of a memory being made and stored away for later use",
+    "context": "City description"
+  },
+  {
+    "entity": "Prism Economy",
+    "attribute": "nature",
+    "value": "A daily ritual in which daylight is wealth, labor, and law",
+    "context": "Core concept"
+  },
+  {
+    "entity": "Light",
+    "attribute": "economic status",
+    "value": "Earned, counted, traded, borrowed, and finally owed",
+    "context": "Core proposition"
+  },
+  {
+    "entity": "Memory Barons",
+    "attribute": "role",
+    "value": "Holders of memory who command prisms, lend light against future recollection, collateralize personal histories, and can tilt the city toward debt with a signature",
+    "context": "Power in Prism Economy"
+  },
+  {
+    "entity": "Memory Barons",
+    "attribute": "status",
+    "value": "Towers rise above the rest; silhouettes carved in refracted blues and whites",
+    "context": "Power and prestige"
+  },
+  {
+    "entity": "Prism Bank",
+    "attribute": "function",
+    "value": "Central bank for daylight credits; memory vaults; lending houses skirt the memory economy",
+    "context": "Institutions"
+  },
+  {
+    "entity": "Memory Vault",
+    "attribute": "purpose",
+    "value": "Store private recollections; safeguard against erosion or violence; enable trading of memories",
+    "context": "Memory infrastructure"
+  },
+  {
+    "entity": "Memory Vault",
+    "attribute": "collateral capability",
+    "value": "Memories can be pledged as collateral for daylight loans",
+    "context": "Memory economy"
+  },
+  {
+    "entity": "Drought of daylight",
+    "attribute": "cause",
+    "value": "Sun capricious; weather clerics misread climate; long gray high\u2011pressure mornings",
+    "context": "Conflict"
+  },
+  {
+    "entity": "Drought of daylight",
+    "attribute": "effects",
+    "value": "Prismless dawns, noons, and twilights; daylight output wears down; prisms lose vitality; fear and debt risk rise; banks lend against shadow memory",
+    "context": "Conflict"
+  },
+  {
+    "entity": "Blue Market",
+    "attribute": "nature",
+    "value": "Shadow economy where day-labor trade is disguised as memory exchange",
+    "context": "Underground market"
+  },
+  {
+    "entity": "Blue Market",
+    "attribute": "examples",
+    "value": "Fragments called shadows of memory; a grandmother's kiss memory can be sold as collateral",
+    "context": "Blue Market details"
+  },
+  {
+    "entity": "Daylight credits",
+    "attribute": "currency",
+    "value": "Exchangable daylight credits used in the Prism Economy",
+    "context": "Economy"
+  },
+  {
+    "entity": "Dawn tax",
+    "attribute": "policy",
+    "value": "Daily deduction of light paid to the city to fund daylight routes and infrastructure",
+    "context": "Taxation"
+  },
+  {
+    "entity": "Light Output Index (LOI)",
+    "attribute": "description",
+    "value": "District LOI color-coded by blue (stable), amber (caution), violet (critical)",
+    "context": "Document: Annual Census"
+  },
+  {
+    "entity": "Light Output Index (LOI)",
+    "attribute": "unit",
+    "value": "Dawns",
+    "context": "Measurement unit"
+  },
+  {
+    "entity": "Prism Ledger Entry 204-6",
+    "attribute": "Debtor",
+    "value": "Liora Venk",
+    "context": "Document Prism Ledger Entry 204-6"
+  },
+  {
+    "entity": "Prism Ledger Entry 204-6",
+    "attribute": "District",
+    "value": "District 9",
+    "context": "Document Prism Ledger Entry 204-6"
+  },
+  {
+    "entity": "Prism Ledger Entry 204-6",
+    "attribute": "Principal",
+    "value": "12 prisms stored as dawn-nectar lumens",
+    "context": "Document Prism Ledger Entry 204-6"
+  },
+  {
+    "entity": "Prism Ledger Entry 204-6",
+    "attribute": "Interest",
+    "value": "0.75 prisms per day",
+    "context": "Document Prism Ledger Entry 204-6"
+  },
+  {
+    "entity": "Prism Ledger Entry 204-6",
+    "attribute": "Collateral",
+    "value": "Liora\u2019s grandmother\u2019s lullaby",
+    "context": "Document Prism Ledger Entry 204-6"
+  },
+  {
+    "entity": "Prism Ledger Entry 204-6",
+    "attribute": "Status",
+    "value": "In arrears; light output of District 9 has fallen by 28% due to drought",
+    "context": "Document Prism Ledger Entry 204-6"
+  },
+  {
+    "entity": "Prism Ledger Entry 204-6",
+    "attribute": "Note",
+    "value": "Failure to supply additional future recollection as collateral will invoke a memory reallocation",
+    "context": "Document Prism Ledger Entry 204-6"
+  },
+  {
+    "entity": "Memoranda of the Annual Light Census",
+    "attribute": "LOI notes",
+    "value": "District LOI color-coding; blue for stable, amber for caution, violet for critical; predictions for next solar cycle; daylight reserve measured in dawns",
+    "context": "Document Memoranda"
+  },
+  {
+    "entity": "Memoranda of the Annual Light Census",
+    "attribute": "reallocation policy",
+    "value": "If LOI drops below 60% for three consecutive weeks, prisms may be reallocated from lower-demand zones",
+    "context": "Document Memoranda"
+  },
+  {
+    "entity": "Proclamation of the Hour of Recalibration",
+    "attribute": "recalibration",
+    "value": "Memory holdings may be revisited at the city\u2019s call to recalibrate for the greater good",
+    "context": "Document Proclamation"
+  },
+  {
+    "entity": "Proclamation of the Hour of Recalibration",
+    "attribute": "debtors",
+    "value": "Debtors may be compelled to increase recollection production during a crisis",
+    "context": "Document Proclamation"
+  },
+  {
+    "entity": "Proclamation of the Hour of Recalibration",
+    "attribute": "public good",
+    "value": "Light is a common good; withholding light during drought is a crime against the city\u2019s soul",
+    "context": "Document Proclamation"
+  },
+  {
+    "entity": "A Note from a Family Ledger",
+    "attribute": "content",
+    "value": "We offered our daylight to the bank in exchange for a lullaby saved in the vault from the night grandmother died; the lullaby now belongs to the city\u2019s archive",
+    "context": "Document Note"
+  },
+  {
+    "entity": "A Note from a Family Ledger",
+    "attribute": "handwriting",
+    "value": "Handwriting is shaky; ink is a little too bright",
+    "context": "Document Note"
+  },
+  {
+    "entity": "Kael",
+    "attribute": "role",
+    "value": "Young clerk at the Prism Bank; tests a prism's vitality by running a finger along its surface",
+    "context": "Scene with Kael"
+  },
+  {
+    "entity": "Kael",
+    "attribute": "observation",
+    "value": "Memory ward shows a warning: Low memory stability: risk of recollection loss if bet is not observed",
+    "context": "Scene at Prism Bank"
+  },
+  {
+    "entity": "Weather Warden",
+    "attribute": "role",
+    "value": "Manages the city\u2019s exposure to the sun, beam distribution, and daylight quotas; influences drought responses",
+    "context": "Notable power holder"
+  },
+  {
+    "entity": "Judge of Light",
+    "attribute": "title",
+    "value": "The Judge of Light; authority in public discourse; measures the thickness of a prism\u2019s silence",
+    "context": "Public reference"
+  },
+  {
+    "entity": "Mouth of Light",
+    "attribute": "role",
+    "value": "A hub for speeches and public debate; central to Gleamspire\u2019s life",
+    "context": "City center reference"
+  },
+  {
+    "entity": "Memory Sharing",
+    "attribute": "practice",
+    "value": "Groups gather in courtyards illuminated by pale-blue glow to share recollections and pledge to preserve histories",
+    "context": "Cultural practice"
+  },
+  {
+    "entity": "Centralization vs decentralization debate",
+    "attribute": "stance",
+    "value": "Younger reformers advocate public memory vaults; older memory barons warn centralization risks turning recollection into a weapon",
+    "context": "Public debate"
+  }
+]

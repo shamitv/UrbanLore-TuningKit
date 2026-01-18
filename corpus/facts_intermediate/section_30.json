@@ -1,0 +1,410 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "city",
+    "context": "Introductory description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "architecture",
+    "value": "field of slender glass spires",
+    "context": "Introductory description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "daylight signature",
+    "value": "morning hiss of ozone and citrus; midday cornflower glare; afternoon aquamarine; night velvet shimmer",
+    "context": "Introductory description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "daylight as currency",
+    "value": "daylight stored as living prisms",
+    "context": "Introductory description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "memory",
+    "value": "prisms hum with memory",
+    "context": "Introductory description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "memory quota concept",
+    "value": "residents hold an annual memory quota stored in memory banks under the city\u2019s glass bridges",
+    "context": "Memory Quotas: The Weight of Remembering"
+  },
+  {
+    "entity": "Memory quota",
+    "attribute": "purge policy",
+    "value": "memory cleansing day purges quotas",
+    "context": "Memory Quotas: The Weight of Remembering"
+  },
+  {
+    "entity": "Migrant residents",
+    "attribute": "memory translation",
+    "value": "memories may be difficult to translate into Gleamspire\u2019s prism economy",
+    "context": "Memory Quotas: The Weight of Remembering"
+  },
+  {
+    "entity": "native-born residents",
+    "attribute": "memory tempo",
+    "value": "rhythm of memory aligned with daylight cycle and hush of rush-hour turbines",
+    "context": "Memory Quotas: The Weight of Remembering"
+  },
+  {
+    "entity": "Prism Access Charter",
+    "attribute": "document",
+    "value": "Second Amendment, 2107",
+    "context": "Prism Access: The Gate Between Light and Life"
+  },
+  {
+    "entity": "Prism Access Charter",
+    "attribute": "Article 7",
+    "value": "Prism access allocated on basis of residence, contribution, and reciprocity to the city\u2019s memory pool",
+    "context": "In-world document: Prism Access Charter (Second Amendment, 2107)"
+  },
+  {
+    "entity": "Prism Access Charter",
+    "attribute": "Article 15",
+    "value": "The right to access daylight does not grant the right to erase the memory of others; memory belongs to the social whole",
+    "context": "In-world document: Prism Access Charter (Second Amendment, 2107)"
+  },
+  {
+    "entity": "Prism Access Charter",
+    "attribute": "Article 22",
+    "value": "In drought, prism access prioritized for core services: hospitals, schools, and emergency response centers",
+    "context": "In-world document: Prism Access Charter (Second Amendment, 2107)"
+  },
+  {
+    "entity": "Prism Access Charter",
+    "attribute": "Article 29",
+    "value": "Disputes over access resolved by a Memory Tribunal: rotating panel of citizens, migrants, and one City Council member",
+    "context": "In-world document: Prism Access Charter (Second Amendment, 2107)"
+  },
+  {
+    "entity": "Residency Rights Register",
+    "attribute": "document",
+    "value": "1088-1102",
+    "context": "In-world document: Residency Rights Register"
+  },
+  {
+    "entity": "Residency Rights Register",
+    "attribute": "Section 3.2",
+    "value": "Applicants must present a Memory Map showing contribution to the city\u2019s memory pool",
+    "context": "In-world document: Residency Rights Register, 1088-1102"
+  },
+  {
+    "entity": "Residency Rights Register",
+    "attribute": "Section 4.7",
+    "value": "Families displaced due to drought are permitted another pathway to residency",
+    "context": "In-world document: Residency Rights Register, 1088-1102"
+  },
+  {
+    "entity": "Residency Rights Register",
+    "attribute": "Section 6.1",
+    "value": "Native-born protectors must pass a 'Memory Intention' assessment",
+    "context": "In-world document: Residency Rights Register, 1088-1102"
+  },
+  {
+    "entity": "Gatehouse Protocols",
+    "attribute": "document",
+    "value": "Revised Edition, 2109",
+    "context": "In-world document: Gatehouse Protocols (Revised Edition, 2109)"
+  },
+  {
+    "entity": "Gatehouse Protocols",
+    "attribute": "Section 9.3",
+    "value": "Access to housing corridors distributed based on contribution to Prism Maintenance and memory ethics",
+    "context": "In-world document: Gatehouse Protocols (Revised Edition, 2109)"
+  },
+  {
+    "entity": "Gatehouse Protocols",
+    "attribute": "Section 9.6",
+    "value": "Temporary passage rights may be granted to new residents to ease transition, conditioned on acceptance of the city\u2019s memory ethics",
+    "context": "In-world document: Gatehouse Protocols (Revised Edition, 2109)"
+  },
+  {
+    "entity": "Gatehouse Protocols",
+    "attribute": "Section 9.9",
+    "value": "Public disclosures: quarterly report on housing accessibility, memory quotas, and prism capacity",
+    "context": "In-world document: Gatehouse Protocols (Revised Edition, 2109)"
+  },
+  {
+    "entity": "Prism Labour Ledger",
+    "attribute": "document",
+    "value": "Summary 2108-2110",
+    "context": "In-world document: Prism Labour Ledger (Summary 2108-2110)"
+  },
+  {
+    "entity": "Prism Labour Ledger",
+    "attribute": "Section 2.1",
+    "value": "Access to high-intensity prisms allocated by rate of community service and memory governance contributions",
+    "context": "In-world document: Prism Labour Ledger (Summary 2108-2110)"
+  },
+  {
+    "entity": "Prism Labour Ledger",
+    "attribute": "Section 4.4",
+    "value": "Apprenticeships in prism maintenance to include memory ethics training",
+    "context": "In-world document: Prism Labour Ledger (Summary 2108-2110)"
+  },
+  {
+    "entity": "Prism Labour Ledger",
+    "attribute": "Section 5.9",
+    "value": "Strike arbitration to preserve essential daylight during droughts, prioritizing hospitals, schools, and public safety",
+    "context": "In-world document: Prism Labour Ledger (Summary 2108-2110)"
+  },
+  {
+    "entity": "Lian",
+    "attribute": "role",
+    "value": "vendor at memory stall",
+    "context": "Dialogue on memory load"
+  },
+  {
+    "entity": "Lian",
+    "attribute": "quote",
+    "value": "\"Memories, like prisms, have a weight... you carry too many, you can\u2019t walk straight through the crowd\"",
+    "context": "Dialogue on memory load"
+  },
+  {
+    "entity": "Ardent",
+    "attribute": "role",
+    "value": "newcomer",
+    "context": "Dialogue on memory quotas"
+  },
+  {
+    "entity": "Doctor",
+    "attribute": "claim",
+    "value": "\"Capacity for acute recall is a function of social integration, not years\"",
+    "context": "Public hospital memory annotation"
+  },
+  {
+    "entity": "School of Memory Literacy",
+    "attribute": "function",
+    "value": "teaches memory literacy, including memory empathy and memory maps",
+    "context": "Memory Literacy Schools: The Schools as Civic Hearths"
+  },
+  {
+    "entity": "Memory Literacy Schools",
+    "attribute": "location",
+    "value": "center of districts",
+    "context": "Memory Literacy Schools: The Schools as Civic Hearths"
+  },
+  {
+    "entity": "Memory Literacy Curriculum",
+    "attribute": "revision year",
+    "value": "2101",
+    "context": "In-world document: Memory Literacy Curriculum, 2101 Revision"
+  },
+  {
+    "entity": "Memory Literacy Curriculum",
+    "attribute": "Module 3",
+    "value": "Memory Mechanics\u2014how to identify, classify, and contextualize memories within the prism system",
+    "context": "In-world document: Memory Literacy Curriculum, 2101 Revision"
+  },
+  {
+    "entity": "Memory Literacy Curriculum",
+    "attribute": "Module 5",
+    "value": "Empathy Exercises\u2014how to receive memories from others, especially those with experiences very different from your own",
+    "context": "In-world document: Memory Literacy Curriculum, 2101 Revision"
+  },
+  {
+    "entity": "Memory Literacy Curriculum",
+    "attribute": "Module 9",
+    "value": "Community Memory Projects\u2014students design a public memory display reflecting native and migrant histories",
+    "context": "In-world document: Memory Literacy Curriculum, 2101 Revision"
+  },
+  {
+    "entity": "Karo",
+    "attribute": "role",
+    "value": "student of memory literacy",
+    "context": "Belonging and memory literacy"
+  },
+  {
+    "entity": "Karo",
+    "attribute": "quote",
+    "value": "\"Kaleidoscope thinking is not about having a perfect memory... belonging requires accepting others\u2019 stories and performing them for a time\"",
+    "context": "Belonging and memory literacy"
+  },
+  {
+    "entity": "Soras",
+    "attribute": "role",
+    "value": "migrant family",
+    "context": "Belonging and memory orders"
+  },
+  {
+    "entity": "Lantern Day",
+    "attribute": "festival",
+    "value": "a community festival marking daylight returning after drought",
+    "context": "The Social Psychology of Belonging"
+  },
+  {
+    "entity": "Mira",
+    "attribute": "role",
+    "value": "native-born organizer",
+    "context": "Lantern Day dialogue"
+  },
+  {
+    "entity": "Mira",
+    "attribute": "quote",
+    "value": "\"Lantern Day is not just about the return of light; it\u2019s about the return of trust between us and the newcomers\"",
+    "context": "Lantern Day dialogue"
+  },
+  {
+    "entity": "Jid",
+    "attribute": "role",
+    "value": "migrant elder",
+    "context": "Lantern Day dialogue"
+  },
+  {
+    "entity": "Jid",
+    "attribute": "quote",
+    "value": "\"We did not bring a lantern from our old city... we bring a promise to light Gleamspire with our own memories\"",
+    "context": "Lantern Day dialogue"
+  },
+  {
+    "entity": "Dolphins of Memory",
+    "attribute": "organization",
+    "value": "a growing consortium of migrants and natives",
+    "context": "Postscript"
+  },
+  {
+    "entity": "Dolphins of Memory",
+    "attribute": "letter",
+    "value": "\"We remember that your city began by inviting strangers to share in the daylight you already possessed... we will count with you, share with you, and sing with you\"",
+    "context": "Postscript"
+  },
+  {
+    "entity": "Gatekeeper",
+    "attribute": "dialogue",
+    "value": "\"Your memory load is heavy. You will be required to participate in a memory-sharing workshop before your application enters the queue for review\"",
+    "context": "A Day in the Drought: Morning sequence"
+  },
+  {
+    "entity": "Memory Tribunal",
+    "attribute": "function",
+    "value": "decides residency disputes; broadcast session; negotiates memory-sharing commitments",
+    "context": "A Day in the Drought: Evening sequence"
+  },
+  {
+    "entity": "Ossian",
+    "attribute": "role",
+    "value": "native-born elder",
+    "context": "Housing in Walled Glass Neighborhoods"
+  },
+  {
+    "entity": "Ossian",
+    "attribute": "quote",
+    "value": "\"Movement is a form of belonging... if we share the daylight and the memory, we shall all see more clearly\"",
+    "context": "Housing in Walled Glass Neighborhoods"
+  },
+  {
+    "entity": "North Quarter",
+    "attribute": "memory",
+    "value": "grandmother\u2019s morning coffee memory accessed without leaving block",
+    "context": "Prism Access: The Gate Between Light and Life"
+  },
+  {
+    "entity": "Prism Index",
+    "attribute": "concept",
+    "value": "public catalog mapping memories to public needs",
+    "context": "Prism Access: The Gate Between Light and Life"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "memory banks",
+    "value": "line the underside of the city\u2019s glass bridges",
+    "context": "In-world description of memory storage"
+  },
+  {
+    "entity": "The Gatekeeper",
+    "attribute": "role",
+    "value": "gatekeeping authority at gatehouses",
+    "context": "Gatehouse narratives"
+  },
+  {
+    "entity": "The Bright Weave",
+    "attribute": "organization",
+    "value": "coalition of migrants and natives",
+    "context": "Inclusion debate"
+  },
+  {
+    "entity": "The Bright Weave",
+    "attribute": "principle",
+    "value": "memory mutuals\u2014shared memories accessible by all residents and returned with a communal favor",
+    "context": "Inclusion debate"
+  },
+  {
+    "entity": "Memory literacy",
+    "attribute": "goal",
+    "value": "teach memory empathy and shared memory circulation",
+    "context": "Memory Literacy Schools: The Schools as Civic Hearths"
+  },
+  {
+    "entity": "Mero",
+    "attribute": "role",
+    "value": "teacher in memory literacy",
+    "context": "Memory Literacy Schools: The Schools as Civic Hearths"
+  },
+  {
+    "entity": "Kye",
+    "attribute": "role",
+    "value": "technician in Prism Maintenance Yard",
+    "context": "Prism Access: The Gate Between Light and Life"
+  },
+  {
+    "entity": "Sirena",
+    "attribute": "role",
+    "value": "chief supervisor, former migrant",
+    "context": "Prism Access: The Gate Between Light and Life"
+  },
+  {
+    "entity": "Rhea",
+    "attribute": "role",
+    "value": "veteran prism worker",
+    "context": "Labor Hierarchies in Prism Maintenance"
+  },
+  {
+    "entity": "Niko",
+    "attribute": "role",
+    "value": "apprentice prism maintenance worker",
+    "context": "Labor Hierarchies in Prism Maintenance"
+  },
+  {
+    "entity": "Amina",
+    "attribute": "role",
+    "value": "coordinator of midday shift",
+    "context": "Labor Hierarchies in Prism Maintenance"
+  },
+  {
+    "entity": "Mira",
+    "attribute": "role",
+    "value": "native-born nurse; Lantern Day organizer",
+    "context": "Lantern Day dialogue"
+  },
+  {
+    "entity": "Juno",
+    "attribute": "role",
+    "value": "carpenter; father in Lumen Reach",
+    "context": "Housing in Walled Glass Neighborhoods"
+  },
+  {
+    "entity": "Mina",
+    "attribute": "role",
+    "value": "daughter of Juno",
+    "context": "Housing in Walled Glass Neighborhoods"
+  },
+  {
+    "entity": "Lumen Reach",
+    "attribute": "location",
+    "value": "district with walls and gating system",
+    "context": "Housing in Walled Glass Neighborhoods"
+  },
+  {
+    "entity": "Gatehouse",
+    "attribute": "function",
+    "value": "controls prism access and residency via gates and corridors",
+    "context": "Housing in Walled Glass Neighborhoods"
+  }
+]

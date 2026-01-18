@@ -1,0 +1,308 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "identity/purpose",
+    "value": "A city that stores daylight and treats daylight as a currency and memory",
+    "context": "Geography & Environment: Radiant Architecture"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "appearance from ground",
+    "value": "A river of pale blue, constellated lattice of spires",
+    "context": "Geography & Environment: Radiant Architecture"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "architectural system",
+    "value": "Glass skins are working membranes that breathe, bend, and redirect daylight",
+    "context": "Geography & Environment: Radiant Architecture"
+  },
+  {
+    "entity": "Towers",
+    "attribute": "construction",
+    "value": "Built as colossal prisms",
+    "context": "Geography & Environment: Radiant Architecture"
+  },
+  {
+    "entity": "Terraces",
+    "attribute": "appearance",
+    "value": "Layered like scales on a living fish",
+    "context": "Geography & Environment: Radiant Architecture"
+  },
+  {
+    "entity": "Prisms",
+    "attribute": "role",
+    "value": "Store daylight as memory",
+    "context": "Geography & Environment: Radiant Architecture"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "sensory experience at noon",
+    "value": "Pressing palm to skin yields warmth that is memory",
+    "context": "Geography & Environment: Radiant Architecture"
+  },
+  {
+    "entity": "Glass",
+    "attribute": "interaction with light",
+    "value": "Drinks light and returns it as warmth for plaza",
+    "context": "Geography & Environment: Radiant Architecture"
+  },
+  {
+    "entity": "Memory wards",
+    "attribute": "function",
+    "value": "Small rooms carved from light that store and release memories",
+    "context": "Memory Wards and Public Plaza as Light Engines"
+  },
+  {
+    "entity": "Public plazas",
+    "attribute": "function",
+    "value": "Interactive screens; living archive for light and memory",
+    "context": "Memory Wards and Public Plaza as Light Engines"
+  },
+  {
+    "entity": "Memory wards",
+    "attribute": "inscriptions",
+    "value": "Etched into the air, visible only under certain angles of light",
+    "context": "Memory Wards and Public Plaza as Light Engines"
+  },
+  {
+    "entity": "Lumen Spine",
+    "attribute": "role",
+    "value": "Main axis running harbor to hill; stores daylight and distributes it",
+    "context": "Geography & Environment: Radiant Architecture"
+  },
+  {
+    "entity": "Core",
+    "attribute": "spatial relation",
+    "value": "Towers pushed closer together with prisms overlapping like crystalline scales",
+    "context": "Geography & Environment: Radiant Architecture"
+  },
+  {
+    "entity": "Outer wards",
+    "attribute": "climate",
+    "value": "Glass skins breathe more slowly; deposits fewer but more careful",
+    "context": "Geography & Environment: Radiant Architecture"
+  },
+  {
+    "entity": "Daylight deposits",
+    "attribute": "schedule",
+    "value": "Public memory wards opened at particular hours to release luminescent memories",
+    "context": "Geography & Environment: Radiant Architecture"
+  },
+  {
+    "entity": "Memory wards",
+    "attribute": "airborne memory",
+    "value": "Memory resides in the air itself, not just in vaults",
+    "context": "Geography & Environment: Radiant Architecture"
+  },
+  {
+    "entity": "Wind tunnels",
+    "attribute": "function",
+    "value": "Thread through the city; channel air in predictable ways",
+    "context": "Geography & Environment: Radiant Architecture"
+  },
+  {
+    "entity": "Memory wards",
+    "attribute": "economic role",
+    "value": "Banks for emotions; access via currency of attention or ritual",
+    "context": "Race, Wealth, and the Light Economy"
+  },
+  {
+    "entity": "Public plazas",
+    "attribute": "cultural role",
+    "value": "Interactive screens and living archives for light and memory",
+    "context": "Memory Wards and Public Plaza as Light Engines"
+  },
+  {
+    "entity": "Iris District",
+    "attribute": "deposit",
+    "value": "Stable and generous",
+    "context": "The Dense Network of Deposits: A Layered Climate"
+  },
+  {
+    "entity": "The Tideward Quarter",
+    "attribute": "light",
+    "value": "Blue light near harbor reflecting sea spray",
+    "context": "The Dense Network of Deposits: A Layered Climate"
+  },
+  {
+    "entity": "The Core",
+    "attribute": "store",
+    "value": "Brightest, most concentrated light",
+    "context": "The Dense Network of Deposits: A Layered Climate"
+  },
+  {
+    "entity": "Gleamspire wealth",
+    "attribute": "basis",
+    "value": "Function of light; prisms, memory wards, daylight deposits",
+    "context": "Race, Wealth, and the Light Economy"
+  },
+  {
+    "entity": "Memory wards",
+    "attribute": "economic role",
+    "value": "Banks for emotions; access via currency of attention",
+    "context": "Race, Wealth, and the Light Economy"
+  },
+  {
+    "entity": "Drought of daylight",
+    "attribute": "impact",
+    "value": "Threatens prisms\u2019 memory storage, memory wards\u2019 glow, climate, and wealth",
+    "context": "The Drought and Its Echoes: A Street-Level Crisis"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "social consequence",
+    "value": "Wealth shifts toward owners of prisms or memory wards; others face glare pockets",
+    "context": "The Drought and Its Echoes: A Street-Level Crisis"
+  },
+  {
+    "entity": "Ledger of Light Deposits",
+    "attribute": "type",
+    "value": "Document recording daylight deposits, consumption, balance by district",
+    "context": "In-World Documents and Dialogues"
+  },
+  {
+    "entity": "Entry, 4th Day of Month of Fresh Breath",
+    "attribute": "data",
+    "value": "Deposit: 12.4 units (Core Prism); Consumption: 9.8 units (Public Plaza, Iris Ward); Balance: 2.6 units (Light Engine, Memory Ward 9)",
+    "context": "In-World Documents and Dialogues"
+  },
+  {
+    "entity": "Prismwrights\u2019 Council",
+    "attribute": "request",
+    "value": "Temporary reallocation of deposits to the memory wards for 14 local days",
+    "context": "In-World Documents and Dialogues"
+  },
+  {
+    "entity": "Wayfarer Nara",
+    "attribute": "diary entry",
+    "value": "Memory Ward 7 diary entry about a moth and light returning as spark",
+    "context": "In-World Documents and Dialogues"
+  },
+  {
+    "entity": "Chief Prismwright Mara Therin",
+    "attribute": "statement",
+    "value": "The city is a living lens; mismanaging daylight mismanages memory, weather, and wealth",
+    "context": "In-World Documents and Dialogues"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "narrative effect",
+    "value": "Leads to longer chimes, slower turbines, cooler blue glow",
+    "context": "The Drought and Its Echoes: A Street-Level Crisis"
+  },
+  {
+    "entity": "Harbor",
+    "attribute": "air quality effect",
+    "value": "Spray carries iron note; day\u2019s energy must be conserved",
+    "context": "In-World Flora and Fauna"
+  },
+  {
+    "entity": "Gleamspire flora",
+    "attribute": "appearance",
+    "value": "Interior flora with pale glassy leaves reflecting light",
+    "context": "In-World Flora and Fauna"
+  },
+  {
+    "entity": "Gleamspire fauna",
+    "attribute": "species",
+    "value": "diurnal moth; gleamfish",
+    "context": "In-World Flora and Fauna"
+  },
+  {
+    "entity": "Gleamspire moth",
+    "attribute": "behavior",
+    "value": "Drawn to glass edge, gliding in the glow",
+    "context": "In-World Flora and Fauna"
+  },
+  {
+    "entity": "Public Memory",
+    "attribute": "nature",
+    "value": "Memory stored in daylight; warmth on reflective surface",
+    "context": "Public Memory and Personal Memory"
+  },
+  {
+    "entity": "Phantoms of Light",
+    "attribute": "theme",
+    "value": "Memory found by following a path of light from Core through Iris District to Tideward Quarter",
+    "context": "In-World Documents and Dialogues"
+  },
+  {
+    "entity": "Possible Futures",
+    "attribute": "option",
+    "value": "Rewire prisms to deposit light directly into memory wards via harmonic resonance",
+    "context": "Possible Futures: Into a World Without Easy Light"
+  },
+  {
+    "entity": "Possible Futures",
+    "attribute": "risk",
+    "value": "Could cause instability in memory wards and climate; create warmth pockets or fog-like veils",
+    "context": "Possible Futures: Into a World Without Easy Light"
+  },
+  {
+    "entity": "Harbor",
+    "attribute": "cosmological speculation",
+    "value": "Sun\u2019s arc shifting; ocean spray altering wind\u2019s path",
+    "context": "Possible Futures: Into a World Without Easy Light"
+  },
+  {
+    "entity": "Prismwrights\u2019 Council",
+    "attribute": "policy",
+    "value": "Scale back active daylight deposition; focus light on priority districts",
+    "context": "Possible Futures: Into a World Without Easy Light"
+  },
+  {
+    "entity": "Memory Wardens",
+    "attribute": "policy",
+    "value": "Reorganize to share glow across neighborhoods; distributed glow with city breath",
+    "context": "Possible Futures: Into a World Without Easy Light"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "metaphor",
+    "value": "City as a living prism",
+    "context": "The City as a Living Prism"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "interpretation",
+    "value": "Misalignment of prism rather than absence of light",
+    "context": "The City as a Living Prism"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "educational goal",
+    "value": "To observe, anticipate, and adjust; daylight as communal asset",
+    "context": "The Enduring Promise: A City of Light That Learns"
+  },
+  {
+    "entity": "Memory wards",
+    "attribute": "cultural role",
+    "value": "Banks for memories; shared heritage across neighborhoods",
+    "context": "The Enduring Promise: A City of Light That Learns"
+  },
+  {
+    "entity": "Memory wards",
+    "attribute": "sensory description",
+    "value": "Glow that can shift hue with drought to a cooler blue",
+    "context": "The Drought and Its Echoes: A Street-Level Crisis"
+  },
+  {
+    "entity": "Signature phrase",
+    "attribute": "quote",
+    "value": "Let us not mistake the drought for disaster. If we listen to the city\u2019s memory, it will guide us through a long, patient night.",
+    "context": "The Drought and Its Echoes: A Street-Level Crisis"
+  },
+  {
+    "entity": "Memory wards",
+    "attribute": "retention",
+    "value": "Hold essential records of history; glow sustains through the drought",
+    "context": "Possible Futures: Into a World Without Easy Light"
+  },
+  {
+    "entity": "The Enduring Promise",
+    "attribute": "outcome",
+    "value": "A city that learns to keep daylight and memory through care and recalibration",
+    "context": "The Enduring Promise: A City of Light That Learns"
+  }
+]

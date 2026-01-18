@@ -1,0 +1,302 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "a city where daylight is consumed, stored, and traded",
+    "context": "In-world description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "noon daylight behavior",
+    "value": "glass towers drink the sun and exhale it in a delicate, almost edible glaze",
+    "context": " midday description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "aesthetic",
+    "value": "air tastes of ozone and citrus; streets glitter with pale blue glow",
+    "context": "In-world description"
+  },
+  {
+    "entity": "Memory Vaults",
+    "attribute": "function",
+    "value": "sanctuaries of memory where recollection is translated into memory tokens",
+    "context": "Description of memory infrastructure"
+  },
+  {
+    "entity": "Memory Vaults",
+    "attribute": "construction materials",
+    "value": "lattice glass and alloyed quartz",
+    "context": "Vault walls description"
+  },
+  {
+    "entity": "Memory Vaults",
+    "attribute": "sensory apparatus",
+    "value": "microvectors sense memory provenance; choir of lamps; micro-turbines and resonators",
+    "context": "Vaults description"
+  },
+  {
+    "entity": "Memory Vaults",
+    "attribute": "containment",
+    "value": "field of memory coils that weave memories into memory tokens",
+    "context": "Vault description"
+  },
+  {
+    "entity": "Custodians",
+    "attribute": "role",
+    "value": "medics and librarians; ritual guardians of light",
+    "context": "Custodians described"
+  },
+  {
+    "entity": "Custodians",
+    "attribute": "training",
+    "value": "train for years to read memory provenance",
+    "context": "Custodians described"
+  },
+  {
+    "entity": "Prism-linked Archives",
+    "attribute": "network",
+    "value": "glass spires thread through the city as veins of memory",
+    "context": "Archive network description"
+  },
+  {
+    "entity": "Prism-linked Archives",
+    "attribute": "function",
+    "value": "hous corridors of archives; memory tokens cataloged, authenticated, and wired to prisms",
+    "context": "Archive network description"
+  },
+  {
+    "entity": "Prisms",
+    "attribute": "nature",
+    "value": "crystalline living things that adjust to city cycles",
+    "context": "Prism description"
+  },
+  {
+    "entity": "Prism-linked Archives",
+    "attribute": "role",
+    "value": "illuminate memory in public or private display via prisms",
+    "context": "Archive network description"
+  },
+  {
+    "entity": "Memory Vaults",
+    "attribute": "creation process",
+    "value": "memory tokens are created through light-wrapping",
+    "context": "Token creation"
+  },
+  {
+    "entity": "memory-sei",
+    "attribute": "function",
+    "value": "instrument that perceives and translates emotional and sensory data into optical patterns",
+    "context": "Token creation"
+  },
+  {
+    "entity": "Memory coils",
+    "attribute": "description",
+    "value": "transparent threads that weave memories into tokens",
+    "context": "Vault description"
+  },
+  {
+    "entity": "Memory tokens",
+    "attribute": "narrative",
+    "value": "each bead represents a discrete element of the memory",
+    "context": "Token description"
+  },
+  {
+    "entity": "Custodians",
+    "attribute": "token governance",
+    "value": "affix a seal of consent and attach token to prism archive ledger",
+    "context": "Token sealing"
+  },
+  {
+    "entity": "Memory token",
+    "attribute": "value determinants",
+    "value": "risk-adjusted potential to influence buyer\u2019s state, rarity, ethical clearance, volatility",
+    "context": "Token valuation"
+  },
+  {
+    "entity": "Light Markets",
+    "attribute": "location type",
+    "value": "arcades of pearlescent glass",
+    "context": "Market description"
+  },
+  {
+    "entity": "Light Markets",
+    "attribute": "transactions",
+    "value": "tokens can be purchased, rented, or insured and traded with ritual of consent",
+    "context": "Market operations"
+  },
+  {
+    "entity": "Lumen credits",
+    "attribute": "currency",
+    "value": "currency used in memory economy; value shifts with daylight and demand",
+    "context": "Currency description"
+  },
+  {
+    "entity": "Memory Policy",
+    "attribute": "governance",
+    "value": "ledger entry guarded by Custodians and signed by Notary of Light",
+    "context": "Policy description"
+  },
+  {
+    "entity": "Notary of Light",
+    "attribute": "role",
+    "value": "signs the Memory Policy",
+    "context": "Policy governance"
+  },
+  {
+    "entity": "Access keys",
+    "attribute": "types",
+    "value": "physical cracked crystal tokens and digital access keys",
+    "context": "Memory access control"
+  },
+  {
+    "entity": "Access ceremony",
+    "attribute": "procedure",
+    "value": "holder places palm on tempered-glass slab; prism projects pattern; token glows color corresponding to authority",
+    "context": "Access procedure"
+  },
+  {
+    "entity": "Light-locks",
+    "attribute": "protection mechanism",
+    "value": "three independent proofs of identity; two must be non-local",
+    "context": "Memory security"
+  },
+  {
+    "entity": "Prism-linked Archives",
+    "attribute": "security",
+    "value": "distributed ledger with timestamp and cryptographic seal; Custodian-Auditors check anomalies",
+    "context": "Security"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "drought event",
+    "value": "Year of the Narrow Moon; drought of daylight; volcanic ash dimmed prism grid",
+    "context": "Drought"
+  },
+  {
+    "entity": "City Council",
+    "attribute": "response to drought",
+    "value": "authorized construction of Night-Memorial Vaults; undercity prisms installed; starlight credits introduced",
+    "context": "Drought response"
+  },
+  {
+    "entity": "Night-Memorial Vaults",
+    "attribute": "purpose",
+    "value": "underground sanctuaries where memories can be preserved for dark hours",
+    "context": "Drought response"
+  },
+  {
+    "entity": "Under-city prisms",
+    "attribute": "purpose",
+    "value": "capture residual illumination (street lamps, cloudy skies, bioluminescent algae)",
+    "context": "Drought response"
+  },
+  {
+    "entity": "Starlight credits",
+    "attribute": "role",
+    "value": "temporary currency whose value rises in darkness",
+    "context": "Drought response"
+  },
+  {
+    "entity": "Sound of Light project",
+    "attribute": "description",
+    "value": "custodians and musicians translate bright memories into a symphony of chimes, turbines, and distant surf",
+    "context": "Drought response"
+  },
+  {
+    "entity": "Councilor Ilya",
+    "attribute": "comment",
+    "value": "\"If we cannot sustain daylight, we must redefine what it means to own light\"",
+    "context": "Council meeting during drought"
+  },
+  {
+    "entity": "Vero",
+    "attribute": "comment",
+    "value": "\"We cannot survive on philosophical promises... debt in lumen credits grows heavier when the streets sup\"",
+    "context": "Council meeting during drought"
+  },
+  {
+    "entity": "Memory vault architecture",
+    "attribute": "design principle",
+    "value": "redundancy: triple-layered glass, memory-threads, fail-safe seals",
+    "context": "Architecture"
+  },
+  {
+    "entity": "Vaults",
+    "attribute": "flooring",
+    "value": "mosaic of micro-mirrors reflecting memory tokens and passersby",
+    "context": "Vault description"
+  },
+  {
+    "entity": "Prism network",
+    "attribute": "architecture",
+    "value": "exoskeleton of light; living nodes; color shifts with mood and market demand",
+    "context": "Architecture"
+  },
+  {
+    "entity": "Market floors",
+    "attribute": "design",
+    "value": "tessellated network of memory-symbols guiding exchange",
+    "context": "Urban geography"
+  },
+  {
+    "entity": "Ethics of memory market",
+    "attribute": "frictions",
+    "value": "coercion, memory laundering, enforcement gaps",
+    "context": "Ethics"
+  },
+  {
+    "entity": "Memory-montage evenings",
+    "attribute": "form",
+    "value": "neighborhoods synchronize recollections in public ritual",
+    "context": "Community rituals"
+  },
+  {
+    "entity": "Drought resilience investments",
+    "attribute": "examples",
+    "value": "prism-globes with wider light spectrum; more robust memory readings; community vaults for shared recollection",
+    "context": "Drought response"
+  },
+  {
+    "entity": "Ledger of Light",
+    "attribute": "document",
+    "value": "Entry 391-C, Year 1022; memory of Sera; harbor bells ceased; token pledged as collateral; color pale apricot; scent orange blossoms",
+    "context": "In-world inscription"
+  },
+  {
+    "entity": "Charter of Light",
+    "attribute": "clause",
+    "value": "No memory connected to coercion or a minor shall be traded or accessed without explicit consent; temporary moratorium in dispute",
+    "context": "In-world inscription"
+  },
+  {
+    "entity": "Memory Insurance Policy",
+    "attribute": "clause",
+    "value": "Clause B-12: insurer replaces lost token after prism fault with a comparable token given provenance",
+    "context": "In-world inscription"
+  },
+  {
+    "entity": "Memorandum: Access Key Protocol",
+    "attribute": "date",
+    "value": "15th Tide, 1025",
+    "context": "In-world inscription"
+  },
+  {
+    "entity": "Access Key Protocol",
+    "attribute": "requirement",
+    "value": "three keys: one physical, one digital, one memory-signature token; non-transferable; Guardian authorization",
+    "context": "In-world inscription"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "thematic conclusion",
+    "value": "memory is a shared infrastructure and a civic asset as daylight waxes and wanes",
+    "context": "Closing reflections"
+  },
+  {
+    "entity": "End of entry",
+    "attribute": "final idea",
+    "value": "prisms decide to shine again; memory is stewarded together in daylight and dark",
+    "context": "Closing reflections"
+  }
+]

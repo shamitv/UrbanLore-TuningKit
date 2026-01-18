@@ -1,0 +1,386 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "description",
+    "value": "A city that is not merely a city but a held breath, gleaming and waiting.",
+    "context": "Introductory concept"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "daylight handling",
+    "value": "daylight is siphoned through towering prisms and glittering on sidewalks",
+    "context": "Introductory concept"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "sensory atmosphere",
+    "value": "air tastes of ozone and citrus; electricity in every inhalation; sea spray near the bay",
+    "context": "Introductory concept"
+  },
+  {
+    "entity": "Harbor",
+    "attribute": "behavior",
+    "value": "harbor lights tremble like dust on the surface of water",
+    "context": "Introductory concept"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "nature",
+    "value": "a currency that glitters in the palm and burns with quiet hunger in clothes, voice, and name",
+    "context": "Introductory concept"
+  },
+  {
+    "entity": "Ledger of Light",
+    "attribute": "nature",
+    "value": "a living corpus, a prismatic archive that writes itself as you walk",
+    "context": "Section 1"
+  },
+  {
+    "entity": "Ledger of Light",
+    "attribute": "entries",
+    "value": "glint on demand, offered to the highest bidder or the most deserving",
+    "context": "Section 1"
+  },
+  {
+    "entity": "Wealth in Gleamspire",
+    "attribute": "measurement",
+    "value": "measured by the brightness of a person\u2019s memory registry",
+    "context": "Section 1"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "economic status",
+    "value": "memory is housed, priced, traded, and defended",
+    "context": "Section 1"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "effect",
+    "value": "threatens the ledger\u2019s balance; memory capture/storage/borrowing declines",
+    "context": "Section 1"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "nature in economy",
+    "value": "memory is a measured thing\u2014housed, priced, traded, defended",
+    "context": "Section 1"
+  },
+  {
+    "entity": "Access",
+    "attribute": "structure",
+    "value": "three tiers: glow, shimmer, ache",
+    "context": "Section 1"
+  },
+  {
+    "entity": "Identity",
+    "attribute": "relationship to memory",
+    "value": "memory defines identity; social rank correlates with amount and type of memory",
+    "context": "Section 1"
+  },
+  {
+    "entity": "Voice",
+    "attribute": "relationship to memory",
+    "value": "memory and voice linked; right memory can tilt a council debate or policy",
+    "context": "Section 1"
+  },
+  {
+    "entity": "Memory Ports",
+    "attribute": "feature",
+    "value": "ringed with lamps; guarded as daylight shipments once were guarded by coast guards",
+    "context": "Section 1"
+  },
+  {
+    "entity": "Memory transfer ceremony",
+    "attribute": "procedure",
+    "value": "quiet thank you to prism, bow, subtle hum signaling transfer to ledger",
+    "context": "Section 1"
+  },
+  {
+    "entity": "Grandmother",
+    "attribute": "memory",
+    "value": "bruised memory of late husband; memory fragment sought by family",
+    "context": "Common market scene"
+  },
+  {
+    "entity": "Brokers",
+    "attribute": "role",
+    "value": "interpret self\u2019s weather; know when a memory will burn bright or ruin you",
+    "context": "Section 2"
+  },
+  {
+    "entity": "Archivists",
+    "attribute": "role",
+    "value": "guardians of the true memory; catalog memory by weight, influence, and harm",
+    "context": "Section 2"
+  },
+  {
+    "entity": "Households",
+    "attribute": "structure",
+    "value": "own memory suites or rely on shared memory pools; pools repossessed during drought",
+    "context": "Section 2"
+  },
+  {
+    "entity": "Shared memory pools",
+    "attribute": "terms",
+    "value": "borrow a memory for a day; must return it as the sun recedes",
+    "context": "Section 2"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "effect on memory market",
+    "value": "memory shipments slow; markets thin; memory gates close earlier",
+    "context": "Section 3"
+  },
+  {
+    "entity": "Light rationing",
+    "attribute": "policy",
+    "value": "\"Your glow is your treaty\"; brightness determines status and voice",
+    "context": "Section 3"
+  },
+  {
+    "entity": "Rumor",
+    "attribute": "memory-harvesting machine",
+    "value": "machine at the city\u2019s edge that harvests memory directly from dreaming minds; could render markets obsolete and be illegal",
+    "context": "Section 3"
+  },
+  {
+    "entity": "Sable Rook",
+    "attribute": "identity",
+    "value": "memory broker; name evokes clink of coins in a velvet pocket",
+    "context": "Section 7"
+  },
+  {
+    "entity": "Councilwoman",
+    "attribute": "client",
+    "value": "seeks memory of a time when city leadership stood united; price includes sacrifice of privacy and collateral memories",
+    "context": "Section 7"
+  },
+  {
+    "entity": "Memory in broker parlor",
+    "attribute": "description",
+    "value": "memory tastes like salt and honey; glow like a blue ember; kept in a private corridor of light",
+    "context": "Section 7"
+  },
+  {
+    "entity": "Memory transfer transaction",
+    "attribute": "condition",
+    "value": "requires sacrifice of personal privacy and release of other memories as collateral",
+    "context": "Section 7"
+  },
+  {
+    "entity": "Ledger of Light",
+    "attribute": "structure",
+    "value": "three elements per memory: light, gauge, oath",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Lot 1734",
+    "attribute": "memory",
+    "value": "Father\u2019s Last Handshake",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Lot 1734",
+    "attribute": "Light",
+    "value": "Moderate",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Lot 1734",
+    "attribute": "Gauge",
+    "value": "High",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Lot 1734",
+    "attribute": "Oath",
+    "value": "May not be publicly exposed for 25 days",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Lot 1734",
+    "attribute": "Owner",
+    "value": "The Vellin Estate",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Lot 1734",
+    "attribute": "Note",
+    "value": "The memory is a father\u2019s final handshake; price paid in silence; glow a quiet breath",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Lot 2190",
+    "attribute": "memory",
+    "value": "\"First Wind on the Ocean Road\"",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Lot 2190",
+    "attribute": "transfer amount",
+    "value": "4.2 dusk units",
+    "context": "Document B"
+  },
+  {
+    "entity": "Lot 2190",
+    "attribute": "bearers",
+    "value": "Shipwright and Archivist",
+    "context": "Document B"
+  },
+  {
+    "entity": "Document C",
+    "attribute": "subject",
+    "value": "The Drought\u2019s Impact on the Ledger",
+    "context": "Document C"
+  },
+  {
+    "entity": "Document C",
+    "attribute": "summary",
+    "value": "If drought persists, daylight stock may be reallocated to essential memory; risk of erasing defining city memories",
+    "context": "Document C"
+  },
+  {
+    "entity": "Council Transcript 954-PR",
+    "attribute": "topic",
+    "value": "The Drought\u2019s Impact on the Ledger",
+    "context": "Document C"
+  },
+  {
+    "entity": "Common Brightness",
+    "attribute": "concept",
+    "value": "a proposed public system to store and share daylight memory for the city\u2019s people",
+    "context": "Section 11"
+  },
+  {
+    "entity": "Memory smugglers",
+    "attribute": "role",
+    "value": "distribute memory patches that people can carry for a day\u2019s brightness; patches are shared currency",
+    "context": "Section 11"
+  },
+  {
+    "entity": "A Day in the Life of a Memory Broker",
+    "attribute": "theme",
+    "value": "the broker weighs a memory against the city\u2019s needs; belief as a tide; belief as public trust",
+    "context": "Section 7"
+  },
+  {
+    "entity": "The Luminaires",
+    "attribute": "definition",
+    "value": "households with direct access to large parts of the ledger; can light extended families; hold the most significant voices",
+    "context": "Section 6"
+  },
+  {
+    "entity": "The Midline",
+    "attribute": "definition",
+    "value": "households who can borrow with future brightness repayment; voices are echoing undertones",
+    "context": "Section 6"
+  },
+  {
+    "entity": "The Grounded",
+    "attribute": "definition",
+    "value": "households with almost no access; survive on memory of meals, kindness, and shared stories; quiet social rank",
+    "context": "Section 6"
+  },
+  {
+    "entity": "Archivist\u2019s chamber",
+    "attribute": "setting",
+    "value": "shelves of memory like a forest of glass; veil stitched with memory runes",
+    "context": "Scene B"
+  },
+  {
+    "entity": "Scene A (Broker\u2019s parlor)",
+    "attribute": "theme",
+    "value": "memory as a light left in the house; ritual negotiation; memory appraised and transfer scheduled",
+    "context": "Scene A"
+  },
+  {
+    "entity": "Scene C (Household hall)",
+    "attribute": "theme",
+    "value": "memory transfer changes a family\u2019s claim to fortune; dialogue in metrics (slots, arrivals, borrowings, returns)",
+    "context": "Scene C"
+  },
+  {
+    "entity": "Glossary term: Ledger of Light",
+    "attribute": "definition",
+    "value": "The city\u2019s living, self-writing archive of memories, daylight, and social rank",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glossary term: Prism Script",
+    "attribute": "definition",
+    "value": "The script used to carve memory into prisms in the market",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glossary term: Access Right",
+    "attribute": "definition",
+    "value": "Legal permission to borrow or hold a memory",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glossary term: Glow, Shimmer, Ache",
+    "attribute": "definition",
+    "value": "Tiers of memory brightness and access",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glossary term: Light Rationing",
+    "attribute": "definition",
+    "value": "Policy to control daylight and memory supply during drought",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glossary term: Memory Broker",
+    "attribute": "definition",
+    "value": "Trader and interpreter of memories",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glossary term: Archivist",
+    "attribute": "definition",
+    "value": "Guardian and classifier of memory; conscience of the ledger",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glossary term: Dusk Unit",
+    "attribute": "definition",
+    "value": "Unit of currency used to price memory",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glossary term: Common Brightness",
+    "attribute": "definition",
+    "value": "Proposed public system to store and share daylight memory",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Ending: The City Listens",
+    "attribute": "theme",
+    "value": "memory as a public good; chorus of many lights; mosaic of small memories",
+    "context": "Ending"
+  },
+  {
+    "entity": "Final moral",
+    "attribute": "message",
+    "value": "To remember is social courage; memory is a public good, not a private privilege",
+    "context": "Ending"
+  },
+  {
+    "entity": "Let there be light we all share",
+    "attribute": "phrase",
+    "value": "A motto spoken at harbor-edge about shared memory",
+    "context": "Ending"
+  },
+  {
+    "entity": "Ledger of Light",
+    "attribute": "evolution",
+    "value": "becomes a co-created artifact: a living map of the city\u2019s shared memory",
+    "context": "Ending"
+  },
+  {
+    "entity": "Final scene",
+    "attribute": "action",
+    "value": "residents pass prisms containing memories; share memory across neighbors",
+    "context": "Ending"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "location description",
+    "value": "A city perched along a wind-swept coastline where sea spray tastes of citrus and ozone",
+    "context": "Geography/Intro"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "dominant features",
+    "value": "Layout, Light, and Wind govern daily life; memory and weather are stored and traded as living prisms",
+    "context": "Overview"
+  },
+  {
+    "entity": "Basalt escarpments",
+    "attribute": "effect on daylight",
+    "value": "Bend daylight into ribbons and sculpt the air, channeling wind",
+    "context": "Dawn view"
+  },
+  {
+    "entity": "Basalt escarpments",
+    "attribute": "interaction with wind",
+    "value": "Interact with air to steer gusts into narrow alleys; act as prisms within prisms",
+    "context": "Wind dynamics"
+  },
+  {
+    "entity": "Glass towers",
+    "attribute": "role in light",
+    "value": "Rise above the foam and catch the first breath of sun, reflecting it as pale-blue glimmers",
+    "context": "Dawn scene"
+  },
+  {
+    "entity": "Living Prism",
+    "attribute": "definition",
+    "value": "A lattice of crystalline memory built into the glass towers that drinks daylight and returns a brighter glow",
+    "context": "Core technology"
+  },
+  {
+    "entity": "Living Prism",
+    "attribute": "memory content",
+    "value": "Stores weather, crowds, rain scent, child\u2019s call, ship\u2019s winch, and market coinage as memory",
+    "context": "Memory architecture"
+  },
+  {
+    "entity": "Living Prism",
+    "attribute": "tradeability",
+    "value": "A sliver of light stored in a prism can be sold to a neighbor or used to illuminate an etching",
+    "context": "Economic exchange"
+  },
+  {
+    "entity": "Living Prism",
+    "attribute": "economic role",
+    "value": "Acts as a library of light by which memory, weather, and wealth are stored and traded",
+    "context": "Economic system"
+  },
+  {
+    "entity": "Harbor channels",
+    "attribute": "nature",
+    "value": "Corridors of glow reflecting and refracting daylight",
+    "context": "Harbor description"
+  },
+  {
+    "entity": "Harbor channels",
+    "attribute": "features",
+    "value": "Lined with glass-sheathed ships and wave-spirits formed by fog and spray",
+    "context": "Harbor description"
+  },
+  {
+    "entity": "First Prism",
+    "attribute": "location",
+    "value": "Towering glass column in the central square",
+    "context": "City landmarks"
+  },
+  {
+    "entity": "First Prism",
+    "attribute": "dawn behavior",
+    "value": "Begins gathering light as dawn appears",
+    "context": "Daily cycle"
+  },
+  {
+    "entity": "Sunfield Ledger",
+    "attribute": "currency",
+    "value": "Light-credits, a unit equal to brightness stored for one hour by a prism lattice",
+    "context": "Document description"
+  },
+  {
+    "entity": "Light-credits",
+    "attribute": "definition",
+    "value": "A unit of brightness stored for one hour by a prism lattice used as payment for light",
+    "context": "Currency"
+  },
+  {
+    "entity": "Prism-Minder Report",
+    "attribute": "content",
+    "value": "A gradient of glow must be maintained; prisms expand memory fields; Lightkeepers adjust lanterns and harbor-lantern network",
+    "context": "3rd Quarter report"
+  },
+  {
+    "entity": "Letter from a Glasswright",
+    "attribute": "message",
+    "value": "A prism's thirst must be listened to; a day's memory should be stored as a small warmth on a future face",
+    "context": "Apprentice letter"
+  },
+  {
+    "entity": "City Charter (Article IV, Sec 2)",
+    "attribute": "principle",
+    "value": "Light is public memory; no district may hold light as private right; wealth passes between people like weather",
+    "context": "Legal document"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "core concept",
+    "value": "A city of radiant glass towers that store daylight as living prisms, condensing memory, weather, and wealth into light",
+    "context": "Core description"
+  },
+  {
+    "entity": "Lightkeepers",
+    "attribute": "role",
+    "value": "Civil servants of sun and wind who ensure daylight distribution is balanced",
+    "context": "City governance"
+  },
+  {
+    "entity": "Lightkeepers",
+    "attribute": "tools",
+    "value": "Prism Vaults and harbor-lattice channels to manage daylight",
+    "context": "Governance"
+  },
+  {
+    "entity": "Drought of daylight",
+    "attribute": "impact",
+    "value": "Causes strain on the memory economy; districts contract brightness to sustain public life; prisms hold more memory per light unit",
+    "context": "Crisis"
+  },
+  {
+    "entity": "Evening Brilliance",
+    "attribute": "program",
+    "value": "Scheduled, controlled release of slight brightness after dusk",
+    "context": "Drought response"
+  },
+  {
+    "entity": "Memory-borrowing ceremony",
+    "attribute": "event",
+    "value": "Central square ritual where memory-prisms are exchanged as tokens of brightness for community access",
+    "context": "Crisis ritual"
+  },
+  {
+    "entity": "Liora",
+    "attribute": "role",
+    "value": "Senior archivist who leads memory-borrowing ceremonies",
+    "context": "Crisis scene"
+  },
+  {
+    "entity": "Drought Choir",
+    "attribute": "role",
+    "value": "Group translating weather into song",
+    "context": "Crisis scene"
+  },
+  {
+    "entity": "Wind-swap",
+    "attribute": "concept",
+    "value": "A system where districts barter microclimate advantages for shared light",
+    "context": "Social economy during drought"
+  },
+  {
+    "entity": "Memory wells",
+    "attribute": "concept",
+    "value": "Deeper prisms and larger reservoirs enabling longer daylight sharing",
+    "context": "Future infrastructure"
+  },
+  {
+    "entity": "Glasswrights",
+    "attribute": "role",
+    "value": "Craftspeople who create prisms, experiment with glass, and build memory-ladders",
+    "context": "Industry"
+  },
+  {
+    "entity": "Memory-ladders",
+    "attribute": "definition",
+    "value": "Structures linking prisms within and across districts to enable efficient daylight sharing",
+    "context": "Infrastructure"
+  },
+  {
+    "entity": "Microclimates",
+    "attribute": "concept",
+    "value": "Perfumes of place; scent and brightness influence daily life and memory storage",
+    "context": "Environmental texture"
+  },
+  {
+    "entity": "Yara",
+    "attribute": "role",
+    "value": "Seamstress in Market Lane who uses a memory prism to recall a customer\u2019s smile",
+    "context": "Daily life"
+  },
+  {
+    "entity": "Kito",
+    "attribute": "role",
+    "value": "Young Lightkeeper who speaks about adjusting the prismatic lattice for even brightness",
+    "context": "Watch scene"
+  },
+  {
+    "entity": "Marek",
+    "attribute": "role",
+    "value": "Elder supervisor who emphasizes brightness as a social treaty",
+    "context": "Watch scene"
+  },
+  {
+    "entity": "Ilan",
+    "attribute": "role",
+    "value": "Fisherman who gives a prism to his granddaughter and encourages remembering the day",
+    "context": "Harbor scene"
+  },
+  {
+    "entity": "Rhea",
+    "attribute": "relation",
+    "value": "Granddaughter of Ilan",
+    "context": "Harbor scene"
+  },
+  {
+    "entity": "Chimes and turbines",
+    "attribute": "soundscape",
+    "value": "Tuned glass chimes and wind-driven turbines maintain the rhythm of the memory economy",
+    "context": "Auditory environment"
+  },
+  {
+    "entity": "Observer\u2019s closing note",
+    "attribute": "message",
+    "value": "To know Gleamspire, walk its edges, listen to the language the city makes when it wakes and remembers; light is a trust and a currency",
+    "context": "Closing reflection"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "geographic setting",
+    "value": "a city where sea and city exchange a single breath, with resin-salted air and a dynamic shoreline",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "architecture",
+    "value": "radiant glass towers that soak daylight and store it as living prisms",
+    "context": "Context within Gleamspire\u2019s grand design"
+  },
+  {
+    "entity": "harbor walls",
+    "attribute": "surface condition",
+    "value": "smeared with hot resin and salt spray",
+    "context": "Coastal substrates"
+  },
+  {
+    "entity": "harbor walls",
+    "attribute": "substrate role",
+    "value": "semi-permissive substrate for life that thrives on illumination",
+    "context": "Coastal substrates"
+  },
+  {
+    "entity": "Luminellea marisecume",
+    "attribute": "type",
+    "value": "filamentous alga",
+    "context": "Species spotlight"
+  },
+  {
+    "entity": "Luminellea marisecume",
+    "attribute": "glow color",
+    "value": "twilight-blue",
+    "context": "Species spotlight"
+  },
+  {
+    "entity": "Luminellea marisecume",
+    "attribute": "habitat",
+    "value": "forms a soft carpet on resin-coated surfaces",
+    "context": "Species spotlight"
+  },
+  {
+    "entity": "Resinibacteria prismaticus",
+    "attribute": "type",
+    "value": "microbes that thrive on resin droplets and oils",
+    "context": "Species spotlight"
+  },
+  {
+    "entity": "Resinibacteria prismaticus",
+    "attribute": "metabolism",
+    "value": "metabolize resin fragments into simple sugars and excrete light as a byproduct",
+    "context": "Species spotlight"
+  },
+  {
+    "entity": "Resinibacteria prismaticus",
+    "attribute": "ecological impact",
+    "value": "can alter the resin\u2019s chemical makeup over weeks",
+    "context": "Species spotlight"
+  },
+  {
+    "entity": "Glimmering barnacles",
+    "attribute": "feature",
+    "value": "shells refract light into tiny prisms",
+    "context": "Species spotlight"
+  },
+  {
+    "entity": "Zostera pallida",
+    "attribute": "type",
+    "value": "pale-blue seagrass",
+    "context": "Species spotlight"
+  },
+  {
+    "entity": "Zostera pallida",
+    "attribute": "glow interaction",
+    "value": "reflects shoreline glow and glows with a cold radiance",
+    "context": "Species spotlight"
+  },
+  {
+    "entity": "Radiant pelagics",
+    "attribute": "type",
+    "value": "small, fast schooling fish",
+    "context": "Species spotlight"
+  },
+  {
+    "entity": "Radiant pelagics",
+    "attribute": "behavior",
+    "value": "drawn to illuminated niches under piers",
+    "context": "Species spotlight"
+  },
+  {
+    "entity": "triad",
+    "attribute": "components",
+    "value": "resin-substrate, luminous algae, resin-fed microbes",
+    "context": "Coastal substrates"
+  },
+  {
+    "entity": "Luminellea marisecume",
+    "attribute": "metabolism",
+    "value": "photosynthesis producing sugars",
+    "context": "Ecology description"
+  },
+  {
+    "entity": "Resinibacteria prismaticus",
+    "attribute": "metabolism",
+    "value": "digest resin and produce light as byproduct",
+    "context": "Ecology description"
+  },
+  {
+    "entity": "Field Log, Harbor District, Entry 42",
+    "attribute": "observation",
+    "value": "the resin remains pliant into late afternoon; algae glow barely noticeable until low sun; wall flora emits cold azure when lamp towers hum",
+    "context": "In-world document"
+  },
+  {
+    "entity": "The Radiant Alley",
+    "attribute": "statistic",
+    "value": "12% increase in daytime-light capture since resin-friendly walls along Dock Street",
+    "context": "The Ledger of Lanterns, Year of First Light"
+  },
+  {
+    "entity": "algal carpets",
+    "attribute": "response",
+    "value": "respond to long blue bursts of light",
+    "context": "Ecology"
+  },
+  {
+    "entity": "glow after sunset",
+    "attribute": "effect",
+    "value": "extends commercial hours for small crafts and glasswork shops",
+    "context": "Urban economy"
+  },
+  {
+    "entity": "shoreline glow",
+    "attribute": "correlation",
+    "value": "correlates with the city\u2019s capacity to store daylight; more glow means more daylight flows into prisms",
+    "context": "Energy budgeting"
+  },
+  {
+    "entity": "luminous barnacles",
+    "attribute": "economic use",
+    "value": "harvested for ornamental inlays in furniture and architectural features",
+    "context": "Coastal economy"
+  },
+  {
+    "entity": "pale-blue seagrass fibers",
+    "attribute": "economic use",
+    "value": "woven into ceremonial cords and lightweight ropes for docking lines",
+    "context": "Coastal economy"
+  },
+  {
+    "entity": "Resin-fed microbes",
+    "attribute": "economic use",
+    "value": "supply a slow burn used as flicker-source for low-energy lanterns in coastal plazas",
+    "context": "Coastal economy"
+  },
+  {
+    "entity": "Ritual of Dimming Winds",
+    "attribute": "purpose",
+    "value": "a dusk ceremony honoring creatures on resin-stabilized surfaces; aligns human ritual time with shore cycles",
+    "context": "Rituals"
+  },
+  {
+    "entity": "Pleinshore Observatory",
+    "attribute": "observation",
+    "value": "bloom of Luminellea marisecume occurs on days with vivid daylight and modest coastal breeze; microbially assisted glow peaks in late afternoon and recedes by early evening",
+    "context": "Field note"
+  },
+  {
+    "entity": "Biotic Ledger, Volume II",
+    "attribute": "correlation",
+    "value": "older resin surfaces host more stable microbial colonies; younger resin surfaces exhibit faster luminescence cycles",
+    "context": "In-world document"
+  },
+  {
+    "entity": "drought of daylight",
+    "attribute": "conflict",
+    "value": "an escalating shortage of photons reaching stored prisms inside glass towers",
+    "context": "Intersections with climate and conflict"
+  },
+  {
+    "entity": "drought consequences",
+    "attribute": "impacts",
+    "value": "reduced daylight-to-prism throughput, potential migration or starvation of luminous species, dimmed public spaces, sharpened economic inequalities",
+    "context": "Intersections with climate and conflict"
+  },
+  {
+    "entity": "Map of the Night",
+    "attribute": "artifact",
+    "value": "wall atlas showing planned photonic corridors that distribute daylight across streets and plazas during droughts",
+    "context": "In-world documents and artifacts"
+  },
+  {
+    "entity": "Memorandum of Light, Post-Long Night",
+    "attribute": "instruction",
+    "value": "preserve shore\u2019s glow as a shared treasure; protect microbial colonies and hospitable resin surfaces; remember shore glow as part of the city\u2019s memory and future",
+    "context": "In-world documents and artifacts"
+  },
+  {
+    "entity": "Harbor Field Manual",
+    "attribute": "purpose",
+    "value": "teaches workers to distinguish luminous algae from nuisance bioluminescence and how to handle resin-coated surfaces without injuring microbial colonies",
+    "context": "In-world documents and artifacts"
+  },
+  {
+    "entity": "Journal of Resin and Light",
+    "attribute": "type",
+    "value": "treatise on chemical interplay of resin, salt, and oil with sections on microbial resilience and photic feedback loops",
+    "context": "In-world documents and artifacts"
+  },
+  {
+    "entity": "Sea writes the city\u2019s weather in light",
+    "attribute": "core concept",
+    "value": "the coastal ecology powers the city with a distributed, evolving photonic economy",
+    "context": "Core city concept"
+  },
+  {
+    "entity": "Final note from the shore",
+    "attribute": "message",
+    "value": "harbor walls remain luminous as long as the day\u2019s memory lingers in resin; the sea is the sea\u2019s reply to the sun",
+    "context": "Conclusion"
+  },
+  {
+    "entity": "Environmental storytelling",
+    "attribute": "description",
+    "value": "a day begins with a blue-green halo, resin warms to honey-gold, algae glow pale blue, boats drift catching prisms, artisans lay new resin layers",
+    "context": "Environmental storytelling"
+  },
+  {
+    "entity": "Speculative futures",
+    "attribute": "vision",
+    "value": "endemic luminescent micro-forests along the shore; new species thriving on lower light; shoreline as a multi-layered photonic farm",
+    "context": "Speculative futures"
+  },
+  {
+    "entity": "wealth",
+    "attribute": "relation",
+    "value": "in Gleamspire, daylight as wealth is stored and distributed via prisms and glow",
+    "context": "Core concept"
+  }
+]

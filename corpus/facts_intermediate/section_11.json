@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "awakening sensation",
+    "value": "wakes to a music perceptible to the skin",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "air scent",
+    "value": "gusts of ozone and citrus",
+    "context": "Early atmospheric description"
+  },
+  {
+    "entity": "Radiant Quarter",
+    "attribute": "description",
+    "value": "district where towers' spires crown the harbor spray",
+    "context": "City district description"
+  },
+  {
+    "entity": "Sunward Engines",
+    "attribute": "function",
+    "value": "mint daylight each morning and distribute it via conduits of air and scent",
+    "context": "Daylight economy"
+  },
+  {
+    "entity": "daylight prisms",
+    "attribute": "role",
+    "value": "store daylight and refract it as diffuse glow on fa\u00e7ades",
+    "context": "Structural description"
+  },
+  {
+    "entity": "Lumen credits",
+    "attribute": "definition",
+    "value": "currency of stored daylight that can be traded, spent, or banked",
+    "context": "Financial system"
+  },
+  {
+    "entity": "Light Wells",
+    "attribute": "function",
+    "value": "subterranean reservoirs where daylight energy is stored in crystalline prisms",
+    "context": "Underground infrastructure"
+  },
+  {
+    "entity": "Water of Daylight",
+    "attribute": "process",
+    "value": "pumps drive energy from storage into the city via luminal arteries",
+    "context": "Wells operation"
+  },
+  {
+    "entity": "Dawn Gate",
+    "attribute": "initiative",
+    "value": "installation of auxiliary prisms at border gates to draw daylight from early hours and store it for later",
+    "context": "Drought policy"
+  },
+  {
+    "entity": "Light Council",
+    "attribute": "role",
+    "value": "governing body for daylight, memory, and mood",
+    "context": "City governance"
+  },
+  {
+    "entity": "Document 1",
+    "attribute": "subject",
+    "value": "Light Council memorandum on drought of daylight and prism stability",
+    "context": "Public record"
+  },
+  {
+    "entity": "Document 1",
+    "attribute": "content",
+    "value": "prisms feed on stored memory for warmth; ration daylight; accelerate Dawn Gate",
+    "context": "Policy text"
+  },
+  {
+    "entity": "Document 2",
+    "attribute": "location",
+    "value": "No. 9 Prism Walk, Radiant Quarter",
+    "context": "Field report"
+  },
+  {
+    "entity": "Prism Bank",
+    "attribute": "condition",
+    "value": "outer facets show microfractures; photon retention down 7% over two days",
+    "context": "Field report"
+  },
+  {
+    "entity": "Document 3",
+    "attribute": "subject",
+    "value": "sale of 12,000 lumen credits",
+    "context": "Public ledger"
+  },
+  {
+    "entity": "Document 3",
+    "attribute": "note",
+    "value": "drought prompts speculative tilt in daylight markets",
+    "context": "Public ledger"
+  },
+  {
+    "entity": "Document 4",
+    "attribute": "harbor gate",
+    "value": "light store at 83% capacity; daylight flow limited; citizens advised to conserve memory resources",
+    "context": "Transcript"
+  },
+  {
+    "entity": "Chief of Light and Memory",
+    "attribute": "speech",
+    "value": "reduce nonessential lighting; preserve morning memory for afternoon; strengthen scent corridors and wind chutes",
+    "context": "Public address"
+  },
+  {
+    "entity": "Memory pods",
+    "attribute": "deployment",
+    "value": "portable prism modules deployed to high-traffic zones to capture extra daylight",
+    "context": "Drought response"
+  },
+  {
+    "entity": "Memory circles",
+    "attribute": "function",
+    "value": "memory-sharing gatherings that preserve memory via social bonds",
+    "context": "Social infrastructure"
+  },
+  {
+    "entity": "Public schools",
+    "attribute": "curriculum",
+    "value": "scent-guided routes to memory libraries and lamp-prism memory projects",
+    "context": "Education"
+  },
+  {
+    "entity": "Elderly community centers",
+    "attribute": "design",
+    "value": "sun-warm shells scented with resin and citrus to evoke warmth",
+    "context": "Social infrastructure"
+  },
+  {
+    "entity": "Harbor front scent network",
+    "attribute": "function",
+    "value": "uses scent and lamp oil memory map to guide travelers",
+    "context": "Spatial navigation"
+  },
+  {
+    "entity": "Harbor captain",
+    "attribute": "instruction",
+    "value": "read the city's light like weather; prisms and chimes guide daylight; be fluent in optics",
+    "context": "Dialogue"
+  },
+  {
+    "entity": "Street poet",
+    "attribute": "perspective",
+    "value": "daylight is a memory price and a tool; memory should be traded for peace",
+    "context": "Public verse"
+  },
+  {
+    "entity": "Memory (concept)",
+    "attribute": "nature",
+    "value": "memories are patterns of light and color stored by prisms and shared by people",
+    "context": "Philosophical concept"
+  },
+  {
+    "entity": "Night Engineer",
+    "attribute": "diary",
+    "value": "memory of harbor; prisms hold drops of light as harbor souvenirs",
+    "context": "Diary entry"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "threat",
+    "value": "to memory and economy; prisms fray; memory becomes fragile",
+    "context": "Drought description"
+  }
+]

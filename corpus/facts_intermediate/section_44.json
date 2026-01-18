@@ -1,0 +1,398 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "Description",
+    "value": "A city whose skyline blooms with pale blue halos, a forest of glass that drinks daylight and spits it back as liquid memory.",
+    "context": "Opening description of the city"
+  },
+  {
+    "entity": "Council of Luminants",
+    "attribute": "Role",
+    "value": "Center of governance in Gleamspire; drafts drought policies, rationing schemes, and long-term light plans.",
+    "context": "Intro description"
+  },
+  {
+    "entity": "Council of Luminants",
+    "attribute": "Structure",
+    "value": "A triune throne where three orders rule in uneasy equilibrium.",
+    "context": "The Triune Governing Bodies section"
+  },
+  {
+    "entity": "Merchant-Priests",
+    "attribute": "Role",
+    "value": "Brokers of light and debt; set price of a spark and shape social contracts; control daylight quotas and memory market licenses.",
+    "context": "The Triune Governing Bodies section"
+  },
+  {
+    "entity": "Archivists",
+    "attribute": "Role",
+    "value": "Keepers of memory; assign remembering rights; regulate public recollection; license memory debts and memory dividends; decide which memories may be broadcast.",
+    "context": "The Triune Governing Bodies section"
+  },
+  {
+    "entity": "Engineers",
+    "attribute": "Role",
+    "value": "Builders and maintainers of daylight infrastructure; tune prisms; patch weather; enforce by adjusting prisms or spigots when needed.",
+    "context": "The Triune Governing Bodies section"
+  },
+  {
+    "entity": "Glass Wardens",
+    "attribute": "Role",
+    "value": "Enforcers who police daylight quotas and memory commerce; wear tempered glass armor; helmets house prisms; enforce quotas and memory rules.",
+    "context": "The Triune Governing Bodies section"
+  },
+  {
+    "entity": "Lumen Throne",
+    "attribute": "Description",
+    "value": "A sculpted three-segmented coronet that fits the wearer's head like a key; runes glow when power is exchanged and change color with the hour.",
+    "context": "The Triune Governing Bodies section"
+  },
+  {
+    "entity": "Gilded Confluence",
+    "attribute": "Description",
+    "value": "A chamber whose floor is a shallow pool of liquid light; a public display of private leverage, ceremony and currency.",
+    "context": "The Triune Governing Bodies section"
+  },
+  {
+    "entity": "Merchant-Priest",
+    "attribute": "Dialog",
+    "value": "\"If we cannot secure a predictable inflow of daylight, we must trade risk for consumption. The markets will endure a lean quarter if we do not pretend otherwise.\"",
+    "context": "Recent inner council session"
+  },
+  {
+    "entity": "Archivist",
+    "attribute": "Dialog",
+    "value": "\"Public memory cannot be starved without the memory of memory itself starving first. We must remind them what resilience looks like.\"",
+    "context": "Recent inner council session"
+  },
+  {
+    "entity": "Engineer",
+    "attribute": "Dialog",
+    "value": "\"The prisms have grown weary. We cannot press their surfaces without fracturing their will to glow. We must ration, but we must not unmake the city.\"",
+    "context": "Recent inner council session"
+  },
+  {
+    "entity": "Council proceedings",
+    "attribute": "Characterization",
+    "value": "Resemble a ritual with robes, chimes, glass vials, and wax-sealed petitions; policy travels like a scroll through frosted corridors.",
+    "context": "Casual observer description"
+  },
+  {
+    "entity": "Council committees",
+    "attribute": "Operation",
+    "value": "Work in murky anonymity; daylight policy appearance occurs only after prisms are calibrated and people fear or accept them.",
+    "context": "Decision-making section"
+  },
+  {
+    "entity": "Triune Council",
+    "attribute": "Composition",
+    "value": "Three houses: Merchant-Priests, Archivists, Engineers; each with its own ritual of prestige and sense of future obligations.",
+    "context": "Mechanisms of Power"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "Resource",
+    "value": "Held and traded by Archivists; past events, laws, and reputations that make neighborhoods legible to the state.",
+    "context": "Mechanisms of Power"
+  },
+  {
+    "entity": "Light",
+    "attribute": "Resource",
+    "value": "Viewed as a commodity; daylight quotas negotiated with industrial clients; quotas spun into neighborhood ordinances and policing.",
+    "context": "Mechanisms of Power"
+  },
+  {
+    "entity": "Memory Licenses",
+    "attribute": "Definition",
+    "value": "Licenses to store memory and to enroll as memory customers in the city\u2019s memory market.",
+    "context": "Mechanisms of Power"
+  },
+  {
+    "entity": "Memory Debts",
+    "attribute": "Definition",
+    "value": "Financial-like obligations tied to memories, including memory dividends and conditions affecting what residents may remember.",
+    "context": "Mechanisms of Power"
+  },
+  {
+    "entity": "Archivists",
+    "attribute": "Role (Summary)",
+    "value": "Guardians of the city\u2019s memory and mythos; curate archives to align with policy; decide what memories are broadcast or archived.",
+    "context": "Mechanisms of Power"
+  },
+  {
+    "entity": "Heliosmiths",
+    "attribute": "Role",
+    "value": "Engineers who maintain prism technology and weather control; public safety via daylight infrastructure; enforcement through technical means.",
+    "context": "Engineers description"
+  },
+  {
+    "entity": "Drones",
+    "attribute": "Tool",
+    "value": "Glass-like hummingbird drones used for warding signals and surveillance in memory governance.",
+    "context": "Engineers\u2019 tools"
+  },
+  {
+    "entity": "Memory storms",
+    "attribute": "Phenomenon",
+    "value": "Threats of unremembered recollections flooding street-level memory markets; dampened by weather-control devices.",
+    "context": "Engineers\u2019 tools"
+  },
+  {
+    "entity": "Wardens",
+    "attribute": "Process",
+    "value": "Alerted by chimes; memory access is inspected and quotas are enforced; memory commerce policed.",
+    "context": "Enforcement description"
+  },
+  {
+    "entity": "Wardens\u2019 Armor",
+    "attribute": "Description",
+    "value": "Armor of tempered glass; pale, translucent; internal fibers; prisms glow in helmets when inspecting usage.",
+    "context": "Enforcers description"
+  },
+  {
+    "entity": "Wardens\u2019 Log",
+    "attribute": "Content",
+    "value": "Patrol entries evidencing quota enforcement; memory licenses status; notes on public reaction.",
+    "context": "Enforcement documentation"
+  },
+  {
+    "entity": "Wardens\u2019 Patrol Log entry",
+    "attribute": "Line",
+    "value": "\"0907 hours: Patrol in the North Market. Quotas enforced. Toy memory vendors reminded: 'Remembering is not a right, it is a resource.'\"",
+    "context": "Sample log excerpt"
+  },
+  {
+    "entity": "Wardens\u2019 Patrol Log entry",
+    "attribute": "Observation",
+    "value": "Stock of memory credits thinning; public reactions more animated; risk of unrest begins to climb as glow wanes.",
+    "context": "Sample log excerpt"
+  },
+  {
+    "entity": "Public consent",
+    "attribute": "Method",
+    "value": "Manufactured through engineered memories of progress and safety; propaganda as memory advertisements and gentle neighborhood radiance.",
+    "context": "Public consent section"
+  },
+  {
+    "entity": "Memory advertisements",
+    "attribute": "Description",
+    "value": "Glossy posters that promote what should be remembered as having happened; brightness as a trust owed to others.",
+    "context": "Public consent section"
+  },
+  {
+    "entity": "Dissent",
+    "attribute": "Form",
+    "value": "Whisper networks; memories of less-regulated daylight; concerns about memory costs; fear daylight is engineered for control.",
+    "context": "Public dissent section"
+  },
+  {
+    "entity": "Blue hour",
+    "attribute": "Definition",
+    "value": "Last hour before twilight; price surge for momentary recollections; memory liquefaction before prisms cannot store them.",
+    "context": "Drought of daylight section"
+  },
+  {
+    "entity": "Light Quota Crisis",
+    "attribute": "Event",
+    "value": "Declared during drought; prisms show stress (cracking facets, dull glow, tremor); affects markets and daily life.",
+    "context": "Drought of daylight section"
+  },
+  {
+    "entity": "The harbor",
+    "attribute": "Mention",
+    "value": "Memory merchants whisper about the blue hour and price surges; prices for daylight memories rise.",
+    "context": "Drought of daylight section"
+  },
+  {
+    "entity": "Sola",
+    "attribute": "Occupation",
+    "value": "Tailor who works by a window with memory-glowing spools; memory threads stitched into fabric; uses small quanta of light.",
+    "context": "Street-level realities"
+  },
+  {
+    "entity": "Light Guard",
+    "attribute": "Term",
+    "value": "Name used by some shopkeepers who trade in daylight memory; alternative to 'citizen in debt'.",
+    "context": "Street-level realities"
+  },
+  {
+    "entity": "Ardent Velayne",
+    "attribute": "Identity",
+    "value": "Merchant-Priest of the Lumen Market; charismatic broker who arouses crowds while adjusting memory prices; cloak of pale gold; public speaker.",
+    "context": "Notable figures"
+  },
+  {
+    "entity": "Lyra Moth",
+    "attribute": "Identity",
+    "value": "Archivist of the Vaults; memorizes city\u2019s past; interprets past into policy; patient and precise.",
+    "context": "Notable figures"
+  },
+  {
+    "entity": "Kyn",
+    "attribute": "Identity",
+    "value": "Engineer-Commander of the Helios Chamber; pragmatic idealist; believes daylight must be earned through engineering; rejects magic solutions.",
+    "context": "Notable figures"
+  },
+  {
+    "entity": "Mirth Cairn",
+    "attribute": "Identity",
+    "value": "Captain of the Glass Wardens; stern, calm, disciplined; leadership in enforcement.",
+    "context": "Notable figures"
+  },
+  {
+    "entity": "The Quiet Glare",
+    "attribute": "Identity",
+    "value": "Dissenting memory-archer; rumor-born figure who nudges neighborhoods with sparks of remembered courage; operates unseen.",
+    "context": "Notable figures"
+  },
+  {
+    "entity": "Two minutes of dawn",
+    "attribute": "Reference",
+    "value": "\"Two minutes of dawn\u2014in your own memory, mind you.\"",
+    "context": "In-world dialogues"
+  },
+  {
+    "entity": "Light is a guest you must feed",
+    "attribute": "Quote",
+    "value": "\"Light is not a friend you can keep. It is a guest you must feed. If you don\u2019t pay, the guest leaves with what you remembered about it.\"",
+    "context": "In-world dialogues"
+  },
+  {
+    "entity": "Vendor",
+    "attribute": "Dialog",
+    "value": "\"Two minutes of dawn\u2014in your own memory, mind you.\"",
+    "context": "In-world dialogues"
+  },
+  {
+    "entity": "Glassed Wardens\u2019 briefing",
+    "attribute": "Dialog",
+    "value": "\"We are not here to erase. We are here to balance. The city glows on a tightrope\u2014one misstep, and the whole memory choir may stumble.\"",
+    "context": "In-world dialogues"
+  },
+  {
+    "entity": "Daylight Accord, Public Proclamation No. 77",
+    "attribute": "Document",
+    "value": "Issued by the Merchant-Priests; ratified by the Archivists; referenced by the Engineers; declares daylight to be rationed by the Light Quota and measured in memory units.",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Daylight Accord, Public Proclamation No. 77",
+    "attribute": "Opening line",
+    "value": "\"In the interest of social equilibrium and the sanctity of memory, daylight shall be rationed by the Light Quota, calibrated to the Prism Fleet\u2019s current capacity...\"",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Daylight Accord, Public Proclamation No. 77",
+    "attribute": "Preamble",
+    "value": "\"Light, while abundant in the heavens, is finite within the city\u2019s protective shell. Our safety and prosperity require a shared discipline\u2014every minute of glow a trust, every memory a promise.\"",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Daylight Accord, Public Proclamation No. 77",
+    "attribute": "Clauses",
+    "value": "Quotas assigned to neighborhoods by historical debt; memory licenses govern what can be remembered; penalties for overuse; schedule of upgrades to prisms.",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "The Memorandum: On Remembering the First Dawn",
+    "attribute": "Document",
+    "value": "Archivists\u2019 Sub-File, Year 412; excerpt emphasizes memory\u2019s vitality and caution against over-demand; public memory must be curated to match needs.",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Prism Maintenance Log",
+    "attribute": "Document",
+    "value": "Engineers\u2019 Field Note, Vol. 9; entry notes Prism Fleet Delta: facet integrity 86%; moisture/humidity effects; plan to re-bias core to reduce heat leakage.",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Wardens\u2019 Daily Patrol Log",
+    "attribute": "Document",
+    "value": "Glass Wardens\u2019 Logbook entry noting quotas enforced and reminders to memory vendors; observation of thinning memory credits and rising unrest.",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Gilded Confluence Minutes",
+    "attribute": "Document",
+    "value": "Transcript urging a temporary stabilization protocol to prevent memory flood during the blue hour; maintain visible ceremonial glow of progress.",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Sola",
+    "attribute": "Notable Fact",
+    "value": "Tailor who uses memory threads stitched into glass-spool fabrics; practices with limited light; interacts with Wardens; calls themselves part of Light Guard.",
+    "context": "Street-level realities"
+  },
+  {
+    "entity": "Light Quota",
+    "attribute": "Definition",
+    "value": "The amount of daylight a person may use per day, tracked by memory credits and enforced by the Glass Wardens.",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Memory License",
+    "attribute": "Definition",
+    "value": "Permission to store, buy, or sell memory in the city\u2019s memory economy.",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Prism Fleet",
+    "attribute": "Definition",
+    "value": "Network of daylight-collecting prisms that brighten Gleamspire\u2019s sky and store light as living energy.",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Glass Wardens",
+    "attribute": "Definition",
+    "value": "Enforcers who police light quotas and memory commerce.",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Memorandum",
+    "attribute": "Definition",
+    "value": "A written directive or note within the Archivists\u2019 or Council\u2019s files.",
+    "context": "Glossary"
+  },
+  {
+    "entity": "The Gilded Confluence",
+    "attribute": "Definition",
+    "value": "The central chamber where the Triune Council presides.",
+    "context": "Glossary"
+  },
+  {
+    "entity": "The Quiet Glare",
+    "attribute": "Definition",
+    "value": "A rumored dissenter who destabilizes the memory regime through stealthy acts of recollection.",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Helios Chamber",
+    "attribute": "Definition",
+    "value": "The division of Engineers responsible for maintaining prism technology and weather control.",
+    "context": "Glossary"
+  },
+  {
+    "entity": "The Drought of Daylight",
+    "attribute": "Theme",
+    "value": "A crisis where prisms crack, glow dulls, and daylight is scarce; leads to a shift from growth to survival in policy.",
+    "context": "Closing thoughts and crisis section"
+  },
+  {
+    "entity": "Two minutes of dawn",
+    "attribute": "Dialogue Context",
+    "value": "Represents a memory offering in daylight transactions; memory as currency and time-limited gift.",
+    "context": "In-world dialogues"
+  },
+  {
+    "entity": "The city\u2019s future options",
+    "attribute": "Possibilities",
+    "value": "Increase prism fleet capacity; strengthen social safety nets via reduced memory debt and higher quotas; consider de-commodifying memory and guaranteeing universal daylight; explore new prism technology to stabilize daylight.",
+    "context": "Possible resolutions and risks"
+  },
+  {
+    "entity": "Dreamer figures",
+    "attribute": "Notable Individuals",
+    "value": "Ardent Velayne (Merchant-Priest), Lyra Moth (Archivist), Kyn (Engineer-Commander), Mirth Cairn (Captain of Glass Wardens), The Quiet Glare (dissenter).",
+    "context": "Notable figures list"
+  }
+]

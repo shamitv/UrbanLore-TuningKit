@@ -1,0 +1,320 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "city description",
+    "value": "city of radiant glass towers that swallow the sun whole and spit it back as living prisms\u2014memory distilled into light, weather braided into wealth",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "street glow",
+    "value": "streets glitter with a pale blue glow that does not quite belong to day or night",
+    "context": "Overview"
+  },
+  {
+    "entity": "Drought Day",
+    "attribute": "concept",
+    "value": "an economic recalibration, a coercive negotiation, a spark of resistance",
+    "context": "The Drought Day description"
+  },
+  {
+    "entity": "Light",
+    "attribute": "role",
+    "value": "currency, memory, and weather",
+    "context": "The Redefinition of Light"
+  },
+  {
+    "entity": "Prism vaults",
+    "attribute": "function",
+    "value": "store daylight, compress it into traits of climate and knowledge, release it in pulses",
+    "context": "The Redefinition of Light"
+  },
+  {
+    "entity": "Elite Towers",
+    "attribute": "habitation",
+    "value": "sealed heat towers",
+    "context": "Urban topography"
+  },
+  {
+    "entity": "Elite Towers",
+    "attribute": "security feature",
+    "value": "doors require biometric seals and are closed to those outside the allotted light tier",
+    "context": "Urban topography"
+  },
+  {
+    "entity": "Middle Terraces",
+    "attribute": "habitation",
+    "value": "crowded terraces with glowing balconies shifting with the city\u2019s mood",
+    "context": "Urban topography"
+  },
+  {
+    "entity": "Poor Alleys",
+    "attribute": "habitation",
+    "value": "shuttered alleys",
+    "context": "Urban topography"
+  },
+  {
+    "entity": "Access to light",
+    "attribute": "consequence",
+    "value": "becomes access to truth; truth is a scarce resource",
+    "context": "Under drought"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "core concept",
+    "value": "memory, weather, and wealth condensed into light",
+    "context": "Overview"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "assets",
+    "value": "diaries, weather forecasts, songs remembered in glass",
+    "context": "Core concept"
+  },
+  {
+    "entity": "Weather data",
+    "attribute": "governance",
+    "value": "common lifeblood of city governance",
+    "context": "Core concept"
+  },
+  {
+    "entity": "Wealth",
+    "attribute": "measurement",
+    "value": "prisms stored and released",
+    "context": "Core concept"
+  },
+  {
+    "entity": "Wealth",
+    "attribute": "usage",
+    "value": "weaponized instrument to discipline or bribe",
+    "context": "Core concept"
+  },
+  {
+    "entity": "Light",
+    "attribute": "currency status",
+    "value": "the city\u2019s most intimate currency",
+    "context": "The drought Day"
+  },
+  {
+    "entity": "Light Covenant",
+    "attribute": "definition",
+    "value": "a signed document that binds memory access to labor or loyalty",
+    "context": "Drought Day"
+  },
+  {
+    "entity": "Light Allocation Protocol",
+    "attribute": "document",
+    "value": "Public Notice (City Archive, Drought Day)",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Light Allocation Protocol",
+    "attribute": "provisions",
+    "value": "daylight reserves are limited; prisms operate on a tiered schedule; access to weather and memory data rationed by light credits; unauthorized access punished",
+    "context": "Public Notice"
+  },
+  {
+    "entity": "Day 12, Season of Sparse Suns",
+    "attribute": "ledger entry",
+    "value": "\"The prisms have learned a new language: the language of slower trust. In this hour, the city remembers more with less\u2014more patience, more pruned memory, more reliance on simple acts of kindness that shine in the dark.\"",
+    "context": "Ledger Page"
+  },
+  {
+    "entity": "Poor family",
+    "attribute": "action",
+    "value": "lent a memory chart to a neighbor",
+    "context": "Ledger Page"
+  },
+  {
+    "entity": "Middle-tier teacher",
+    "attribute": "action",
+    "value": "shared a plan for a makeshift lamp-and-mirror system",
+    "context": "Ledger Page"
+  },
+  {
+    "entity": "Elite aide",
+    "attribute": "action",
+    "value": "offered a measure of daylight in exchange for a future favor",
+    "context": "Ledger Page"
+  },
+  {
+    "entity": "Public Song (Memory Choir, Terrace Choirs)",
+    "attribute": "lyric",
+    "value": "\"We remember the sun that gave us birth, we remember the prisms that gave us mind; when the day becomes a handful of ash, we will remember how to sing with a light that does not rely on the sky\"",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Elite",
+    "attribute": "role in social contract",
+    "value": "provide memory protection and climate stability",
+    "context": "The social contract under stress"
+  },
+  {
+    "entity": "Middle Class",
+    "attribute": "role in social contract",
+    "value": "administration and trade",
+    "context": "The social contract under stress"
+  },
+  {
+    "entity": "Poor",
+    "attribute": "role in social contract",
+    "value": "logistics, maintenance, and survival calculus",
+    "context": "The social contract under stress"
+  },
+  {
+    "entity": "Drought Day",
+    "attribute": "impact on social terms",
+    "value": "disrupts the terms of the social contract; elites negotiate with memory keepers; middle with debt networks; poor improvise with solidarity",
+    "context": "The social contract under stress"
+  },
+  {
+    "entity": "Memory sharing networks",
+    "attribute": "form",
+    "value": "midnight 'memory circles' where stories, songs, and weather forecasts are traded for favors",
+    "context": "Resistance and the new city bottom line"
+  },
+  {
+    "entity": "Memory barter markets",
+    "attribute": "form",
+    "value": "places where people exchange old stories and weather forecasts for daylight credits or protection",
+    "context": "Resistance and the new city bottom line"
+  },
+  {
+    "entity": "Secret light-sharing networks",
+    "attribute": "form",
+    "value": "covert distribution system lending light for labor or protest",
+    "context": "Resistance and the new city bottom line"
+  },
+  {
+    "entity": "Public demonstrations",
+    "attribute": "form",
+    "value": "gatherings on terrace edges that bloom into a chorus of chimes",
+    "context": "Resistance and the new city bottom line"
+  },
+  {
+    "entity": "Resistance",
+    "attribute": "emerges from",
+    "value": "coercion but also organized response",
+    "context": "The drought Day description"
+  },
+  {
+    "entity": "Threefold crisis",
+    "attribute": "aspects",
+    "value": "Memory, Weather, Lifeblood (Light, memory, weather)",
+    "context": "The threefold crisis"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "risk under drought",
+    "value": "strong fear drought will erode shared memory; memory banks may become private possessions",
+    "context": "The threefold crisis"
+  },
+  {
+    "entity": "Weather",
+    "attribute": "effect under drought",
+    "value": "prisms feel pressure; weather data fractures into micro-climates; temperature becomes unpredictable",
+    "context": "The threefold crisis"
+  },
+  {
+    "entity": "Lifeblood",
+    "attribute": "definition",
+    "value": "light, memory, and weather are life-sustaining forces",
+    "context": "The threefold crisis"
+  },
+  {
+    "entity": "Resistance",
+    "attribute": "character",
+    "value": "combines quiet acts and organized response",
+    "context": "Resistance and the new city bottom line"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "future covenant",
+    "value": "daylight for all, memory shared, weather governed by a chorus of voices from the blocks",
+    "context": "The long arc"
+  },
+  {
+    "entity": "Prism vaults",
+    "attribute": "definition",
+    "value": "living prisms that store daylight",
+    "context": "Key terms and concepts for the Drought Day section"
+  },
+  {
+    "entity": "Light Covenant",
+    "attribute": "definition",
+    "value": "formal agreement linking daylight access to labor and loyalty",
+    "context": "Key terms and concepts for the Drought Day section"
+  },
+  {
+    "entity": "Memory banks",
+    "attribute": "definition",
+    "value": "the city\u2019s stores of weather data, species knowledge, and historical memory",
+    "context": "Key terms and concepts for the Drought Day section"
+  },
+  {
+    "entity": "Shadow economies",
+    "attribute": "definition",
+    "value": "informal networks that barter light, memory, and favor",
+    "context": "Key terms and concepts for the Drought Day section"
+  },
+  {
+    "entity": "Chimes and turbines",
+    "attribute": "definition",
+    "value": "the city\u2019s soundscape, symbolizing the whirr of governance and the breath of the people",
+    "context": "Key terms and concepts for the Drought Day section"
+  },
+  {
+    "entity": "Governor's envoy",
+    "attribute": "action",
+    "value": "took Lio Vare's pocket lantern when offered",
+    "context": "Diary Excerpt (Lio Vare, Lightkeeper)"
+  },
+  {
+    "entity": "Lio Vare",
+    "attribute": "role",
+    "value": "Lightkeeper",
+    "context": "Diary Excerpt (Lio Vare, Lightkeeper)"
+  },
+  {
+    "entity": "Seal room",
+    "attribute": "description",
+    "value": "the room with vault lids down tight",
+    "context": "Diary Excerpt (Lio Vare, Lightkeeper)"
+  },
+  {
+    "entity": "Night markets",
+    "attribute": "offer",
+    "value": "\"dawn in a bottle\"\u2014a small vial of light saline",
+    "context": "Scenes of daily life during Reduced Light"
+  },
+  {
+    "entity": "Terrace library",
+    "attribute": "function",
+    "value": "memory records accessible during certain hours; librarian directs a beam with a reflective shield",
+    "context": "Scenes of daily life during Reduced Light"
+  },
+  {
+    "entity": "Alley gaslight crew",
+    "attribute": "work",
+    "value": "salvage old prisms, repair cracked ones, repurpose into memory conduits",
+    "context": "Scenes of daily life during Reduced Light"
+  },
+  {
+    "entity": "Elite salon",
+    "attribute": "feature",
+    "value": "memory archive opened to invited guests; host proclaims stewardship of daylight",
+    "context": "Scenes of daily life during Reduced Light"
+  },
+  {
+    "entity": "Final reflection",
+    "attribute": "theme",
+    "value": "daylight as a right, memory as a shared inheritance, weather as something blocks help temper",
+    "context": "Closing note"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "arc outcome",
+    "value": "the prism\u2019s edge reveals not only what is lost, but what might be saved by collective commitment to light, memory, and shared weather",
+    "context": "Closing note"
+  }
+]

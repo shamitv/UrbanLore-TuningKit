@@ -1,0 +1,104 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "city",
+    "context": "Description: Gleamspire is described as a city related to radiant glass towers."
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "architecture",
+    "value": "radiant glass towers",
+    "context": "Description: city features radiant glass towers."
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "daylight handling",
+    "value": "soaks daylight and stores it as living prisms",
+    "context": "World-building detail: daylight is absorbed and stored as prisms."
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "daylight storage form",
+    "value": "living prisms",
+    "context": "The stored daylight exists as living prisms."
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "power source",
+    "value": "living prisms of light",
+    "context": "The prisms power the civilization."
+  },
+  {
+    "entity": "memory",
+    "attribute": "condensed into",
+    "value": "light",
+    "context": "Civilization described as memory condensed into light."
+  },
+  {
+    "entity": "weather",
+    "attribute": "condensed into",
+    "value": "light",
+    "context": "Civilization described as weather condensed into light."
+  },
+  {
+    "entity": "wealth",
+    "attribute": "condensed into",
+    "value": "light",
+    "context": "Civilization described as wealth condensed into light."
+  },
+  {
+    "entity": "air",
+    "attribute": "taste",
+    "value": "ozone and citrus",
+    "context": "Vibe description."
+  },
+  {
+    "entity": "streets",
+    "attribute": "glow",
+    "value": "pale blue glow",
+    "context": "Vibe description."
+  },
+  {
+    "entity": "footsteps",
+    "attribute": "sound",
+    "value": "echo on glass and marble",
+    "context": "Vibe description."
+  },
+  {
+    "entity": "scents",
+    "attribute": "composition",
+    "value": "hot resin, sea spray, and lamp oil",
+    "context": "Vibe description."
+  },
+  {
+    "entity": "soundscape",
+    "attribute": "composition",
+    "value": "chorus of chimes, turbines, and distant surf",
+    "context": "Vibe description."
+  },
+  {
+    "entity": "drought of daylight",
+    "attribute": "threat",
+    "value": "threatens prisms",
+    "context": "Main conflict."
+  },
+  {
+    "entity": "prisms",
+    "attribute": "vulnerability",
+    "value": "threatened by drought of daylight",
+    "context": "Main conflict."
+  },
+  {
+    "entity": "factions",
+    "attribute": "decision",
+    "value": "between rationing energy to preserve memory or unleashing prisms to the wild",
+    "context": "Main conflict."
+  },
+  {
+    "entity": "rebel movement",
+    "attribute": "demand",
+    "value": "freedom from light control and memory commodification",
+    "context": "Main conflict."
+  }
+]

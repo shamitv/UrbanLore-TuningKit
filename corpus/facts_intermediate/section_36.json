@@ -1,0 +1,434 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "city",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "begins_day_with",
+    "value": "chorus of chimes and ozone-tinted air",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Towers of glass",
+    "attribute": "action_on_sun",
+    "value": "drink the sun, swallow its heat, distill it into living prisms that pulse with memory",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Living prisms",
+    "attribute": "property",
+    "value": "pulse with memory",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Light",
+    "attribute": "roles",
+    "value": "currency, weather, and history",
+    "context": "Overview"
+  },
+  {
+    "entity": "Light",
+    "attribute": "description",
+    "value": "braided into a single stubborn thread",
+    "context": "Overview"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "effect_on_kin",
+    "value": "erases cadence of kin (voices that would carry surname across generations)",
+    "context": "Drought impact"
+  },
+  {
+    "entity": "Family",
+    "attribute": "definition",
+    "value": "pattern of memory kept alight by ritual",
+    "context": "Overview"
+  },
+  {
+    "entity": "Rites of Memory",
+    "attribute": "components",
+    "value": "Weddings, Funerals, Quiet Rebellion",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "aura_scent",
+    "value": "electric rain, citrus rind, and resin heated by engines",
+    "context": "Description"
+  },
+  {
+    "entity": "Air",
+    "attribute": "taste",
+    "value": "ozone and lemon peel",
+    "context": "Description"
+  },
+  {
+    "entity": "Walking streets",
+    "attribute": "composition",
+    "value": "boardwalks of pale glass and rows of marble",
+    "context": "Description"
+  },
+  {
+    "entity": "Pale blue glow",
+    "attribute": "status",
+    "value": "never truly dies, even in daylight\u2019s absence",
+    "context": "Description"
+  },
+  {
+    "entity": "Glass harvesters",
+    "attribute": "trade",
+    "value": "shards of memory in markets",
+    "context": "Markets"
+  },
+  {
+    "entity": "Kin",
+    "attribute": "gathering_location",
+    "value": "apartments around small prisms",
+    "context": "Residential"
+  },
+  {
+    "entity": "Small prisms",
+    "attribute": "glow",
+    "value": "glimmer with remembered summers",
+    "context": "Residential"
+  },
+  {
+    "entity": "Rites of Memory",
+    "attribute": "role_during_drought",
+    "value": "only way to keep a shared future visible",
+    "context": "Drought"
+  },
+  {
+    "entity": "Living Prism",
+    "attribute": "type",
+    "value": "creature of light",
+    "context": "Wedding (Section 1)"
+  },
+  {
+    "entity": "Living Prism",
+    "attribute": "behaviors",
+    "value": "drinks the day and exudes memory",
+    "context": "Wedding (Section 1)"
+  },
+  {
+    "entity": "Arch of Luminance",
+    "attribute": "role",
+    "value": "height of the Living Prism",
+    "context": "Wedding (Section 1)"
+  },
+  {
+    "entity": "Arch of Luminance",
+    "attribute": "origin",
+    "value": "grown from a single seed of sun and the breath of the city\u2019s oldest glassmakers",
+    "context": "Wedding (Section 1)"
+  },
+  {
+    "entity": "Living Prism",
+    "attribute": "memory_source",
+    "value": "memory of every marriage that has stood beneath it",
+    "context": "Wedding (Section 1)"
+  },
+  {
+    "entity": "Liora",
+    "attribute": "veil_material",
+    "value": "lattice of ultrafine glass threads",
+    "context": "Wedding detail"
+  },
+  {
+    "entity": "Mako",
+    "attribute": "carried_item",
+    "value": "heirloom prism\u2014the family\u2019s oldest memory-bound relic",
+    "context": "Wedding detail"
+  },
+  {
+    "entity": "Heirloom prism",
+    "attribute": "survivals",
+    "value": "droughts and floods, wars and reforms",
+    "context": "Wedding detail"
+  },
+  {
+    "entity": "Archivist of Lanterns",
+    "attribute": "role",
+    "value": "officiant",
+    "context": "Wedding"
+  },
+  {
+    "entity": "Crowd",
+    "attribute": "role",
+    "value": "families whose voices are the second instrument of the ceremony",
+    "context": "Wedding"
+  },
+  {
+    "entity": "Archivist of Lanterns",
+    "attribute": "speech",
+    "value": "\"Let the light witness you; Let memory choose you, not as you were yesterday, but as you will become in the light you forge together\"",
+    "context": "Wedding"
+  },
+  {
+    "entity": "Grandmother",
+    "attribute": "voice",
+    "value": "flickers through the prism, memory-song travels along the fiber-optic nerves of the people\u2019s memory-thread",
+    "context": "Wedding"
+  },
+  {
+    "entity": "Liora",
+    "attribute": "speech_style",
+    "value": "cadence learned from the city\u2019s old poets",
+    "context": "Wedding"
+  },
+  {
+    "entity": "Liora",
+    "attribute": "vow_quote",
+    "value": "\"We have learned to listen to what light forgets to tell us; we will dawn together; relinquish some brightness to keep others safe\"",
+    "context": "Wedding"
+  },
+  {
+    "entity": "Mako",
+    "attribute": "vow_response",
+    "value": "\"We lay it out in the public air... If the prism shines for us, it shines for all who belong to us\"",
+    "context": "Wedding"
+  },
+  {
+    "entity": "Memory Lamps",
+    "attribute": "contents",
+    "value": "distilled recollection (moments of childhood laughter, etc.)",
+    "context": "Wedding"
+  },
+  {
+    "entity": "Covenant of Shared Light",
+    "attribute": "type",
+    "value": "Ceremony Transcript",
+    "context": "Document 3rd Moon 421 AG"
+  },
+  {
+    "entity": "Covenant of Shared Light",
+    "attribute": "content",
+    "value": "share light as a duty; withhold light only to preserve safety or memory of those who cannot speak; keep prism fed with recollections until the city learns the difference between scarcity and solidarity",
+    "context": "Document 3rd Moon 421 AG"
+  },
+  {
+    "entity": "Nyxara",
+    "attribute": "title",
+    "value": "priestess of the Memory Port",
+    "context": "Funeral"
+  },
+  {
+    "entity": "Nyxara",
+    "attribute": "prism",
+    "value": "Nyxara\u2019s prism sang when drought pressed in",
+    "context": "Funeral"
+  },
+  {
+    "entity": "Ryn",
+    "attribute": "role",
+    "value": "young sibling who speaks at Nyxara\u2019s funeral",
+    "context": "Funeral"
+  },
+  {
+    "entity": "Nyxara\u2019s Memorial Ledger",
+    "attribute": "location",
+    "value": "Fragment, 4th Moon, 421 AG",
+    "context": "Funeral Document"
+  },
+  {
+    "entity": "Nyxara\u2019s Memorial Ledger",
+    "attribute": "content",
+    "value": "memory-light must be redistributed among kin; drought cannot erase what makes us kin",
+    "context": "Funeral Document"
+  },
+  {
+    "entity": "Nyxara\u2019s memory",
+    "attribute": "legacy",
+    "value": "to be kept alive by telling stories aloud; portion of light set aside to feed Nyxara\u2019s memory\u2019s glow",
+    "context": "Funeral Act"
+  },
+  {
+    "entity": "Memory-Lit Language",
+    "attribute": "invention",
+    "value": "language formed by light itself",
+    "context": "Section 3"
+  },
+  {
+    "entity": "Memory-Lit Language",
+    "attribute": "binding_mechanism",
+    "value": "recollections glow through memory-lit arch and travel memory-ways to become new memories",
+    "context": "Section 3"
+  },
+  {
+    "entity": "Diaries of Lantern Street",
+    "attribute": "publisher",
+    "value": "pamphlet by a guild of memory-keepers",
+    "context": "Section 3"
+  },
+  {
+    "entity": "Memory-Lit Language Principle",
+    "attribute": "rule1",
+    "value": "Speak only what you want to grow brighter in the eyes of kin; speak for keeping others visible",
+    "context": "Section 3"
+  },
+  {
+    "entity": "Memory-Lit Language Principle",
+    "attribute": "rule2",
+    "value": "Do not weaponize memory as a weapon against those who cannot hold light as well as you",
+    "context": "Section 3"
+  },
+  {
+    "entity": "Memory-Lit Language Principle",
+    "attribute": "rule3",
+    "value": "When withholding light, seal your mouth with a shared vow so the memory will still travel through others who care for you",
+    "context": "Section 3"
+  },
+  {
+    "entity": "Tongue of Light",
+    "attribute": "type",
+    "value": "Workshop Notes",
+    "context": "Section 3"
+  },
+  {
+    "entity": "Tongue of Light",
+    "attribute": "origin",
+    "value": "4th Moon, 420 AG",
+    "context": "Section 3"
+  },
+  {
+    "entity": "Tongue of Light",
+    "attribute": "description",
+    "value": "language is lit; requires partner with a memory; each sentence is a prism; each memory an ether",
+    "context": "Workshop Notes"
+  },
+  {
+    "entity": "Tongue of Light",
+    "attribute": "vocabulary",
+    "value": "Bright, Braid, Echo, Hearth, Lumen, Withhold",
+    "context": "Workshop Notes"
+  },
+  {
+    "entity": "Tongue of Light",
+    "attribute": "practice",
+    "value": "Two kin sit with memory-lamp, backs to lamp, speak only what lamp invites, pause as lamp glows warmer",
+    "context": "Workshop Notes"
+  },
+  {
+    "entity": "Tongue of Light",
+    "attribute": "purpose",
+    "value": "to reforge familial obligations under shifting weather and bind kin to mutual responsibility and trust",
+    "context": "Workshop Notes"
+  },
+  {
+    "entity": "Tongue of Light",
+    "attribute": "outcome",
+    "value": "fosters quiet resilience; glows; reciprocity; memory ledger",
+    "context": "Workshop Notes"
+  },
+  {
+    "entity": "Quiet Rebellion",
+    "attribute": "concept",
+    "value": "The Family as a Light-Stockade",
+    "context": "Section 4"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "effect_on_prism_economy",
+    "value": "prism economy depends on memory, wealth, and weather",
+    "context": "Section 4"
+  },
+  {
+    "entity": "Memory-tree",
+    "attribute": "structure",
+    "value": "vertical lattice hung with memory-lamps",
+    "context": "Section 4"
+  },
+  {
+    "entity": "Widow",
+    "attribute": "action",
+    "value": "forms a circle of neighboring families around memory-tree",
+    "context": "Section 4"
+  },
+  {
+    "entity": "Memory-tree",
+    "attribute": "light",
+    "value": "grows brighter with more stories shared",
+    "context": "Section 4"
+  },
+  {
+    "entity": "Ward of exile family",
+    "attribute": "action",
+    "value": "provides refuge to young kin who lost access to a unifying prism",
+    "context": "Section 4"
+  },
+  {
+    "entity": "Mutual Light Pact",
+    "attribute": "type",
+    "value": "Draft",
+    "context": "Section 4"
+  },
+  {
+    "entity": "Mutual Light Pact",
+    "attribute": "origin_date",
+    "value": "2nd Moon, 421 AG",
+    "context": "Section 4"
+  },
+  {
+    "entity": "Mutual Light Pact",
+    "attribute": "content",
+    "value": "pledge to share daylight, exchange memory as currency, shelter strangers, refuse sale of light to government or institutions that hoard it; withhold light only with consent of those bearing heaviest memories",
+    "context": "Section 4"
+  },
+  {
+    "entity": "New Dawn",
+    "attribute": "concept",
+    "value": "the not-quite-welcome truth; memory-language; kinship as weather system",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Wedding",
+    "attribute": "conclusion",
+    "value": "inclusive, forward-leaning celebration of a shared dawn",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Nyxara",
+    "attribute": "funeral_response",
+    "value": "not explicitly stated; memory preserved in kinship through Nyxara\u2019s memory",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "ritual_economy",
+    "value": "memory is a renewable resource; light is a shared inheritance",
+    "context": "Conclusion"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "weather_forecast",
+    "value": "kinship remains the city\u2019s weather forecast",
+    "context": "Conclusion"
+  },
+  {
+    "entity": "Arch of Luminance",
+    "attribute": "relationship",
+    "value": "monument tended by Archivists of Lanterns and Glasswrights\u2019 Guild",
+    "context": "Artifacts"
+  },
+  {
+    "entity": "Memory Port",
+    "attribute": "function",
+    "value": "district along the shoreline where prisms align with tidal cycles to capture memory and forecast futures",
+    "context": "Artifacts"
+  },
+  {
+    "entity": "Memory Ledger",
+    "attribute": "function",
+    "value": "public archive recording who has shared light, who has withheld it, and how those choices affected kin",
+    "context": "Artifacts"
+  },
+  {
+    "entity": "Memory-Tree",
+    "attribute": "function",
+    "value": "public installation where memory-lamps attach to a living lattice; light increases with each shared memory",
+    "context": "Artifacts"
+  }
+]

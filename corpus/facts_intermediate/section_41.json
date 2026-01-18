@@ -1,0 +1,260 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "description",
+    "value": "A city of radiant glass towers that soak daylight and store it as living prisms.",
+    "context": "Introduction to the city in the entry"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "daylight economy",
+    "value": "Daylight is a currency, a memory, a weapon, a trust, and a threat.",
+    "context": "In-world description of daylight's role"
+  },
+  {
+    "entity": "Rebel Movement",
+    "attribute": "type",
+    "value": "Diverse coalition",
+    "context": "Description of the movement"
+  },
+  {
+    "entity": "Rebel Movement",
+    "attribute": "goal",
+    "value": "Communal light and free memory",
+    "context": "Mission statement"
+  },
+  {
+    "entity": "Rebel Movement",
+    "attribute": "arrival",
+    "value": "Arrives with weathered notebooks and a map drawn in margins of old ledgers",
+    "context": "Early in the narrative"
+  },
+  {
+    "entity": "Rebel Movement",
+    "attribute": "chapters",
+    "value": "Lumen Commons, Shade Syndicate, Quiet Choir, Forge of Dawn",
+    "context": "Organization structure"
+  },
+  {
+    "entity": "Lumen Commons",
+    "attribute": "core belief",
+    "value": "Light is a public good; weather and memory should be financed by communal daylight",
+    "context": "Faction portrait"
+  },
+  {
+    "entity": "Lumen Commons",
+    "attribute": "tactics",
+    "value": "Mass daylight-sharing rituals; cooperative prism farms; memory vault co-ops open for public study",
+    "context": "Faction portrait"
+  },
+  {
+    "entity": "Shade Syndicate",
+    "attribute": "core belief",
+    "value": "Light carries memory of violence as well as joy; control of prisms equals social order; insiders must guard",
+    "context": "Faction portrait"
+  },
+  {
+    "entity": "Shade Syndicate",
+    "attribute": "tactics",
+    "value": "Legal disruptions of monopolies; gray-market prism swaps; memory privatization software",
+    "context": "Faction portrait"
+  },
+  {
+    "entity": "Quiet Choir",
+    "attribute": "core belief",
+    "value": "Daylight as a social contract that grows through transparent governance and accountable science",
+    "context": "Faction portrait"
+  },
+  {
+    "entity": "Quiet Choir",
+    "attribute": "tactics",
+    "value": "Public lectures on prism ethics; symposia; court petitions for daylight redistribution",
+    "context": "Faction portrait"
+  },
+  {
+    "entity": "Forge of Dawn",
+    "attribute": "core belief",
+    "value": "Private control of power makes a city vulnerable; nationalize critical daylight grafts with citizen oversight",
+    "context": "Faction portrait"
+  },
+  {
+    "entity": "Forge of Dawn",
+    "attribute": "tactics",
+    "value": "Stealthy lab exchanges; devices that simulate daylight; human-gear collaborations",
+    "context": "Faction portrait"
+  },
+  {
+    "entity": "Common Prism Charter",
+    "attribute": "provision",
+    "value": "Light is a shared inheritance, not a private harvest",
+    "context": "Document excerpt"
+  },
+  {
+    "entity": "Common Prism Charter",
+    "attribute": "provision",
+    "value": "Every quarter shall receive a baseline luminal credit adequate to sustain memory and weather perception",
+    "context": "Document excerpt"
+  },
+  {
+    "entity": "Common Prism Charter",
+    "attribute": "provision",
+    "value": "No corporation may monopolize a prism beyond a two-season cycle without social dividend to the memory vaults",
+    "context": "Document excerpt"
+  },
+  {
+    "entity": "Common Prism Charter",
+    "attribute": "provision",
+    "value": "Memory, weather, and wealth shall be treated as public goods with transparent accounting and independent audit by a Memory Council",
+    "context": "Document excerpt"
+  },
+  {
+    "entity": "Pact of Ditching the Drain",
+    "attribute": "provision",
+    "value": "Cease unilateral siphons of daylight during drought alerts",
+    "context": "Document excerpt"
+  },
+  {
+    "entity": "Pact of Ditching the Drain",
+    "attribute": "provision",
+    "value": "Pledge non-lethal solidarity tactics that do not endanger residents or prisms",
+    "context": "Document excerpt"
+  },
+  {
+    "entity": "Pact of Ditching the Drain",
+    "attribute": "provision",
+    "value": "Train to read the language of prisms to redistribute light with care, not coercion",
+    "context": "Document excerpt"
+  },
+  {
+    "entity": "Rook Ilya",
+    "attribute": "role",
+    "value": "Council member; former energy broker",
+    "context": "In sunlit square assembly"
+  },
+  {
+    "entity": "Neri Qiao",
+    "attribute": "role",
+    "value": "Librarian with wind-pattern tattoos",
+    "context": "In sunlit square assembly"
+  },
+  {
+    "entity": "Lira Morrow",
+    "attribute": "role",
+    "value": "Muralist who paints with prisms",
+    "context": "In sunlit square assembly"
+  },
+  {
+    "entity": "Joon Tal",
+    "attribute": "role",
+    "value": "Courier; sleeves embroidered with diagrams of prism flux",
+    "context": "In sunlit square assembly"
+  },
+  {
+    "entity": "Kael Arin",
+    "attribute": "role",
+    "value": "Representative of Aureate Warden; state-run energy consortium",
+    "context": "In sunlit square assembly"
+  },
+  {
+    "entity": "Aureate Warden",
+    "attribute": "organization",
+    "value": "State-run energy consortium",
+    "context": "In sunlit square assembly"
+  },
+  {
+    "entity": "Night of Diminished Glow",
+    "attribute": "event",
+    "value": "Prisms' bulbs dim to study the city\u2019s response to reduced daylight",
+    "context": "Event description"
+  },
+  {
+    "entity": "Republic of Planks",
+    "attribute": "type",
+    "value": "Informal coalition of smaller neighborhoods",
+    "context": "Night of Diminished Glow section"
+  },
+  {
+    "entity": "Marek Solari",
+    "attribute": "role",
+    "value": "Engineer; tattoos map fractal weather diagrams",
+    "context": "Night of Diminished Glow section"
+  },
+  {
+    "entity": "Prizekeepers",
+    "attribute": "role",
+    "value": "Old order that still controls the tallest towers",
+    "context": "Encountered group"
+  },
+  {
+    "entity": "Memory vaults",
+    "attribute": "function",
+    "value": "Store weather patterns, civil records, and life histories; accessible via daylight",
+    "context": "Dialogue and discussion"
+  },
+  {
+    "entity": "Weather-Cloud Contracts",
+    "attribute": "purpose",
+    "value": "Pool daylight reserves across districts with tiered payouts to insure against drought",
+    "context": "The Redistribution Act explanation"
+  },
+  {
+    "entity": "Community Prism Banks",
+    "attribute": "purpose",
+    "value": "Neighborhood vaults where residents deposit or borrow luminal credits",
+    "context": "The Redistribution Act explanation"
+  },
+  {
+    "entity": "CPA",
+    "attribute": "role",
+    "value": "City Prism Authority; charged with equitable distribution of daylight",
+    "context": "The Redistribution Act explanation"
+  },
+  {
+    "entity": "Memory Access Rights",
+    "attribute": "concept",
+    "value": "Every resident shall have a guaranteed window to consult memory vaults, with defined maximum wait times",
+    "context": "The Redistribution Act explanation"
+  },
+  {
+    "entity": "Rebel Movement",
+    "attribute": "publication",
+    "value": "Public ledger of daylight documenting distribution and access",
+    "context": "Public artifact produced by the movement"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "threat",
+    "value": "Threatens prisms that power memory, weather, and wealth",
+    "context": "Central conflict"
+  },
+  {
+    "entity": "Prizekeepers",
+    "attribute": "presence",
+    "value": "Attend debates with lamp oil and varnish; suits glimmer like prism interiors",
+    "context": "Night of Diminished Glow"
+  },
+  {
+    "entity": "Ledger of daylight",
+    "attribute": "nature",
+    "value": "Living document tracking daylight distribution, memory access, and weather engagement",
+    "context": "Publication by Rebel Movement"
+  },
+  {
+    "entity": "Memory economy",
+    "attribute": "transformation",
+    "value": "From a pyramid with apex richest prism to a more distributed system where light travels down the ladder",
+    "context": "End-state description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "outcome",
+    "value": "A more inclusive memory and daylight system where daylight is shared to protect the vulnerable",
+    "context": "End-state description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "lexicon",
+    "value": "New language of daylight equity introduced by Rebels",
+    "context": "End-state description"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "location",
+    "value": "on the edge of a sea that never quite cools",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "towers_description",
+    "value": "radiant glass towers catching daylight and storing it as living prisms",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "economic_role",
+    "value": "memory is currency, color, and command",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "transfer_mechanism",
+    "value": "a single recollection can be minted into a contract, sold, and used to unlock doors, appoint officials, or assign marriage prospects",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "market_characteristic",
+    "value": "memory is traded on the open market and may be claimed or forgotten by owners",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "high_concept",
+    "value": "radiant glass towers storing daylight as living prisms",
+    "context": "Overview"
+  },
+  {
+    "entity": "Social order",
+    "attribute": "structure",
+    "value": "elites, brokers/mediators, and a broad floor of citizens governed by memory access protocols",
+    "context": "Overview"
+  },
+  {
+    "entity": "Memory vaults",
+    "attribute": "location",
+    "value": "beneath the city\u2019s skin, as tidal basins",
+    "context": "Vaults description"
+  },
+  {
+    "entity": "Memory vaults",
+    "attribute": "sound",
+    "value": "hum like a thousand wind chimes tuned to a single pitch",
+    "context": "Vaults description"
+  },
+  {
+    "entity": "Memory prisms",
+    "attribute": "function",
+    "value": "seed-crystals of potential to be planted in courts, boardrooms, or ceremonial halls to sprout influence",
+    "context": "Vaults description"
+  },
+  {
+    "entity": "Blue File",
+    "attribute": "tier",
+    "value": "bottom/common tier",
+    "context": "Access layers"
+  },
+  {
+    "entity": "Blue File",
+    "attribute": "memory_access",
+    "value": "right to request a single ordinary memory per season",
+    "context": "Access layers"
+  },
+  {
+    "entity": "Blue File",
+    "attribute": "sample_memories",
+    "value": "examples include summer rain and the first sail on the harbor",
+    "context": "Access layers"
+  },
+  {
+    "entity": "Pearl Protocols",
+    "attribute": "tier",
+    "value": "middle access tier",
+    "context": "Access layers"
+  },
+  {
+    "entity": "Pearl Protocols",
+    "attribute": "memory_access",
+    "value": "compressed access to memories of minor life events",
+    "context": "Access layers"
+  },
+  {
+    "entity": "Pearl Protocols",
+    "attribute": "examples",
+    "value": "an apprentice\u2019s first successful commission; a family\u2019s survivable scandal; a local festival\u2019s remembered triumphs",
+    "context": "Access layers"
+  },
+  {
+    "entity": "Crown Tier",
+    "attribute": "tier",
+    "value": "elite access",
+    "context": "Access layers"
+  },
+  {
+    "entity": "Crown Tier",
+    "attribute": "memory_access",
+    "value": "fewest, most valuable memories with potential to shift industries and alliances",
+    "context": "Access layers"
+  },
+  {
+    "entity": "Crown Tier",
+    "attribute": "payment_mechanism",
+    "value": "you may recall this, but you must pay with a favor",
+    "context": "Access layers"
+  },
+  {
+    "entity": "Elite",
+    "attribute": "role",
+    "value": "purveyors of recollections, curators of identity, sovereigns of time recaptured in light",
+    "context": "Overview"
+  },
+  {
+    "entity": "Editors",
+    "attribute": "role",
+    "value": "technicians of perception who adjust color saturation and replace harsh truths for the moment",
+    "context": "Dissent editing"
+  },
+  {
+    "entity": "Dissent editing",
+    "attribute": "mechanism",
+    "value": "memory edits can transform dissenting memories into rumors and be sold as victories",
+    "context": "Editing houses"
+  },
+  {
+    "entity": "Drought of daylight",
+    "attribute": "effects",
+    "value": "prisms dim, memory demand and prices fall, banks falter, political tensions rise",
+    "context": "Drought"
+  },
+  {
+    "entity": "Dawn Market",
+    "attribute": "scene_description",
+    "value": "memory market stall run by a memory broker",
+    "context": "Day-in-life"
+  },
+  {
+    "entity": "Lira Duskwhisper",
+    "attribute": "occupation",
+    "value": "memory broker",
+    "context": "Day-in-life"
+  },
+  {
+    "entity": "Thom",
+    "attribute": "occupation",
+    "value": "engineer",
+    "context": "Day-in-life"
+  },
+  {
+    "entity": "Mara",
+    "attribute": "status",
+    "value": "Blue File citizen",
+    "context": "Day-in-life"
+  },
+  {
+    "entity": "Ilya",
+    "attribute": "stance",
+    "value": "resists selling a memory on principle",
+    "context": "Rain-drenched harbor scene"
+  },
+  {
+    "entity": "Corin Halpoint",
+    "attribute": "role",
+    "value": "memory broker offering perspectives on redemption and price",
+    "context": "Ilya scene"
+  },
+  {
+    "entity": "Councilor Deyran",
+    "attribute": "role",
+    "value": "Crown talker",
+    "context": "Council Hall"
+  },
+  {
+    "entity": "Councilor Deyran",
+    "attribute": "quote",
+    "value": "The drought is not merely weather; it is governance",
+    "context": "Council Hall"
+  },
+  {
+    "entity": "Ledger Excerpt",
+    "attribute": "document_id",
+    "value": "Document A, Entry 1320-B",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Entry 1320-B",
+    "attribute": "action",
+    "value": "All recollections minted within the last lunar cycle logged as assignee Crown",
+    "context": "Document A"
+  },
+  {
+    "entity": "Royal Exchange",
+    "attribute": "purpose",
+    "value": "democratization of the Crown\u2019s public memory",
+    "context": "Document A"
+  },
+  {
+    "entity": "Memorandum 9-A",
+    "attribute": "effect",
+    "value": "in daylight scarcity, filter level to access certain memories increases by one tier",
+    "context": "Document B"
+  },
+  {
+    "entity": "Citizens",
+    "attribute": "requirement",
+    "value": "must demonstrate direct, demonstrable need for a memory carrying high risk or public impact",
+    "context": "Document B"
+  },
+  {
+    "entity": "Price Sheet",
+    "attribute": "summer_low_risk",
+    "value": "2.5 blue credits",
+    "context": "Document C"
+  },
+  {
+    "entity": "Price Sheet",
+    "attribute": "summer_high_risk",
+    "value": "9.0 blue credits",
+    "context": "Document C"
+  },
+  {
+    "entity": "Price Sheet",
+    "attribute": "public_misstep_low_risk",
+    "value": "3.0 pearl credits",
+    "context": "Document C"
+  },
+  {
+    "entity": "Price Sheet",
+    "attribute": "public_misstep_high_risk",
+    "value": "12.5 pearl credits",
+    "context": "Document C"
+  },
+  {
+    "entity": "Price Sheet",
+    "attribute": "identity_memory",
+    "value": "15.0 crown credits and a sovereign favor",
+    "context": "Document C"
+  },
+  {
+    "entity": "Deed of Remembering",
+    "attribute": "document_id",
+    "value": "Document D",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Memory Deed",
+    "attribute": "grantor_acknowledgment",
+    "value": "memory is an asset bound to recipient\u2019s identity with rights of use and transfer",
+    "context": "Document D"
+  },
+  {
+    "entity": "Memory Deed",
+    "attribute": "revocation_rule",
+    "value": "cannot be revoked except by grantor\u2019s explicit consent or council decree",
+    "context": "Document D"
+  },
+  {
+    "entity": "Royal Ledger of Remembering",
+    "attribute": "epilogue_note",
+    "value": "The light returns as it will; the most valuable recollections lift the many, not the few",
+    "context": "Epilogue note"
+  }
+]

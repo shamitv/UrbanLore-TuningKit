@@ -1,0 +1,446 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "description",
+    "value": "a lattice of light with towers rising like crystalline harps strung with the sun",
+    "context": "Nature & Ecology introduction"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "daylight economy",
+    "value": "daylight stored, bottled, and traded as living prisms",
+    "context": "Nature & Ecology introduction"
+  },
+  {
+    "entity": "Prisms",
+    "attribute": "functions",
+    "value": "house weather forecasts, store recollections, fund the spires that shelter the populace",
+    "context": "Nature & Ecology introduction"
+  },
+  {
+    "entity": "Air",
+    "attribute": "composition",
+    "value": "ozone with citrus undercurrents",
+    "context": "Initial sensory description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "response to daylight loss",
+    "value": "breath falters as daylight thins and prisms dim",
+    "context": "Nature & Ecology description"
+  },
+  {
+    "entity": "Longshore District",
+    "attribute": "significance",
+    "value": "edges where the earliest signs arrive",
+    "context": "Early signs of drought"
+  },
+  {
+    "entity": "Shadow bloomers",
+    "attribute": "appearance",
+    "value": "trees and shrubs that bloom in dim light, dull greens with peripheral glow",
+    "context": "Early signs of drought"
+  },
+  {
+    "entity": "Shade-tolerant species",
+    "attribute": "response",
+    "value": "bloom where they can as daylight thins",
+    "context": "1) Ecologies reweave themselves"
+  },
+  {
+    "entity": "Under-canopy mushrooms",
+    "attribute": "luminescence",
+    "value": "emit faint bioluminescence when irritated by cold night air",
+    "context": "1) Ecologies reweave themselves"
+  },
+  {
+    "entity": "Mosses",
+    "attribute": "habitat",
+    "value": "cling to south faces of towers, thriving on late-afternoon shadows",
+    "context": "1) Ecologies reweave themselves"
+  },
+  {
+    "entity": "Lichen",
+    "attribute": "habitat shift",
+    "value": "colonizes marble and glass, forming silvered carpets",
+    "context": "1) Ecologies reweave themselves"
+  },
+  {
+    "entity": "Pocket forests",
+    "attribute": "function",
+    "value": "shade corridors behind the twin rivers of light; migratory waystations",
+    "context": "1) Ecologies reweave themselves"
+  },
+  {
+    "entity": "Birds",
+    "attribute": "migration",
+    "value": "migrate by the scent of humidity\u2019s edge",
+    "context": "1) Ecologies reweave themselves"
+  },
+  {
+    "entity": "Insects",
+    "attribute": "migration",
+    "value": "follow chemical trails of plants tolerating gloom",
+    "context": "1) Ecologies reweave themselves"
+  },
+  {
+    "entity": "Prism moth",
+    "attribute": "status",
+    "value": "mutated to absorb less light; ordinary in the city",
+    "context": "1) Ecologies reweave themselves"
+  },
+  {
+    "entity": "Fogdweller fern",
+    "attribute": "status",
+    "value": "former urban legend; becomes ordinary",
+    "context": "1) Ecologies reweave themselves"
+  },
+  {
+    "entity": "Edge habitat",
+    "attribute": "situation",
+    "value": "shrinks; margins where prism economy flickers; political significance",
+    "context": "1) Ecologies reweave themselves"
+  },
+  {
+    "entity": "Memory-lit flora",
+    "attribute": "function",
+    "value": "store salutary memories in biopigments; translate weather forecasts as light",
+    "context": "2) The flora\u2019s memory and mutation"
+  },
+  {
+    "entity": "Memory-lit flora",
+    "attribute": "glow behavior",
+    "value": "glow intensifies before storms; dims as daylight recedes; recalls seasonal patterns",
+    "context": "2) The flora\u2019s memory and mutation"
+  },
+  {
+    "entity": "Memory-lit flora",
+    "attribute": "mutation",
+    "value": "mutate to hold memory in shade; some become color-saturated; others slow metabolism and extend life cycles",
+    "context": "2) The flora\u2019s memory and mutation"
+  },
+  {
+    "entity": "Conserving pigment",
+    "attribute": "term",
+    "value": "horticulturalists\u2019 label for pigment-conservation mutations",
+    "context": "2) The flora\u2019s memory and mutation"
+  },
+  {
+    "entity": "Resin",
+    "attribute": "scent",
+    "value": "hot, sweet, cautious burning",
+    "context": "2) The flora\u2019s memory and mutation"
+  },
+  {
+    "entity": "Sea spray",
+    "attribute": "scent",
+    "value": "tang mingled with resin",
+    "context": "2) The flora\u2019s memory and mutation"
+  },
+  {
+    "entity": "Air",
+    "attribute": "sensory profile",
+    "value": "ozone and citrus clash, then harmonize",
+    "context": "2) The flora\u2019s memory and mutation"
+  },
+  {
+    "entity": "City governance",
+    "attribute": "policy",
+    "value": "Light Equity Act passed; caps daylight credits; priority to health, safety, food production, memory archival",
+    "context": "3) Nit, the social pulse"
+  },
+  {
+    "entity": "Light Equity Act",
+    "attribute": "allocation",
+    "value": "divides light into living assets: paraffin memory vaults, radiance for hospital wards, daylight for schools, slightly dim for commercial corridors",
+    "context": "3) Nit, the social pulse"
+  },
+  {
+    "entity": "Glass towers",
+    "attribute": "operation",
+    "value": "now governed by new moral calculus; every dim corridor must be used; radiance treated as a public good",
+    "context": "3) Nit, the social pulse"
+  },
+  {
+    "entity": "Architects and urban farmers",
+    "attribute": "collaboration",
+    "value": "redesign Gleamspire around radiant symmetry; plan reflectors and luminosity-siphons",
+    "context": "4) Adaptive plantings and architecture"
+  },
+  {
+    "entity": "Plantings",
+    "attribute": "composition",
+    "value": "shade-loving conifers, ferns, mosses; reflectors; luminosity-siphons",
+    "context": "4) Adaptive plantings and architecture"
+  },
+  {
+    "entity": "Radiant symmetry",
+    "attribute": "design principle",
+    "value": "choreograph remaining radiance into dawn, midday lull, late afternoon glow, night",
+    "context": "4) Adaptive plantings and architecture"
+  },
+  {
+    "entity": "City soundscape",
+    "attribute": "transformation",
+    "value": "chimes more resonant; turbines' whine deeper; surf gloom; air colder in gloom zones",
+    "context": "5) The urban soundscape and sensory memory"
+  },
+  {
+    "entity": "Harbor",
+    "attribute": "aroma",
+    "value": "scent of hot resin and damp fog; dampened lacquer",
+    "context": "5) The urban soundscape and sensory memory"
+  },
+  {
+    "entity": "Radiance plots",
+    "attribute": "practice",
+    "value": "neighborhoods cultivate plots; shade-tolerant species trained along trellises to reflect light",
+    "context": "6) The human response"
+  },
+  {
+    "entity": "Market Crescent",
+    "attribute": "practice",
+    "value": "reflective canopies over stalls to maximize limited light",
+    "context": "6) The human response"
+  },
+  {
+    "entity": "Lamp oil",
+    "attribute": "usage",
+    "value": "scent present; used as gentle heat source for seedlings",
+    "context": "6) The human response"
+  },
+  {
+    "entity": "Prism kiosks",
+    "attribute": "function",
+    "value": "exchange daylight credits for essential goods (medicine, bread, fuel, memory-lumen tokens)",
+    "context": "6) The human response"
+  },
+  {
+    "entity": "Memory archives",
+    "attribute": "currency",
+    "value": "currency of trust; neighbor shares glow",
+    "context": "6) The human response"
+  },
+  {
+    "entity": "Weather-scribes",
+    "attribute": "activity",
+    "value": "map light patterns in fog; track shade harvest",
+    "context": "6) The human response"
+  },
+  {
+    "entity": "Luminal Council",
+    "attribute": "role",
+    "value": "debates daily how to allocate rays of hope",
+    "context": "6) The human response"
+  },
+  {
+    "entity": "Chief Radiance Engineer Arin Vale",
+    "attribute": "quoted message",
+    "value": "\"If we cannot hold daylight, we will grow a culture of reflection\u2014of reflection as light. We will be the sort of city that glows from within, not simply from prisms on high.\"",
+    "context": "6) The human response"
+  },
+  {
+    "entity": "Public square",
+    "attribute": "event",
+    "value": "day\u2019s light report read from a glass panel",
+    "context": "6) The human response"
+  },
+  {
+    "entity": "Field Journal",
+    "attribute": "entry",
+    "value": "Day 107 of Drought; prisms dimmed; air color pale gray with violet edges; shade corridors hum with life; 21% decline in daylight capture; understory growth; old upper terrace species vanish; memory vault recalibration needed",
+    "context": "8) In-world documents and artifacts"
+  },
+  {
+    "entity": "Prism Production Ledger",
+    "attribute": "note",
+    "value": "Radiance credits cannot be hoarded; distribution prioritized to healthcare, food production, essential services; some towers report 40% drop in memory-lumen efficiency; repairs underway; shift may persist for months or years",
+    "context": "8) In-world documents and artifacts"
+  },
+  {
+    "entity": "Weather Almanac: The Dim Season",
+    "attribute": "summary",
+    "value": "prolonged dim cycle; nights longer by 28 minutes per cycle; fog reduces daylight capture by ~14%; predictions uncertain; long slow retreat of pure daylight",
+    "context": "8) In-world documents and artifacts"
+  },
+  {
+    "entity": "Light Equity Act",
+    "attribute": "clause",
+    "value": "Tier A hospitals, Tier B schools and elder care, Tier C essential services; Tier D cultural/personal light limited; memory assets protected",
+    "context": "8) In-world documents and artifacts"
+  },
+  {
+    "entity": "Shade-first Flora for Radiant Rehus",
+    "attribute": "guide",
+    "value": "shade-tolerant ferns, moss, understory shrubs; vines to redirect light; groundcover for soil moisture; memory-lattice plants storing micro-moments in pigment ladders",
+    "context": "8) In-world documents and artifacts"
+  },
+  {
+    "entity": "Gleamspire\u2019s wealth",
+    "attribute": "definition",
+    "value": "function of radiance; also trust, weather governance, and memory storage",
+    "context": "9) The city\u2019s economic and emotional recalibration"
+  },
+  {
+    "entity": "Hour of pale blue",
+    "attribute": "description",
+    "value": "time when pale glow makes the city feel unreal",
+    "context": "9) The city\u2019s economic and emotional recalibration"
+  },
+  {
+    "entity": "Glow-vests",
+    "attribute": "trade item",
+    "value": "glow-vests and lamp-oil tokens trade in markets",
+    "context": "9) The city\u2019s economic and emotional recalibration"
+  },
+  {
+    "entity": "Old money",
+    "attribute": "value",
+    "value": "glowed with lamellate daylight; gains value from remembered past",
+    "context": "9) The city\u2019s economic and emotional recalibration"
+  },
+  {
+    "entity": "Social bonds",
+    "attribute": "currency",
+    "value": "memory, promises, and recollections become currency",
+    "context": "9) The city\u2019s economic and emotional recalibration"
+  },
+  {
+    "entity": "Prisms",
+    "attribute": "adaptation",
+    "value": "operate in networks pooling shards into larger memory-lanterns; function when daylight is scarce",
+    "context": "10) The long arc toward resilience"
+  },
+  {
+    "entity": "Shared lumens",
+    "attribute": "concept",
+    "value": "public spaces where neighbors share a glow",
+    "context": "10) The long arc toward resilience"
+  },
+  {
+    "entity": "Shade-tolerant species",
+    "attribute": "ecological impact",
+    "value": "support new pollinators; contribute to biodiversity under roofs",
+    "context": "10) The long arc toward resilience"
+  },
+  {
+    "entity": "Fog",
+    "attribute": "hazard",
+    "value": "hazard to navigation; shapes migration and harbor strategies",
+    "context": "10) The long arc toward resilience"
+  },
+  {
+    "entity": "The city",
+    "attribute": "outcome",
+    "value": "learning to walk anew with patience, collaboration, and a closer relation to night and shade",
+    "context": "10) The long arc toward resilience"
+  },
+  {
+    "entity": "Triad: memory, weather, wealth",
+    "attribute": "description",
+    "value": "co-constitutive elements of life; memory and weather still stored in prisms; wealth circulates via radiance access and shared acts",
+    "context": "11) Memory, weather, and wealth: a revised triad"
+  },
+  {
+    "entity": "Prisms",
+    "attribute": "weather storage",
+    "value": "forecasts become qualitative, based on oxygen in fog, wind feel, and color of glow",
+    "context": "11) Memory, weather, and wealth: a revised triad"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "role",
+    "value": "social act: sharing glow, stories, meals with neighbors",
+    "context": "11) Memory, weather, and wealth: a revised triad"
+  },
+  {
+    "entity": "Wealth",
+    "attribute": "circulation",
+    "value": "time-limited radiance access; shared prisms; value in kindness and memory-sharing",
+    "context": "11) Memory, weather, and wealth: a revised triad"
+  },
+  {
+    "entity": "Arin Vale",
+    "attribute": "role",
+    "value": "Chief Radiance Engineer; emphasizes culture of reflection and inner glow",
+    "context": "11) Memory, weather, and wealth: a revised triad"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "fate",
+    "value": "uncertain; learning, adaptation, and reimagined radiance",
+    "context": "12) Epilogue"
+  },
+  {
+    "entity": "Streets",
+    "attribute": "glow",
+    "value": "pale blue glow on some streets; intimate illumination",
+    "context": "12) Epilogue"
+  },
+  {
+    "entity": "Flora",
+    "attribute": "adaptation",
+    "value": "liverworts and clubmosses form resilient green lattice; old trees repurpose growth to catch light",
+    "context": "12) Epilogue"
+  },
+  {
+    "entity": "Harbor",
+    "attribute": "fish",
+    "value": "fish glow faintly; fog guides ships",
+    "context": "12) Epilogue"
+  },
+  {
+    "entity": "People",
+    "attribute": "storytelling",
+    "value": "mother tells of days prisms dimmed, child hears; student writes poem; elder recalls crystal river now replaced by patient, communal radiance",
+    "context": "12) Epilogue"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "heart",
+    "value": "shifted from a single bright sun to a constellation of glows: shared glow, memory vault luminescence, shade\u2019s botanical chorus, careful engineering",
+    "context": "12) Epilogue"
+  },
+  {
+    "entity": "Light",
+    "attribute": "nature",
+    "value": "a resource to listen for, not hoard or burn; listen to rain on glass, prism hum, shade-tolerant fern",
+    "context": "12) Epilogue"
+  },
+  {
+    "entity": "Gleamspire\u2019s story",
+    "attribute": "theme",
+    "value": "not loss but reorganization; adaptation; hope; daylight as a fragile, shareable resource",
+    "context": "12) Epilogue"
+  },
+  {
+    "entity": "Prism economy",
+    "attribute": "definition",
+    "value": "system by which daylight is captured, stored, allocated, and traded",
+    "context": "Endnote glossary"
+  },
+  {
+    "entity": "Memory vaults",
+    "attribute": "definition",
+    "value": "bioluminescent repositories storing historical and meteorological records as encoded light patterns",
+    "context": "Endnote glossary"
+  },
+  {
+    "entity": "Radiance equity",
+    "attribute": "definition",
+    "value": "policy framework to allocate light fairly across essential services and communities",
+    "context": "Endnote glossary"
+  },
+  {
+    "entity": "Shade-first flora",
+    "attribute": "definition",
+    "value": "plant species adapted to low-light conditions forming the backbone of urban ecological resilience",
+    "context": "Endnote glossary"
+  },
+  {
+    "entity": "Edge habitat",
+    "attribute": "definition",
+    "value": "zones where light capture is most fragile, often margins of districts or canopy periphery",
+    "context": "Endnote glossary"
+  }
+]

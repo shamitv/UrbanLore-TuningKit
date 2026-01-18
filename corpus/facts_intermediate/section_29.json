@@ -1,0 +1,314 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "daylight concept",
+    "value": "season-ticket",
+    "context": "In Gleamspire, daylight is not a season but a season-ticket."
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "storage method",
+    "value": "daylight stored as brightness in glass prisms within tall towers",
+    "context": "Description of daylight storage."
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "hoarded light locations",
+    "value": "vaults of pale blue glass, memory ships of memory, weather-soaked corridors",
+    "context": "How the city hoards light."
+  },
+  {
+    "entity": "Drought",
+    "attribute": "geographical impact",
+    "value": "extends across borders; thickening air with pressure, fear, and longing",
+    "context": "The drought in daylight waters affects borders."
+  },
+  {
+    "entity": "Horizon",
+    "attribute": "color when daylight fades",
+    "value": "pale, uncertain yellow",
+    "context": "When the horizon bleaches."
+  },
+  {
+    "entity": "Lamps of memory",
+    "attribute": "state",
+    "value": "dim",
+    "context": "When lamps of memory dim, people move toward or away from Gleamspire."
+  },
+  {
+    "entity": "Caravans of Daylight",
+    "attribute": "movement",
+    "value": "move toward Gleamspire in caravans or away from it",
+    "context": "Caravans respond to drought."
+  },
+  {
+    "entity": "Caravans of Daylight",
+    "attribute": "routes",
+    "value": "a web of routes\u2014some well-trodden, others whispered among smugglers",
+    "context": "Routes description."
+  },
+  {
+    "entity": " prism-border",
+    "attribute": "origin of main arteries",
+    "value": "diverge from prism-border into multiple roadways",
+    "context": "Routes diverge from the prism-border."
+  },
+  {
+    "entity": "Silver Rift",
+    "attribute": "characterization",
+    "value": "borderland where daylight pours down like a melted mirror",
+    "context": "Named borderland."
+  },
+  {
+    "entity": "Shadowed Corridor",
+    "attribute": "characterization",
+    "value": "wane-lit seam where daylight fractures into many temperatures; danger from bandits and smugglers",
+    "context": "Border corridor description."
+  },
+  {
+    "entity": "Dawn Spine",
+    "attribute": "characterization",
+    "value": "straight line of glare; runs from sun to sea and back in a day; traffic is a ritual",
+    "context": "Border route description."
+  },
+  {
+    "entity": "Silver Road caravans",
+    "attribute": "attire",
+    "value": "coats stitched with phosphorescent thread; halo around horses\u2019 ears",
+    "context": "Detail on drivers' clothing."
+  },
+  {
+    "entity": "Silver Road caravans",
+    "attribute": "cargo",
+    "value": "sunlit crystals; honeyed drops of day pressed into glassy pebbles",
+    "context": " unload crates of daylight crystals."
+  },
+  {
+    "entity": "Silver Road",
+    "attribute": "child activity",
+    "value": "children collect broken sips of crystalline light in chipped cups",
+    "context": "Children interact with light."
+  },
+  {
+    "entity": "Shadowed Corridor",
+    "attribute": "trade",
+    "value": "bandits trade in stolen light; smugglers know safe turns; daylight becomes currency",
+    "context": "Hazards and economy of the corridor."
+  },
+  {
+    "entity": "Refugees",
+    "attribute": "speech pattern",
+    "value": "travelers barter softly; tell stories of where they\u2019ve come from\u2014names left behind or transformed by light",
+    "context": "Refugee culture at the corridors."
+  },
+  {
+    "entity": "Dawn Spine",
+    "attribute": "market atmosphere",
+    "value": "night markets with resin, sea spray, lamp oil; lanterns flicker like stars",
+    "context": "Dawn Spine markets."
+  },
+  {
+    "entity": "Dawn Spine",
+    "attribute": "survival lessons",
+    "value": "how to bed down in wind; harness daylight in a pocketed jar; keep children asleep",
+    "context": "Survival learning on the Spine."
+  },
+  {
+    "entity": "Refugee camps",
+    "attribute": "construction",
+    "value": "patched sails and salvaged glass; citrus and ozone in the air; prisms cooling in shade",
+    "context": "Camp descriptions."
+  },
+  {
+    "entity": "Mira",
+    "attribute": "role",
+    "value": "matron in a camp near the Gate of Glass; grandmother who could see the future in prism bending",
+    "context": "Camp near Gate of Glass."
+  },
+  {
+    "entity": "Aram",
+    "attribute": "role",
+    "value": "boy who carves a spire from driftwood; calls it his 'memory lighthouse'",
+    "context": "Camp near Gate of Glass."
+  },
+  {
+    "entity": "Refugee reality",
+    "attribute": "tokens of home",
+    "value": "recipes, lullabies, grandmother\u2019s knitting patterns, photographs",
+    "context": "Refugees carry tokens of home."
+  },
+  {
+    "entity": "Camp ledger",
+    "attribute": "pattern",
+    "value": "arrivals with a promise; departures with a debt",
+    "context": "Ledger observation."
+  },
+  {
+    "entity": "Relief caravans",
+    "attribute": "function",
+    "value": "move between camps to assemble temporary sanctuary and feed those who have walked into the night",
+    "context": "Relief caravans."
+  },
+  {
+    "entity": "Forger",
+    "attribute": "role",
+    "value": "crafts tools from recycled prism shards; makes memory skylight from driftwood",
+    "context": "Description of a craftsman."
+  },
+  {
+    "entity": "Memory skylight",
+    "attribute": "device",
+    "value": "portable skylight powered by prism shards in a backpack",
+    "context": "Forger's device."
+  },
+  {
+    "entity": "Tamsin",
+    "attribute": "role",
+    "value": "elder clerk; maintains a voice-recording device capturing names, stories, songs",
+    "context": "Relief caravans inventory."
+  },
+  {
+    "entity": "Border Manifest",
+    "attribute": "date",
+    "value": "second day of Brightsunder, Year 1026",
+    "context": "In-world document."
+  },
+  {
+    "entity": "Border Manifest",
+    "attribute": "content",
+    "value": "To the officers on the Glass Gate: requests temporary transit for families with minors and the elderly who carry or seek daylight; a permit offered in exchange for defensive watch and non-disclosure of routes through Prism Road",
+    "context": "Border manifest document."
+  },
+  {
+    "entity": "Border Manifest",
+    "attribute": "signature",
+    "value": "N",
+    "context": "Margin bears fatigue signature: 'N'"
+  },
+  {
+    "entity": "Camp ledger excerpt",
+    "attribute": "data",
+    "value": "Arrivals: 128; Departures: 15; Meals served: 1,032; Crystals moved: 27 cylinders",
+    "context": "Camp ledger excerpt."
+  },
+  {
+    "entity": "Mother (coast village) to Gleamspire",
+    "attribute": "statement",
+    "value": "I taught my son to swim through rain and to breathe when the air tasted of iron. If you take him from me, you will take the last quiet thing he learned to love.",
+    "context": "Letter to Gleamspire council."
+  },
+  {
+    "entity": "Noor",
+    "attribute": "plan",
+    "value": "set up a 'shared prism'\u2014half a dozen prisms in a circle to power a makeshift clinic for a week",
+    "context": "Moral dilemma and plan."
+  },
+  {
+    "entity": "Noor",
+    "attribute": "risk",
+    "value": "invites control and exploitation; becomes a challenge to power structures that maintain daylight as memory economy",
+    "context": "Dilemma."
+  },
+  {
+    "entity": "Idril",
+    "attribute": "speech",
+    "value": "\"We do not offer you your past back; we offer you a future where memory does not own you. If you carry the light of your people, you must give some of that light to help others remember to live.\"",
+    "context": "Rebel Crossroads speech."
+  },
+  {
+    "entity": "Lio",
+    "attribute": "role",
+    "value": "weary vendor; asks Idril for permission for newcomers to sleep under pavilion; believes newcomers' stories feed rebel narrative",
+    "context": "Night courtyard scene."
+  },
+  {
+    "entity": "Yara",
+    "attribute": "role",
+    "value": "relief nurse; questions if group can depart Gleamspire quickly; cannot carry grandmother's body but can carry memory",
+    "context": "Moral dilemmas."
+  },
+  {
+    "entity": "Grandmother",
+    "attribute": "statement",
+    "value": "\"If you must go, take the light with you.\"",
+    "context": "Night courtyard scene."
+  },
+  {
+    "entity": "Sunlit Crystals",
+    "attribute": "risk",
+    "value": "could become a battleground; risk of exploitation by power structures",
+    "context": "Dilemmas about daylight economy."
+  },
+  {
+    "entity": "Border Manifest",
+    "attribute": "theme",
+    "value": "humanitarian transit rights; mercy as principle",
+    "context": "Border manifest theme."
+  },
+  {
+    "entity": "Congregation of Daylight",
+    "attribute": "directive",
+    "value": "\"Welcome without exploitation. Teach, not interfere. Share the heat of memory, not just the warmth of fire.\"",
+    "context": "Council directive."
+  },
+  {
+    "entity": "Children\u2019s map",
+    "attribute": "content",
+    "value": "\"Where the sun lives behind the glass towers\"",
+    "context": "In-world document."
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "aura",
+    "value": "pale-blue glow; glass-sung memory economy; scent of ozone and citrus",
+    "context": "City atmosphere."
+  },
+  {
+    "entity": "Carpenter",
+    "attribute": "craft",
+    "value": "builds a boat from prism and sail to carry a child\u2019s dream across the daylight sea",
+    "context": "Human stories."
+  },
+  {
+    "entity": "Nurse",
+    "attribute": "teaching",
+    "value": "maps refugees\u2019 bodies\u2019 paths through pain into hope",
+    "context": "Human stories."
+  },
+  {
+    "entity": "Guard",
+    "attribute": "realization",
+    "value": "mercy can be a tactical choice; can transform a regime\u2019s power into something weaker and more fragile",
+    "context": "Human stories."
+  },
+  {
+    "entity": "Drought months",
+    "attribute": "effect",
+    "value": "stretch gold into gray; rebuilders work at night; daylight pipeline plans",
+    "context": "City in storm and song."
+  },
+  {
+    "entity": "Daylight pipeline",
+    "attribute": "plan",
+    "value": "more robust, inclusive daylight pipeline with safe corridors",
+    "context": "City rebuilding plan."
+  },
+  {
+    "entity": "Shared trust system",
+    "attribute": "policy",
+    "value": "daylight allocated by need and reciprocity rather than wealth or power",
+    "context": "Rebel proposal."
+  },
+  {
+    "entity": "Final observations",
+    "attribute": "thesis",
+    "value": "the worth of a city is measured by warmth of welcome and shared daylight, not prisms alone",
+    "context": "Conclusion."
+  },
+  {
+    "entity": "The sun",
+    "attribute": "future",
+    "value": "will rise again over Gleamspire; daylight to be shared; memory must be earned",
+    "context": "Ending."
+  }
+]
