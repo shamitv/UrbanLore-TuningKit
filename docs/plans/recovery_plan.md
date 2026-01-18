@@ -4,6 +4,7 @@
 **Implemented and Verified** (Jan 2026)
 - ✅ Extractor persistence
 - ✅ Generator persistence (Concept, Plans, Sections)
+- ✅ QA Generator persistence (Batches)
 - ✅ Verification passed
 
 ## Overview
@@ -38,6 +39,16 @@ The extractor processes the corpus sequentially in chunks (sections).
 
 **Flow:**
 `Start` -> `Split Corpus` -> `Loop Sections` -> `Check Intermediate File` -> `Skip or Extract` -> `Assemble Final JSON`.
+
+### 3. QA Generator (`generate-qa`)
+The QA generator processes requests in batches (batch size: 50).
+
+1.  **Intermediate Batches**:
+    - `dataset/qa_intermediate/batch_N.json` (QA pairs)
+    - `dataset/instructions_intermediate/batch_N.json` (Instructions)
+    
+**Flow:**
+`Start` -> `Sample Data` -> `Split to Batches` -> `Loop Batches` -> `Check Batch File` -> `Skip or Generate` -> `Assemble Final JSONL`.
 
 ## How to Resume
 Simply run the same command again.
