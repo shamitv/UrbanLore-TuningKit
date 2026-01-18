@@ -1,0 +1,260 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "city/civilization where daylight is sovereign and memory is commodified",
+    "context": "Overview"
+  },
+  {
+    "entity": "The Rebel Movement",
+    "attribute": "objective",
+    "value": "Freedom from light control and memory commodification",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "core_concept",
+    "value": "Radiant Glass and Living Light",
+    "context": "Core city concept"
+  },
+  {
+    "entity": "The Rebel Movement",
+    "attribute": "leadership_structure",
+    "value": "non-central triad leadership rotating around a prism; organized as cells of 3\u20137 people",
+    "context": "Key figures and leadership"
+  },
+  {
+    "entity": "Dr. Liora Mirth",
+    "attribute": "profession",
+    "value": "technologist who reads light as a language",
+    "context": "Key figures and leadership"
+  },
+  {
+    "entity": "Dr. Liora Mirth",
+    "attribute": "laboratory_description",
+    "value": "workshop and sanctuary; memory modules hum beneath a canopy of lamps",
+    "context": "Key figures and leadership"
+  },
+  {
+    "entity": "Dr. Liora Mirth",
+    "attribute": "quote",
+    "value": "\"We do not own the dawn, we negotiate with it, we share with it, and sometimes we have to remind it that the dawn belongs to us all\"",
+    "context": "Key figures and leadership"
+  },
+  {
+    "entity": "Kael Voss",
+    "attribute": "profession",
+    "value": "former warden who enforced daylight tariffs",
+    "context": "Key figures and leadership"
+  },
+  {
+    "entity": "Kael Voss",
+    "attribute": "approach",
+    "value": "pragmatic strategist; emphasizes risk and consequences",
+    "context": "Key figures and leadership"
+  },
+  {
+    "entity": "Kael Voss",
+    "attribute": "quote",
+    "value": "\"Prudence is not compliance\"",
+    "context": "Key figures and leadership"
+  },
+  {
+    "entity": "Soru Niven",
+    "attribute": "profession",
+    "value": "memory-worker",
+    "context": "Key figures and leadership"
+  },
+  {
+    "entity": "Soru Niven",
+    "attribute": "role",
+    "value": "maps memory networks; teaches recognition of nodes where price is extracted",
+    "context": "Key figures and leadership"
+  },
+  {
+    "entity": "Soru Niven",
+    "attribute": "quote",
+    "value": "\"To reclaim memory is to rewire the currency of power\"",
+    "context": "Key figures and leadership"
+  },
+  {
+    "entity": "Movement cells",
+    "attribute": "structure",
+    "value": "cell-based network; each cell 3\u20137 people; communication via low-frequency broadcasts, tokens, and coded handwriting",
+    "context": "Organization"
+  },
+  {
+    "entity": "Memory vault doors",
+    "attribute": "design",
+    "value": "partial translucent exteriors; glow faintly with residual daylight when touched a certain way",
+    "context": "Organization"
+  },
+  {
+    "entity": "Room memory",
+    "attribute": "property",
+    "value": "memory can be summoned by gesture of light; room remembers last conversation",
+    "context": "Environment"
+  },
+  {
+    "entity": "Control node",
+    "attribute": "tactics_target",
+    "value": "a node whose daylight control is subject to sabotage or manipulation",
+    "context": "Tactics"
+  },
+  {
+    "entity": "The Night infiltrated control hub incident",
+    "attribute": "event",
+    "value": "infiltration; display reprogrammed to stream daylight as an ungovernable torrent",
+    "context": "Notable incidents"
+  },
+  {
+    "entity": "Memory vaults demonstration",
+    "attribute": "event",
+    "value": "procession releasing glimpses of remembered moments; price for memory highlighted; receipts torn and price tags removed",
+    "context": "Notable incidents"
+  },
+  {
+    "entity": "The Night of the Splitting Prism",
+    "attribute": "event",
+    "value": "living prisms fracture into two streams: one regulated, one free to chase memory",
+    "context": "Notable incidents"
+  },
+  {
+    "entity": "The Quiet Infiltration of the Vault Network",
+    "attribute": "event",
+    "value": "fragments of memories linger; vault network partially loosens grip; city breathes easier briefly",
+    "context": "Notable incidents"
+  },
+  {
+    "entity": "The Wardens\u2019 Ceasefire Letter",
+    "attribute": "event",
+    "value": "contested letter calling renegotiation of daylight rights; authenticity debated; sentiment circulates as living document",
+    "context": "Notable incidents"
+  },
+  {
+    "entity": "Manifesto: The Right to Dissipate Light",
+    "attribute": "title",
+    "value": "The Right to Dissipate Light",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Manifesto: The Right to Dissipate Light",
+    "attribute": "content",
+    "value": "rights to dissipate oppressive light; recall and re-sell memories; daylight should serve people, not profits",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Field Report: Control Node Ledger, Night 21",
+    "attribute": "observations",
+    "value": "node defenses wear; passive pedestal hum lowers when memory activates nearby; a broadcast line shows a soft glitch; citizens discuss daylight costs",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Transcript: Wardens\u2019 Log, The Split",
+    "attribute": "content",
+    "value": "dialogue between Warden A and Warden B about balance, prejudice, dawn fairness, and pragmatism; fragment notes",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Dispatch: Gleaming News, Night 14",
+    "attribute": "content",
+    "value": "memory is a treasure; treasure is not a prison; dawn belongs to all; memory belongs to the living who shape it; prisms lean toward mercy",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "Gleamspire citizens",
+    "attribute": "policy",
+    "value": "daylight and memory treated as common good and market primitive",
+    "context": "Relationship to the city and its people"
+  },
+  {
+    "entity": "Population response",
+    "attribute": "character",
+    "value": "not uniform; chorus shifts with light cycles",
+    "context": "Relationship to the city"
+  },
+  {
+    "entity": "Aesthetic changes",
+    "attribute": "changes",
+    "value": "intimate human-scale lighting; memory landscapes; remember-to-forget murals",
+    "context": "Aesthetic and urban landscape shifts"
+  },
+  {
+    "entity": "Epilogue",
+    "attribute": "theme",
+    "value": "ongoing dialogue with sun; weather, memory, daylight as balance",
+    "context": "Epilogue"
+  },
+  {
+    "entity": "Living prisms",
+    "attribute": "glow",
+    "value": "soft blue halo; language of their own; symbol of dissent and hope",
+    "context": "In-world glosses"
+  },
+  {
+    "entity": "Ultimate question",
+    "attribute": "question",
+    "value": "can Gleamspire preserve delicate equilibrium without slipping into new tyranny",
+    "context": "Epilogue"
+  },
+  {
+    "entity": "Rebel Movement",
+    "attribute": "position_on_equilibrium",
+    "value": "patient, stubborn yes to preserving equilibrium",
+    "context": "Epilogue"
+  },
+  {
+    "entity": "Gleamspire\u2019s institutions",
+    "attribute": "position_on_equilibrium",
+    "value": "cautious promise",
+    "context": "Epilogue"
+  },
+  {
+    "entity": "Residents of Gleamspire",
+    "attribute": "action",
+    "value": "daily acts of choosing: dissipate heat, recall memory, allow dawn to belong to all",
+    "context": "Epilogue"
+  },
+  {
+    "entity": "In-world glosses",
+    "attribute": "influence",
+    "value": "more neighbors use memory ladders; more question price tags; more children speak of daylight\u2019s value with responsibility",
+    "context": "Glosses"
+  },
+  {
+    "entity": "Memory landscapes",
+    "attribute": "art",
+    "value": "remember-to-forget murals; ephemeral memory installations",
+    "context": "Glosses"
+  },
+  {
+    "entity": "Weather/public policy",
+    "attribute": "policy",
+    "value": "weather is a public policy",
+    "context": "Core city concept"
+  },
+  {
+    "entity": "Radiant Glass and Living Light",
+    "attribute": "label",
+    "value": "core city concept",
+    "context": "Core city concept"
+  },
+  {
+    "entity": "Memory economy",
+    "attribute": "concept",
+    "value": "memory stored and traded; memory vaults; price of memory",
+    "context": "City description"
+  },
+  {
+    "entity": "Cell size",
+    "attribute": "size",
+    "value": "3\u20137",
+    "context": "Organization"
+  },
+  {
+    "entity": "Memory literacy",
+    "attribute": "culture_shift",
+    "value": "children learning to articulate daylight\u2019s value with its responsibility",
+    "context": "Glosses"
+  }
+]

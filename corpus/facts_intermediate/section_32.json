@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "description",
+    "value": "A city where daylight can be tailored to its size; prisms breathe like living weather and memory",
+    "context": "BEGIN ENTRY; general setting"
+  },
+  {
+    "entity": "Prime Prism",
+    "attribute": "nature",
+    "value": "a sentient lattice compressed into a single starlike core",
+    "context": "In-World description"
+  },
+  {
+    "entity": "Prime Prism",
+    "attribute": "location",
+    "value": "housed in a capsule in the Memory Court chamber",
+    "context": "Arbitration scene"
+  },
+  {
+    "entity": "Memory Court",
+    "attribute": "function",
+    "value": "tribunal where memory is weighed, measured, and touched by oath-bound guardians",
+    "context": "Gleamspire governance"
+  },
+  {
+    "entity": "Memory Court",
+    "attribute": "significance",
+    "value": "a living archive with sigils and memory records",
+    "context": "Court description"
+  },
+  {
+    "entity": "House Lumenhart",
+    "attribute": "subdivisions",
+    "value": "Meridian line and Dusk line",
+    "context": "Two branches contending for the Prime Prism"
+  },
+  {
+    "entity": "Meridian line",
+    "attribute": "leader",
+    "value": "Lady Ilyra Vell",
+    "context": "Front-row representative; Meridian leader"
+  },
+  {
+    "entity": "Dusk line",
+    "attribute": "leader",
+    "value": "Lord Kael Morrow",
+    "context": "Front-row representative; Dusk leader"
+  },
+  {
+    "entity": "Brin Kestrel",
+    "attribute": "role",
+    "value": "Memory Court registrar/archivist",
+    "context": "Procedural listing"
+  },
+  {
+    "entity": "Keira",
+    "attribute": "role",
+    "value": "Meridian observer/scribe; translates emotional weight into court language",
+    "context": "Observer within the court"
+  },
+  {
+    "entity": "Nera Vell",
+    "attribute": "role",
+    "value": "Meridian custodian; bears sigil knot of interlaced suns",
+    "context": "On Meridian side"
+  },
+  {
+    "entity": "Lysa",
+    "attribute": "role",
+    "value": "Lightwarden; youth observer; memory apprentice",
+    "context": "Audience member; young participant"
+  },
+  {
+    "entity": "Oath-bound guardians (Custodians)",
+    "attribute": "role",
+    "value": "gatekeepers of access; embodiments of rules to keep light from being wild or wasteful",
+    "context": "Arbitration setting"
+  },
+  {
+    "entity": "Meridian branch",
+    "attribute": "proposal",
+    "value": "alternating access windows with an hour of memory; priority to memory institutions during drought",
+    "context": "Meridian's ritual outline"
+  },
+  {
+    "entity": "Dusk branch",
+    "attribute": "proposal",
+    "value": "shared time under mutual guardianship; rotating single-day cycle; shared guard assignments",
+    "context": "Dusk's counterproposal"
+  },
+  {
+    "entity": "Prime Prism",
+    "attribute": "post-arbitration arrangement",
+    "value": "fixed rotation of days for Meridian and Dusk; guard duties aligned to the schedule",
+    "context": "Verdict implementation"
+  },
+  {
+    "entity": "Memory Court memory stone",
+    "attribute": "content",
+    "value": "sigils for both branches; absorbs Prism light; serves as living parchment recording the treaty",
+    "context": "Mercury Glance Treaty recorded"
+  },
+  {
+    "entity": "Meridian Gate",
+    "attribute": "gift",
+    "value": "crystalline blade carved from Prism\u2019s leftover facets",
+    "context": "Post-arbitration exchange"
+  },
+  {
+    "entity": "Dusk Gate",
+    "attribute": "gift",
+    "value": "seal in the shape of a crescent moon containing Prism fragments",
+    "context": "Post-arbitration exchange"
+  },
+  {
+    "entity": "Testament of the Prime Prism\u2019s Touch",
+    "attribute": "clause",
+    "value": "No single branch shall withhold daylight energy beyond a set daily duration; energy to be apportioned among memory institutions, weather stations, and market assemblies",
+    "context": "In-World Document: Clause III, Section B"
+  },
+  {
+    "entity": "Oath of the Guardians of the Meridian Line",
+    "attribute": "content",
+    "value": "Guard the light and memory; do not bend the Prism to vanity or fear; protect the path by which light touches memory",
+    "context": "In-World Document"
+  },
+  {
+    "entity": "Memorandum of Senior Custodian Kael Morrow",
+    "attribute": "content",
+    "value": "Proposes a dual-guardian system: one Meridian access day and one Dusk access day, with a rotating seal binding both branches to one schedule",
+    "context": "In-World Document"
+  },
+  {
+    "entity": "Mercury Glance Treaty",
+    "attribute": "status",
+    "value": "agreed; etched onto the Memory Court memory stone",
+    "context": "Post-arbitration"
+  },
+  {
+    "entity": "Memory Court",
+    "attribute": "role after treaty",
+    "value": "guardian and keeper of the city\u2019s memory archive; guarantor of access; coordinator",
+    "context": "After arbitration"
+  },
+  {
+    "entity": "Gleamspire weather observatories",
+    "attribute": "observation",
+    "value": "report a stabilizing cycle returning to the prism\u2019s light as rhythm is shared",
+    "context": "Post-treaty"
+  },
+  {
+    "entity": "Public effects",
+    "attribute": "outcome",
+    "value": "market brightness more even; street lamps glow; schools open on time; weather models show stabilization",
+    "context": "After treaty"
+  },
+  {
+    "entity": "Two Branches Meridian and Dusk",
+    "attribute": "governance",
+    "value": "co-chaperones of the Prime Prism\u2019s light; oath-bound guardians form a shared council of safety",
+    "context": "After arbitration"
+  },
+  {
+    "entity": "Epilogue note",
+    "attribute": "content",
+    "value": "Let the two branches remember: when the Prism speaks, it reminds; memory travels strongest when shared",
+    "context": "In-World Epilogue; navigational stone fragment"
+  }
+]

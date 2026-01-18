@@ -1,0 +1,476 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "city",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "description",
+    "value": "city of radiant glass towers that drink the sky and bottle daylight as living prisms",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire's towers",
+    "attribute": "nature",
+    "value": "memory made visible",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire's panes",
+    "attribute": "sound",
+    "value": "sigh with the weather\u2019s moods",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire's prisms",
+    "attribute": "sound/visual effect",
+    "value": "strobe with each sunbeam",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "economic metaphor",
+    "value": "light is currency; time is commodity",
+    "context": "Overview"
+  },
+  {
+    "entity": "central power centers",
+    "attribute": "leaders",
+    "value": "Weather Wardens; Prism Banks; Memory Houses; Guilds",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "social ladder",
+    "value": "lattice of prisms; brighter daylight access means higher rise",
+    "context": "Overview"
+  },
+  {
+    "entity": "drought of daylight",
+    "attribute": "type",
+    "value": "conflict; drought of radiance",
+    "context": "Overview"
+  },
+  {
+    "entity": "Weather Wardens",
+    "attribute": "role",
+    "value": "city\u2019s weather-keepers and day-keepers",
+    "context": "Institutions That Regulate Light"
+  },
+  {
+    "entity": "Weather Wardens",
+    "attribute": "duties",
+    "value": "maximize daylight capture; enforce hour-by-hour allocation; police excess that could destabilize rationing",
+    "context": "Institutions That Regulate Light"
+  },
+  {
+    "entity": "Weather Wardens",
+    "attribute": "method",
+    "value": "issue weather decrees on leaf-green parchment; use weather orbs showing near-future mood",
+    "context": "Institutions That Regulate Light"
+  },
+  {
+    "entity": "Weather Wardens",
+    "attribute": "priority",
+    "value": "forecast priority: households with children, clinics, and the memory houses",
+    "context": "Institutions That Regulate Light"
+  },
+  {
+    "entity": "Prism Banks",
+    "attribute": "role",
+    "value": "vaults where daylight is stored as living prisms",
+    "context": "Institutions That Regulate Light"
+  },
+  {
+    "entity": "Prism Banks",
+    "attribute": "storage",
+    "value": "light bound by glass that remembers",
+    "context": "Institutions That Regulate Light"
+  },
+  {
+    "entity": "Prism Banks",
+    "attribute": "market",
+    "value": "not a free market; rationed, audited",
+    "context": "Institutions That Regulate Light"
+  },
+  {
+    "entity": "Prism Banks",
+    "attribute": "pricing",
+    "value": "access to light via time slots within a prism\u2019s memory",
+    "context": "Institutions That Regulate Light"
+  },
+  {
+    "entity": "Prism Bank Ledger excerpt",
+    "attribute": "date",
+    "value": "First Rill, Year of Quiet Threshold",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Prism Bank Ledger excerpt",
+    "attribute": "entry",
+    "value": "Household of Ardis\u2014Light allocation: 2.5 hours dawn; 0.75 hours noon; 1.0 hour dusk; total 4.25 hours",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Prism Bank Ledger excerpt",
+    "attribute": "insight",
+    "value": "richer districts have lower per-hour cost but longer total durations with fewer interruptions; poorer districts experience more interruptions",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Memory Houses",
+    "attribute": "role",
+    "value": "living archive; active memory-prisms",
+    "context": "Institutions That Regulate Light"
+  },
+  {
+    "entity": "Memory Houses",
+    "attribute": "function",
+    "value": "regulate past relevance by controlling memory access",
+    "context": "Institutions That Regulate Light"
+  },
+  {
+    "entity": "Memory Houses",
+    "attribute": "pillars",
+    "value": "memory access as privilege; memory labor as social contract; memory tax",
+    "context": "Institutions That Regulate Light"
+  },
+  {
+    "entity": "Memory House Registry excerpt",
+    "attribute": "keeper log",
+    "value": "House Siren, Memory 539\u2014dawn memory Soft Bloom Street, 22 cycles ago; stored for drought governance",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Memory House Registry excerpt",
+    "attribute": "access",
+    "value": "access restricted to council hands for a week",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Memory House Alpha",
+    "attribute": "memo title",
+    "value": "The Shared Archive and Its Limits",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Memory House Alpha",
+    "attribute": "policy",
+    "value": "as the drought tightens, restrict access to the most luminous memories unless sanctioned",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Guilds",
+    "attribute": "role",
+    "value": "adjudicators of time; sovereigns of radiant minutes",
+    "context": "Guilds and the Allocation of Time Slots"
+  },
+  {
+    "entity": "Guilds",
+    "attribute": "function",
+    "value": "allocate daylight windows to every sector and person",
+    "context": "Guilds and the Allocation of Time Slots"
+  },
+  {
+    "entity": "Guilds",
+    "attribute": "principle",
+    "value": "time is currency; earned by complying with schedules, paying light taxes, and offering labor",
+    "context": "Guilds and the Allocation of Time Slots"
+  },
+  {
+    "entity": "Guilds",
+    "attribute": "powers",
+    "value": "sanction excess; interpret rules; bar those who attempt to game the prism",
+    "context": "Guilds and the Allocation of Time Slots"
+  },
+  {
+    "entity": "Guilds",
+    "attribute": "nature",
+    "value": "moral police",
+    "context": "Guilds and the Allocation of Time Slots"
+  },
+  {
+    "entity": "Guilds",
+    "attribute": "duality",
+    "value": "also regulate who gets to dream in larger ways; who can wake to a longer dawn",
+    "context": "Guilds and the Allocation of Time Slots"
+  },
+  {
+    "entity": "Morning",
+    "attribute": "structure",
+    "value": "Core; Perimeter; Quiet daylight tiers",
+    "context": "Life Within the Lattice"
+  },
+  {
+    "entity": "Midday",
+    "attribute": "structure",
+    "value": "Prism Banks hum; Memory Houses conduct midday memory reviews",
+    "context": "Life Within the Lattice"
+  },
+  {
+    "entity": "Evening",
+    "attribute": "structure",
+    "value": "Guilds convene in council rooms; power center at apex of towers",
+    "context": "Life Within the Lattice"
+  },
+  {
+    "entity": "Power Center",
+    "attribute": "description",
+    "value": "triad of towers that interlock, where Weather Wardens, Prism Banks, and Memory Houses converge",
+    "context": "Life Within the Lattice"
+  },
+  {
+    "entity": "Wealth",
+    "attribute": "definition",
+    "value": "the ability to touch dawn longer",
+    "context": "Life Within the Lattice"
+  },
+  {
+    "entity": "Drought\u2019s imprint",
+    "attribute": "effect",
+    "value": "a social examination that tests the ladder and policy",
+    "context": "The Drought\u2019s Imprint"
+  },
+  {
+    "entity": "Wealthy districts",
+    "attribute": "power",
+    "value": "guardianship over luminous windows",
+    "context": "Policy Repercussions"
+  },
+  {
+    "entity": "Poor districts",
+    "attribute": "condition",
+    "value": "shadowed lanes; limited dawn access",
+    "context": "Policy Repercussions"
+  },
+  {
+    "entity": "Middle class",
+    "attribute": "condition",
+    "value": "struggles to maintain allocations",
+    "context": "Policy Repercussions"
+  },
+  {
+    "entity": "Social contract",
+    "attribute": "nature",
+    "value": "ledger of debt and trust; a tension ledger",
+    "context": "Policy Repercussions"
+  },
+  {
+    "entity": "Edict of Equable Dawn",
+    "attribute": "type",
+    "value": "public policy document detailing dawn window allocation",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Edict of Equable Dawn",
+    "attribute": "enforcement",
+    "value": "Ranger of Dawn enforces; first two hours of morning are equalized",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Prism Bank Ledger",
+    "attribute": "type",
+    "value": "daily ledger showing daylight flow and inequities across districts",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Memory House Registry",
+    "attribute": "contents",
+    "value": "keeper logs; memory access records; governance decisions tied to memory",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Guild Charter",
+    "attribute": "topic",
+    "value": "timeslot allocation regulations; disciplinary procedures for overages or fraud",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Field diaries",
+    "attribute": "contents",
+    "value": "diaries of Weather Wardens, prism keepers, and memory curators; reveal human cost of daylight economy",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Mother Sera",
+    "attribute": "dialogue",
+    "value": "plea for additional dawn for baby; emphasizes line priority",
+    "context": "Dialogues from the Field"
+  },
+  {
+    "entity": "Neighbor Kellan",
+    "attribute": "dialogue",
+    "value": "refers to line rules and turn-taking in dawn allocations",
+    "context": "Dialogues from the Field"
+  },
+  {
+    "entity": "Keeper Maela",
+    "attribute": "dialogue",
+    "value": "warns that cutting the noon window would cast factory floors into shadow",
+    "context": "Dialogues from the Field"
+  },
+  {
+    "entity": "Guildmaster Rook",
+    "attribute": "dialogue",
+    "value": "insists on maintaining order to prevent drought from becoming famine of trust",
+    "context": "Dialogues from the Field"
+  },
+  {
+    "entity": "Vendor",
+    "attribute": "experience",
+    "value": "window allocations shrink; daylight access reduced",
+    "context": "Dialogues from the Field"
+  },
+  {
+    "entity": "Student",
+    "attribute": "state",
+    "value": "memory bound to a discipline prism; future at risk as daylight is consumed",
+    "context": "Dialogues from the Field"
+  },
+  {
+    "entity": "City\u2019s psychological weather",
+    "attribute": "phenomenon",
+    "value": "fear of losing daylight shapes behavior; oversight by memory houses sanctions missteps; sleeping is political act",
+    "context": "The City\u2019s Psychological Weather"
+  },
+  {
+    "entity": "Resistance acts",
+    "attribute": "form",
+    "value": "quiet, unwritten declarations of autonomy",
+    "context": "A Glimpse of Resistance and Subtleties"
+  },
+  {
+    "entity": "Resistance acts",
+    "attribute": "examples",
+    "value": "guild clerk hides extra dawn; memory house keeper preserves non-regular memory; weather warden tips extra dawn to a nurse",
+    "context": "A Glimpse of Resistance and Subtleties"
+  },
+  {
+    "entity": "Drought as catalyst",
+    "attribute": "effect",
+    "value": "forces governance recalibration across Wardens, Prism Banks, Memory Houses, Guilds",
+    "context": "The Drought as Catalyst"
+  },
+  {
+    "entity": "Tiered daylight reform",
+    "attribute": "proposal",
+    "value": "prioritize healthcare, education, and critical infrastructure; guarantee minimum daily window; add independent daylight auditor",
+    "context": "A Proposed Reconfiguration"
+  },
+  {
+    "entity": "Memory-prism devolution",
+    "attribute": "proposal",
+    "value": "decenter memory houses; participatory memory culture; public memory pool with rotating committee",
+    "context": "A Proposed Reconfiguration"
+  },
+  {
+    "entity": "Decentralized prism economy",
+    "attribute": "proposal",
+    "value": "Prism Banks offer micro-credits to neighborhoods to pool prisms for local daylight windows; distribute risk",
+    "context": "A Proposed Reconfiguration"
+  },
+  {
+    "entity": "Wardens as environmental stewards",
+    "attribute": "proposal",
+    "value": "Wardens coordinate with communities; build micro-weather networks to capture daylight",
+    "context": "A Proposed Reconfiguration"
+  },
+  {
+    "entity": "Weather Warden diary fragment",
+    "attribute": "content",
+    "value": "East Quarter gains extra dawn hours; drought reveals will to share; collective action needed",
+    "context": "In-world Epigraphs and Fragments"
+  },
+  {
+    "entity": "Prism Bank borrower fragment",
+    "attribute": "content",
+    "value": "Light loan: 12.4 minutes; rate: 0.75% per hour per day of delay; collateral: trust of students\u2019 futures",
+    "context": "In-world Epigraphs and Fragments"
+  },
+  {
+    "entity": "Memory House curatorial note fragment",
+    "attribute": "content",
+    "value": "To recall a memory is to borrow a future; price is the right to forget; guardianship of memory",
+    "context": "In-world Epigraphs and Fragments"
+  },
+  {
+    "entity": "Guild charter hearing fragment",
+    "attribute": "content",
+    "value": "Let us be a chorus; light belongs to all who deserve it; no siphon of the many to feed the few",
+    "context": "In-world Epigraphs and Fragments"
+  },
+  {
+    "entity": "Epigraphs and fragments",
+    "attribute": "sensory",
+    "value": "memory access chimes like a glass harp; turbines hum like sea; glass floors pinch feet; air tastes of ozone and citrus",
+    "context": "Sensory Immersion"
+  },
+  {
+    "entity": "Night",
+    "attribute": "memory status",
+    "value": "unclaimed memory; dark hush",
+    "context": "Sensory Immersion"
+  },
+  {
+    "entity": "Public Notice Board fragment",
+    "attribute": "content",
+    "value": "Dawn is no longer free; it costs to see the day; expect delays; expect ration adjustments",
+    "context": "In-world Documents"
+  },
+  {
+    "entity": "Endnotes",
+    "attribute": "purpose",
+    "value": "list policy and document references used in the entry",
+    "context": "Endnotes"
+  },
+  {
+    "entity": "The Edict of Equable Dawn",
+    "attribute": "document",
+    "value": "public policy document detailing how dawn windows are allocated",
+    "context": "Endnotes"
+  },
+  {
+    "entity": "Prism Bank Ledger (Endnotes)",
+    "attribute": "document",
+    "value": "daily ledger showing daylight flow and inequities across districts",
+    "context": "Endnotes"
+  },
+  {
+    "entity": "Memory House Registry (Endnotes)",
+    "attribute": "document",
+    "value": "keeper logs; memory access records; governance decisions tied to memory",
+    "context": "Endnotes"
+  },
+  {
+    "entity": "Guild Charter (Endnotes)",
+    "attribute": "document",
+    "value": "timeslot allocation regulations; disciplinary procedures for overages or fraud",
+    "context": "Endnotes"
+  },
+  {
+    "entity": "Field diaries (Endnotes)",
+    "attribute": "document",
+    "value": "diaries reveal human cost of daylight economy",
+    "context": "Endnotes"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "memory theme",
+    "value": "memory, weather, and wealth stored as light",
+    "context": "Closing Reflections"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "night",
+    "value": "night is unclaimed memory; a dark hush",
+    "context": "Sensory Immersion"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "glow",
+    "value": "city glows pale blue; prisms glow with memory",
+    "context": "Sensory Immersion"
+  }
+]

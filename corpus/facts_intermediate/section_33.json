@@ -1,0 +1,182 @@
+[
+  {
+    "entity": "Mara",
+    "attribute": "spouse",
+    "value": "Jori",
+    "context": "The family at supper in Gleamspire; Mara is described as Jori's spouse"
+  },
+  {
+    "entity": "Jori",
+    "attribute": "spouse",
+    "value": "Mara",
+    "context": "The family at supper in Gleamspire; Jori is Mara's spouse"
+  },
+  {
+    "entity": "Lina",
+    "attribute": "age",
+    "value": "16",
+    "context": "Description of Lina during supper"
+  },
+  {
+    "entity": "Kai",
+    "attribute": "age",
+    "value": "8",
+    "context": "Description of Kai during supper"
+  },
+  {
+    "entity": "Dorian",
+    "attribute": "role",
+    "value": "house-priest of flame",
+    "context": "Described as the house-priest of flame; nicknamed The Candle\u2019s Whisper"
+  },
+  {
+    "entity": "Dorian",
+    "attribute": "nickname",
+    "value": "The Candle\u2019s Whisper",
+    "context": "Dorian's nickname mentioned at supper"
+  },
+  {
+    "entity": "Light Ledger",
+    "attribute": "type",
+    "value": "record of ration, oath, and memory allotments",
+    "context": "The ledger on the table in pale-blue leather"
+  },
+  {
+    "entity": "Light Ledger",
+    "attribute": "contents",
+    "value": "memory quotas for every family member",
+    "context": "Ledger records each member\u2019s memory allotment"
+  },
+  {
+    "entity": "Light Ledger",
+    "attribute": "status",
+    "value": "glowed with light; readable under specific light ratios",
+    "context": "Pages illuminated in pale blue within the ledger"
+  },
+  {
+    "entity": "Common History Reserve",
+    "attribute": "purpose",
+    "value": "store the city\u2019s shared memory to sustain through the drought",
+    "context": "Proposed reallocation of memory quotas"
+  },
+  {
+    "entity": "City Memory Bank",
+    "attribute": "purpose",
+    "value": "pool memory to feed neighborhood programs; preserve crucial historic memories",
+    "context": "Proposed reallocation to support community needs"
+  },
+  {
+    "entity": "Mara",
+    "attribute": "plan",
+    "value": "realign personal memory quotas toward the city\u2019s communal archive",
+    "context": "Supper discussion about a plan"
+  },
+  {
+    "entity": "Lina",
+    "attribute": "response",
+    "value": "advocated sharing light without erasing identity; pressed for fairness",
+    "context": "Supper discussion about sharing light"
+  },
+  {
+    "entity": "Dorian",
+    "attribute": "observation",
+    "value": "the prisms store memory and light; sharing light gives life to others",
+    "context": "Dorian comments during the conversation"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "city_description",
+    "value": "city of radiant glass towers",
+    "context": "Introductory description of the setting"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "effect",
+    "value": "shortage of brightness and memory; prisms grow paler",
+    "context": "Throughout the supper narrative"
+  },
+  {
+    "entity": "Memory Highways",
+    "attribute": "concept",
+    "value": "routes for light distribution to neighborhoods",
+    "context": "Artifact of Lina\u2019s plan (map and terminology)"
+  },
+  {
+    "entity": "Lina",
+    "attribute": "leadership",
+    "value": "agreed to lead a volunteer distribution program",
+    "context": "After offering a plan to share memory"
+  },
+  {
+    "entity": "Lina",
+    "attribute": "distribution_plan",
+    "value": "visit cordon neighborhoods and share light; build networks; ensure distribution integrity",
+    "context": "Lina\u2019s proposed plan"
+  },
+  {
+    "entity": "Three documents",
+    "attribute": "contents",
+    "value": "Light Ledger Addendum; City Memory Bank Allocation Directive; Lina\u2019s Field Distribution Plan",
+    "context": "Supplementary documents listed in the narrative"
+  },
+  {
+    "entity": "Light Ledger Addendum",
+    "attribute": "period",
+    "value": "two-cycle period; automatic reevaluation; return-to-baseline if daylight levels rise",
+    "context": "Supplementary document summary"
+  },
+  {
+    "entity": "City Memory Bank Allocation Directive",
+    "attribute": "oversight",
+    "value": "oversight committee drawn from neighborhood councils",
+    "context": "Supplementary document summary"
+  },
+  {
+    "entity": "Lina\u2019s Field Distribution Plan",
+    "attribute": "scope",
+    "value": "volunteer network delivering memory and light to neighborhoods",
+    "context": "Supplementary document summary"
+  },
+  {
+    "entity": "Light Bank",
+    "attribute": "artifact_description",
+    "value": "postcard describing changes in light-loan interest rates during drought",
+    "context": "In-world artifact summary"
+  },
+  {
+    "entity": "Neighbor\u2019s Letter",
+    "attribute": "content",
+    "value": "offer to spare more light to their block in gratitude for memory",
+    "context": "In-world artifact summary"
+  },
+  {
+    "entity": "Mara\u2019s Grandmother\u2019s Diary Entry",
+    "attribute": "content",
+    "value": "memory resilience through past droughts; memory as currency and lineage",
+    "context": "In-world artifact summary"
+  },
+  {
+    "entity": "Map of memory distribution network",
+    "attribute": "content",
+    "value": "Memory Highways; lines along which light travels; neighborhoods receiving more memory",
+    "context": "In-world artifact summary"
+  },
+  {
+    "entity": "Plan",
+    "attribute": "status",
+    "value": "not yet ratified; a draft; not etched as final decision",
+    "context": "End of supper narrative"
+  },
+  {
+    "entity": "Final night at supper",
+    "attribute": "mood",
+    "value": "balance and resilience; not victory",
+    "context": "End-of-cycle description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "moral",
+    "value": "energy is a story we write together; remember who we might become",
+    "context": "Closing reflection"
+  }
+]

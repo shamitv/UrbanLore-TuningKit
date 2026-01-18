@@ -80,21 +80,41 @@ def extract_facts_from_corpus(corpus_file: str = "corpus/city_corpus.txt",
     sections = corpus_text.split("##")
     all_facts = []
     
+    # Create output directory
+    output_path = Path(output_dir)
+    output_path.mkdir(parents=True, exist_ok=True)
+
+    # Intermediate storage
+    intermediate_dir = output_path / "facts_intermediate"
+    intermediate_dir.mkdir(parents=True, exist_ok=True)
+    
     for i, section in enumerate(sections):
         if not section.strip():
             continue
+            
+        section_file = intermediate_dir / f"section_{i}.json"
         
+        if section_file.exists():
+            print(f"Loading cached facts for section {i+1}/{len(sections)}...")
+            try:
+                with open(section_file, "r", encoding="utf-8") as f:
+                    section_facts = json.load(f)
+                    all_facts.extend(section_facts)
+                continue
+            except Exception as e:
+                print(f"Error loading cache, reprocessing: {e}")
+
         print(f"Processing section {i+1}/{len(sections)}...")
         
         # Extract facts from this section
         section_facts = extract_facts_from_text(section, llm)
         all_facts.extend(section_facts)
+        
+        # Save intermediate result
+        with open(section_file, "w", encoding="utf-8") as f:
+            json.dump(section_facts, f, indent=2)
     
-    # Create output directory
-    output_path = Path(output_dir)
-    output_path.mkdir(parents=True, exist_ok=True)
-    
-    # Save facts
+    # Save combined facts
     facts_file = output_path / "facts.json"
     with open(facts_file, "w", encoding="utf-8") as f:
         json.dump({

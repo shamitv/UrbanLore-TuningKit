@@ -1,0 +1,200 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "overall character",
+    "value": "An enviro-sensory landscape where atmosphere is infrastructure; scent, sound, and light are the metrics by which citizens measure the world",
+    "context": "General city description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "core concept",
+    "value": "memory, weather, and wealth condensed into light",
+    "context": "Central city conceit"
+  },
+  {
+    "entity": "Prisms",
+    "attribute": "function",
+    "value": "Harvest daylight and convert it into memory; store, whisper, or release light to power weather boxes and memory wards",
+    "context": "How daylight is processed in Gleamspire"
+  },
+  {
+    "entity": "Memory Ward",
+    "attribute": "function",
+    "value": "Store memories within prisms and serve as a memory archive for the city",
+    "context": "Memory infrastructure"
+  },
+  {
+    "entity": "Weather Ledger of the North Quay, Gleamspire",
+    "attribute": "content",
+    "value": "Records temperatures in the key of memory and notes events like dawn bite, noon flood, evenfall drift",
+    "context": "In-world document dated 7th Day of Wainsun"
+  },
+  {
+    "entity": "The Cartographer\u2019s Field Note, Gleamspire Mapping Service",
+    "attribute": "content",
+    "value": "Shows flow of light across the city; light routes are braided streams mapping social life",
+    "context": "In-world document"
+  },
+  {
+    "entity": "The Market Map of Scent Trails",
+    "attribute": "content",
+    "value": "Communal listing of scent zones and scent-based language guiding memory and movement",
+    "context": "In-world document"
+  },
+  {
+    "entity": "Breath of Prism protocol",
+    "attribute": "purpose",
+    "value": "Activate secondary prisms to absorb remaining daylight and store it in a distributed manner",
+    "context": "Civic response to daylight drought"
+  },
+  {
+    "entity": "Drought of daylight",
+    "attribute": "effect",
+    "value": "Prisms absorb less daylight; memory wards weaken; weather boxes misread; memory events may vanish or intensify unrealistically",
+    "context": "Environmental stressor"
+  },
+  {
+    "entity": "City Council",
+    "attribute": "action",
+    "value": "Activated the Breath of Prism protocol",
+    "context": "Civic response to drought"
+  },
+  {
+    "entity": "Docks district",
+    "attribute": "ritual",
+    "value": "Night-to-dawn vigil where merchants recite memory fragments and upload them to memory wards in exchange for light",
+    "context": "District adaptation during drought"
+  },
+  {
+    "entity": "North Sill",
+    "attribute": "ritual",
+    "value": "Scent-based code: a sequence of citrus and resin acts as a password for a memory cache; prisms allocate more light to a ward",
+    "context": "District adaptation during drought"
+  },
+  {
+    "entity": "Market Court",
+    "attribute": "ritual",
+    "value": "Daily procession of chime-cue lines that guide prisms to light specific neighborhoods",
+    "context": "District adaptation during drought"
+  },
+  {
+    "entity": "Square of Glass",
+    "attribute": "location",
+    "value": "A gathering place where light is kept in a jar and memory aloud is spoken to feed prisms",
+    "context": "Memory Ward directive"
+  },
+  {
+    "entity": "Memory Ward",
+    "attribute": "directive",
+    "value": "Gather at Square of Glass at dusk; speak a memory aloud for prisms to drink",
+    "context": "Directive from Memory Ward"
+  },
+  {
+    "entity": "Market Court",
+    "attribute": "description",
+    "value": "Corridor of reflections where a thousand light feeds into a single glow; memory and scent guide the crowd",
+    "context": "Environmental description"
+  },
+  {
+    "entity": "Memory hour",
+    "attribute": "concept",
+    "value": "A daily window when prisms still hold enough daylight to illuminate a shared memory",
+    "context": "Daily ritual during drought"
+  },
+  {
+    "entity": "Gleamspire (triad)",
+    "attribute": "triad",
+    "value": "Memory, weather, and wealth condensed into light",
+    "context": "Core city concept"
+  },
+  {
+    "entity": "Towers",
+    "attribute": "function",
+    "value": "Absorb morning light and store it as living prisms; release light to power memory wards and forecasts",
+    "context": "Architectural function"
+  },
+  {
+    "entity": "Harbor turbines",
+    "attribute": "sound",
+    "value": "Provide a bassline that anchors the city\u2019s pulse",
+    "context": "Soundscape element"
+  },
+  {
+    "entity": "Wind-harp towers",
+    "attribute": "function",
+    "value": "Ring with reverence and warning; map major thoroughfares by arpeggios; guard social ritual of commerce",
+    "context": "Soundscape element"
+  },
+  {
+    "entity": "Ozone",
+    "attribute": "smell",
+    "value": "Air carries ozone like a high, clean note; citrus on the exhale; copper on the inhale",
+    "context": "Sensory description"
+  },
+  {
+    "entity": "Lamp oil and resin",
+    "attribute": "usage",
+    "value": "Used to scent the air and modulate memory; resin heated and re-melted; lamp oil contributes to scent palette",
+    "context": "Chemistries of the enviro-sensory landscape"
+  },
+  {
+    "entity": "Perfume makers",
+    "attribute": "tactic",
+    "value": "Anchor aroma with wax to hold scent longer so memory persists when daylight is scarce",
+    "context": "Adaptive resilience during drought"
+  },
+  {
+    "entity": "Harbor pilots",
+    "attribute": "navigation",
+    "value": "Use a combination of chimes and scent cues to guide ships by memory rather than light",
+    "context": "Adaptive navigation during drought"
+  },
+  {
+    "entity": "Gas/Light economy (implicit)",
+    "attribute": "economic shift",
+    "value": "Prices for light spike; lamps burn longer; resin and lamp oil industries see rising demand as substitutes for daylight",
+    "context": "Economic ripple of daylight drought"
+  },
+  {
+    "entity": "Market traders",
+    "attribute": "behavior",
+    "value": "Move through the city as a living instrument; use scent maps and prisms to stage displays and guide memory",
+    "context": "Trade through enviro-sensory cues"
+  },
+  {
+    "entity": "Morning",
+    "attribute": "scene",
+    "value": "Pale blue glow; air tastes of ozone and lemon; first steps on glass emit a ringing echo; wind-harp towers chime; scent map shifts with ships",
+    "context": "Morning in Gleamspire"
+  },
+  {
+    "entity": "Midday",
+    "attribute": "scene",
+    "value": "Sun at a crown of prisms; uniform blue light; work shifts to precision; memory ward ledger records events",
+    "context": "Midday in Gleamspire"
+  },
+  {
+    "entity": "Evening",
+    "attribute": "scene",
+    "value": "Prisms amber; sea breath heavy; turbines thrum; memory wards open; lantern-bearers illuminate paths",
+    "context": "Evening in Gleamspire"
+  },
+  {
+    "entity": "Night",
+    "attribute": "scene",
+    "value": "Temperature drops; prisms glow cool blue; air tastes copper and citrus; chimes become lullabies; memory ward keeps vigil",
+    "context": "Night in Gleamspire"
+  },
+  {
+    "entity": "Enviro-sensory landscape",
+    "attribute": "role",
+    "value": "Remains a living map even in drought; guides memory, scent, and sound",
+    "context": "Drought adaptation and resilience"
+  },
+  {
+    "entity": "City of memory-bred resilience",
+    "attribute": "forecast",
+    "value": "If daylight fades, residents intensify social cues and memory-sharing to compensate",
+    "context": "Long-term outlook during drought"
+  }
+]

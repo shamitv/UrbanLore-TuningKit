@@ -41,7 +41,7 @@ OPENAI_API_KEY=sk-your-api-key-here
 ```
 
 Optional configurations:
-- `OPENAI_MODEL=gpt-5-nano` (or gpt-3.5-turbo for lower cost)
+- `OPENAI_MODEL=gpt-5-nano` (lower cost)
 - `BASE_MODEL=Qwen/Qwen3-0.6B` (model to fine-tune)
 - `CORPUS_TARGET_WORDS=200000` (adjust for faster testing)
 
@@ -191,7 +191,7 @@ make lint
 
 Edit `.env`:
 ```bash
-OPENAI_MODEL=gpt-3.5-turbo  # Cheaper option
+OPENAI_MODEL=gpt-5-nano  # Cheaper option
 BASE_MODEL=TinyLlama/TinyLlama-1.1B-Chat-v1.0  # Smaller model
 ```
 
@@ -293,7 +293,7 @@ GRADIENT_ACCUMULATION_STEPS=8
 ```bash
 # Solution: Use smaller target or faster model
 CORPUS_TARGET_WORDS=50000
-OPENAI_MODEL=gpt-3.5-turbo
+OPENAI_MODEL=gpt-5-nano
 ```
 
 ### GPU Issues

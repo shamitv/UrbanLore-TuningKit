@@ -1,0 +1,367 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "alternate name",
+    "value": "City of Radiant Glass",
+    "context": "Intro description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "sunlight economy role",
+    "value": "sun is distilled, bottled, and traded",
+    "context": "Intro description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "appearance of towers",
+    "value": "pale and honeyed",
+    "context": "Intro description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "prisms function",
+    "value": "drink daylight in the morning and breathe out memory by dusk",
+    "context": "Intro description"
+  },
+  {
+    "entity": "memory",
+    "attribute": "nature",
+    "value": "stock, currency, weather front",
+    "context": "Intro description"
+  },
+  {
+    "entity": "memory",
+    "attribute": "movement in city",
+    "value": "travels through glass like pale birds",
+    "context": "Intro description"
+  },
+  {
+    "entity": "social order",
+    "attribute": "structure",
+    "value": "braided around a luminous economy of storing and emitting light",
+    "context": "Intro description"
+  },
+  {
+    "entity": "drought",
+    "attribute": "effect on society",
+    "value": "daylight fails; social scaffolding crumbles",
+    "context": "Intro description"
+  },
+  {
+    "entity": "rituals of light",
+    "attribute": "role",
+    "value": "intimate markers of class; signs of power carried in body and breath",
+    "context": "Intro description"
+  },
+  {
+    "entity": "micro-emblems",
+    "attribute": "examples",
+    "value": "head tilts, cadence of greeting, distance in conversation, rate light spills from cuff to feed memory chest",
+    "context": "Intro description"
+  },
+  {
+    "entity": "rooms",
+    "attribute": "types",
+    "value": "one with air that hums with memory; one with air thin and memory costly",
+    "context": "Intro description"
+  },
+  {
+    "entity": "upper class",
+    "attribute": "attire",
+    "value": "canopies of luminescent fabric",
+    "context": "Intro description"
+  },
+  {
+    "entity": "upper class",
+    "attribute": "behavior",
+    "value": "steps measured; postures deliberate; smiles engineered to be remembered by prism-banks",
+    "context": "Intro description"
+  },
+  {
+    "entity": "middle class",
+    "attribute": "behavior",
+    "value": "choreography of social flares",
+    "context": "Intro description"
+  },
+  {
+    "entity": "lower class",
+    "attribute": "behavior",
+    "value": "barter for daylight; shoulders slouched; gaze downward",
+    "context": "Intro description"
+  },
+  {
+    "entity": "memory economy",
+    "attribute": "nature",
+    "value": "is the atmosphere of the city",
+    "context": "Intro description"
+  },
+  {
+    "entity": "child's first memory",
+    "attribute": "public record",
+    "value": "becomes a public record when recited to a prism",
+    "context": "Intro description"
+  },
+  {
+    "entity": "newborn's first light",
+    "attribute": "bottling",
+    "value": "bottled by a nurse-priestess who knows seconds of brightness owed due to weather-woven debt",
+    "context": "Intro description"
+  },
+  {
+    "entity": "memory",
+    "attribute": "storage",
+    "value": "poured into living prisms that glow against walls",
+    "context": "Intro description"
+  },
+  {
+    "entity": "weather",
+    "attribute": "purchase capability",
+    "value": "can be bought, shifted, or captured for a sum of light",
+    "context": "Intro description"
+  },
+  {
+    "entity": "most valuable memory",
+    "attribute": "value",
+    "value": "preserves tomorrow\u2019s chance of light and stabilizes prism-bank",
+    "context": "Intro description"
+  },
+  {
+    "entity": "receiving light",
+    "attribute": "social rule",
+    "value": "to acknowledge a presence",
+    "context": "Intro description"
+  },
+  {
+    "entity": "withholding light",
+    "attribute": "social rule",
+    "value": "signals a boundary not to be crossed in scarcity",
+    "context": "Intro description"
+  },
+  {
+    "entity": "speaking about light",
+    "attribute": "ritual",
+    "value": "words carry memory; the wrong word can cloud prism-chest or memory",
+    "context": "Intro description"
+  },
+  {
+    "entity": "The Allocation Ledger of Light",
+    "attribute": "document",
+    "value": "public charter; light owned by the city by a daily allotment",
+    "context": "In-world Document 1"
+  },
+  {
+    "entity": "Allocation Ledger",
+    "attribute": "adjustment",
+    "value": "adjusted for season and memory demand",
+    "context": "In-world Document 1"
+  },
+  {
+    "entity": "Allocation Ledger",
+    "attribute": "memory stock relation",
+    "value": "those who receive more light hold more memory stock; those who receive less hold smaller memory portfolios",
+    "context": "In-world Document 1"
+  },
+  {
+    "entity": "Allocation Ledger",
+    "attribute": "exchange rate",
+    "value": "light-to-memory fluctuates with the weather-lattice; drought raises price of light, kindness, and memory",
+    "context": "In-world Document 1"
+  },
+  {
+    "entity": "Memory Shade",
+    "attribute": "function",
+    "value": "to hide a recent memory; deemed honorable to protect others from painful recollection",
+    "context": "In-world Document 1"
+  },
+  {
+    "entity": "Gesture of Acknowledgement",
+    "attribute": "definition",
+    "value": "When light is offered, recipient lifts hands at chest height and touches beam with lips",
+    "context": "In-world Document 2"
+  },
+  {
+    "entity": "Greeting rules",
+    "attribute": "definition",
+    "value": "superior: turn face toward right shoulder and let slow beam graze cheek; peer: shallow bow; subordinate: direct approach but eyes must not linger longer than a breath",
+    "context": "In-world Document 2"
+  },
+  {
+    "entity": "Silence",
+    "attribute": "definition",
+    "value": "declining light with apology and turning-away; silence is a form of light",
+    "context": "In-world Document 2"
+  },
+  {
+    "entity": "Lumenhold",
+    "attribute": "definition",
+    "value": "a person who guards or stores light for the prisms; often aligned with powerful families",
+    "context": "Glossarium"
+  },
+  {
+    "entity": "Shingle-Glare",
+    "attribute": "definition",
+    "value": "quick flash of a memory across a glass surface; unit of memory speed",
+    "context": "Glossarium"
+  },
+  {
+    "entity": "Dry-Bright",
+    "attribute": "definition",
+    "value": "a drought-warm day when daylight dwindles and artificial light mimics the sun",
+    "context": "Glossarium"
+  },
+  {
+    "entity": "Room of Memory Drawers",
+    "attribute": "function",
+    "value": "holds thousands of memory drawers; each memory has a price; ritual recite a poem line about light before memory is touched",
+    "context": "Room of Memory Drawers"
+  },
+  {
+    "entity": "Lang",
+    "attribute": "role",
+    "value": "visitor who receives a memory from a drawer; memory tastes of damp stone and salt",
+    "context": "Room of Memory Drawers"
+  },
+  {
+    "entity": "Keeper",
+    "attribute": "role",
+    "value": "elderly memory keeper who explains debt of receiving light",
+    "context": "Room of Memory Drawers"
+  },
+  {
+    "entity": "Lang's memory",
+    "attribute": "content",
+    "value": "memory of a wedding night borrowed from a sea-adjacent girl",
+    "context": "Room of Memory Drawers"
+  },
+  {
+    "entity": "Gray Market",
+    "attribute": "economy",
+    "value": "memory tokens passed; tokens issued by Prism Banks; represent fixed daylight",
+    "context": "Gray Market"
+  },
+  {
+    "entity": "memory tokens",
+    "attribute": "use",
+    "value": "recall memory within a time window; borrow memory; lend light for ceremonies",
+    "context": "Gray Market"
+  },
+  {
+    "entity": "If a person cannot stand the light",
+    "attribute": "phrase",
+    "value": "borrow a little memory instead",
+    "context": "Gray Market"
+  },
+  {
+    "entity": "child\u2019s birthday memory",
+    "attribute": "impact",
+    "value": "can brighten a grandmother\u2019s room for an hour",
+    "context": "Gray Market"
+  },
+  {
+    "entity": "summer storm memory",
+    "attribute": "impact",
+    "value": "can dampen a room\u2019s tension in a time of election",
+    "context": "Gray Market"
+  },
+  {
+    "entity": "Dr drought",
+    "attribute": "chimes",
+    "value": "often bend toward minor keys; memory and hope mingle with caution",
+    "context": "Soundscape"
+  },
+  {
+    "entity": "Turbines",
+    "attribute": "function",
+    "value": "draw light from reserves to power memory banks",
+    "context": "Soundscape"
+  },
+  {
+    "entity": "Glass Skyways",
+    "attribute": "system",
+    "value": "lattice of prisms above streets capturing weather to forecast or alter day\u2019s weather",
+    "context": "Memory Weather System"
+  },
+  {
+    "entity": "PR campaign",
+    "attribute": "purpose",
+    "value": "urge conservation of light and reduction of memory transactions during drought",
+    "context": "Weather-Lattice PR"
+  },
+  {
+    "entity": "News Headlines in Prism Dome",
+    "attribute": "items",
+    "value": [
+      "Light Rationed in Central Quarters as Drought Deepens",
+      "Memory Brokers Propose 'Selective Forgetting' Blocks to ease Burden",
+      "City Hall: The Weather-Lattice Remains Stable, But Light Levels Are Low",
+      "Street Chimes Rewired to Signal Light Availability"
+    ],
+    "context": "News Headlines"
+  },
+  {
+    "entity": "Orin",
+    "attribute": "role",
+    "value": "nurse\u2019s aide who petitions for temporary reduction of memory tax during drought",
+    "context": "Public hearing"
+  },
+  {
+    "entity": "Orin",
+    "attribute": "petition result",
+    "value": "compromise: temporary exemption for certain classes of memory",
+    "context": "Public hearing"
+  },
+  {
+    "entity": "Council of Prism Banks",
+    "attribute": "decision",
+    "value": "consider temporary re-prioritization of light to protect schools, hospitals, and memory-work",
+    "context": "Closing scene"
+  },
+  {
+    "entity": "Threaders",
+    "attribute": "role",
+    "value": "memory brokers with livelihood tied to light",
+    "context": "Council-Chamber discussion"
+  },
+  {
+    "entity": "Memory keepers",
+    "attribute": "role",
+    "value": "rely on light; donors affected by drought",
+    "context": "Council-Chamber discussion"
+  },
+  {
+    "entity": "Epilogue grandmother letter",
+    "attribute": "content",
+    "value": "Dear Child of Light... keep your distance, keep your breath, keep your memory; forget and light forgets you; remember and light remembers you; saved until morning",
+    "context": "Epilogue"
+  },
+  {
+    "entity": "Glossary",
+    "attribute": "items",
+    "value": "Lumenhold, Shingle-Glare, Dry-Bright, Memory Shade, Gesture of Acknowledgement",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Final Reflection",
+    "attribute": "theme",
+    "value": "the true power is the ability to remember together; trust and memory-weather-wealth relation",
+    "context": "Final Reflection"
+  },
+  {
+    "entity": "Conclusion",
+    "attribute": "summary",
+    "value": "a city of radiant glass towers that soak daylight and store it as living prisms; memory, weather, and wealth condensed into light",
+    "context": "Conclusion"
+  },
+  {
+    "entity": "Soundscape",
+    "attribute": "composition",
+    "value": "chorus of chimes, turbines, and distant surf",
+    "context": "Conclusion"
+  },
+  {
+    "entity": "Suburbs",
+    "attribute": "ritual item",
+    "value": "gloves with pocket prisms to share light privately",
+    "context": "Suburbs"
+  }
+]

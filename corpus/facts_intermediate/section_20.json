@@ -1,0 +1,278 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "city_description",
+    "value": "a city of radiant glass towers that soak daylight and store it as living prisms",
+    "context": "Overview in BEGIN ENTRY"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "memory_economy_description",
+    "value": "memory, weather, and wealth are condensed into light",
+    "context": "Overview in BEGIN ENTRY"
+  },
+  {
+    "entity": "Memory Market",
+    "attribute": "function",
+    "value": "harvests, processes, and stores memory in living prisms",
+    "context": "Memory Market"
+  },
+  {
+    "entity": "Memory Market",
+    "attribute": "structure",
+    "value": "glittering conduits coil through the core of the city like arteries of light",
+    "context": "Memory Market"
+  },
+  {
+    "entity": "memory-prisms",
+    "attribute": "description",
+    "value": "twin-channeled vessels that shimmer with a soft internal rain",
+    "context": "Memory Market"
+  },
+  {
+    "entity": "memory",
+    "attribute": "nature",
+    "value": "a grain of atmosphere, a currency, a weather pattern, a rumor that can be banked, traded, or forgotten",
+    "context": "Overview: memory as asset"
+  },
+  {
+    "entity": "Memory Keepers",
+    "attribute": "role",
+    "value": "cohort that gathers glimpses of lived hours and bottles them into prisms; curate, convert, and sanction memory as labor",
+    "context": "Section 1: The Memory Keepers"
+  },
+  {
+    "entity": "Memory Keepers",
+    "attribute": "tools",
+    "value": "memory-prisms and memory-tongs; social rituals, oaths, and pensions",
+    "context": "Section 1: The Memory Keepers"
+  },
+  {
+    "entity": "Prism Gates",
+    "attribute": "location",
+    "value": "recruitment drives are staged at the Prism Gates",
+    "context": "Section 1: Recruitment & Attrition Cycle"
+  },
+  {
+    "entity": "Algorithmic Caches",
+    "attribute": "location",
+    "value": "recruitment occurs under the shade of the Algorithmic Caches",
+    "context": "Section 1: Recruitment & Attrition Cycle"
+  },
+  {
+    "entity": "retirement",
+    "attribute": "theme",
+    "value": "ceremony and ritual of care; elder-to-younger transfer of memory",
+    "context": "Section 3: Retirement, Ritual, and the Transmission of Light"
+  },
+  {
+    "entity": "Retirement Covenant for Memory-Keeper Unit B-12",
+    "attribute": "clause",
+    "value": "keeper shall bequeath no more memory than can be safely stabilized within the prism architecture",
+    "context": "Document: Retirement Covenant for Memory-Keeper Unit B-12"
+  },
+  {
+    "entity": "Retirement Covenant for Memory-Keeper Unit B-12",
+    "attribute": "clause",
+    "value": "apprentice cohort shall maintain consent protocols, ensuring that personal memories offered for public or private use are not exploited",
+    "context": "Document: Retirement Covenant for Memory-Keeper Unit B-12"
+  },
+  {
+    "entity": "Retirement Covenant for Memory-Keeper Unit B-12",
+    "attribute": "clause",
+    "value": "all memory transferred to the vault must be annotated with the keeper\u2019s ethical rationale and personal boundary notes",
+    "context": "Document: Retirement Covenant for Memory-Keeper Unit B-12"
+  },
+  {
+    "entity": "Argentine Quays",
+    "attribute": "neighborhood_feature",
+    "value": "terraces where windows glow faintly with the late afternoon memory of a grandmother",
+    "context": "Section 1: Neighborhood memory"
+  },
+  {
+    "entity": "Lattice Row",
+    "attribute": "neighborhood_feature",
+    "value": "terraces glow with the late afternoon memory of a grandmother",
+    "context": "Section 1: Neighborhood memory"
+  },
+  {
+    "entity": "Memory wealth",
+    "attribute": "definition",
+    "value": "having more of the city\u2019s past available in more precise, usable forms",
+    "context": "Section 1: Age Structures"
+  },
+  {
+    "entity": "Memory-poor",
+    "attribute": "definition",
+    "value": "existing with a thinner air; ideas come late; recollection lags; attention value drops",
+    "context": "Section 1: Age Structures"
+  },
+  {
+    "entity": "Households with memory prisms",
+    "attribute": "statistic",
+    "value": "are twice as likely to support a second child within the same decade than households without prisms",
+    "context": "Section 1: Age Structures"
+  },
+  {
+    "entity": "Mira",
+    "attribute": "role",
+    "value": "memory-keeper who mentors apprentices at the Prism Gate",
+    "context": "Section 1: Dialogues"
+  },
+  {
+    "entity": "Prism Gate",
+    "attribute": "description",
+    "value": "a location where memory-keepers mentor and train apprentices",
+    "context": "Section 2: The Labor Pool"
+  },
+  {
+    "entity": "Memory-keepers",
+    "attribute": "work_structure",
+    "value": "travel in pairs or trios: memory-collector, processor, guard",
+    "context": "Section 2: The Labor Pool"
+  },
+  {
+    "entity": "Memory-supply",
+    "attribute": "measurement",
+    "value": "durability of memories captured; rate at which prisms are recharged by daylight; rate at which memory can be networked for shared use",
+    "context": "Section 2: The Labor Pool"
+  },
+  {
+    "entity": "Memory-demand",
+    "attribute": "measurement",
+    "value": "stabilizes weather forecasts, influences public policy, or fuels memory-driven industries",
+    "context": "Section 2: The Labor Pool"
+  },
+  {
+    "entity": "Memory price",
+    "attribute": "behavior",
+    "value": "fluctuates with daylight; premiums rise for simple memories during drought",
+    "context": "Section 6: The Drought of Daylight"
+  },
+  {
+    "entity": "Drought of daylight",
+    "attribute": "effects",
+    "value": "prisms lose efficiency; memories become less durable; more energy required; risk of memory fragmentation",
+    "context": "Section 6: The Drought of Daylight"
+  },
+  {
+    "entity": "Arin",
+    "attribute": "role",
+    "value": "memory-collector in the Prism Gate",
+    "context": "Section 6: The Drought of Daylight"
+  },
+  {
+    "entity": "Arin",
+    "attribute": "quote",
+    "value": "The drought doesn't just steal daylight. It steals a city's capacity to believe in daylight. If you cannot believe in the future, you cannot invest in it.",
+    "context": "Section 6: The Drought of Daylight"
+  },
+  {
+    "entity": "Nari",
+    "attribute": "product",
+    "value": "memory-seasoned citrus glows (edible prisms)",
+    "context": "Section 7: Daily Life Scenes"
+  },
+  {
+    "entity": "Memory glows",
+    "attribute": "use",
+    "value": "edible prisms that release a brief memory of summer; used as currency in some social transactions",
+    "context": "Section 7: Daily Life Scenes"
+  },
+  {
+    "entity": "Memory-keeper couple",
+    "attribute": "activity",
+    "value": "calibrate storage for a client who wants to preserve the memory of their grandmother's lullaby",
+    "context": "Section 7: Daily Life Scenes"
+  },
+  {
+    "entity": "Argentine Quays night",
+    "attribute": "event",
+    "value": "shared memory night: one memory listened to collectively, discussed, and re-uploaded to the vault",
+    "context": "Section 7: Daily Life Scenes"
+  },
+  {
+    "entity": "Retirement ceremony",
+    "attribute": "description",
+    "value": "quiet, reverential; last public memory is a candid recollection of a storm at sea that saved a neighborhood",
+    "context": "Section 7: Daily Life Scenes"
+  },
+  {
+    "entity": "Rememberers",
+    "attribute": "role",
+    "value": "guardians who monitor how memory is captured, stored, and deployed; ensure explicit consent and memory rights",
+    "context": "Section 5: In-World Gray Areas"
+  },
+  {
+    "entity": "Prismatic overfill rumors",
+    "attribute": "consequence",
+    "value": "prisms leaking recollections into the city\u2019s public space",
+    "context": "Section 5: In-World Gray Areas"
+  },
+  {
+    "entity": "Guest share",
+    "attribute": "risk",
+    "value": "practice that can cause long-term social fracture if a child grows up with limited access to memory",
+    "context": "Section 5: In-World Gray Areas"
+  },
+  {
+    "entity": "Memory Ledger, Volume 12",
+    "attribute": "document",
+    "value": "Day 7, Tide 3: Transferred 12 hours of grandmother's lullaby to Vault Delta; consent reaffirmed; no-second-use clause invoked",
+    "context": "Section 10: In-World Documents: Hidden Texts and Public Scrolls"
+  },
+  {
+    "entity": "Recruitment Announcement, Prism Gate Bulletin",
+    "attribute": "document",
+    "value": "seeks minds willing to learn the ethics of recollection and the physics of light; no prior memory capture required; consent and memory leakage awareness prerequisites",
+    "context": "Section 10: In-World Documents: Hidden Texts and Public Scrolls"
+  },
+  {
+    "entity": "Retiree\u2019s Testament",
+    "attribute": "document",
+    "value": "memory\u2019s weight is a form of grace; grandchildren will carry this weight now; guard it well",
+    "context": "Section 10: In-World Documents: Hidden Texts and Public Scrolls"
+  },
+  {
+    "entity": "The Weather of Memory",
+    "attribute": "relation",
+    "value": "more stable daylight leads to more predictable weather and memory-based climate forecasts",
+    "context": "Section 8: The Weather of Memory and the Future of Gleamspire"
+  },
+  {
+    "entity": "Memory migratory routes",
+    "attribute": "concept",
+    "value": "memory capture from other cities or distant sources via prisms is sometimes possible",
+    "context": "Section 8: The Weather of Memory and the Future"
+  },
+  {
+    "entity": "Communal memory stewardship",
+    "attribute": "concept",
+    "value": "memory bank becomes a public utility that ensures basic memory welfare for all",
+    "context": "Section 8: The Weather of Memory and the Future"
+  },
+  {
+    "entity": "Public vs private memory boundary",
+    "attribute": "trend",
+    "value": "the line between public and private memory may blur in future",
+    "context": "Section 8: The Weather of Memory and the Future"
+  },
+  {
+    "entity": "Dialogues",
+    "attribute": "format",
+    "value": "excerpts include conversations among memory-keepers, guardians, and youth",
+    "context": "Section 9: Dialogues from the Heart of the City"
+  },
+  {
+    "entity": "Leto",
+    "attribute": "role",
+    "value": "supervisor with a gaze that seems to hold every lamp inside a prism",
+    "context": "Dialogue: memory-keeper meeting"
+  },
+  {
+    "entity": "Juno",
+    "attribute": "role",
+    "value": "younger memory-keeper; partner to Leto in planning",
+    "context": "Dialogue: memory-keeper meeting"
+  }
+]

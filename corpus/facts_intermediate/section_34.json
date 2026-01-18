@@ -1,0 +1,230 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "city",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "daylight storage",
+    "value": "stored as glow in memory prisms",
+    "context": "Memory economy"
+  },
+  {
+    "entity": "memory prisms",
+    "attribute": "location",
+    "value": "float inside memory-prism towers",
+    "context": "City infrastructure"
+  },
+  {
+    "entity": "memory prisms",
+    "attribute": "glow when daylight is generous",
+    "value": "honeyed blue",
+    "context": "Prisms' behavior"
+  },
+  {
+    "entity": "memory prisms",
+    "attribute": "glow when daylight is lean",
+    "value": "strand of pale glass thread",
+    "context": "Prisms' behavior"
+  },
+  {
+    "entity": "family lines",
+    "attribute": "storage method",
+    "value": "read aloud and calibration, not in books",
+    "context": "Memory tradition"
+  },
+  {
+    "entity": "drought",
+    "attribute": "impact",
+    "value": "tightens the rhythm of education",
+    "context": "Drought in Gleamspire"
+  },
+  {
+    "entity": "Mara Vell",
+    "attribute": "role",
+    "value": "lineage mentor",
+    "context": "Chapter focus"
+  },
+  {
+    "entity": "Lyra",
+    "attribute": "role",
+    "value": "apprentice/child learner",
+    "context": "Chapter focus"
+  },
+  {
+    "entity": "Lineage Workshop",
+    "attribute": "location",
+    "value": "crown of a spire",
+    "context": "Workshop entrance"
+  },
+  {
+    "entity": "Lineage Workshop",
+    "attribute": "doors",
+    "value": "finger-lace patterns of light; openings are prisms",
+    "context": "Architecture"
+  },
+  {
+    "entity": "Lineage Workshop",
+    "attribute": "interior",
+    "value": "stable, copper-tanged air with resin, lamp oil, warm marble, and glass",
+    "context": "Interior description"
+  },
+  {
+    "entity": "drought",
+    "attribute": "initiation-rule",
+    "value": "requires listening to the light; time is scarce",
+    "context": "Initiation rules"
+  },
+  {
+    "entity": "instrument",
+    "attribute": "type",
+    "value": "brass clamp with small gloved fingers",
+    "context": "Reading apparatus"
+  },
+  {
+    "entity": "Lyra",
+    "attribute": "memory-name",
+    "value": "Morning of the first drought",
+    "context": "First memory naming"
+  },
+  {
+    "entity": "Lyra",
+    "attribute": "memory-name",
+    "value": "the day we learned to listen with our bones",
+    "context": "Memory naming revision"
+  },
+  {
+    "entity": "memory prism",
+    "attribute": "response",
+    "value": "accepts memory and glow grows warmer as alignment holds",
+    "context": "Reading interaction"
+  },
+  {
+    "entity": "memory",
+    "attribute": "clock",
+    "value": "ticks like a lamp being fed",
+    "context": "Memory dynamics"
+  },
+  {
+    "entity": "drought",
+    "attribute": "learning-implication",
+    "value": "readings become more restrained to protect memory integrity",
+    "context": "Drought education"
+  },
+  {
+    "entity": "Breath of the Prism",
+    "attribute": "type",
+    "value": "ritual for preserving memory during drought",
+    "context": "Ritual practice"
+  },
+  {
+    "entity": "Breath of the Prism",
+    "attribute": "steps",
+    "value": "read memory aloud; seal in prism with vow; memory signature frost on inner walls",
+    "context": "Ritual procedure"
+  },
+  {
+    "entity": "calibrant",
+    "attribute": "type",
+    "value": "polished brass device that hums with memory rhythm",
+    "context": "Calibration tool"
+  },
+  {
+    "entity": "Second Day",
+    "attribute": "memory",
+    "value": "the day memory would teach daylight to listen again; city would walk in the dark",
+    "context": "Father's memory"
+  },
+  {
+    "entity": "Second Day",
+    "attribute": "name-origin",
+    "value": "given by Lyra's father",
+    "context": "Memory origin"
+  },
+  {
+    "entity": "Public Note: The Day of Light Dilution",
+    "attribute": "type",
+    "value": "public proclamation",
+    "context": "Governance"
+  },
+  {
+    "entity": "Public Note: The Day of Light Dilution",
+    "attribute": "instruction",
+    "value": "carry lanterns; speak softly; read aloud with care; guard memory",
+    "context": "Public guidance"
+  },
+  {
+    "entity": "Public Note: The Day of Light Dilution",
+    "attribute": "training",
+    "value": "lineages will provide memory-literacy training",
+    "context": "Public policy"
+  },
+  {
+    "entity": "Oath of Custodians",
+    "attribute": "document-title",
+    "value": "Document 1: Excerpt from the Oath of Custodians, House Vell",
+    "context": "Document reference"
+  },
+  {
+    "entity": "Oath of Custodians",
+    "attribute": "theme",
+    "value": "guard the light; do not rush to brightness; sustain memory",
+    "context": "Document 1"
+  },
+  {
+    "entity": "House Vell",
+    "attribute": "role",
+    "value": "lineage; memory guardianship",
+    "context": "House description"
+  },
+  {
+    "entity": "First Glimmer",
+    "attribute": "event",
+    "value": "dawn moment when prisms drink a thin trickle of light",
+    "context": "Ending scene"
+  },
+  {
+    "entity": "Lyra",
+    "attribute": "growth-path",
+    "value": "from reader to guardian of memory (guardian-commission)",
+    "context": "Character arc"
+  },
+  {
+    "entity": "memory prisms",
+    "attribute": "nature",
+    "value": "living beings with moods and needs",
+    "context": "Closing description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "state",
+    "value": "drought persists; daylight lean; memory-prisms more patient",
+    "context": "Ending image"
+  },
+  {
+    "entity": "Lineage Workshop window",
+    "attribute": "view",
+    "value": "pale blue glow; frostwritten runes",
+    "context": "Final image"
+  },
+  {
+    "entity": "Sea",
+    "attribute": "sound",
+    "value": "the sea outside sighs with a long, contented breath",
+    "context": "Closing imagery"
+  },
+  {
+    "entity": "Lighthouse",
+    "attribute": "symbol",
+    "value": "distant lighthouse repeats its careful call against the night",
+    "context": "Closing imagery"
+  },
+  {
+    "entity": "Lavender oil",
+    "attribute": "use",
+    "value": "to guide memory toward a new resonance",
+    "context": "Memory tuning"
+  }
+]

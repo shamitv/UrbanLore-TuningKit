@@ -1,0 +1,314 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "description",
+    "value": "city of refractions",
+    "context": "Opening description in Nature & Ecology: Air We Glow In \u2014 Microclimate, Scent, and Sound"
+  },
+  {
+    "entity": "Daylight",
+    "attribute": "handling",
+    "value": "stored, sifted, and exhaled as living color",
+    "context": "Opening description in Nature & Ecology"
+  },
+  {
+    "entity": "Air around the towers",
+    "attribute": "scent",
+    "value": "steady, breathless perfume; ozone bright as fresh rain; citrus balm that makes lungs feel newly minted",
+    "context": "Air around Gleamspire"
+  },
+  {
+    "entity": "Great Periphery",
+    "attribute": "sensory experience",
+    "value": "air tastes taut and electric",
+    "context": "Nature & Ecology: Air We Glow In"
+  },
+  {
+    "entity": "Engineers, Botanists, Old Sailors",
+    "attribute": "role in scent-reading",
+    "value": "learned to read the sky in smells",
+    "context": "Scent as memory"
+  },
+  {
+    "entity": "Core spires",
+    "attribute": "function",
+    "value": "gather and store daylight as living prisms; emit pale blue glow",
+    "context": "Microclimate around the towers"
+  },
+  {
+    "entity": "Central spires",
+    "attribute": "glow duration",
+    "value": "stay aglow longer into the night",
+    "context": "Core-to-edge gradient"
+  },
+  {
+    "entity": "Core spires",
+    "attribute": "warmth",
+    "value": "tuck a flame into a jar and label it 'Keep this safe'",
+    "context": "Core-to-edge gradient"
+  },
+  {
+    "entity": "Air near core",
+    "attribute": "scent",
+    "value": "citrus-bright, sharp, almost edible",
+    "context": "Core-to-edge gradient"
+  },
+  {
+    "entity": "Outer edge",
+    "attribute": "soundscape",
+    "value": "chorus of sibilant winds and distant sough of tidal flats",
+    "context": "Core-to-edge gradient"
+  },
+  {
+    "entity": "Lichens",
+    "attribute": "habitat",
+    "value": "cling to glass; thrive on double-skin prism surfaces",
+    "context": "The bioluminescent lichens"
+  },
+  {
+    "entity": "Lichens",
+    "attribute": "nutrition",
+    "value": "feed on spectrum of light and air; convert photons into luminescence",
+    "context": "Bioluminescent lichens"
+  },
+  {
+    "entity": "Lichens",
+    "attribute": "glow",
+    "value": "pale blue luminescence; glows brighter when the day is long and wind is still",
+    "context": "Bioluminescent lichens"
+  },
+  {
+    "entity": "Lichens",
+    "attribute": "pulse",
+    "value": "diurnal rhythms: slow near midday, quicker late afternoon",
+    "context": "Bioluminescent lichens"
+  },
+  {
+    "entity": "Lichens",
+    "attribute": "name",
+    "value": "temp-bound lumens",
+    "context": "Bioluminescent lichens"
+  },
+  {
+    "entity": "Lichens",
+    "attribute": "growth condition",
+    "value": "thrive where warmth lingers and ozone scent reaches them",
+    "context": "Bioluminescent lichens"
+  },
+  {
+    "entity": "Salt-tolerant plants",
+    "attribute": "habitat",
+    "value": "green terraces along lower spires",
+    "context": "Salt-tolerant plants"
+  },
+  {
+    "entity": "Salt-tolerant plants",
+    "attribute": "scent",
+    "value": "briny, resinous, with crushed mussel shell",
+    "context": "Salt-tolerant plants"
+  },
+  {
+    "entity": "Salt-tolerant plants",
+    "attribute": "dew",
+    "value": "glitter with dew",
+    "context": "Salt-tolerant plants"
+  },
+  {
+    "entity": "City fauna",
+    "attribute": "types",
+    "value": "glossed crabs; pale-blue insects; gulls",
+    "context": "City fauna"
+  },
+  {
+    "entity": "City fauna",
+    "attribute": "behavior",
+    "value": "move along the Glade between water and glass; drawn to glow",
+    "context": "City fauna"
+  },
+  {
+    "entity": "Chimes",
+    "attribute": "composition",
+    "value": "tiny wind-harp bells on balconies; glass rods; deeper metallic peals high in towers",
+    "context": "Soundscape"
+  },
+  {
+    "entity": "Turbines",
+    "attribute": "function",
+    "value": "power the city and sculpt weather in miniature",
+    "context": "Soundscape"
+  },
+  {
+    "entity": "Wind-sea interaction",
+    "attribute": "sound",
+    "value": "wind meeting warm air produces a low, resonant tone",
+    "context": "Soundscape"
+  },
+  {
+    "entity": "Surf",
+    "attribute": "response",
+    "value": "pale, glassy hiss; sea\u2019s memory echoed in the city",
+    "context": "Soundscape"
+  },
+  {
+    "entity": "Air-scent-sound ritual",
+    "attribute": "character",
+    "value": "chorus of chimes, turbines, and distant surf; the city writes language on itself",
+    "context": "The daily ritual"
+  },
+  {
+    "entity": "Field Report: Lumen Conservatory",
+    "attribute": "author",
+    "value": "Dr. Aiko Rumi",
+    "context": "In-world artifacts"
+  },
+  {
+    "entity": "Field Report: Lumen Conservatory",
+    "attribute": "date",
+    "value": "Year 14, Season of the Sea Wind",
+    "context": "In-world artifacts"
+  },
+  {
+    "entity": "Field Report: Lumen Conservatory",
+    "attribute": "summary",
+    "value": "Daylight-to-glass conversion yields radiant microclimate fostering lichens, marsh grasses, and small coastal fauna; luminescence peaks at dusk and persists into early night; photochemical feedback loop between prism surfaces and ambient air",
+    "context": "In-world artifacts"
+  },
+  {
+    "entity": "Field Report: Lumen Conservatory",
+    "attribute": "anecdote",
+    "value": "'The lichens lit a path for me today'",
+    "context": "In-world artifacts"
+  },
+  {
+    "entity": "Public Chronicle: Gleamspire, Day 101",
+    "attribute": "excerpt",
+    "value": "'The wind from the west carries a perfume of citrus mixed with ozone. It is not merely a scent; it is the memory of sunlight admitted to breath. The air tastes of possibility, and the city responds: terraces bloom with pale blue, the lichens spark a fraction brighter, and the bells in the tower ring in time with the sea\u2019s own pulse'",
+    "context": "In-world artifacts"
+  },
+  {
+    "entity": "Sensor Log: Prism-Facet Arrays",
+    "attribute": "version",
+    "value": "3.7",
+    "context": "In-world artifacts"
+  },
+  {
+    "entity": "Sensor Log: Prism-Facet Arrays",
+    "attribute": "note",
+    "value": "slight angle changes of prism surfaces modulate microclimate pockets; a 'cool band' at three degrees tilt toward the sea creates higher humidity and enhances lichens\u2019 bioluminescence after dusk; precise calibration required",
+    "context": "In-world artifacts"
+  },
+  {
+    "entity": "Office of Air, Light, and Memory",
+    "attribute": "subject",
+    "value": "Microclimate Management in the Realms of Radiant Architecture",
+    "context": "In-world memorandum"
+  },
+  {
+    "entity": "Office of Air, Light, and Memory",
+    "attribute": "observation",
+    "value": "Thermal pockets around central spires essential to bioluminescent ecology and to memory-lattice powering the light-based economy",
+    "context": "In-world memorandum"
+  },
+  {
+    "entity": "Office of Air, Light, and Memory",
+    "attribute": "risk",
+    "value": "Sustained daylight drought threatens prism efficiency, memory-lattice integrity, and glow",
+    "context": "In-world memorandum"
+  },
+  {
+    "entity": "Office of Air, Light, and Memory",
+    "attribute": "mitigation",
+    "value": "Deploy wind corridors; calibrate prism tilts; reserve terraces for high-humidity pockets; maintain resin-based scenting agents",
+    "context": "In-world memorandum"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "memory economy",
+    "value": "memory-lattice; exchange of weather data and wealth through light",
+    "context": "Drought narrative"
+  },
+  {
+    "entity": "Drought narrative",
+    "attribute": "symptoms",
+    "value": "lichen luminescence dims; prices skew; reputations blur",
+    "context": "Drought narrative"
+  },
+  {
+    "entity": "Sea",
+    "attribute": "wind direction",
+    "value": "seasonal shifts reinforce pockets",
+    "context": "Sea\u2019s breath and resilience"
+  },
+  {
+    "entity": "Night",
+    "attribute": "glow rhythm",
+    "value": "two-part conversation with human and sea",
+    "context": "The sea\u2019s breath and resilience"
+  },
+  {
+    "entity": "Epilogue note",
+    "attribute": "content",
+    "value": "'Tonight the air is a patient friend. The scent is a map; the glow is a memory in motion. The chimes know our steps, the turbines applaud our patience, and the sea keeps time with the city\u2019s heart'",
+    "context": "Epilogue snippet"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "closing image",
+    "value": "radiant glass towers that soak daylight and store it as living prisms",
+    "context": "Closing"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "daily language",
+    "value": "microclimates, scents, and sounds",
+    "context": "Closing"
+  },
+  {
+    "entity": "City Council",
+    "attribute": "closing quote",
+    "value": "'We built a city on light, and light is a memory, a promise, a currency. If daylight surrenders its strength, we must become careful gardeners of what remains. Our urban ecology must be a living organ, able to breathe even when the sun grows quiet'",
+    "context": "Closing dialogue fragment"
+  },
+  {
+    "entity": "Young council member",
+    "attribute": "closing quote",
+    "value": "'We must keep our neighbors\u2014the lichens, gulls, terrace grasses, the children who chase glow\u2014inside that breath'",
+    "context": "Closing dialogue fragment"
+  },
+  {
+    "entity": "Closing sensory inventory",
+    "attribute": "temperature",
+    "value": "gradients shaped by prism geometry; warm pockets near core; cooler belts toward the edge; gentle tempo changes",
+    "context": "Closing sensory inventory"
+  },
+  {
+    "entity": "Closing sensory inventory",
+    "attribute": "scent profile",
+    "value": "dominant ozone\u2013citrus brightness, with resin, sea spray, and lamp oil; scent changes with wind direction and humidity",
+    "context": "Closing sensory inventory"
+  },
+  {
+    "entity": "Closing sensory inventory",
+    "attribute": "soundscape",
+    "value": "continuous chorus of chimes, turbines, and distant surf; rhythm shifts with microclimate and mood",
+    "context": "Closing sensory inventory"
+  },
+  {
+    "entity": "Closing sensory inventory",
+    "attribute": "biota",
+    "value": "lichens glow pale blue; salt-tolerant plants glitter with dew; coastal fauna drawn to glow and scent",
+    "context": "Closing sensory inventory"
+  },
+  {
+    "entity": "Closing sensory inventory",
+    "attribute": "visual signature",
+    "value": "pale blue luminescence on glass surfaces",
+    "context": "Closing sensory inventory"
+  },
+  {
+    "entity": "Epilogue fragment",
+    "attribute": "content",
+    "value": "'We are custodians of a living memory\u2014memory not merely of daylight but of the time we learned to glow together when the day would not show its face'",
+    "context": "Epilogue snippet"
+  }
+]

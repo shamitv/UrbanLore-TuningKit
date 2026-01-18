@@ -42,6 +42,12 @@ UrbanLore-TuningKit/
 
 ## 🚀 Quick Start
 
+## TL;DR
+
+```bash
+python urbanlore.py run-all --target-words 200000 --corpus-dir corpus --dataset-dir dataset --model-dir finetune/models --base-model Qwen/Qwen3-0.6B --eval-dir eval/results --num-qa 1000 --num-instructions 500 --use-qlora true
+```
+
 ### 1. Installation
 
 ```bash
@@ -171,9 +177,9 @@ Configuration options:
 - `--epochs`: Number of training epochs
 
 Creates:
-- `finetune/models/final/`: Fine-tuned model
-- `finetune/models/checkpoints/`: Training checkpoints
-- `finetune/models/final/training_metadata.json`: Training info
+- `finetune/models/<org>/<model>/final/`: Fine-tuned model
+- `finetune/models/<org>/<model>/checkpoints/`: Training checkpoints
+- `finetune/models/<org>/<model>/final/training_metadata.json`: Training info
 
 ### Evaluation
 
@@ -181,16 +187,16 @@ Evaluate the fine-tuned model:
 
 ```bash
 python urbanlore.py evaluate \
-  --model-dir finetune/models/final \
+  --model-dir finetune/models/Qwen/Qwen3-0.6B/final \
   --test-file dataset/test.jsonl \
   --output-dir eval/results
 ```
 
 Creates:
-- `eval/results/evaluation_results.json`: ROUGE scores and metrics
-- `eval/results/sample_predictions.json`: Example predictions
+- `eval/results/<org>/<model>/evaluation_results.json`: ROUGE scores and metrics
+- `eval/results/<org>/<model>/sample_predictions.json`: Example predictions
 
-For detailed information on the evaluation metrics and methodology, see [docs/eval/EVALUATION.md](docs/eval/EVALUATION.md).
+For detailed information on the evaluation metrics, methodology, and **analysis of the latest training run**, see [docs/eval/EVALUATION.md](docs/eval/EVALUATION.md).
 
 ## 🧪 Test Runs
 
@@ -210,7 +216,7 @@ Comprehensive documentation for UrbanLore-TuningKit:
 - **[GENERATOR.md](docs/agents/GENERATOR.md)**: Technical details on the corpus generation agent.
 
 ### Evaluation & Results
-- **[EVALUATION.md](docs/eval/EVALUATION.md)**: Explanation of ROUGE metrics and scoring logic.
+- **[EVALUATION.md](docs/eval/EVALUATION.md)**: Methodology, ROUGE metrics, and qualitative analysis of the latest model performance.
 - **[Test Runs](docs/runs/test_pipeline_2026-01-17.md)**: Evidence of successful pipeline execution.
 
 ### Project & Contribution

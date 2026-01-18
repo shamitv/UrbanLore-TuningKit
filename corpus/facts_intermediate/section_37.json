@@ -1,0 +1,236 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "description",
+    "value": "a city where daylight is monetized via living prisms that store warmth, memory, and weather",
+    "context": "Overview"
+  },
+  {
+    "entity": "Prism Economy",
+    "attribute": "function",
+    "value": "monetizes memory and weather by trapping daylight inside living prisms that can be bought, rented, pledged, or seized",
+    "context": "Overview"
+  },
+  {
+    "entity": "Living prisms",
+    "attribute": "nature",
+    "value": "synthetically grown crystalline beings that store warmth, memory, and weather as light",
+    "context": "Mechanics"
+  },
+  {
+    "entity": "Living prisms",
+    "attribute": "ownership",
+    "value": "owned or leased",
+    "context": "Mechanics"
+  },
+  {
+    "entity": "Light (daylight) in Gleamspire",
+    "attribute": "ownership",
+    "value": "owned as property",
+    "context": "Overview"
+  },
+  {
+    "entity": "Prism Arcades",
+    "attribute": "description",
+    "value": "families, guilds, and corporations that own the city\u2019s sky-haul towers",
+    "context": "Mechanics"
+  },
+  {
+    "entity": "Sky-Lattice Houses",
+    "attribute": "type",
+    "value": "largest prism-owning families",
+    "context": "Ownership"
+  },
+  {
+    "entity": "Guild of Refractionists",
+    "attribute": "role",
+    "value": "artisans who carve new life into old light",
+    "context": "Ownership"
+  },
+  {
+    "entity": "Lumen Commune",
+    "attribute": "role",
+    "value": "public trust that can allocate daylight to non-profits for a fixed price based on public good",
+    "context": "Governance"
+  },
+  {
+    "entity": "Rents",
+    "attribute": "unit",
+    "value": "payments made in daylight credits called gleams",
+    "context": "Economy"
+  },
+  {
+    "entity": "Gleams",
+    "attribute": "nature",
+    "value": "luminous units anchored to a prism\u2019s capacity for warmth, memory, and weather",
+    "context": "Economy"
+  },
+  {
+    "entity": "Memory-light",
+    "attribute": "definition",
+    "value": "memory content stored in prisms; readable, shareable, and tradable",
+    "context": "Memory-Economy"
+  },
+  {
+    "entity": "Memory-light",
+    "attribute": "use",
+    "value": "can be traded, bundled, or used as currency for services",
+    "context": "Memory-Economy"
+  },
+  {
+    "entity": "Weather memory",
+    "attribute": "content",
+    "value": "micro-weather archive (wind, humidity, air pressure, scent of rain) stored in prisms",
+    "context": "Weather memory"
+  },
+  {
+    "entity": "Prism Index",
+    "attribute": "function",
+    "value": "living database cataloging memory content, weather archive, owner, and rent status",
+    "context": "Documentation"
+  },
+  {
+    "entity": "Elder prisms",
+    "attribute": "significance",
+    "value": "centuries of weather history; rare artifacts of power",
+    "context": "Memory/Weather"
+  },
+  {
+    "entity": "Memory contract",
+    "attribute": "definition",
+    "value": "stored memory-portfolio used as collateral; invoked when rent cannot be paid",
+    "context": "Debt"
+  },
+  {
+    "entity": "Collateral",
+    "attribute": "types",
+    "value": "prism fragments, weather-harvest shares, memory tokens",
+    "context": "Debt"
+  },
+  {
+    "entity": "Grandmother's winter garden",
+    "attribute": "role",
+    "value": "collateral option in memory debt",
+    "context": "Debt"
+  },
+  {
+    "entity": "Great Drought",
+    "attribute": "threat",
+    "value": "threatens to reduce prismatic brightness and memory storage",
+    "context": "Seasonal Shortages"
+  },
+  {
+    "entity": "Luminous Ring",
+    "attribute": "description",
+    "value": "district where brightness declines are observed; a note states debts increase when glow dims",
+    "context": "Seasonal Shortages"
+  },
+  {
+    "entity": "Governance apparatus",
+    "attribute": "policy",
+    "value": "imposes quotas on daylight release and memory tax; prioritizes essential services",
+    "context": "Seasonal Shortages"
+  },
+  {
+    "entity": "Memory tax",
+    "attribute": "policy",
+    "value": "tax on non-essential memory-light transfers",
+    "context": "Seasonal Shortages"
+  },
+  {
+    "entity": "Social stratification",
+    "attribute": "description",
+    "value": "wealthier districts have brighter prisms; poorer districts have faint glow",
+    "context": "Social"
+  },
+  {
+    "entity": "Lantern Tree",
+    "attribute": "status",
+    "value": "old tree grafted into a prism garden; memory of social birth; now rumor",
+    "context": "Lore"
+  },
+  {
+    "entity": "Prism Economy channels",
+    "attribute": "categories",
+    "value": "ownership, rental, collateral",
+    "context": "Mechanics"
+  },
+  {
+    "entity": "Market dialogue fragment",
+    "attribute": "example",
+    "value": "Light isn\u2019t money; passing a prism pledges a memory and hopes the buyer likes the fit",
+    "context": "In-world quotes"
+  },
+  {
+    "entity": "Market shade snippet",
+    "attribute": "example",
+    "value": "Three shades today\u2014amber for warmth, teal for memory of the harbor, and a pale white for weather",
+    "context": "In-world quotes"
+  },
+  {
+    "entity": "Memory-based payments",
+    "attribute": "example",
+    "value": "paying for services with a memory of a successful pitch or similar memory",
+    "context": "Economy"
+  },
+  {
+    "entity": "Public Ledger Entry",
+    "attribute": "description",
+    "value": "Day 132, Year of the Drought: daylight credits supplemented by weather-memory reserves; avoid non-essential memory-light exchanges",
+    "context": "Documentation"
+  },
+  {
+    "entity": "Debt Note No. 742",
+    "attribute": "terms",
+    "value": "Borrower delivers memory-content of personal childhood snowfall in exchange for 1 moon-gleam daylight credit; default allows substitution of a higher-priority memory-content with guardian acceptance",
+    "context": "Debt"
+  },
+  {
+    "entity": "Drought Year Almanac",
+    "attribute": "purpose",
+    "value": "documents weather-memory trends, seasonal harvests, debt cycles, relief measures",
+    "context": "Documentation"
+  },
+  {
+    "entity": "Public Light Corridors",
+    "attribute": "description",
+    "value": "rotating prisms owned by Lumen Commune allocated to essential services and needy neighborhoods",
+    "context": "Ethics/Future"
+  },
+  {
+    "entity": "Memory Banks as Public Goods",
+    "attribute": "description",
+    "value": "non-monetized memory repository; memory-light capped to prevent hoarding",
+    "context": "Ethics/Future"
+  },
+  {
+    "entity": "Charter of Light",
+    "attribute": "description",
+    "value": "public document establishing rights and responsibilities related to daylight ownership, rentals, and collateral",
+    "context": "Documentation"
+  },
+  {
+    "entity": "Harbor Memo",
+    "attribute": "forecast",
+    "value": "under current weather-memory forecasts, a storm surge may spill into shallow prisms tonight; keep memories tight and your light guarded",
+    "context": "Epistolary"
+  },
+  {
+    "entity": "Harbor Song",
+    "attribute": "description",
+    "value": "poem etched into a prism wall; ode to memory, weather, and daylight as a shared, living thing",
+    "context": "Epistolary"
+  },
+  {
+    "entity": "Memory Light Ethics Council",
+    "attribute": "role",
+    "value": "debates the moral implications of memory collateral and proposes safeguards for vulnerable populations",
+    "context": "Ethics"
+  },
+  {
+    "entity": "Drought of daylight",
+    "attribute": "effect",
+    "value": "threatens to rewrite the city\u2019s story, increase debt as memory tax, and widen social rifts",
+    "context": "Drought"
+  }
+]

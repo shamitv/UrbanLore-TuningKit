@@ -1,0 +1,212 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "description",
+    "value": "A metropolis whose skeleton is glass and whose breath is daylight; at noon the streets glow like pale blue rivers; at dawn prisms drink first light and exhale rumor-filled rainbows.",
+    "context": "Setting description in Migration & Diversity sub-chapter"
+  },
+  {
+    "entity": "Migration & Diversity",
+    "attribute": "nature",
+    "value": "A practice of learning to listen with more than ears and tuning your voice to strangers to make strangers feel at home.",
+    "context": "Directory of Living Light description"
+  },
+  {
+    "entity": "Directory of Living Light",
+    "attribute": "purpose",
+    "value": "Frames Migration & Diversity as a discipline of listening and making strangers feel at home in a multilingual memory economy.",
+    "context": "Introductory description"
+  },
+  {
+    "entity": "Market of Mirrors",
+    "attribute": "description",
+    "value": "Multilingual stalls glitter with memory fragments traded for translation; a glass cube Prism-Echo translates fragments into speech.",
+    "context": "Market scene"
+  },
+  {
+    "entity": "Prism-Echo device",
+    "attribute": "function",
+    "value": "Translates a memory fragment into spoken dialogue in the listener\u2019s language; outputs text above the cube and in light punctuation.",
+    "context": "Market scene"
+  },
+  {
+    "entity": "Miro",
+    "attribute": "role",
+    "value": "Vendor at Market of Mirrors; stall named after his grandmother's porch; wears resin-scented scarf; uses Prism-Echo device.",
+    "context": "Market scene"
+  },
+  {
+    "entity": "\"We are a room with many doors\"",
+    "attribute": "type",
+    "value": "Banner fragment translated by devices into multiple languages.",
+    "context": "Market banner moment"
+  },
+  {
+    "entity": "Prism-Lit Classroom",
+    "attribute": "description",
+    "value": "Classrooms lit by living prisms; memory-aligned learning; blackboard is a surface of light-based script; Anya Lumen writes with a translator wand.",
+    "context": "Classroom scene"
+  },
+  {
+    "entity": "Anya Lumen",
+    "attribute": "role",
+    "value": "Teacher; uses a wand of light that translates memory into speech understood by neighbors speaking different tongues.",
+    "context": "Classroom scene"
+  },
+  {
+    "entity": "Rafi",
+    "attribute": "language",
+    "value": "Speaks a home tongue with a rolling r; translation chamber renders multiple languages including Twi, Mandarin, Italian, and Prism-Sheer dialect.",
+    "context": "Classroom scene"
+  },
+  {
+    "entity": "Nila",
+    "attribute": "role",
+    "value": "Quiet student who maintains a memory translation manual titled Guide to Memory Translation in School Environments.",
+    "context": "Classroom scene"
+  },
+  {
+    "entity": "Neighborhood Call-and-Response Squares",
+    "attribute": "function",
+    "value": "Dusk ritual where call-and-response yields memory fragments as seeds for communal rituals; mutual aid through shared memory and light.",
+    "context": "Neighborhood scene"
+  },
+  {
+    "entity": "Zhen",
+    "attribute": "role",
+    "value": "Translator of memories; runs a community workshop near the harbor; wears a jacket embroidered with a map of migratory routes.",
+    "context": "Neighborhood scene"
+  },
+  {
+    "entity": "memory economy",
+    "attribute": "concept",
+    "value": "Memory fragments function as currency; translation is an assembly line; memory corp central memory bank; potential oligarchy when access is unequal.",
+    "context": "Main conflict discussion"
+  },
+  {
+    "entity": "Translation Access Policy\u2014Phase II",
+    "attribute": "policy",
+    "value": "Requires emergency translation pods in every neighborhood square for at least eight daylight hours per week; expandable to new languages as migration changes.",
+    "context": "Policy document"
+  },
+  {
+    "entity": "Memory Ledger: Quarterly Edition",
+    "attribute": "purpose",
+    "value": "Audited record tracking which languages\u2019 memory fragments are translated and how equitably they are distributed.",
+    "context": "In-world governance documents"
+  },
+  {
+    "entity": "The Lexicon of Prism-Voice",
+    "attribute": "feature",
+    "value": "Living dictionary that updates in real time as new language-memory combinations arise.",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "The Memory Audit",
+    "attribute": "practice",
+    "value": "Ritual where numbers are recited aloud and glow in the air; each color corresponds to a language family.",
+    "context": "Public ritual"
+  },
+  {
+    "entity": "Prism-Speak",
+    "attribute": "definition",
+    "value": "A dialect born from blending multiple languages via light-coded commands and light-toned intonation; can carry multiple meanings depending on light pulse rhythm.",
+    "context": "Identity and language concept"
+  },
+  {
+    "entity": "Liri",
+    "attribute": "role",
+    "value": "Member of a queer couple; speaks a Swahili-French fusion; stall named Lumen Threads; textiles woven with memory fragments.",
+    "context": "Market scene"
+  },
+  {
+    "entity": "Omari",
+    "attribute": "role",
+    "value": "Co-owner of Lumen Threads; partner of Liri; helps craft multi-language banners.",
+    "context": "Market scene"
+  },
+  {
+    "entity": "Lumen Threads",
+    "attribute": "description",
+    "value": "Market stall selling textiles woven with memory fragments; uses a translation loom to craft glowing banners.",
+    "context": "Market scene"
+  },
+  {
+    "entity": "banner translations at Lumen Threads",
+    "attribute": "sequence",
+    "value": "First Swahili-inflected French, then the lingua franca, then two minority dialects.",
+    "context": "Market scene"
+  },
+  {
+    "entity": "Kaito",
+    "attribute": "relation",
+    "value": "Exiled from a coastal village burned by a flood; father of Mei; worries about access to memory fragmentation for minority languages.",
+    "context": "Personal narrative"
+  },
+  {
+    "entity": "Mei",
+    "attribute": "abilities",
+    "value": "Speaks three languages fluently; uses a memory tether to connect a memory fragment to voice; device translates not just words but the feel of memory.",
+    "context": "Kaito's daughter"
+  },
+  {
+    "entity": "memory tether",
+    "attribute": "device",
+    "value": "Connects a memory fragment to a person\u2019s voice through light; translates the feel of memory as well as words.",
+    "context": "Technology"
+  },
+  {
+    "entity": "grandmother",
+    "attribute": "action",
+    "value": "Speaks a memory fragment, such as a sea shanty, to teach language and translation through memory.",
+    "context": "Memory collection events"
+  },
+  {
+    "entity": "Street of Luminous Brooms",
+    "attribute": "location",
+    "value": "Site of a memory-sharing call-and-response ritual in the closing scene.",
+    "context": "Closing scene"
+  },
+  {
+    "entity": "\"May the daylight return to us as we remember together\"",
+    "attribute": "quote",
+    "value": "Grandmother's memory translated into many tongues during a memory fragment performance.",
+    "context": "Ending scene"
+  },
+  {
+    "entity": "child in hooded jacket",
+    "attribute": "action",
+    "value": "Recites the chorus in a different set of languages, causing the room to glow with shared belonging.",
+    "context": "Memory collection event"
+  },
+  {
+    "entity": "grandmother\u2019s chorus, daylight, and memory fragments",
+    "attribute": "symbolic",
+    "value": "Illustrate that the city belongs to everyone and memory travels across languages via light.",
+    "context": "Conclusion"
+  },
+  {
+    "entity": "Gleamspire architecture",
+    "attribute": "feature",
+    "value": "Glass towers read spoken language and embed it into the structure; prisms also store weather data and memory.",
+    "context": "City description"
+  },
+  {
+    "entity": "drought",
+    "attribute": "phenomenon",
+    "value": "Causes daylight shortage that reduces prism power, memory fragments, and translation capacity; threatens memory-based social contracts.",
+    "context": "Main conflict"
+  },
+  {
+    "entity": "identity trinity",
+    "attribute": "forces",
+    "value": "Memory, language, and light; access to memory fragments confers legitimacy; lack of translation leads to invisibility.",
+    "context": "Identity description"
+  },
+  {
+    "entity": "memory proxies",
+    "attribute": "role",
+    "value": "People rely on songs and stories and face-to-face conversation when translation tech is unavailable.",
+    "context": "Social practice"
+  }
+]

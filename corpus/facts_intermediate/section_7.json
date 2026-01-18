@@ -1,0 +1,284 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "city",
+    "context": "Core setting of the story"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "purpose",
+    "value": "to soak daylight, convert it into living prisms, and store it as light that can be read, spent, or borrowed",
+    "context": "Core premise"
+  },
+  {
+    "entity": "Living Prisms",
+    "attribute": "role",
+    "value": "civilization's heartbeat; bank; memory palace",
+    "context": "Core concept"
+  },
+  {
+    "entity": "glowseed",
+    "attribute": "type",
+    "value": "translucent living crystal at prism core",
+    "context": "Biology of the Living Prism"
+  },
+  {
+    "entity": "glowseed",
+    "attribute": "structure",
+    "value": "surrounded by a vascular network of micro-vines",
+    "context": "Biology"
+  },
+  {
+    "entity": "micro-vines",
+    "attribute": "function",
+    "value": "feed on atmospheric photons and exhale memory-flavored photons",
+    "context": "Biology"
+  },
+  {
+    "entity": "prisms",
+    "attribute": "memory-processing",
+    "value": "store memories in inner prisms; brightness is currency; duration is price",
+    "context": "Biology/Function"
+  },
+  {
+    "entity": "Solar Choirs",
+    "attribute": "role",
+    "value": "harvest photons; lean toward sun at dawn; tilt away at dusk",
+    "context": "Capturing daylight"
+  },
+  {
+    "entity": "photocyte",
+    "attribute": "type",
+    "value": "tiny quasi-biological receivers embedded in panes",
+    "context": "Capturing daylight"
+  },
+  {
+    "entity": "sunpaths",
+    "attribute": "role",
+    "value": "channels that funnel photons toward the central memory basilica; inner walls pulse color with heat",
+    "context": "Capturing daylight"
+  },
+  {
+    "entity": "central memory basilica",
+    "attribute": "location",
+    "value": "central hub for memory read/write",
+    "context": "Capturing daylight"
+  },
+  {
+    "entity": "memory key",
+    "attribute": "type",
+    "value": "halo-glass disc",
+    "context": "Memory retrieval"
+  },
+  {
+    "entity": "Ledger of Light",
+    "attribute": "source",
+    "value": "document describing the Encoding Process (3.2)",
+    "context": "Encoding Process"
+  },
+  {
+    "entity": "Memory Input Node",
+    "attribute": "function",
+    "value": "records emotional peak to encode memory into prism",
+    "context": "Encoding Process"
+  },
+  {
+    "entity": "Lattice Alignment",
+    "attribute": "function",
+    "value": "coax glowseed branches into stable orientation matching memory's wavelength",
+    "context": "Encoding Process"
+  },
+  {
+    "entity": "Release Valve",
+    "attribute": "function",
+    "value": "emits light corresponding to stored memory when memory harvested",
+    "context": "Encoding Process"
+  },
+  {
+    "entity": "Refractive Index",
+    "attribute": "function",
+    "value": "slight color shifts to adjust nuance or edit without deleting memory",
+    "context": "Encoding Process"
+  },
+  {
+    "entity": "memory economy",
+    "attribute": "nature",
+    "value": "light as literal and social currency; daylight banknotes, memory line of credit, daylight mortgage, memory insurance; backed by priors",
+    "context": "Economic concept"
+  },
+  {
+    "entity": "Council of Glass",
+    "attribute": "role",
+    "value": "forecast day\u2019s memory yield; set daylight tax; mediate weather-for-light exchange",
+    "context": "Weather and economy governance"
+  },
+  {
+    "entity": "memory pollen",
+    "attribute": "product",
+    "value": "tiny fragrant shards provoking specific memories when inhaled",
+    "context": "Market Day"
+  },
+  {
+    "entity": "Drought crisis",
+    "attribute": "nature",
+    "value": "drought of daylight caused by heavy cloud cover and meteorological fork; threatens prisms and memory economy",
+    "context": "Conflict"
+  },
+  {
+    "entity": "Drought crisis",
+    "attribute": "impact",
+    "value": "sunpaths lose five-year memory cycles; prisms dim; memories fade/unreliable",
+    "context": "Conflict"
+  },
+  {
+    "entity": "Archivist Nilo",
+    "attribute": "role",
+    "value": "maintains Chronicles of Light",
+    "context": "Witness accounts"
+  },
+  {
+    "entity": "Chronicles of Light",
+    "attribute": "content",
+    "value": "ledger-like records of daylight and memory",
+    "context": "Archive"
+  },
+  {
+    "entity": "The Covenant of Light",
+    "attribute": "type",
+    "value": "Excerpt (in-world document)",
+    "context": "In-world document"
+  },
+  {
+    "entity": "Article II",
+    "attribute": "content",
+    "value": "In daylight scarcity, communal memory prioritized over private recollections",
+    "context": "Covenant of Light"
+  },
+  {
+    "entity": "Article IV",
+    "attribute": "content",
+    "value": "All daylight exchanges tracked in Ledger of Light; daylight loans repaid by next solar cycle; memory debt prevented",
+    "context": "Covenant of Light"
+  },
+  {
+    "entity": "Article VII",
+    "attribute": "content",
+    "value": "Authorities shall not compel surrender of personal memories that would lead to harm; seek truth with reparative light",
+    "context": "Covenant of Light"
+  },
+  {
+    "entity": "Council of Glass",
+    "attribute": "action",
+    "value": "approved a temporary city-wide memory festival to retell, re-light, and re-store stories",
+    "context": "Drought aftermath"
+  },
+  {
+    "entity": "Archive of Brilliance",
+    "attribute": "type",
+    "value": "library of light",
+    "context": "Records and Ephemera"
+  },
+  {
+    "entity": "Daybook of Daylight",
+    "attribute": "content",
+    "value": "ledger of daylight flow, light value, and memory debts",
+    "context": "Archive contents"
+  },
+  {
+    "entity": "Song of Prism Row",
+    "attribute": "content",
+    "value": "musical mapping of prism rows' color signatures",
+    "context": "Archive contents"
+  },
+  {
+    "entity": "Diary of Dusk",
+    "attribute": "content",
+    "value": "personal memories siphoned into light for safekeeping, awaiting release",
+    "context": "Archive contents"
+  },
+  {
+    "entity": "Field Guide to Memory Colors",
+    "attribute": "content",
+    "value": "guide for interpreters of memory colors distinguishing emotions",
+    "context": "Archive contents"
+  },
+  {
+    "entity": "Lysa",
+    "attribute": "role",
+    "value": "caretaker; tends Prism Row 12; calls row stubborn",
+    "context": "Day in the life"
+  },
+  {
+    "entity": "Kade",
+    "attribute": "role",
+    "value": "caretaker; partner to Lysa",
+    "context": "Day in the life"
+  },
+  {
+    "entity": "Prism Row 12-Delta",
+    "attribute": "glowseed_status",
+    "value": "quiet during early calibration",
+    "context": "Day in the life"
+  },
+  {
+    "entity": "12-Delta",
+    "attribute": "memory_color",
+    "value": "turquoise during calibration",
+    "context": "Day in the life"
+  },
+  {
+    "entity": "12-Delta",
+    "attribute": "cycle",
+    "value": "Cycle A, green overlay",
+    "context": "Day in the life"
+  },
+  {
+    "entity": "Manual for Living Glass",
+    "attribute": "document",
+    "value": "Excerpt, Section 7: Maintenance",
+    "context": "Maintenance"
+  },
+  {
+    "entity": "Manual for Living Glass",
+    "attribute": "instruction",
+    "value": "Do not apply pressure to glowseed when you hear a sigh; memory tired",
+    "context": "Maintenance"
+  },
+  {
+    "entity": "Manual for Living Glass",
+    "attribute": "instruction",
+    "value": "Prisms must be shaded from the sun near zenith; no direct glare at noonday",
+    "context": "Maintenance"
+  },
+  {
+    "entity": "Manual for Living Glass",
+    "attribute": "instruction",
+    "value": "If a prism is stuck in a single memorious color, an exhale of colored mist by a Master-Caretaker",
+    "context": "Maintenance"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "theme",
+    "value": "a city of radiant glass towers that soak daylight and store it as living prisms; memory, weather, and wealth are condensed into light",
+    "context": "Core concept"
+  },
+  {
+    "entity": "Weather, memory, and wealth",
+    "attribute": "relationship",
+    "value": "condensed into light; interdependent triad",
+    "context": "Core concept"
+  },
+  {
+    "entity": "Closing",
+    "attribute": "theme",
+    "value": "faith that light can remember us; prisms wait for us to remember to look and listen",
+    "context": "Closing"
+  },
+  {
+    "entity": "Drought festival",
+    "attribute": "outcome",
+    "value": "social therapy; communal memory preserved; disease of memory debt mitigated",
+    "context": "Drought aftermath"
+  }
+]

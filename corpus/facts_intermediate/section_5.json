@@ -1,0 +1,338 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "coastal metropolis",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "primary_resource",
+    "value": "daylight",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "prism_role",
+    "value": "memory recording, storage, and illumination",
+    "context": "Overview"
+  },
+  {
+    "entity": "High Crescent",
+    "attribute": "feature",
+    "value": "central ring of towers above the harbor",
+    "context": "Geography"
+  },
+  {
+    "entity": "Coastal Spine",
+    "attribute": "feature",
+    "value": "natural amphitheater formed by cliffs and seawalls",
+    "context": "Geography"
+  },
+  {
+    "entity": "North Spire Crown",
+    "attribute": "sunlight_pattern",
+    "value": "earliest sunshine delivery; oldest council towers",
+    "context": "Geography"
+  },
+  {
+    "entity": "East Quay District",
+    "attribute": "memory_flow",
+    "value": "memory travels quickly via end-to-end refractions",
+    "context": "Geography"
+  },
+  {
+    "entity": "West Quarry",
+    "attribute": "memory_character",
+    "value": "memory denser and more volatile; prisms deeper",
+    "context": "Geography"
+  },
+  {
+    "entity": "North Spire Crown",
+    "attribute": "risk_when_mismanaged",
+    "value": "upper terraces catch last brightness which can topple energy budgets",
+    "context": "Geography"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "geography_effect",
+    "value": "shape resilience to daylight drought via chokepoints and lee districts",
+    "context": "Geography"
+  },
+  {
+    "entity": "Prism",
+    "attribute": "function",
+    "value": "living core that stores memory and records daylight",
+    "context": "Prism concept"
+  },
+  {
+    "entity": "Prisms",
+    "attribute": "nature",
+    "value": "living cores that drink sun and swell with memories",
+    "context": "Prism concept"
+  },
+  {
+    "entity": "Prismlight",
+    "attribute": "role",
+    "value": "common good and personal wealth within Gleamspire's memory economy",
+    "context": "Economy"
+  },
+  {
+    "entity": "Rationing Zone A",
+    "attribute": "definition",
+    "value": "High Crescent and core of the North Spire Crown; hottest memory economy; strongest storage",
+    "context": "Rationing"
+  },
+  {
+    "entity": "Rationing Zone B",
+    "attribute": "definition",
+    "value": "inner harbors and older quarries; storage feasible but energy patchy; demand for airless time rises",
+    "context": "Rationing"
+  },
+  {
+    "entity": "Rationing Zone C",
+    "attribute": "definition",
+    "value": "outer districts and lower slopes; weakest daylight; compulsory memory conservation",
+    "context": "Rationing"
+  },
+  {
+    "entity": "Veil for the Nightward",
+    "attribute": "description",
+    "value": "temporary canopy of translucent membranes shading neighborhoods",
+    "context": "Emergency shading"
+  },
+  {
+    "entity": "Veil for the Nightward",
+    "attribute": "cost",
+    "value": "fibers consume precious memories of light",
+    "context": "Emergency shading"
+  },
+  {
+    "entity": "Prism caravans",
+    "attribute": "function",
+    "value": "carry memory across districts via rail-guided wagons",
+    "context": "Transportation"
+  },
+  {
+    "entity": "Coastal Spine",
+    "attribute": "prism_route",
+    "value": "Coastal Spine corridor to North Spire Crown",
+    "context": "Transport Routes"
+  },
+  {
+    "entity": "Inner Harbors",
+    "attribute": "prism_route",
+    "value": "Inner Harbors to East Quay",
+    "context": "Transport Routes"
+  },
+  {
+    "entity": "West Ridge",
+    "attribute": "prism_route",
+    "value": "West Ridge to South Pier",
+    "context": "Transport Routes"
+  },
+  {
+    "entity": "Conservators",
+    "attribute": "stance",
+    "value": "protect fragile memories; prioritize hospitals, schools; central districts; longer daylight in core",
+    "context": "Politics"
+  },
+  {
+    "entity": "Flux",
+    "attribute": "stance",
+    "value": "release light outward; cross-district sharing; memory across many coasts",
+    "context": "Politics"
+  },
+  {
+    "entity": "Lantern Guild",
+    "attribute": "stance",
+    "value": "discipline; calibrate brightness; prevent one district absorbing all daylight; memory as craft",
+    "context": "Politics"
+  },
+  {
+    "entity": "Tidewrights",
+    "attribute": "stance",
+    "value": "daylight belongs to everyone by water; daylight borrowed with memory of sea and wind; use temporal floodlights to guide ships",
+    "context": "Politics"
+  },
+  {
+    "entity": "Archivist Rhea",
+    "attribute": "profession",
+    "value": "keeper of memory banks",
+    "context": "Portrait"
+  },
+  {
+    "entity": "Archivist Rhea",
+    "attribute": "quote",
+    "value": "the long shade of questions",
+    "context": "Interview"
+  },
+  {
+    "entity": "Shipwright Miro",
+    "attribute": "profession",
+    "value": "runs prism caravans along coastal routes",
+    "context": "Portrait"
+  },
+  {
+    "entity": "Shipwright Miro",
+    "attribute": "metaphor",
+    "value": "light shepherds",
+    "context": "Portrait"
+  },
+  {
+    "entity": "Rooftop poet",
+    "attribute": "role",
+    "value": "child of the harbor; writes verses",
+    "context": "Portrait"
+  },
+  {
+    "entity": "The Daily Prism Ledger",
+    "attribute": "type",
+    "value": "in-world document",
+    "context": "Document"
+  },
+  {
+    "entity": "The Daily Prism Ledger",
+    "attribute": "date",
+    "value": "Day 86 since Solstice, Year of the Turning Glass",
+    "context": "Timeline"
+  },
+  {
+    "entity": "Zone A",
+    "attribute": "current_load",
+    "value": "72%",
+    "context": "Ledger"
+  },
+  {
+    "entity": "Zone A",
+    "attribute": "projected_deficit",
+    "value": "9 hours of daylight saved for critical memory cores only",
+    "context": "Ledger"
+  },
+  {
+    "entity": "Zone B",
+    "attribute": "current_load",
+    "value": "60%",
+    "context": "Ledger"
+  },
+  {
+    "entity": "Zone B",
+    "attribute": "projected_deficit",
+    "value": "14 hours",
+    "context": "Ledger"
+  },
+  {
+    "entity": "Zone C",
+    "attribute": "current_load",
+    "value": "48%",
+    "context": "Ledger"
+  },
+  {
+    "entity": "Zone C",
+    "attribute": "projected_deficit",
+    "value": "19 hours",
+    "context": "Ledger"
+  },
+  {
+    "entity": "Zone C",
+    "attribute": "policy",
+    "value": "mandatory rationing for households with no living memory of daytime if not connected to shared prisms",
+    "context": "Ledger"
+  },
+  {
+    "entity": "Lantern Council",
+    "attribute": "instruction",
+    "value": "Preserve the capacity to remember tomorrow by conserving what remains today",
+    "context": "Ledger"
+  },
+  {
+    "entity": "Nirok Dazzleflux",
+    "attribute": "title",
+    "value": "Prism Engineer",
+    "context": "Document"
+  },
+  {
+    "entity": "Nirok Dazzleflux",
+    "attribute": "note",
+    "value": "We must map daylight as a geography, not a clock",
+    "context": "Field Note"
+  },
+  {
+    "entity": "Lysa Varn",
+    "attribute": "title",
+    "value": "Chief Engineer",
+    "context": "Document"
+  },
+  {
+    "entity": "The Lade Gate",
+    "attribute": "role",
+    "value": "border crossing between Districts A and B",
+    "context": "Document"
+  },
+  {
+    "entity": "Ballad of the Veil for the Nightward",
+    "attribute": "type",
+    "value": "short poem etched into a memory shard",
+    "context": "In-world documents"
+  },
+  {
+    "entity": "The City Ledger",
+    "attribute": "claim",
+    "value": "The price of light favors those who have the momentum to pull the prism\u2019s memory toward themselves",
+    "context": "Document"
+  },
+  {
+    "entity": "The Sea Gate",
+    "attribute": "content",
+    "value": "dispatch about daylight as a shared resource; buried memory rising to surface",
+    "context": "Document"
+  },
+  {
+    "entity": "Inner Garden District",
+    "attribute": "feature",
+    "value": "memory gardens bloom as living mosaics",
+    "context": "Geography"
+  },
+  {
+    "entity": "Corridor of light",
+    "attribute": "description",
+    "value": "temporary corridor; living infrastructure; memory bridge; last until drought passes or daylight storage improves",
+    "context": "Crisis response"
+  },
+  {
+    "entity": "Conservators",
+    "attribute": "philosophy",
+    "value": "moral geography; protect fragile districts; longer daylight in core; outer daylight for exchange",
+    "context": "Politics"
+  },
+  {
+    "entity": "Flux",
+    "attribute": "philosophy",
+    "value": "outward expansion; memory beyond Gleamspire; cross-district sharing",
+    "context": "Politics"
+  },
+  {
+    "entity": "Lantern Guild",
+    "attribute": "philosophy",
+    "value": "calibrate release; memory as craft",
+    "context": "Politics"
+  },
+  {
+    "entity": "Tidewrights",
+    "attribute": "philosophy",
+    "value": "daylight belongs to everyone by the water; daylight borrowed with memory of sea and wind; guide ships with temporal floodlights to awaken coastal communities",
+    "context": "Politics"
+  },
+  {
+    "entity": "Geography",
+    "attribute": "tool",
+    "value": "city uses geographic layout as political leverage",
+    "context": "Analysis"
+  },
+  {
+    "entity": "The Drought of Daylight",
+    "attribute": "scope",
+    "value": "environmental crisis and geopolitical ramifications",
+    "context": "Overview"
+  }
+]

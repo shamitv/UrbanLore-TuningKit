@@ -1,0 +1,530 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "description",
+    "value": "a city described as a breath cast in pale blue glass; a living lattice of light",
+    "context": "Introductory depiction"
+  },
+  {
+    "entity": "Radiant Skyline",
+    "attribute": "nature",
+    "value": "a living lattice of light; a vertical ocean where daylight pours in, pools, and exhales as energy, memory, and weather stored within living glass",
+    "context": "Introductory depiction"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "sensation of core",
+    "value": "hum of turbines like a chorus of distant seashells",
+    "context": "Introductory depiction"
+  },
+  {
+    "entity": "Spine and the Flow",
+    "attribute": "structure",
+    "value": "a chain of supertall towers; each is a glass cylinder lined with variegated facets",
+    "context": "The Spine and the Flow"
+  },
+  {
+    "entity": "Radiant Self",
+    "attribute": "definition",
+    "value": "self-contained microcities inside a single fa\u00e7ade",
+    "context": "The Spine and the Flow"
+  },
+  {
+    "entity": "Tower fa\u00e7ades",
+    "attribute": "color progression",
+    "value": "morning blush, cool steely blue, honeyed amber",
+    "context": "The Spine and the Flow"
+  },
+  {
+    "entity": "Tower fa\u00e7ades",
+    "attribute": "function",
+    "value": "breathe via micro-sensors that tell glass how to reflect, absorb, or shutter",
+    "context": "The Spine and the Flow"
+  },
+  {
+    "entity": "Energy grid",
+    "attribute": "description",
+    "value": "an internal river where light becomes energy at the top, moves to memory vaults, then spills into streets as pale blue radiance",
+    "context": "The Spine and the Flow"
+  },
+  {
+    "entity": "Glass",
+    "attribute": "character",
+    "value": "a sieve that filters daylight into a steady current of illumination and shifts hue with the day",
+    "context": "The Spine and the Flow"
+  },
+  {
+    "entity": "Ground beneath Radiant Skyline",
+    "attribute": "illumination",
+    "value": "glows with pale-blue micro-illumination",
+    "context": "The Spine and the Flow"
+  },
+  {
+    "entity": "Pearl Lines",
+    "attribute": "purpose",
+    "value": "arteries of commerce and memory where light travels like a rumor",
+    "context": "Urban Fabric: The Groundrise and the Pearl Lines"
+  },
+  {
+    "entity": "Ground mosaic",
+    "attribute": "appearance",
+    "value": "pale-blue illumination running through marble",
+    "context": "Urban Fabric: The Groundrise and the Pearl Lines"
+  },
+  {
+    "entity": "Vendors",
+    "attribute": "currency",
+    "value": "memory fragments captured in glass vials that glow when touched by daylight",
+    "context": "Urban Fabric: The Groundrise and the Pearl Lines"
+  },
+  {
+    "entity": "Benches",
+    "attribute": "design function",
+    "value": "store sunlit edge in a shallow basin to glow as memory halos when people sit",
+    "context": "Urban Fabric: The Groundrise and the Pearl Lines"
+  },
+  {
+    "entity": "Planters",
+    "attribute": "movement",
+    "value": "float on magnetic rails to guide wind and cool a passerby",
+    "context": "Urban Fabric: The Groundrise and the Pearl Lines"
+  },
+  {
+    "entity": "Public Memorandum",
+    "attribute": "date",
+    "value": "Day 248 of Year 23",
+    "context": "In-world Document"
+  },
+  {
+    "entity": "Public Memorandum",
+    "attribute": "content",
+    "value": "daylight storage efficiency improved by 8.3% after installation of micro-louvers at the 32nd floor arcs",
+    "context": "In-world Document"
+  },
+  {
+    "entity": "Public Memorandum",
+    "attribute": "content",
+    "value": "decorative frit patterns to be replaced with adaptive nano-silt coatings in eastern districts to reduce parasitic reflection on riverfront glass",
+    "context": "In-world Document"
+  },
+  {
+    "entity": "Public Memorandum",
+    "attribute": "content",
+    "value": "retrofit with eyelid louvers on all mid-block terraces by Season\u2019s End to address public safety concerns",
+    "context": "In-world Document"
+  },
+  {
+    "entity": "A Roving Guide",
+    "attribute": "statement",
+    "value": "the wind in the ducts is a percussion section; the glass is a drum; daylight is harvested and speaks to us without breaking into memory vaults",
+    "context": "In-world Dialog"
+  },
+  {
+    "entity": "A Visitor",
+    "attribute": "question",
+    "value": "does the blue glow blend with the day or cover it like a veil?",
+    "context": "In-world Dialog"
+  },
+  {
+    "entity": "Guide",
+    "attribute": "response",
+    "value": "the day speaks to us in pale-blue hush; we answer back with glow borrowed from the sun; memory vaults drink the light",
+    "context": "In-world Dialog"
+  },
+  {
+    "entity": "Urban Fabric",
+    "attribute": "groundrise details",
+    "value": "streets carved with intention; maximum light interaction with towers; reflective inscriptions blur into street",
+    "context": "Urban Fabric: The Groundrise and the Pearl Lines"
+  },
+  {
+    "entity": "Crudades of glass",
+    "attribute": "function",
+    "value": "hold reflective inscriptions that blur into the street, turning the ground into a living repository of yesterday\u2019s light",
+    "context": "Urban Fabric: The Groundrise and the Pearl Lines"
+  },
+  {
+    "entity": "Street furniture",
+    "attribute": "design philosophy",
+    "value": "quiet cunning; balconies and kiosks designed to interact with light and memory",
+    "context": "Urban Fabric: The Groundrise and the Pearl Lines"
+  },
+  {
+    "entity": "Memory Bench",
+    "attribute": "effect",
+    "value": "stores sun in a basin and glows pale-blue in peripheral vision when memory moments are recalled",
+    "context": "Urban Fabric: The Groundrise and the Pearl Lines"
+  },
+  {
+    "entity": "Planters",
+    "attribute": "behavior",
+    "value": "float on magnetic rails to guide wind and cool a passerby\u2019s face",
+    "context": "Urban Fabric: The Groundrise and the Pearl Lines"
+  },
+  {
+    "entity": "Public Memorandum",
+    "attribute": "content",
+    "value": "Memory is walked in the streets; texture of memory must be preserved in public spaces",
+    "context": "In-world Document"
+  },
+  {
+    "entity": "Memory-Weather Bridge",
+    "attribute": "structure",
+    "value": "promenade spanning a shallow canal of migrating air currents; reinforced glass and micro-porous stone",
+    "context": "The Memory-Weather Bridge"
+  },
+  {
+    "entity": "Memory-Weather Bridge",
+    "attribute": "function",
+    "value": "allows wind to pass while slowing gale enough to feel the edge of weather during walk",
+    "context": "The Memory-Weather Bridge"
+  },
+  {
+    "entity": "Memory-Weather Bridge",
+    "attribute": "experience",
+    "value": "wind carries notes of brine, iodine, and citrus zest when daylight\u2019s charge is high",
+    "context": "The Memory-Weather Bridge"
+  },
+  {
+    "entity": "Weather memory",
+    "attribute": "description",
+    "value": "dense with humidity and suncodes; lingering in the air as tangible light",
+    "context": "The Memory-Weather Bridge"
+  },
+  {
+    "entity": "LHM (Light Harvesting Module)",
+    "attribute": "type",
+    "value": "core of Radiant Self life-sustain system",
+    "context": "In-world Document"
+  },
+  {
+    "entity": "LHM",
+    "attribute": "function",
+    "value": "light enters outer skin, passes through luminescent prisms, stored in nano-crystal memory banks for weather modulation, memory archiving, and urban illumination",
+    "context": "In-world Document"
+  },
+  {
+    "entity": "LHM",
+    "attribute": "capacity",
+    "value": "a single LHM stores enough light to illuminate a quarter of Grand Promenade for twelve hours",
+    "context": "In-world Document"
+  },
+  {
+    "entity": "Prisms",
+    "attribute": "behavior",
+    "value": "reorient with daylight angle to maximize storage and minimize glare",
+    "context": "In-world Document"
+  },
+  {
+    "entity": "Light",
+    "attribute": "ownership",
+    "value": "should belong to the street as much as to the tower; not owned entirely by towers",
+    "context": "In-world Document"
+  },
+  {
+    "entity": "Pearl Lines",
+    "attribute": "lights and memory",
+    "value": "memory and light travel through lines between stalls, libraries, and memories",
+    "context": "Urban Fabric: The Groundrise and the Pearl Lines"
+  },
+  {
+    "entity": "Memory walls",
+    "attribute": "purpose",
+    "value": "display and store memory; reflective inscriptions blur into street",
+    "context": "Urban Fabric: The Groundrise and the Pearl Lines"
+  },
+  {
+    "entity": "Shadewrights",
+    "attribute": "group",
+    "value": "artisans who sculpt with shadows; create shade-and-glow installations",
+    "context": "Diverse Voices of Light"
+  },
+  {
+    "entity": "Shadewright\u2019s Note",
+    "attribute": "philosophy",
+    "value": "worship daylight, but live with shadow; light is a tool, not a master",
+    "context": "In-world Document"
+  },
+  {
+    "entity": "Night Lanterns",
+    "attribute": "purpose",
+    "value": "temporary modular fixtures that glow blue to maintain memory-light for essential public spaces during drought",
+    "context": "The City\u2019s Night Ritual"
+  },
+  {
+    "entity": "Night Lanterns",
+    "attribute": "distribution",
+    "value": "planted in precise patterns to preserve memory order and prevent inequality",
+    "context": "The City\u2019s Night Ritual"
+  },
+  {
+    "entity": "Memory Clock",
+    "attribute": "function",
+    "value": "releases pulses of light that trace the day\u2019s memory in a visible arc",
+    "context": "A Sense of Time: Memory Clock"
+  },
+  {
+    "entity": "Weather Almanac",
+    "attribute": "function",
+    "value": "a living book updated by sensors and Prismwrights; reports daylight health with hourly readings",
+    "context": "A Sense of Time: Weather Almanac"
+  },
+  {
+    "entity": "Weather Almanac",
+    "attribute": "sample readings",
+    "value": "\"Daylight stability: 83%\", \"Prism efficiency risk factor: moderate\", \"Air clarity: good but thinning\"",
+    "context": "A Sense of Time: Weather Almanac"
+  },
+  {
+    "entity": "Weather Almanac",
+    "attribute": "visibility",
+    "value": "visible to every citizen and visitor",
+    "context": "A Sense of Time: Weather Almanac"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "threat",
+    "value": "a drought of daylight that could destabilize memory, weather coherence, and wealth distribution",
+    "context": "A Challenge Drawn Sharp: The Drought of Daylight"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "causes",
+    "value": "atmospheric, geopolitical, and political factors; UV drought reducing direct sun",
+    "context": "A Challenge Drawn Sharp: The Drought of Daylight"
+  },
+  {
+    "entity": "Prismwrights",
+    "attribute": "role",
+    "value": "elders of light-work who discuss memory, weather, and light allocation during drought",
+    "context": "A Core Scene: The Night-Square Conversation"
+  },
+  {
+    "entity": "Night-Square",
+    "attribute": "scene",
+    "value": "a quartet of Prismwrights gather beneath a glass canopy to discuss light policy",
+    "context": "A Core Scene: The Night-Square Conversation"
+  },
+  {
+    "entity": "Prismwright A",
+    "attribute": "position",
+    "value": "do nothing risks erasing lines between memory blocks and weather simulations",
+    "context": "Night-Square Conversation"
+  },
+  {
+    "entity": "Prismwright B",
+    "attribute": "position",
+    "value": "reroute some load to mid-level prisms to smooth the curve; street-level shadows must still have voices",
+    "context": "Night-Square Conversation"
+  },
+  {
+    "entity": "Prismwright C",
+    "attribute": "position",
+    "value": "implement a nightly light charter; every household gets a minimum memory-light; every quarter alternates which block stores extra warmth",
+    "context": "Night-Square Conversation"
+  },
+  {
+    "entity": "Prismwright D",
+    "attribute": "position",
+    "value": "turn public squares into a halo with a slow blue spectrum that breathes with the city",
+    "context": "Night-Square Conversation"
+  },
+  {
+    "entity": "Archivist",
+    "attribute": "note",
+    "value": "the drought is a question of what we owe to those who cannot store daylight; prisms must serve as a commons",
+    "context": "Archivist\u2019s Note"
+  },
+  {
+    "entity": "Assistant",
+    "attribute": "note",
+    "value": "memory vaults require baseline light to prevent fogging; without it, archives lose texture",
+    "context": "Archivist\u2019s Note"
+  },
+  {
+    "entity": "Archivist",
+    "attribute": "note",
+    "value": "texture must be created anew in public memory; squares become lit classrooms, markets lit libraries, walkways lit reliquaries of memory",
+    "context": "Archivist\u2019s Note"
+  },
+  {
+    "entity": "Daylight Accord",
+    "attribute": "document",
+    "value": "ratified by the Council of Prismwrights; distributes minimum luminous baseline to Residential Sectors A-D; E and F share a larger share",
+    "context": "Logbook of the Council of Prismwrights, Entry 17"
+  },
+  {
+    "entity": "Daylight Accord",
+    "attribute": "provision",
+    "value": "test a modular refraction lattice around the oldest spire to capture stray light and feed mid-level prisms",
+    "context": "Logbook of the Council of Prismwrights, Entry 17"
+  },
+  {
+    "entity": "Daylight Accord",
+    "attribute": "goal",
+    "value": "ensure that even the darkest hours have memory to carry",
+    "context": "Logbook of the Council of Prismwrights, Entry 17"
+  },
+  {
+    "entity": "Drought's Echo in the Street",
+    "attribute": "effect",
+    "value": "footsteps weigh more; ground loses crispness; pale-blue glow comes in muffled breaths; wares shift in color",
+    "context": "Drought\u2019s Echo in the Street"
+  },
+  {
+    "entity": "Vendors",
+    "attribute": "experience",
+    "value": "sales rely on reflections from glass cases; color of wares shifts during low daylight; selling becomes act of memory",
+    "context": "Drought\u2019s Echo in the Street"
+  },
+  {
+    "entity": "Shadewrights",
+    "attribute": "existence",
+    "value": "artisans who sculpt with shadows; distrust light centralization; craft shade-and-glow installations",
+    "context": "The Diverse Voices of Light"
+  },
+  {
+    "entity": "Shadewright\u2019s Note",
+    "attribute": "philosophy",
+    "value": "towers speak in glass tongues; wisdom in living with shadow; listen to shade and cultivate memory within it",
+    "context": "A Shadewright\u2019s Note"
+  },
+  {
+    "entity": "Chief Prismwright",
+    "attribute": "mission",
+    "value": "citizens of Gleamspire live inside its memory; adapt to drought; urban design becomes conversation with light",
+    "context": "A Letter from the Chief Prismwright"
+  },
+  {
+    "entity": "Chief Prismwright",
+    "attribute": "call_to_action",
+    "value": "least-used lanes become refuges for shade; memory persists even when sun is scarce",
+    "context": "A Letter from the Chief Prismwright"
+  },
+  {
+    "entity": "Chief Prismwright",
+    "attribute": "claim",
+    "value": "we are not merely consumers of light; we are its curators",
+    "context": "A Letter from the Chief Prismwright"
+  },
+  {
+    "entity": "The Memory Clock",
+    "attribute": "location",
+    "value": "central plaza",
+    "context": "A Sense of Time: Memory Clock"
+  },
+  {
+    "entity": "The Memory Clock",
+    "attribute": "function",
+    "value": "releases pulses of light that trace the day\u2019s memory in a visible arc",
+    "context": "A Sense of Time: Memory Clock"
+  },
+  {
+    "entity": "The Weather Almanac",
+    "attribute": "location",
+    "value": "visible to every citizen and visitor",
+    "context": "A Sense of Time: Weather Almanac"
+  },
+  {
+    "entity": "The Radiant Skyline",
+    "attribute": "philosophy",
+    "value": "a philosophy of space, ritual of memory, and proof that daylight can sustain a city",
+    "context": "Closing note"
+  },
+  {
+    "entity": "Night-Square Conversation",
+    "attribute": "theme",
+    "value": "allocation of light for essential memory operations and prevention of hoarding by wealthiest towers",
+    "context": "A Core Scene"
+  },
+  {
+    "entity": "Memory, Weather, Wealth",
+    "attribute": "economy",
+    "value": "condensed into light; light as currency and time-based asset; memory stored in prisms; weather controlled by towers; wealth distributed via light through public performances",
+    "context": "The Light's Economy"
+  },
+  {
+    "entity": "Wealth",
+    "attribute": "measurement",
+    "value": "daylight wallet of stored light; funds are used to illuminate schools, fund research, or power memory archives",
+    "context": "The Light's Economy"
+  },
+  {
+    "entity": "UV drought",
+    "attribute": "description",
+    "value": "rare atmospheric alignment where upper atmosphere holds back part of spectrum, stretching stored daylight across longer hours",
+    "context": "The Drought"
+  },
+  {
+    "entity": "Prismwrights",
+    "attribute": "chamber scent",
+    "value": "smelled of resin and iron",
+    "context": "The Drought"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "governance implication",
+    "value": "requires new protocols, rituals, and forms of governance",
+    "context": "The Drought"
+  },
+  {
+    "entity": "Examples in Memory-Weather Bridge",
+    "attribute": "notes",
+    "value": "memory of weather lingering in air as tangible light",
+    "context": "The Memory-Weather Bridge"
+  },
+  {
+    "entity": "Lanterns",
+    "attribute": "energy source",
+    "value": "glow with a gentle blue and run on a fraction of the daylight",
+    "context": "The City\u2019s Night Ritual"
+  },
+  {
+    "entity": "Shadewrights",
+    "attribute": "installation",
+    "value": "shade-and-glow installations that catch last traces of sun and hold memory in a bottle",
+    "context": "Diverse Voices of Light"
+  },
+  {
+    "entity": "Memory vaults",
+    "attribute": "dependency",
+    "value": "require baseline light to prevent fogging; texture must be created anew in public memory",
+    "context": "Archivist\u2019s Note"
+  },
+  {
+    "entity": "Town memory",
+    "attribute": "reliance",
+    "value": "memory is walked in the streets and stored in public spaces as memory-light",
+    "context": "In-world Narrative"
+  },
+  {
+    "entity": "Weather health",
+    "attribute": "reporting",
+    "value": "tracked by Weather Almanac and Prismwrights; daylight health monitored hourly",
+    "context": "A Sense of Time: Weather Almanac"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "central concept",
+    "value": "memory, weather, and wealth condensed into light",
+    "context": "The Light\u2019s Economy"
+  },
+  {
+    "entity": "A Vision of Tomorrow",
+    "attribute": "purpose",
+    "value": "an invitation to look up, listen, and walk with the light; reimagining memory, weather, and wealth guided by light",
+    "context": "Endnote"
+  },
+  {
+    "entity": "Radiant Skyline",
+    "attribute": "identity",
+    "value": "beacon and mirror; reflects who we are and reveals what we could become by treating daylight as a living resource",
+    "context": "Closing remark"
+  },
+  {
+    "entity": "Endnote",
+    "attribute": "claim",
+    "value": "the drought is a test and an opportunity to reimagine memory, weather, and wealth guided by light",
+    "context": "Endnote"
+  }
+]

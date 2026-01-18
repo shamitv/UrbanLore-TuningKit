@@ -1,0 +1,536 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "city",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "architectural description",
+    "value": "radiant glass towers that drink sunbeams and spit them back as living prisms",
+    "context": "Overview"
+  },
+  {
+    "entity": "Memory economy in Gleamspire",
+    "attribute": "nature",
+    "value": "condensable resource",
+    "context": "Overview"
+  },
+  {
+    "entity": "Memory economy in Gleamspire",
+    "attribute": "nature",
+    "value": "currency",
+    "context": "Overview"
+  },
+  {
+    "entity": "Memory economy in Gleamspire",
+    "attribute": "nature",
+    "value": "weather system",
+    "context": "Overview"
+  },
+  {
+    "entity": "Memory economy in Gleamspire",
+    "attribute": "nature",
+    "value": "lineage",
+    "context": "Overview"
+  },
+  {
+    "entity": "Diasporas",
+    "attribute": "origins",
+    "value": "coasts blistered by salt and syllables",
+    "context": "Introduction"
+  },
+  {
+    "entity": "Diasporas",
+    "attribute": "origins",
+    "value": "inland valleys where bells never stop",
+    "context": "Introduction"
+  },
+  {
+    "entity": "Diasporas",
+    "attribute": "origins",
+    "value": "islands where songs are written in salt and bone",
+    "context": "Introduction"
+  },
+  {
+    "entity": "Diaspora memories",
+    "attribute": "contents carried",
+    "value": "songs sung at dawn",
+    "context": "Migration"
+  },
+  {
+    "entity": "Diaspora memories",
+    "attribute": "contents carried",
+    "value": "myths whispered into the night",
+    "context": "Migration"
+  },
+  {
+    "entity": "Diaspora memories",
+    "attribute": "contents carried",
+    "value": "recipes for rain",
+    "context": "Migration"
+  },
+  {
+    "entity": "Diaspora memories",
+    "attribute": "contents carried",
+    "value": "rites of passage",
+    "context": "Migration"
+  },
+  {
+    "entity": "Diaspora memories",
+    "attribute": "contents carried",
+    "value": "old griefs",
+    "context": "Migration"
+  },
+  {
+    "entity": "Diaspora memories",
+    "attribute": "contents carried",
+    "value": "new hopes",
+    "context": "Migration"
+  },
+  {
+    "entity": "Memory prisms",
+    "attribute": "function",
+    "value": "store memories",
+    "context": "Overview"
+  },
+  {
+    "entity": "Memory vaults",
+    "attribute": "function",
+    "value": "market for memory prisms",
+    "context": "Overview"
+  },
+  {
+    "entity": "Diaspora Salons",
+    "attribute": "function",
+    "value": "venues where memory is traded ceremonially",
+    "context": "Overview"
+  },
+  {
+    "entity": "Core concept",
+    "attribute": "anchor",
+    "value": "memory, weather, and wealth condensed into light",
+    "context": "Overview"
+  },
+  {
+    "entity": "Prismatic banks",
+    "attribute": "function",
+    "value": "soak daylight, convert it into a vessel for recollection, and release pulses that power a civic energy economy, social rituals, and governance",
+    "context": "Overview"
+  },
+  {
+    "entity": "Prismatic banks",
+    "attribute": "effect",
+    "value": "power civic energy economy, social rituals, governance",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "environmental description",
+    "value": "air has ozone and citrus; streets glitter with pale blue glow; footsteps echo on glass and marble; scents of hot resin, sea spray, and lamp oil; soundscape of chimes, turbines, and distant surf",
+    "context": "Overview"
+  },
+  {
+    "entity": "Drought of daylight",
+    "attribute": "conflict",
+    "value": "threatens prism banks and the memory markets",
+    "context": "Conflict"
+  },
+  {
+    "entity": "Maritime Gate",
+    "attribute": "type",
+    "value": "border crossing and ritual space",
+    "context": "Migration"
+  },
+  {
+    "entity": "Lunar Gate",
+    "attribute": "type",
+    "value": "border crossing and ritual space",
+    "context": "Migration"
+  },
+  {
+    "entity": "Whisperway Crossing",
+    "attribute": "type",
+    "value": "border crossing and ritual space",
+    "context": "Migration"
+  },
+  {
+    "entity": "Maritime Gate",
+    "attribute": "function",
+    "value": "preps new memories for translation into prisms",
+    "context": "Migration"
+  },
+  {
+    "entity": "Lunar Gate",
+    "attribute": "function",
+    "value": "preps memories for translation into prisms",
+    "context": "Migration"
+  },
+  {
+    "entity": "Whisperway Crossing",
+    "attribute": "function",
+    "value": "preps memories for translation into prisms",
+    "context": "Migration"
+  },
+  {
+    "entity": "Memory as kinship currency",
+    "attribute": "concept",
+    "value": "memories travel as kinship currency",
+    "context": "Migration"
+  },
+  {
+    "entity": "Family from coastal archipelago",
+    "attribute": "action",
+    "value": "transplant memory into shared daylight economy",
+    "context": "Migration"
+  },
+  {
+    "entity": "Grandmother\u2019s lullaby",
+    "attribute": "memory form",
+    "value": "fragment of a memory prism",
+    "context": "Migration"
+  },
+  {
+    "entity": "Fisherman\u2019s scent of brine",
+    "attribute": "memory form",
+    "value": "module of a trading floor scent-sample",
+    "context": "Migration"
+  },
+  {
+    "entity": "Grandmother\u2019s sea-chantey",
+    "attribute": "memory form",
+    "value": "melted down and recast into a new domestic myth",
+    "context": "Migration"
+  },
+  {
+    "entity": "Market of Prism and Thread",
+    "attribute": "existence",
+    "value": "exists in Gleamspire",
+    "context": "Economy"
+  },
+  {
+    "entity": "Market of Prism and Thread",
+    "attribute": "feature",
+    "value": "stalls glow with a soft blue light",
+    "context": "Economy"
+  },
+  {
+    "entity": "Memory Brokers",
+    "attribute": "role",
+    "value": "read the currents of memory like weather charts and assign value by authenticity, intensity, portability, and drift risk",
+    "context": "Economy"
+  },
+  {
+    "entity": "Memory Brokers",
+    "attribute": "value factors",
+    "value": "authenticity, intensity, portability, drift risk",
+    "context": "Economy"
+  },
+  {
+    "entity": "Fusion markets",
+    "attribute": "value proposition",
+    "value": "braid diaspora memory with local legends to produce hybrid memories",
+    "context": "Economy"
+  },
+  {
+    "entity": "Memory-Brokers Guild",
+    "attribute": "function",
+    "value": "evaluate memory travel, fidelity, and potential to polarize or harmonize with Gleamspire\u2019s light-based economy",
+    "context": "Guilds"
+  },
+  {
+    "entity": "Memory-Brokers Guild",
+    "attribute": "powers",
+    "value": "issue licenses to store or trade memory shards, regulate prism size, mediate disputes about misattribution or memory drift",
+    "context": "Guilds"
+  },
+  {
+    "entity": "Scavengers of Ancestral Recollections",
+    "attribute": "role",
+    "value": "acquire memories from abandoned homes, old ships, and erased neighborhoods; barter for fragments; follow code",
+    "context": "Guilds"
+  },
+  {
+    "entity": "Scavengers of Ancestral Recollections",
+    "attribute": "code",
+    "value": "never take the whole memory; never force a memory to mutate beyond its bearer\u2019s intent; always leave a trace",
+    "context": "Guilds"
+  },
+  {
+    "entity": "Scavengers of Ancestral Recollections",
+    "attribute": "companions",
+    "value": "memory-hounds",
+    "context": "Guilds"
+  },
+  {
+    "entity": "Diaspora Salons",
+    "attribute": "role",
+    "value": "open, translucent rooms where memory is traded ceremonially; memories performed as rituals",
+    "context": "Guilds"
+  },
+  {
+    "entity": "Diaspora Salons",
+    "attribute": "features",
+    "value": "walls etched with maps showing routes memories have traveled; negotiation spaces; memory stewardship required",
+    "context": "Guilds"
+  },
+  {
+    "entity": "Communal Memory Houses",
+    "attribute": "type",
+    "value": "hybrid sanctuaries blending civic burnish with ancestral shelter",
+    "context": "Architecture"
+  },
+  {
+    "entity": "Communal Memory Houses",
+    "attribute": "construction",
+    "value": "built with living glass that glows with the breath of stored recollections",
+    "context": "Architecture"
+  },
+  {
+    "entity": "Communal Memory Houses",
+    "attribute": "contents",
+    "value": "walls with shelves of memory prisms sealed in small vaults",
+    "context": "Architecture"
+  },
+  {
+    "entity": "Communal Memory Houses",
+    "attribute": "function",
+    "value": "museum and sanctuary where people consult memories or contribute to a communal pool",
+    "context": "Architecture"
+  },
+  {
+    "entity": "Memory House experience",
+    "attribute": "sensory feature",
+    "value": "holding a prism to the temple evokes gulls, sea, rope, and remembered sensations",
+    "context": "Architecture"
+  },
+  {
+    "entity": "Ethical tensions in Gleamspire",
+    "attribute": "themes",
+    "value": "Authenticity vs Innovation",
+    "context": "Tensions"
+  },
+  {
+    "entity": "Ethical tensions in Gleamspire",
+    "attribute": "themes",
+    "value": "Community vs Individual Rights",
+    "context": "Tensions"
+  },
+  {
+    "entity": "Ethical tensions in Gleamspire",
+    "attribute": "themes",
+    "value": "Protection vs Accessibility",
+    "context": "Tensions"
+  },
+  {
+    "entity": "Ethical tensions in Gleamspire",
+    "attribute": "themes",
+    "value": "Cultural Fusion vs Cultural Theft",
+    "context": "Tensions"
+  },
+  {
+    "entity": "The Prism Trust Ledger",
+    "attribute": "organization",
+    "value": "oversees transfer, storage, and valuation of memory prisms",
+    "context": "Documents"
+  },
+  {
+    "entity": "The Prism Trust Ledger",
+    "attribute": "entry format",
+    "value": "entries written in copperplate with fingerprint impressions",
+    "context": "Documents"
+  },
+  {
+    "entity": "Entry 14.3.87 Harbor of a Thousand Bells",
+    "attribute": "origin",
+    "value": "Istis Archipelago",
+    "context": "Documents"
+  },
+  {
+    "entity": "Entry 14.3.87 Harbor of a Thousand Bells",
+    "attribute": "cash value",
+    "value": "9.4 standard prisms",
+    "context": "Documents"
+  },
+  {
+    "entity": "Entry 14.3.87 Harbor of a Thousand Bells",
+    "attribute": "drift",
+    "value": "Minor drift observed after fusion with local seafaring lullaby; alignment 92%",
+    "context": "Documents"
+  },
+  {
+    "entity": "Entry 14.3.87 Harbor of a Thousand Bells",
+    "attribute": "recommendation",
+    "value": "Blend with local harbor tales to reduce drift risk",
+    "context": "Documents"
+  },
+  {
+    "entity": "Diaspora Salon Invitation",
+    "attribute": "content",
+    "value": "Invitees: Heirs of the Wind and Tide, descendants of the River Choir",
+    "context": "Documents"
+  },
+  {
+    "entity": "Diaspora Salon Invitation",
+    "attribute": "text",
+    "value": "\"Bring your memory\u2019s light, but leave your fear outside. We trade not to forget, we trade to remember better. Where your memory finds a new harbor, we shall lay down a guiding prism and let the local lore warm it into life.\"",
+    "context": "Documents"
+  },
+  {
+    "entity": "Dialogue: Broker",
+    "attribute": "content",
+    "value": "\"Memory is currency, not a souvenir. We do not buy the past; we buy the chance that the past will illuminate the future.\"",
+    "context": "Dialogue"
+  },
+  {
+    "entity": "Dialogue: Scavenger",
+    "attribute": "content",
+    "value": "\"We do not steal memory; we borrow stories to plant new roots. The city feeds on preserved pasts, but it grows from the memory that learns to love a new name.\"",
+    "context": "Dialogue"
+  },
+  {
+    "entity": "Dialogue: Diaspora Salon Host",
+    "attribute": "content",
+    "value": "\"We are the bridge where the old ships dock with new weather. If a memory is to sail, it must learn the language of Gleamspire\u2019s light.\"",
+    "context": "Dialogue"
+  },
+  {
+    "entity": "Case: Harbor Song Memory",
+    "attribute": "description",
+    "value": "hybrid memory fused with Gleamspire harbor myths; drift low; used to teach sailors to interpret weather",
+    "context": "Case Studies"
+  },
+  {
+    "entity": "Case: Desert Ladder Memory",
+    "attribute": "description",
+    "value": "desert memory fused with Gleamspire rain rituals; public artifact in a communal memory house; resilience",
+    "context": "Case Studies"
+  },
+  {
+    "entity": "Case: Shipwright Hall Memory",
+    "attribute": "description",
+    "value": "memory of a shipwright guild taught as a living blueprint for memory-housing design; lullabies embedded to calm winds",
+    "context": "Case Studies"
+  },
+  {
+    "entity": "Drought Crisis",
+    "attribute": "description",
+    "value": "Daylight as a precious resource; not purely meteorological; memory liquidity falters; memory drift increases",
+    "context": "Crisis"
+  },
+  {
+    "entity": "Crisis response",
+    "attribute": "methods",
+    "value": "memory-sharing cycles; micro-prisms; diaspora salons host exilic gatherings; memory gardens",
+    "context": "Crisis"
+  },
+  {
+    "entity": "Memory gardens",
+    "attribute": "description",
+    "value": "prisms that hold living memories in multiple small modules to reduce fragmentation",
+    "context": "Crisis"
+  },
+  {
+    "entity": "Notable diaspora houses",
+    "attribute": "examples",
+    "value": "House of Salted Light; House of Desert Echoes; House of River Choir; House of Stonewind",
+    "context": "Notable diaspora houses"
+  },
+  {
+    "entity": "House of Salted Light",
+    "attribute": "origin",
+    "value": "Istis Archipelago diaspora",
+    "context": "Notable diaspora houses"
+  },
+  {
+    "entity": "House of Salted Light",
+    "attribute": "memory trait",
+    "value": "preserves seafaring songs and harbor rituals; prisms project mood as well as details",
+    "context": "Notable diaspora houses"
+  },
+  {
+    "entity": "House of Desert Echoes",
+    "attribute": "origin",
+    "value": "arid interior diaspora",
+    "context": "Notable diaspora houses"
+  },
+  {
+    "entity": "House of Desert Echoes",
+    "attribute": "memory trait",
+    "value": "blends storm myths with air-dried prayers; amber glow; resilience through ritual",
+    "context": "Notable diaspora houses"
+  },
+  {
+    "entity": "House of River Choir",
+    "attribute": "origin",
+    "value": "riverine diaspora",
+    "context": "Notable diaspora houses"
+  },
+  {
+    "entity": "House of River Choir",
+    "attribute": "memory trait",
+    "value": "melodies of river crossings, flood myths, and boat-building lore; water lineage",
+    "context": "Notable diaspora houses"
+  },
+  {
+    "entity": "House of Stonewind",
+    "attribute": "origin",
+    "value": "coastal mountains diaspora",
+    "context": "Notable diaspora houses"
+  },
+  {
+    "entity": "House of Stonewind",
+    "attribute": "memory trait",
+    "value": "geology, winds, and foundational myths; emphasis on consent and attribution",
+    "context": "Notable diaspora houses"
+  },
+  {
+    "entity": "Daylight Accord",
+    "attribute": "document",
+    "value": "a fragile governance compromise outlining consent, attribution, revenue sharing, and protection for vulnerable memories",
+    "context": "Governance"
+  },
+  {
+    "entity": "Open councils",
+    "attribute": "function",
+    "value": "forum where diaspora houses, scavenger unions, and memory brokers collide",
+    "context": "Governance"
+  },
+  {
+    "entity": "Narrative: memory-tenant",
+    "attribute": "content",
+    "value": "\"We carry the sound of waves as much as the weight of our kin. When a memory leaves the harbor, it takes a part of us with it. If Gleamspire uses our memory to create new light, I want a light that shines on my people\u2019s history as well as on theirs.\"",
+    "context": "Street Narratives"
+  },
+  {
+    "entity": "Narrative: veteran scavenger",
+    "attribute": "content",
+    "value": "\"In the ruins of the old city we find not only memories but the routes by which memory travels. We map memory drift and fight drift with ritual.\"",
+    "context": "Street Narratives"
+  },
+  {
+    "entity": "Narrative: broker",
+    "attribute": "content",
+    "value": "\"The market rewards coherence and context. If a memory drift becomes too strong, it loses its sense of origin. The best memory is that which can travel and return, not the memory that becomes a map of Gleamspire\u2019s own myths.\"",
+    "context": "Street Narratives"
+  },
+  {
+    "entity": "Thematic thread",
+    "attribute": "description",
+    "value": "Memory as a shared visible breath\u2014public breath that sustains a living, evolving spectrum of memory",
+    "context": "Thematic Threads"
+  },
+  {
+    "entity": "Thematic thread",
+    "attribute": "description",
+    "value": "Ethics of fusion\u2014the best fusions feel like a new dawn, not theft of the night",
+    "context": "Thematic Threads"
+  },
+  {
+    "entity": "Thematic thread",
+    "attribute": "description",
+    "value": "Communal memory houses as radical political act\u2014memory as living practice beyond private or guild control",
+    "context": "Thematic Threads"
+  }
+]

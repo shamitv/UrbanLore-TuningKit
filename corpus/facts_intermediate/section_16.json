@@ -1,0 +1,386 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "nature",
+    "value": "city of radiant glass towers that soak daylight and store it as living prisms",
+    "context": "Overall setting of the entry"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "memory economy",
+    "value": "stores daylight as memory; memory functions as currency, seed, and substrate",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "ecology",
+    "value": "glow guides pollinators, routes navigation, and disperses seeds",
+    "context": "Ecology"
+  },
+  {
+    "entity": "memory prisms",
+    "attribute": "shape",
+    "value": "hexagonal prisms; lungs of glass",
+    "context": "Physical description"
+  },
+  {
+    "entity": "memory prisms",
+    "attribute": "function",
+    "value": "maximize capture of aurora, daylight, and starlight",
+    "context": "Design purpose"
+  },
+  {
+    "entity": "daytime residues",
+    "attribute": "effect",
+    "value": "patterns etched into crystal; city heartbeat",
+    "context": "Daytime memory deposition"
+  },
+  {
+    "entity": "memory prisms",
+    "attribute": "sunset behavior",
+    "value": "exhale a soft hush; etched memory glows with pale afterimage",
+    "context": "Sunset"
+  },
+  {
+    "entity": "memory",
+    "attribute": "nature",
+    "value": "substrate; bits cling to glass like pollen",
+    "context": "Memory as substrate"
+  },
+  {
+    "entity": "memory moss",
+    "attribute": "role",
+    "value": "memory carriers; spores ride airflow; settle where light quality suggests 'home'",
+    "context": "Ecology"
+  },
+  {
+    "entity": "memory moss",
+    "attribute": "surface effect",
+    "value": "surface becomes a meadow; forms micro-terraces for night-lane sentinels",
+    "context": "Growth on prisms"
+  },
+  {
+    "entity": "luminescent fungi",
+    "attribute": "role",
+    "value": "feed on archived experiences; glow blue and copper-gold; encourage path to be found",
+    "context": "Ecology"
+  },
+  {
+    "entity": "glow-reference",
+    "attribute": "definition",
+    "value": "sonic map of light and memory; a navigation system woven into ecology",
+    "context": "Concept"
+  },
+  {
+    "entity": "gleam-bee",
+    "attribute": "role",
+    "value": "bee-shaped pollinator; reads memory-markers via dendritic antennae",
+    "context": "Pollination/navigation"
+  },
+  {
+    "entity": "blossoms",
+    "attribute": "memory-rich blossoms",
+    "value": "rainbow-ears, sigh-lilies, dusk marigolds; cluster in glow-reference network",
+    "context": "Flora"
+  },
+  {
+    "entity": "insects",
+    "attribute": "carriers",
+    "value": "memory moss spores and fungal filaments seed new growth along walkways",
+    "context": "Seed dispersal"
+  },
+  {
+    "entity": "memory-silk",
+    "attribute": "nature",
+    "value": "photon-silk; threads that can be stored, moved, and shared",
+    "context": "Memory transport"
+  },
+  {
+    "entity": "City Archive",
+    "attribute": "records",
+    "value": "glow-index entries; lines of stored light corresponding to day\u2019s events",
+    "context": "Documentation"
+  },
+  {
+    "entity": "memory-prism",
+    "attribute": "light release",
+    "value": "releases stored light into a controlled corridor of memory-silk; pollinator or wind carry",
+    "context": "Memory transfer"
+  },
+  {
+    "entity": "system",
+    "attribute": "nature",
+    "value": "weather-based mechanism; tuned over centuries",
+    "context": "Mechanism"
+  },
+  {
+    "entity": "artificial flora",
+    "attribute": "types",
+    "value": "glass trees and luminescent shrubs",
+    "context": "Habitat"
+  },
+  {
+    "entity": "sap",
+    "attribute": "smell",
+    "value": "resinous, warm scent of hot resin and citrus",
+    "context": "Flora scent"
+  },
+  {
+    "entity": "air",
+    "attribute": "taste",
+    "value": "ozone and citrus in daylight; sea spray with lamp oil and warm resin at night",
+    "context": "Atmosphere"
+  },
+  {
+    "entity": "resinous flora",
+    "attribute": "emission",
+    "value": "exhale mineral-inflected vapor; pollinators adjust flights; seed-dispersal aligns with glow-patterns",
+    "context": "Plant behavior"
+  },
+  {
+    "entity": "seeds",
+    "attribute": "carriers",
+    "value": "luminescent moths; ride updrafts; wings leave memory-light motes",
+    "context": "Seed dispersal"
+  },
+  {
+    "entity": "fireflies",
+    "attribute": "role",
+    "value": "permanent residents of the Night-Glow Arc; feed on remembered light",
+    "context": "Fauna"
+  },
+  {
+    "entity": "Walk of Echoes",
+    "attribute": "path",
+    "value": "hosts a nightly lantern procession as glow-reference intensifies along the arc",
+    "context": "Night life"
+  },
+  {
+    "entity": "predators",
+    "attribute": "behavior",
+    "value": "move with memory-tide; birds alter migratory routes based on glow-reference density",
+    "context": "Ecology"
+  },
+  {
+    "entity": "Council of Reflective Governors",
+    "attribute": "role",
+    "value": "leadership debating daylight import versus local memory production; ethical questions about hoarding vs sharing",
+    "context": "Governing debate"
+  },
+  {
+    "entity": "Night-Bridge district",
+    "attribute": "Moon-Store",
+    "value": "seasonal reservoir of faint, cool memory-light; counterpoint to Day-Store",
+    "context": "District feature"
+  },
+  {
+    "entity": "Moon-Store",
+    "attribute": "importance",
+    "value": "essential for keeping memory-moss viable when daylight wanes",
+    "context": "Membrane"
+  },
+  {
+    "entity": "Moon-Store",
+    "attribute": "ritual",
+    "value": "\"Remember together, glow apart\"",
+    "context": "Social pedagogy"
+  },
+  {
+    "entity": "Mara",
+    "attribute": "role",
+    "value": "elder of Night-Bridge",
+    "context": "Night-Bridge elder"
+  },
+  {
+    "entity": "Mara",
+    "attribute": "observation",
+    "value": "moss hums near Moon-Store; moss must stay in light in a different way or memory fades",
+    "context": "Dialogue"
+  },
+  {
+    "entity": "Gleamspire Journal of Light-Studies",
+    "attribute": "type",
+    "value": "in-world document",
+    "context": "Documentation"
+  },
+  {
+    "entity": "Field Note",
+    "attribute": "topic",
+    "value": "Memory-Lichen Habitats Around the North Docks",
+    "context": "Journal entry"
+  },
+  {
+    "entity": "Field Note",
+    "attribute": "content",
+    "value": "memory mushrooms sprout along waterline after storms; glow threads weave memory-path read by fishermen",
+    "context": "Note content"
+  },
+  {
+    "entity": "Gleamspire Codex of Ambient Ecology",
+    "attribute": "description",
+    "value": "tactical crisis of drought; lists four actions to combat daylight drought",
+    "context": "Codex"
+  },
+  {
+    "entity": "Gleamspire Codex of Ambient Ecology",
+    "attribute": "action",
+    "value": "Increase daylight capture by recalibrating prism arrays and optimizing for diffuse daylight and starlight",
+    "context": "Codex action 1"
+  },
+  {
+    "entity": "Gleamspire Codex of Ambient Ecology",
+    "attribute": "action",
+    "value": "Replenish memory-moss by seeding resilient spores; seed prisms with memory moss",
+    "context": "Codex action 2"
+  },
+  {
+    "entity": "Gleamspire Codex of Ambient Ecology",
+    "attribute": "action",
+    "value": "Strengthen glow-reference channels; protect memory-tunnels from weather or political disruption",
+    "context": "Codex action 3"
+  },
+  {
+    "entity": "Gleamspire Codex of Ambient Ecology",
+    "attribute": "action",
+    "value": "Protect memory-locus ecosystems; maintain buffer zones around memory-prisms to prevent overharvesting",
+    "context": "Codex action 4"
+  },
+  {
+    "entity": "Glow-weaving",
+    "attribute": "phenomenon",
+    "value": "merchants and artisans craft light networks; memory-silk links neighborhoods; beads release memory-light into wearer's prism",
+    "context": "Economic/cultural practice"
+  },
+  {
+    "entity": "Market of Reflective Trinkets",
+    "attribute": "practice",
+    "value": "beads captured daytime; memory-silk threads permit release of fragment of moment\u2019s light into wearer\u2019s prism",
+    "context": "Commerce"
+  },
+  {
+    "entity": "Gleamspire's wealth",
+    "attribute": "currency",
+    "value": "luminescent memory; longer robust memory stores lead to brighter streets and more trade/culture/partnership",
+    "context": "Economy"
+  },
+  {
+    "entity": "drought conflict",
+    "attribute": "risk",
+    "value": "reduced energy input; memory substrate degraded; glow-reference network destabilized; ecological drift; potential local extinctions; social tensions",
+    "context": "Crisis description"
+  },
+  {
+    "entity": "Night-Bridge district",
+    "attribute": "identity",
+    "value": "communal memory economy; Moon-Store as nocturnal memory reservoir",
+    "context": "Social structure"
+  },
+  {
+    "entity": "Final reflections",
+    "attribute": "theme",
+    "value": "drought tests resilience; memory must be tended; light and life read glow to navigate time",
+    "context": "Closing"
+  },
+  {
+    "entity": "Memory-Store",
+    "attribute": "nature",
+    "value": "not static; grows, contracts, remembers, forgets, relearns with each season",
+    "context": "Closing note"
+  },
+  {
+    "entity": "Globe of Retained Daylight",
+    "attribute": "location",
+    "value": "Grand Atrium",
+    "context": "Artifact"
+  },
+  {
+    "entity": "Globe of Retained Daylight",
+    "attribute": "function",
+    "value": "public test of how much daylight the city can store",
+    "context": "Artifact function"
+  },
+  {
+    "entity": "Globe of Retained Daylight",
+    "attribute": "drought effect",
+    "value": "glow softens as drought tightens; reveals city\u2019s vulnerability",
+    "context": "Drought effect"
+  },
+  {
+    "entity": "Archive Prism Book",
+    "attribute": "nature",
+    "value": "ledger of memory patterns linked to weather events; etched pages; memory fragments stored as light",
+    "context": "Artifact description"
+  },
+  {
+    "entity": "Archive Prism Book",
+    "attribute": "opening",
+    "value": "opened at dawn; pages flicker with soft rainbow as memory-light leaks",
+    "context": "Usage"
+  },
+  {
+    "entity": "Archivist",
+    "attribute": "explanation",
+    "value": "Reading a Prism Book is a ritual of listening; tilt toward memory and let light speak; drought makes us blind and deaf to memory",
+    "context": "Explanation"
+  },
+  {
+    "entity": "Daylight corridors",
+    "attribute": "purpose",
+    "value": "channel light from brighter to darker parts of city; exchange of memory",
+    "context": "Proposed solution 1"
+  },
+  {
+    "entity": "memory-moss",
+    "attribute": "cultivation",
+    "value": "seed new moss into prisms where data traffic is highest",
+    "context": "Proposed solution 2"
+  },
+  {
+    "entity": "city-wide festival of memory",
+    "attribute": "purpose",
+    "value": "reinvigorate ecological memory by letting people experience glow-references of others",
+    "context": "Proposed solution 3"
+  },
+  {
+    "entity": "public daylight",
+    "attribute": "policy",
+    "value": "not weaponized or monopolized; shared as public good",
+    "context": "Proposed solution 4"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "theme",
+    "value": "time and weather as intimate collaborators; memory economy as connective tissue",
+    "context": "Big idea"
+  },
+  {
+    "entity": "the drought",
+    "attribute": "moral test",
+    "value": "whether the city will adapt, mend, and retell memory in a brighter pattern",
+    "context": "Closing"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "closing note",
+    "value": "memory-store is not static; grows, contracts, remembers, forgets, and relearns with each season",
+    "context": "Closing"
+  },
+  {
+    "entity": "City Archive",
+    "attribute": "documentation",
+    "value": "glow-index entries documenting day\u2019s events as memory",
+    "context": "Documentation"
+  },
+  {
+    "entity": "Night-Glow Arc",
+    "attribute": "description",
+    "value": "zones where glow-reference network intensifies",
+    "context": "Ecology"
+  },
+  {
+    "entity": "Walk of Echoes",
+    "attribute": "significance",
+    "value": "path where glow-reference lanes are read during nightly procession",
+    "context": "Night life"
+  }
+]

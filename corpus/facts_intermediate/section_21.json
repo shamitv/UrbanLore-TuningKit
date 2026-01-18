@@ -1,0 +1,464 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "city",
+    "context": "Executive snapshot"
+  },
+  {
+    "entity": "Prism Regime",
+    "attribute": "definition",
+    "value": "system by which Gleamspire harvests, stores, and uses daylight as the energy and memory backbone of the city",
+    "context": "Appendix / Intro"
+  },
+  {
+    "entity": "Daylight bank",
+    "attribute": "description",
+    "value": "vault-like resource storing the sun\u2019s memory and the weather\u2019s forecast across districts",
+    "context": "Appendix / Field notes"
+  },
+  {
+    "entity": "Gatekeepers",
+    "attribute": "role",
+    "value": "regulate movement across district gates to preserve prism integrity and city function",
+    "context": "Gatekeepers section"
+  },
+  {
+    "entity": "Gate Windows",
+    "attribute": "definition",
+    "value": "scheduled periods during which gates may open; determined by daylight flux cycles and prism stability",
+    "context": "Gatekeepers section"
+  },
+  {
+    "entity": "Temporary settlements",
+    "attribute": "definition",
+    "value": "improvised residential clusters near transit routes formed during daylight drought",
+    "context": "Temporary settlements section"
+  },
+  {
+    "entity": "Residency Charter",
+    "attribute": "purpose",
+    "value": "document required for new residents in temporary settlements; ensures contribution to local memory banks and waste management",
+    "context": "Temporary settlements section"
+  },
+  {
+    "entity": "Memory-keys",
+    "attribute": "description",
+    "value": "devices that store memories\u2014data, recollections, weather patterns, and other critical civic information",
+    "context": "Appendix"
+  },
+  {
+    "entity": "Weather-lanterns",
+    "attribute": "description",
+    "value": "devices used to forecast or adjust weather patterns by manipulating light in controlled ways",
+    "context": "Appendix"
+  },
+  {
+    "entity": "Shade Weavers",
+    "attribute": "role",
+    "value": "guild members who design and implement shadow-paths and shading to facilitate safe passage through the prism grid",
+    "context": "Appendix"
+  },
+  {
+    "entity": "Memory-cores",
+    "attribute": "description",
+    "value": "storage devices that hold important memories and data; their integrity is critical in times of flux",
+    "context": "Appendix"
+  },
+  {
+    "entity": "Sunward Edge",
+    "attribute": "description",
+    "value": "harbor and salt-washed piers; zone of access and transit",
+    "context": "Flux/maps section"
+  },
+  {
+    "entity": "Core Arc",
+    "attribute": "description",
+    "value": "district toward which movement shifts; higher daylight exposure",
+    "context": "Flux/maps section"
+  },
+  {
+    "entity": "Sunward Edge \u2192 Core Arc shift",
+    "attribute": "movement trend",
+    "value": "last two weeks show shift from Sunward Edge toward Core Arc",
+    "context": "Flux/maps section"
+  },
+  {
+    "entity": "North Gate District",
+    "attribute": "description",
+    "value": "corridor of small houses and clay-brick shelters along thermal ducts; migrants seek longer daylight; artisans barter memory-cores and weather-lanterns with gatekeepers",
+    "context": "Flux/maps section"
+  },
+  {
+    "entity": "Tidereach Spur",
+    "attribute": "description",
+    "value": "highway of vessels and people moving with daylight; fish markets become night markets",
+    "context": "Flux/maps section"
+  },
+  {
+    "entity": "Aureole Ring",
+    "attribute": "description",
+    "value": "destination of memory-keys from Tidereach according to ledger",
+    "context": "Ledger Excerpt"
+  },
+  {
+    "entity": "Brine Ward",
+    "attribute": "description",
+    "value": "part of migratory route with tram-path connections to Scriptorium Districts",
+    "context": "Flux/maps section"
+  },
+  {
+    "entity": "Scriptorium Districts",
+    "attribute": "description",
+    "value": "destinations for scribes, archivists, and weather-singers; rely on stored daylight to etch recollections",
+    "context": "Flux/maps section"
+  },
+  {
+    "entity": "Dawn-Weave Settlement",
+    "attribute": "location",
+    "value": "South Quarter near Gate 4; along canal",
+    "context": "Temporary settlements section"
+  },
+  {
+    "entity": "Dawn-Weave Settlement",
+    "attribute": "residents",
+    "value": "mostly families of transit workers; includes memory-handoff groups",
+    "context": "Temporary settlements section"
+  },
+  {
+    "entity": "Lantern Row",
+    "attribute": "description",
+    "value": "North Gate cluster with glass-wick lamps; features a dawn ceremony festival space",
+    "context": "Temporary settlements section"
+  },
+  {
+    "entity": "drift-homes",
+    "attribute": "description",
+    "value": "cargo barges converted into drift-homes; anchored along harbor walls; carry tools of prism trades",
+    "context": "Temporary settlements section"
+  },
+  {
+    "entity": "Gate 9",
+    "attribute": "gatekeeper",
+    "value": "Seris; tall, lean; wears eel-skin gloves; cloak with threadlike conduits",
+    "context": "Gatekeepers section"
+  },
+  {
+    "entity": "Gatekeeper Seris",
+    "attribute": "quote",
+    "value": "The prisms hold us; we do not break them.",
+    "context": "Dialogue snippet Gate 9"
+  },
+  {
+    "entity": "Gate openings policy at Gate 9",
+    "attribute": "rule",
+    "value": "No more than two caravans per hour",
+    "context": "Dialogue snippet Gate 9"
+  },
+  {
+    "entity": "Daytide Directive",
+    "attribute": "issuing body",
+    "value": "Daylight Council",
+    "context": "Document A"
+  },
+  {
+    "entity": "Daytide Directive",
+    "attribute": "date/period",
+    "value": "2nd Dimming",
+    "context": "Document A"
+  },
+  {
+    "entity": "Daytide Directive",
+    "attribute": "policy",
+    "value": "Prisms allocated by ward and need; priority to households with infants, elderly, or memory-keys that protect critical civic functions",
+    "context": "Document A"
+  },
+  {
+    "entity": "Daytide Directive",
+    "attribute": "policy",
+    "value": "Gate openings limited to specified windows aligned with ultraviolet flux cycles",
+    "context": "Document A"
+  },
+  {
+    "entity": "Daytide Directive",
+    "attribute": "policy",
+    "value": "Temporary settlements must maintain a Residency Charter",
+    "context": "Document A"
+  },
+  {
+    "entity": "Daytide Directive",
+    "attribute": "policy",
+    "value": "Guilds arbitrate memory-ownership and transit disputes; decisions logged within two days",
+    "context": "Document A"
+  },
+  {
+    "entity": "Ledger Excerpt (Document B)",
+    "attribute": "date",
+    "value": "3rd Dimming Cycle, Day 4",
+    "context": "Document B"
+  },
+  {
+    "entity": "Caravans from Tidereach",
+    "attribute": "action",
+    "value": "moving memory-keys to Aureole Ring",
+    "context": "Document B"
+  },
+  {
+    "entity": "Document B",
+    "attribute": "tokens issued",
+    "value": "42 family passes",
+    "context": "Document B"
+  },
+  {
+    "entity": "Document B",
+    "attribute": "tokens issued",
+    "value": "16 memory-keys with weather logs",
+    "context": "Document B"
+  },
+  {
+    "entity": "Document B",
+    "attribute": "tokens issued",
+    "value": "8 elder memory-keys",
+    "context": "Document B"
+  },
+  {
+    "entity": "Memory-cores",
+    "attribute": "status",
+    "value": "13 memory-cores suffered a micro-crack during transit; patch-calibration performed",
+    "context": "Document B"
+  },
+  {
+    "entity": "Gate 7",
+    "attribute": "location",
+    "value": "Twilight Conduit",
+    "context": "Document C"
+  },
+  {
+    "entity": "Document C",
+    "attribute": "action",
+    "value": "allowed passage for a large caravan this morning; caravan rerouted along the old tram line",
+    "context": "Document C"
+  },
+  {
+    "entity": "Prismatic seam",
+    "attribute": "risk",
+    "value": "opened on Twilight Conduit; threatened to leak into a memory pool",
+    "context": "Document C"
+  },
+  {
+    "entity": "Document D",
+    "attribute": "note",
+    "value": "prisms flicker at odd intervals; memory of a memory fights its way out",
+    "context": "Document D"
+  },
+  {
+    "entity": "Document D",
+    "attribute": "finding",
+    "value": "map of micro-shifts in daylight shows where migration pressure is greatest",
+    "context": "Document D"
+  },
+  {
+    "entity": "Dialogue snippet 1",
+    "attribute": "message",
+    "value": "We\u2019re not leaving, we\u2019re widening; we\u2019ll keep the light inside by sharing it.",
+    "context": "Dialogues from the field"
+  },
+  {
+    "entity": "Dialogue snippet 1",
+    "attribute": "message",
+    "value": "The prisms are a cradle in daylight; if we stay, we must help keep the cradle intact.",
+    "context": "Dialogues from the field"
+  },
+  {
+    "entity": "Dialogue snippet 2",
+    "attribute": "statement",
+    "value": "If you cross the canal, you risk draining the prism-reflection in the Core Arc. We can tether your caravan with shade channels, but they must be strictly regulated.",
+    "context": "Dialogues from the field"
+  },
+  {
+    "entity": "Dialogue snippet 2",
+    "attribute": "question",
+    "value": "Shade channels? Are we to steal the sun from the city that keeps us alive?",
+    "context": "Dialogues from the field"
+  },
+  {
+    "entity": "Dialogue snippet 3",
+    "attribute": "message",
+    "value": "We carry not just memory but also the ethics of how to move memory\u2014how to build new memory in a new place without erasing the old one.",
+    "context": "Dialogues from the field"
+  },
+  {
+    "entity": "Dialogue snippet 3",
+    "attribute": "message",
+    "value": "a city is a library of light, and a migration is its new shelf.",
+    "context": "Dialogues from the field"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "dependency",
+    "value": "stable light cycle",
+    "context": "Core city concept"
+  },
+  {
+    "entity": "Memory shards",
+    "attribute": "behavior under drought",
+    "value": "fracture or drift; misremembered names; weather patterns misalign",
+    "context": "Core city concept"
+  },
+  {
+    "entity": "Memory shards",
+    "attribute": "handling",
+    "value": "must be carried or risk vanishing from prism disarray",
+    "context": "Core city concept"
+  },
+  {
+    "entity": "Weather algorithms",
+    "attribute": "status under drought",
+    "value": "falter; micro-fluxes; misreads; misallocations",
+    "context": "Core city concept"
+  },
+  {
+    "entity": "Daylight economy",
+    "attribute": "reliance",
+    "value": "depends on stable flows of daylight tokens and prism preservation",
+    "context": "Core city concept"
+  },
+  {
+    "entity": "West Gate Refugee Caravan",
+    "attribute": "composition",
+    "value": "thirty-two households",
+    "context": "Case A"
+  },
+  {
+    "entity": "West Gate Refugee Caravan",
+    "attribute": "gate",
+    "value": "Gate 2",
+    "context": "Case A"
+  },
+  {
+    "entity": "Gate 2",
+    "attribute": "decision",
+    "value": "refused immediate passage due to overburdened memory cache",
+    "context": "Case A"
+  },
+  {
+    "entity": "West Gate Refugee Caravan",
+    "attribute": "outcome",
+    "value": "two-hour staged opening; ten families moved; rest waited at Lantern Row; memory-chorus drained daylight reserve; relief chorus observed",
+    "context": "Case A"
+  },
+  {
+    "entity": "Memory-chorus",
+    "attribute": "effect",
+    "value": "stabilizes prisms temporarily but drains daylight reserve",
+    "context": "Case A"
+  },
+  {
+    "entity": "Case B",
+    "attribute": "description",
+    "value": "Tidereach Market Surge; drought pushes movement toward Scriptorium District",
+    "context": "Case B"
+  },
+  {
+    "entity": "Case B",
+    "attribute": "negotiation",
+    "value": "guilds and shade weavers coordinate passage rites and temporary shelter to avoid memory bottlenecks",
+    "context": "Case B"
+  },
+  {
+    "entity": "Case C",
+    "attribute": "description",
+    "value": "Scriptorium Archive Incident; shard refuses to be carried; daylight leaks from prism chamber doorway",
+    "context": "Case C"
+  },
+  {
+    "entity": "Case C",
+    "attribute": "resolution",
+    "value": "anchor shard within temporary shelter near Gate 8; stabilizes shard; provides memory anchor for caravan",
+    "context": "Case C"
+  },
+  {
+    "entity": "Soundscape",
+    "attribute": "description",
+    "value": "chorus of chimes, turbines, distant surf; city like cathedral of glass",
+    "context": "Sensory cross-section"
+  },
+  {
+    "entity": "Scent",
+    "attribute": "description",
+    "value": "ozone, citrus, salt from harbor, resin, lamp oil",
+    "context": "Sensory cross-section"
+  },
+  {
+    "entity": "Texture",
+    "attribute": "description",
+    "value": "cool glass and polished marble; reflections reveal memory; memory visitor sees self in a double that stutters",
+    "context": "Sensory cross-section"
+  },
+  {
+    "entity": "Risk",
+    "attribute": "prism integrity",
+    "value": "risks rise with mass relocation",
+    "context": "Analytical assessment"
+  },
+  {
+    "entity": "Risk",
+    "attribute": "memory fragmentation",
+    "value": "increases as memory shards move across districts with different daylight microcycles",
+    "context": "Analytical assessment"
+  },
+  {
+    "entity": "Risk",
+    "attribute": "weather misalignment",
+    "value": "grows as daylight becomes less predictable",
+    "context": "Analytical assessment"
+  },
+  {
+    "entity": "Resilience",
+    "attribute": "source",
+    "value": "gatekeepers and guilds; temporary settlements",
+    "context": "Analytical assessment"
+  },
+  {
+    "entity": "Policy levers",
+    "attribute": "tools",
+    "value": "extend/shorten gate opening windows; Residency charters; memory safeguards; patch kits; rapid gateway reconcilers",
+    "context": "Analytical assessment"
+  },
+  {
+    "entity": "Gleamspire\u2019s prognosis",
+    "attribute": "orientation",
+    "value": "migration reframed as design challenge; maintain prism stability while enabling memory, weather, and wealth flows",
+    "context": "Conclusion / Prognosis"
+  },
+  {
+    "entity": "Gate 12",
+    "attribute": "note",
+    "value": "voices near Gate 12 observe doors closing longer; memory-chorus and shard of light carried; gates permit time to bend toward new daylight distribution",
+    "context": "Closing field notes"
+  },
+  {
+    "entity": "Memory-architect",
+    "attribute": "closing thought",
+    "value": "The Prism Regime is a city\u2019s spine; daylight thins; joints\u2014gates, guilds, policies\u2014hold; migration guided by gatekeepers and guilds under clear policy",
+    "context": "Closing field notes"
+  },
+  {
+    "entity": "Prism Regime",
+    "attribute": "importance",
+    "value": "city\u2019s spine; daylight management governs memory, weather, and wealth",
+    "context": "Appendix / Closing notes"
+  },
+  {
+    "entity": "Memory-Archivists Guild",
+    "attribute": "role",
+    "value": "provides housings and care for memory-keys; guides through transit gates into new wards",
+    "context": "Appendix"
+  },
+  {
+    "entity": "Guild of Weavers of Shade",
+    "attribute": "role",
+    "value": "creates shadow paths to let caravans pass with minimal daylight exposure; shading and guidance along prism edges",
+    "context": "Appendix"
+  }
+]

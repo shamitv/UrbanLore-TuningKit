@@ -1,0 +1,230 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "a city of radiant glass towers that soak daylight and store it as living prisms, powering a civilization where memory, weather, and wealth are condensed into light",
+    "context": "Overview of Gleamspire (Intro)"
+  },
+  {
+    "entity": "unbound light",
+    "attribute": "phenomenon",
+    "value": "spills beyond the city\u2019s careful boundaries, threading the world with new possibilities and perils",
+    "context": "Introduction"
+  },
+  {
+    "entity": "prisms",
+    "attribute": "economic unit",
+    "value": "store daylight as living archives and a currency that can be stored, traded, or spent to sway public mood",
+    "context": "I"
+  },
+  {
+    "entity": "daylight",
+    "attribute": "economic commodity",
+    "value": "used as memory currency that can be stored, traded, or spent",
+    "context": "I"
+  },
+  {
+    "entity": "drought of daylight",
+    "attribute": "threat",
+    "value": "a drought that reduces the prisms\u2019 ability to drink daylight, threatening the memory economy and governance",
+    "context": "III"
+  },
+  {
+    "entity": "North Basin",
+    "attribute": "location",
+    "value": "coastline and wrecked hulls where glow fungi and other glow-adapted life thrive",
+    "context": "I"
+  },
+  {
+    "entity": "glow fungi",
+    "attribute": "ecology",
+    "value": "grow on wrecked ships; convert stray photons into a micro-ecosystem; glow brighter with human attention",
+    "context": "I"
+  },
+  {
+    "entity": "glow fungi",
+    "attribute": "appearance",
+    "value": "bioluminescent capillaries along the hull rendering old vessels as living beacons",
+    "context": "I"
+  },
+  {
+    "entity": "Maru",
+    "attribute": "role",
+    "value": "dockhand who notes that ships are growing lungs and fungus is the breath",
+    "context": "I"
+  },
+  {
+    "entity": "glow moss",
+    "attribute": "ecology",
+    "value": "glow along breakwaters and hulls; navigational; glows brighter where nocturnal animals pass; provides a living map",
+    "context": "I"
+  },
+  {
+    "entity": "sunset-lamb\u2019s-ear",
+    "attribute": "plant",
+    "value": "thrives on uncontrolled radiance; stores prism memory as heat and releases edible glow",
+    "context": "I"
+  },
+  {
+    "entity": "unbound biosphere",
+    "attribute": "concept",
+    "value": "an emergent hybrid ecosystem defined by light\u2019s wanderings, comprising glow fungi, glow moss, and glow-plants",
+    "context": "I"
+  },
+  {
+    "entity": "glow fungi",
+    "attribute": "interaction with people",
+    "value": "more cling to a scene, glow brighter; reciprocal with human attention",
+    "context": "I"
+  },
+  {
+    "entity": "glow moss",
+    "attribute": "interaction with city",
+    "value": "luminescence shifts with nocturnal animals and prismatic energy, forming a living audit trail",
+    "context": "II"
+  },
+  {
+    "entity": "glow-plants",
+    "attribute": "memory/energy",
+    "value": "store memory in chloroplasts, glow with daytime charge, and release energy as needed; serve as a renewable energy reserve",
+    "context": "II"
+  },
+  {
+    "entity": "memory board",
+    "attribute": "institution",
+    "value": "an interwoven council of Archivists, Prismkeepers, and Market Wardens governing the memory economy",
+    "context": "II"
+  },
+  {
+    "entity": "Archivists",
+    "attribute": "role",
+    "value": "memory archivists who preserve and interpret memory",
+    "context": "II"
+  },
+  {
+    "entity": "Prismkeepers",
+    "attribute": "role",
+    "value": "managers of prisms and participants in governance of daylight and memory",
+    "context": "II"
+  },
+  {
+    "entity": "Market Wardens",
+    "attribute": "role",
+    "value": "reg regulators of the light market and daylight allocation",
+    "context": "II"
+  },
+  {
+    "entity": "memory tokens",
+    "attribute": "currency",
+    "value": "tokens used to illuminate court hearings or brighten a witness\u2019s recollection",
+    "context": "II"
+  },
+  {
+    "entity": "North Docks Chronicle",
+    "attribute": "document",
+    "value": "Document A; notes glow as loaned by the ocean\u2019s breath and light as new memory",
+    "context": "IV"
+  },
+  {
+    "entity": "Dimming Ledger",
+    "attribute": "document",
+    "value": "Document B; prisms sold: 1,000-liters; dimming cost per unit: 12.5 memory credits; unbound radiance tax: 3.2%; moss-route clearance fee waived",
+    "context": "IV"
+  },
+  {
+    "entity": "Field Journal of Archivist L. Thorne",
+    "attribute": "document",
+    "value": "Document C; glow-thresholds become language and law when light recedes",
+    "context": "IV"
+  },
+  {
+    "entity": "Shipment Manifest, North Terrace Exchange",
+    "attribute": "document",
+    "value": "Document D; traded in quiet glows tonight, paid with a story; 'When the story leaves the page, the light goes'",
+    "context": "IV"
+  },
+  {
+    "entity": "Aria Voss",
+    "attribute": "person",
+    "value": "Prism Keeper; describes the moss\u2019s glow as testimony and reads moral weather",
+    "context": "V"
+  },
+  {
+    "entity": "Lumenwrights",
+    "attribute": "faction",
+    "value": "argue unbound radiance threatens memory sovereignty and push for quarantines around critical memory nodes",
+    "context": "VII"
+  },
+  {
+    "entity": "Memory Concord",
+    "attribute": "institution",
+    "value": "agreement among Archivists, Prismkeepers, and Guilds of Light Market Traders regulating daylight during drought",
+    "context": "VII"
+  },
+  {
+    "entity": "Moss-Path",
+    "attribute": "infrastructure",
+    "value": "glowing path used as nocturnal transit for creatures and locals",
+    "context": "VIII"
+  },
+  {
+    "entity": "glimmer-cat",
+    "attribute": "species",
+    "value": "nocturnal creature trained by moss-guides; part of Gleamspire\u2019s new fauna",
+    "context": "VIII"
+  },
+  {
+    "entity": "Besa",
+    "attribute": "person",
+    "value": "elderly memory keeper and former lighthouse operator; speaks about drought and memory rituals",
+    "context": "VIII"
+  },
+  {
+    "entity": "Iara",
+    "attribute": "person",
+    "value": "sailor who says fungi carry the night and map memory",
+    "context": "VIII"
+  },
+  {
+    "entity": "wind turbine",
+    "attribute": "equipment",
+    "value": "wind turbine that participates in memory-sharing rituals by casting light outward",
+    "context": "VIII"
+  },
+  {
+    "entity": "memory token value",
+    "attribute": "relation to daylight",
+    "value": "inversely proportional to visible light",
+    "context": "IV"
+  },
+  {
+    "entity": "memory vault",
+    "attribute": "institution",
+    "value": "central prism-temple storing the largest memories; at risk as unbound light destabilizes control",
+    "context": "VI"
+  },
+  {
+    "entity": "bioluminescent rain",
+    "attribute": "phenomenon",
+    "value": "rain produced by glow fungi; touching it releases a memory spark",
+    "context": "III"
+  },
+  {
+    "entity": "renewable energy reserve",
+    "attribute": "concept",
+    "value": "plants convert radiant photons to chemical energy and release it during drought to illuminate communities",
+    "context": "VI"
+  },
+  {
+    "entity": "Moss-Archive",
+    "attribute": "term",
+    "value": "a term for moss glow as the city\u2019s most honest witness",
+    "context": "VI"
+  },
+  {
+    "entity": "unbound light",
+    "attribute": "cultural effect",
+    "value": "redefines memory as a shared living thing and expands hospitality",
+    "context": "Final synthesis"
+  }
+]

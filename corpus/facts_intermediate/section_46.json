@@ -1,0 +1,332 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "designation",
+    "value": "City of Radiant Glass",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "location/relationship",
+    "value": "sits at the seam between daylight and memory",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "world concept",
+    "value": "memory, weather, and wealth condensed into light",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "daylight management",
+    "value": "daylight harvested, compressed, and stored within the inner cores of the tallest prisms",
+    "context": "Overview"
+  },
+  {
+    "entity": "Memory",
+    "attribute": "currency",
+    "value": "memory is a stock on the market floor of the Archivists\u2019 Hall",
+    "context": "Overview"
+  },
+  {
+    "entity": "Weather",
+    "attribute": "municipal capability",
+    "value": "ability to tilt, dim, or brighten a district\u2019s daylight to suit policy or punishment",
+    "context": "Overview"
+  },
+  {
+    "entity": "The Weft",
+    "attribute": "definition",
+    "value": "the city\u2019s power elite",
+    "context": "Hierarchy, power"
+  },
+  {
+    "entity": "Sunward Directorate of Prismery",
+    "attribute": "abbreviation",
+    "value": "SPD",
+    "context": "Weft components"
+  },
+  {
+    "entity": "SPD",
+    "attribute": "role",
+    "value": "technocrats who run day-to-day harvesting, storage, and release of daylight",
+    "context": "Weft components"
+  },
+  {
+    "entity": "Archivist Guild",
+    "attribute": "role",
+    "value": "guardians of memory archive; keepers of memory artifacts; veto power on policy",
+    "context": "Weft components"
+  },
+  {
+    "entity": "Engineers\u2019 Syndicate",
+    "attribute": "role",
+    "value": "builders and maintainers of prisms, pipes, conduits; recalibrate weather",
+    "context": "Weft components"
+  },
+  {
+    "entity": "Neighborhood Assemblies",
+    "attribute": "role",
+    "value": "localized democratic bodies; authorize temporary rationing; demand transparency",
+    "context": "Weft components"
+  },
+  {
+    "entity": "Free Light Faction",
+    "attribute": "role",
+    "value": "dissidents advocating for release of light without governor\u2019s consent; push for public forgetting of archives",
+    "context": "Weft components"
+  },
+  {
+    "entity": "drought of daylight",
+    "attribute": "cause",
+    "value": "cosmic misalignment and atmospheric quirks; blue dusk",
+    "context": "Event"
+  },
+  {
+    "entity": "Blue dusk",
+    "attribute": "description",
+    "value": "an hourlong hush at midafternoon",
+    "context": "Crisis description"
+  },
+  {
+    "entity": "daylight reservoir",
+    "attribute": "status",
+    "value": "living archive; thinning",
+    "context": "Crisis description"
+  },
+  {
+    "entity": "memory economy",
+    "attribute": "state",
+    "value": "fracturing; memory storage and access uneven",
+    "context": "Crisis description"
+  },
+  {
+    "entity": "Council Hall",
+    "attribute": "central question",
+    "value": "sovereignty over shared memory and daylight allocation",
+    "context": "Policy debates"
+  },
+  {
+    "entity": "Rationing",
+    "attribute": "basis",
+    "value": "memory is a public good; triage to preserve social cohesion",
+    "context": "Policy debate"
+  },
+  {
+    "entity": "Rationing",
+    "attribute": "mechanism",
+    "value": "tiered, neighborhood-based quota system",
+    "context": "Policy debate"
+  },
+  {
+    "entity": "Rationing",
+    "attribute": "priority",
+    "value": "high-priority sectors: hospitals, schools, courts",
+    "context": "Policy debate"
+  },
+  {
+    "entity": "Rationing",
+    "attribute": "terminology",
+    "value": "\"memory equity\"; \"temporal rationing for social cohesion\"",
+    "context": "Policy debate"
+  },
+  {
+    "entity": "Liberation",
+    "attribute": "basis",
+    "value": "unleash prisms and democratize memory",
+    "context": "Policy debate"
+  },
+  {
+    "entity": "Liberation",
+    "attribute": "practical effect",
+    "value": "more chaotic and improvisational daylight use; potential social destabilization",
+    "context": "Policy debate"
+  },
+  {
+    "entity": "Public decree",
+    "attribute": "issued by",
+    "value": "SPD",
+    "context": "Emergency ordinance"
+  },
+  {
+    "entity": "Public decree",
+    "attribute": "allocation rule",
+    "value": "daylight allocated by ration to secure continuity of law, memory, and water; districts with high violence or memory-loss receive priority; allocations published daily; monitored by Archivist\u2019s Guild",
+    "context": "Emergency ordinance"
+  },
+  {
+    "entity": "Memory Ledger",
+    "attribute": "entry details",
+    "value": "Entry 2049, Volume Day 47, Facet 32; Memory cleared: 2 hours 12 minutes; context: city negotiations; duration: 6 minutes; note: core memories blur; public hours remain intact",
+    "context": "Archivist ledger excerpt"
+  },
+  {
+    "entity": "Archivist Elder Miora",
+    "attribute": "role",
+    "value": "spoke for hours about risks of uncurated daylight; warned memory can mutate",
+    "context": "Key figures"
+  },
+  {
+    "entity": "Engineer Calder",
+    "attribute": "role",
+    "value": "recalibrates prism lattices; pragmatic; supports adaptable policy",
+    "context": "Key figures"
+  },
+  {
+    "entity": "Councilor Vespera",
+    "attribute": "role",
+    "value": "consensus-builder; mediator; seeks compromise",
+    "context": "Key figures"
+  },
+  {
+    "entity": "Lark",
+    "attribute": "role",
+    "value": "Free Light Spokesperson; advocates open daylight; democratic memory",
+    "context": "Key figures"
+  },
+  {
+    "entity": "Neighborhood Assemblies\u2019 Memory Wardens",
+    "attribute": "role",
+    "value": "volunteers tracking memory storage; early warning system",
+    "context": "Key figures"
+  },
+  {
+    "entity": "Memory Ripple Protocol",
+    "attribute": "definition",
+    "value": "compromise balancing essential memory with local autonomy",
+    "context": "Emergent policies"
+  },
+  {
+    "entity": "Tiered daylight quotas",
+    "attribute": "component",
+    "value": "baseline for essential memory; Hospitals, schools, legal authorities, critical infrastructure",
+    "context": "Emergent policies"
+  },
+  {
+    "entity": "Local daylight micro-labs",
+    "attribute": "component",
+    "value": "district-defined occasions; cultural festivals; local commemoration; emergency relief; regulated freedom",
+    "context": "Emergent policies"
+  },
+  {
+    "entity": "Governance charter for memory integrity",
+    "attribute": "component",
+    "value": "Archivist Guild audits ledger; Memory Auditor appointed if distortion",
+    "context": "Emergent policies"
+  },
+  {
+    "entity": "Weather-conditional calibrations",
+    "attribute": "component",
+    "value": "Engineers\u2019 Syndicate adjusts prism configurations per forecasts, drought progression, district needs",
+    "context": "Emergent policies"
+  },
+  {
+    "entity": "Public transparency and education",
+    "attribute": "component",
+    "value": "education campaign on quotas; safeguarding memories; responsible participation",
+    "context": "Emergent policies"
+  },
+  {
+    "entity": "Safety net",
+    "attribute": "component",
+    "value": "temporary relief by reallocating small daylight reserve to districts with least resilience",
+    "context": "Emergent policies"
+  },
+  {
+    "entity": "Night Market",
+    "attribute": "scene",
+    "value": "glass jars preserved daylight; jars reflect market\u2019s faces; vendor quotes about recall",
+    "context": "Sensory vignettes"
+  },
+  {
+    "entity": "North Spire",
+    "attribute": "scene",
+    "value": "shadow hours; twilight classroom; memory in jars; color in air",
+    "context": "Sensory vignettes"
+  },
+  {
+    "entity": "Harbor Lighthouse",
+    "attribute": "scene",
+    "value": "keeper guides ships with lanterns; memory of coastline glows",
+    "context": "Sensory vignettes"
+  },
+  {
+    "entity": "Resin Alley",
+    "attribute": "scene",
+    "value": "scent of resin; elder craftsman: saving memory is city\u2019s lifeblood",
+    "context": "Sensory vignettes"
+  },
+  {
+    "entity": "Prism Market",
+    "attribute": "scene",
+    "value": "Free Light faction; memory democracy; calls for controlled releases",
+    "context": "Sensory vignettes"
+  },
+  {
+    "entity": "Archivists\u2019 Hall",
+    "attribute": "scene",
+    "value": "Archivist releases small fraction of daylight to memory ward for peace commemoration; child\u2019s drawing glimmers",
+    "context": "Sensory vignettes"
+  },
+  {
+    "entity": "Prismcore",
+    "attribute": "definition",
+    "value": "central, living heart of Gleamspire\u2019s daylight array",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Memory Ledger (glossary)",
+    "attribute": "definition",
+    "value": "compiled archive of laws, stories, significant events; shared memory",
+    "context": "Glossary"
+  },
+  {
+    "entity": "The Weft (glossary)",
+    "attribute": "definition",
+    "value": "power structure including SPD, Archivist Guild, Engineers\u2019 Syndicate, neighborhood assemblies, Free Light",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Memory Ripple Protocol (glossary)",
+    "attribute": "definition",
+    "value": "policy balancing essential memory with local community autonomy",
+    "context": "Glossary"
+  },
+  {
+    "entity": "District glow maps",
+    "attribute": "definition",
+    "value": "maps showing current daylight allocation across districts",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Shadow hours",
+    "attribute": "term",
+    "value": "hours when prisms are dimmed to protect memory, health, and infrastructure",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Memory equity",
+    "attribute": "term",
+    "value": "principle of fair distribution of daylight and memory preservation",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Release moments",
+    "attribute": "term",
+    "value": "scheduled times when daylight is unleashed for community events or to preserve a memory",
+    "context": "Glossary"
+  },
+  {
+    "entity": "Doubt Market",
+    "attribute": "scene",
+    "value": "market where people bid for extra hours of daylight; memory sold at a premium; those without funds rely on memory",
+    "context": "Vignette"
+  },
+  {
+    "entity": "Memory-net (Harbor)",
+    "attribute": "scene",
+    "value": "memory net frays; memory of past weather patterns; weather control as navigational aid",
+    "context": "Vignette"
+  }
+]

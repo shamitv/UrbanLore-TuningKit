@@ -1,0 +1,302 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "location",
+    "value": "on a coastline",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "skyline_description",
+    "value": "a forest of glass trunks reaching toward a sky stitched with LEDs and sun",
+    "context": "City description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "tower_function",
+    "value": "each tower is a prism tuned to store daylight as living memory, weather as a currency, and wealth as a whisper of glow",
+    "context": "Descriptive detail about towers"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "city_rhythm",
+    "value": "pulse of chimes and turbines",
+    "context": "Sensory city description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "scent_profile",
+    "value": "hot resin warped into a citrus tang by ozone",
+    "context": "Environmental description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "pavement_sound",
+    "value": "footsteps ring on marble and glass",
+    "context": "When walking avenues"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "migration_impact",
+    "value": "braided into something more than a city of light; memory stitched by strangers and locals",
+    "context": "Migration description"
+  },
+  {
+    "entity": "Immigrants",
+    "attribute": "role",
+    "value": "bearing faiths like wrapped parcels; rituals as compass for belonging",
+    "context": "Migration description"
+  },
+  {
+    "entity": "Natives",
+    "attribute": "role",
+    "value": "carry new stories; recipes altered; rites adapted; familiarity with architecture as memory",
+    "context": "Migration description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "diaspora_structure",
+    "value": "a lattice where each thread preserves its color while becoming part of a shimmering design",
+    "context": "Migration description"
+  },
+  {
+    "entity": "Quartz-Kin",
+    "attribute": "origin",
+    "value": "native to the high corridors where daylight is harvested in gleaming shards",
+    "context": "Diaspora groups"
+  },
+  {
+    "entity": "Shore-Drift",
+    "attribute": "origin",
+    "value": "a seafaring diaspora whose rites travel with the tide and are tempered by salt and resin",
+    "context": "Diaspora groups"
+  },
+  {
+    "entity": "Inland traders",
+    "attribute": "origin",
+    "value": "caravans traded not only goods but beliefs",
+    "context": "Diaspora groups"
+  },
+  {
+    "entity": "Bright-Forged",
+    "attribute": "origin",
+    "value": "a community born in the city\u2019s early days when the glass fields were first seeded; their liturgy maps the city\u2019s growth",
+    "context": "Diaspora groups"
+  },
+  {
+    "entity": "Tideglass Promenade",
+    "attribute": "function",
+    "value": "a corridor of stacked prisms; memory collected from immigrant grandmother\u2019s hymn, native sailor\u2019s chant, trader\u2019s oath, child\u2019s lullaby",
+    "context": "Dawn processional description"
+  },
+  {
+    "entity": "Daybreach Parade",
+    "attribute": "opening_rite",
+    "value": "oath of the Memory-Keepers",
+    "context": "Annual festival"
+  },
+  {
+    "entity": "Memory-Keepers",
+    "attribute": "vow",
+    "value": "to shield passing recollections from decay and pass memory to a successor; to consign memory to the right prism and resin-cambered altars",
+    "context": "Daybreach Parade ritual"
+  },
+  {
+    "entity": "Memory-stone",
+    "attribute": "composition",
+    "value": "crafted from mixed quartz fragments and resin",
+    "context": "Vow ritual object"
+  },
+  {
+    "entity": "Memory-altar",
+    "attribute": "design",
+    "value": "low circular ring against a wall of glass; central orb of tempered quartz etched with a family line; lit from within; filament of resin lattice",
+    "context": "Ritual altar description"
+  },
+  {
+    "entity": "Oceanic Gate",
+    "attribute": "location",
+    "value": "a colossal arch of glass that opens to the sea",
+    "context": "Confluence of Luminarias ceremony"
+  },
+  {
+    "entity": "Confluence of Luminarias",
+    "attribute": "type",
+    "value": "cross-cultural ceremony fusing quartz, resin, and sea-wind motifs",
+    "context": "Longest day / shortest night ceremony"
+  },
+  {
+    "entity": "Daylight Return Festival",
+    "attribute": "ritual_features",
+    "value": "dawn vigil at the Glass Cathedral; declarations recorded in The Ledger of Light; tokens offered to a communal altar",
+    "context": "Festival description"
+  },
+  {
+    "entity": "The Ledger of Light",
+    "attribute": "function",
+    "value": "living document that records memories and is projected across the cathedral\u2019s interior",
+    "context": "Festival description"
+  },
+  {
+    "entity": "Great Prism",
+    "attribute": "function",
+    "value": "central beacon that channels daylight into the city\u2019s grid",
+    "context": "Processional description"
+  },
+  {
+    "entity": "tokens",
+    "attribute": "composition",
+    "value": "crystal fragments, resin cords, small boats carved from driftwood set with quartz",
+    "context": "Communal altar offering"
+  },
+  {
+    "entity": "cross-cultural ceremonies",
+    "attribute": "purpose",
+    "value": "fuse quartz, resin, and sea-wind motifs into a universal language of light",
+    "context": "Ritual space description"
+  },
+  {
+    "entity": "Sea-wind",
+    "attribute": "role",
+    "value": "city\u2019s breath; carries voices across communities",
+    "context": "Ritual description"
+  },
+  {
+    "entity": "resin",
+    "attribute": "scent_profile",
+    "value": "warm, slightly sweet; tang of resin chemistry; binds light\u2019s memory to people",
+    "context": "Ritual space description"
+  },
+  {
+    "entity": "quartz",
+    "attribute": "memory_property",
+    "value": "a literal memory; touching a quartz pane touches someone\u2019s past",
+    "context": "Ritual description"
+  },
+  {
+    "entity": "memory-keepers' circles",
+    "attribute": "type",
+    "value": "open salons of memory; meet in glass-art rooms and resin lamps",
+    "context": "Intimate ritual space"
+  },
+  {
+    "entity": "native Quartz-Kin",
+    "attribute": "ritual",
+    "value": "primal ritual acknowledging sky\u2019s authority over weather; prism percussed with a small hammer to awaken memory",
+    "context": "Native ritual discussion"
+  },
+  {
+    "entity": "immigrant groups",
+    "attribute": "ritual",
+    "value": "vow to guard an ancestral voice; ends with chorus in arcane tongues translated into a shared symbolic language",
+    "context": "Immigrant ritual discussion"
+  },
+  {
+    "entity": "city soundscape",
+    "attribute": "components",
+    "value": "chimes of weather towers, distant surf; turbines; gusts of sea wind",
+    "context": "Auditory environment"
+  },
+  {
+    "entity": "scentscape",
+    "attribute": "composition",
+    "value": "hot resin, sea spray, lamp oil",
+    "context": "Olfactory environment"
+  },
+  {
+    "entity": "Council of Light",
+    "attribute": "function",
+    "value": "quasi-government body to manage the city\u2019s memory economy",
+    "context": "Archival fragment"
+  },
+  {
+    "entity": "Great Drought of Daylight",
+    "attribute": "crisis",
+    "value": "emergent; daylight stored and reused; memory rituals intensified; daylight supply dwindles",
+    "context": "Crisis event"
+  },
+  {
+    "entity": "memory_market",
+    "attribute": "phenomenon",
+    "value": "immigrant neighborhood hosts a memory market trading stories, songs, recipes, and memory recall rights",
+    "context": "Drought response"
+  },
+  {
+    "entity": "portable_memory_altar",
+    "attribute": "design",
+    "value": "small, foldable memory altar that can be moved to glass corridors for shelter",
+    "context": "Drought adaptation"
+  },
+  {
+    "entity": "inscription_on Shrine Rim",
+    "attribute": "text",
+    "value": "If the day will not come to us, we will carry the day in our hands",
+    "context": "Drought shrine"
+  },
+  {
+    "entity": "memory_economy",
+    "attribute": "currency",
+    "value": "longevity; memory breathes within prisms; contributes to the city\u2019s breath",
+    "context": "Economic description"
+  },
+  {
+    "entity": "native Quartz-Kin",
+    "attribute": "concern",
+    "value": "porous ritual language risks loss of rites to exportable liturgy of light",
+    "context": "Tension description"
+  },
+  {
+    "entity": "migrant communities",
+    "attribute": "concern",
+    "value": "memory economy may become a competition for who can sing the loudest for the sun\u2019s attention",
+    "context": "Tension description"
+  },
+  {
+    "entity": "neighborhood ritual sprints",
+    "attribute": "governance_action",
+    "value": "rotating series of neighborhood ceremonies allowing communities to present memory-keepers\u2019 vows in their own terms",
+    "context": "Governance response"
+  },
+  {
+    "entity": "memory rituals",
+    "attribute": "evolution",
+    "value": "shift from private shelter to public weather-narratives; vows become public resilience language",
+    "context": "Crisis evolution"
+  },
+  {
+    "entity": "confluence ceremonies",
+    "attribute": "symbols",
+    "value": "glass, resin, and sea-wind motifs; language of light",
+    "context": "Ceremonial evolution"
+  },
+  {
+    "entity": "High Concept Pitch",
+    "attribute": "definition",
+    "value": "an ongoing act of translation; a stranger and a native priest exchange a look as light refracts through a prism",
+    "context": "Destiny description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "core_belief",
+    "value": "daylight can be kept alive by the people who refuse to let memory fade",
+    "context": "Philosophical conclusion"
+  },
+  {
+    "entity": "Ledger_of_Light",
+    "attribute": "closing_document",
+    "value": "fragment from The Ledger of Light included as endnote",
+    "context": "Endnote description"
+  },
+  {
+    "entity": "sun",
+    "attribute": "visual_effect",
+    "value": "casts pale, ceremonial brightness across prism walls as it lifts",
+    "context": "Ending imagery"
+  },
+  {
+    "entity": "two_neighbors",
+    "attribute": "ritual",
+    "value": "native Quartz-Kin and immigrant from distant shore exchange a simple ritual: stand together, listen, remember, and light a shared future",
+    "context": "Ending moment"
+  }
+]

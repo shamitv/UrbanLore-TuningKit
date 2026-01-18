@@ -1,0 +1,278 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "city",
+    "context": "Geography & Environment entry"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "description",
+    "value": "a city of radiant glass towers that soak daylight and store it as living prisms; a latticework of brightness and memory",
+    "context": "Geography & Environment entry"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "economic principle",
+    "value": "daylight is a resource harvested into living prisms powering devices, infrastructure, and memories traded at market",
+    "context": "Geography & Environment entry"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "geography concept",
+    "value": "Territories of Light: sunward quarters, shade-defined quarters, edge zones, contested wilds beyond luminous reach",
+    "context": "Geography & Environment entry"
+  },
+  {
+    "entity": "Sunward Quarters",
+    "attribute": "function",
+    "value": "center of prism production, memory markets, and weather ministries; home to Prism Guild and Weather Custodians",
+    "context": "Sunward Quarter description"
+  },
+  {
+    "entity": "Lattice Hall",
+    "attribute": "function",
+    "value": "colossal transparent atrium used for calculation and dispatches on light, memory, and weather",
+    "context": "Sunward Quarter description"
+  },
+  {
+    "entity": "Memory Markets",
+    "attribute": "function",
+    "value": "civic bank where memory becomes currency and is transcribed and weighed",
+    "context": "Sunward Quarter description"
+  },
+  {
+    "entity": "Memory Ledger",
+    "attribute": "function",
+    "value": "ledger that lists memories as commodities; price based on emotional demand, duration, and sensory richness",
+    "context": "Memory economy description"
+  },
+  {
+    "entity": "Guild of Archivists",
+    "attribute": "role",
+    "value": "protect memory economy; guard against exploitation; oversee Memory Ledger",
+    "context": "Memory Ledger description"
+  },
+  {
+    "entity": "Prism Guild",
+    "attribute": "relationship",
+    "value": "ally of Weather Custodians; holds sunward core; regulates memory access",
+    "context": "Territorial power structure"
+  },
+  {
+    "entity": "Weather Custodians",
+    "attribute": "function",
+    "value": "modulate microclimates; coax rain; regulate weather as a public/private trust",
+    "context": "Sunward Quarter / Weather description"
+  },
+  {
+    "entity": "Edge Zones",
+    "attribute": "description",
+    "value": "patchwork of repurposed warehouses, shuttered laboratories, and gambling dens; contested memory lines",
+    "context": "Edge Zones description"
+  },
+  {
+    "entity": "Shade-Defined Quarters",
+    "attribute": "description",
+    "value": "where prisms influence wanes and memory is worn as a cloak; Disk Carvers operate here",
+    "context": "Shade-Defined Quarters description"
+  },
+  {
+    "entity": "Disk Carvers",
+    "attribute": "role",
+    "value": "artisans who cut memory-carved glass to trap fragments on memory disks",
+    "context": "Shade-Defined Quarters description"
+  },
+  {
+    "entity": "Reciprocity Houses",
+    "attribute": "function",
+    "value": "trade shadowlight for sunlight; two hours brighter light in exchange for a memory withheld from the market",
+    "context": "Shade-Defined Quarters description"
+  },
+  {
+    "entity": "The Rebel Movement",
+    "attribute": "identity",
+    "value": "frontier movement for freedom from light control and memory commodification; also known as Knock of the Quiet Sun",
+    "context": "The Rebel Movement overview"
+  },
+  {
+    "entity": "The House of Echoes",
+    "attribute": "function",
+    "value": "ramshackle memory library; amber-glow shelves; sanctuary for remembering freely",
+    "context": "Edge/Edge Zones description"
+  },
+  {
+    "entity": "Geography of Light and Shadow",
+    "attribute": "type",
+    "value": "map fragment",
+    "context": "Edge-Frontier Archive"
+  },
+  {
+    "entity": "Geography of Light and Shadow",
+    "attribute": "content",
+    "value": "Sunward belts: prism gates, energy banks, memory markets; Mid-tide corridors: street-level conduits, small workshops, shade clinics, memory lending houses; Night-float routes: docks run by starlight and rumor; Borderlands: contested wilds where light expires",
+    "context": "Map fragment content"
+  },
+  {
+    "entity": "Rebel Frontiers Charter",
+    "attribute": "date",
+    "value": "2148",
+    "context": "Document C excerpt"
+  },
+  {
+    "entity": "Rebel Frontiers Charter",
+    "attribute": "claim",
+    "value": "lands governed by consent of communities; creation of a Memory Commons; public daylight and weather data",
+    "context": "Document C excerpt"
+  },
+  {
+    "entity": "Frontiers Manifesto",
+    "attribute": "date",
+    "value": "2148",
+    "context": "Document D excerpt"
+  },
+  {
+    "entity": "Frontiers Manifesto",
+    "attribute": "claim",
+    "value": "memory cannot be bartered in private for private gain; momentum on shared light and shared memory",
+    "context": "Document D excerpt"
+  },
+  {
+    "entity": "Memorandum of Light Allocation",
+    "attribute": "date",
+    "value": "2142",
+    "context": "Document A"
+  },
+  {
+    "entity": "Memorandum of Light Allocation",
+    "attribute": "fact",
+    "value": "predicted 2.7% drop in prism throughput over the next solar cycle",
+    "context": "Document A"
+  },
+  {
+    "entity": "Memorandum of Light Allocation",
+    "attribute": "fact",
+    "value": "drought-driven increase in demand for high-emotional-weight memories",
+    "context": "Document A"
+  },
+  {
+    "entity": "Memorandum of Light Allocation",
+    "attribute": "policy",
+    "value": "protect vulnerable communities; ensure transparent pricing; publish daily brightness allowances",
+    "context": "Document A"
+  },
+  {
+    "entity": "Letter from the Archivist, House of Echoes",
+    "attribute": "theme",
+    "value": "ethics of recall; memory-rights; consent accompanying every trade",
+    "context": "Document B"
+  },
+  {
+    "entity": "Memory Commons",
+    "attribute": "concept",
+    "value": "public, communal approach to light and memory",
+    "context": "Document C excerpt / Frontiers context"
+  },
+  {
+    "entity": "Memory Ledger",
+    "attribute": "observation",
+    "value": "price surge for most recent childhood memories as drought persists",
+    "context": "Ledger observation"
+  },
+  {
+    "entity": "First Rain of the Season",
+    "attribute": "item",
+    "value": "memory shard",
+    "context": "Ledger entry"
+  },
+  {
+    "entity": "First Rain of the Season",
+    "attribute": "price",
+    "value": "moderate",
+    "context": "Ledger entry"
+  },
+  {
+    "entity": "First Rain of the Season",
+    "attribute": "weight",
+    "value": "2 memory units",
+    "context": "Ledger entry"
+  },
+  {
+    "entity": "Childhood Kitchen",
+    "attribute": "item",
+    "value": "memory shard",
+    "context": "Ledger entry"
+  },
+  {
+    "entity": "Childhood Kitchen",
+    "attribute": "price",
+    "value": "high",
+    "context": "Ledger entry"
+  },
+  {
+    "entity": "Childhood Kitchen",
+    "attribute": "weight",
+    "value": "5 memory units",
+    "context": "Ledger entry"
+  },
+  {
+    "entity": "Night of Memory Exchange",
+    "attribute": "item",
+    "value": "memory shard",
+    "context": "Ledger entry"
+  },
+  {
+    "entity": "Night of Memory Exchange",
+    "attribute": "price",
+    "value": "very high",
+    "context": "Ledger entry"
+  },
+  {
+    "entity": "Night of Memory Exchange",
+    "attribute": "notes",
+    "value": "memory shared; risk of memory fragmentation when light is scarce",
+    "context": "Ledger entry"
+  },
+  {
+    "entity": "Edge Dock",
+    "attribute": "function",
+    "value": "ships powered by captured daylight loaded with memory shipments; destined for central markets or frontier communities",
+    "context": "Sensory Vignettes / Edge Dock description"
+  },
+  {
+    "entity": "Memoranda: The Proclamation of the Lattice Council",
+    "attribute": "content",
+    "value": "daylight is a common good; memory is a living archive; fair access; preserve right to remembrance; regulate prisms to prevent waste; ensure resilience during drought",
+    "context": "In-world document excerpt"
+  },
+  {
+    "entity": "A City Council Debate",
+    "attribute": "participant",
+    "value": "Councilor Vire",
+    "context": "Dialogue excerpt"
+  },
+  {
+    "entity": "Weather Custodians",
+    "attribute": "note",
+    "value": "Dawn\u2019s breath thinning; anticipate a three-percent reduction in prism throughput by midday if cloud layer refuses to disperse",
+    "context": "Daily bulletin"
+  },
+  {
+    "entity": "Weather Custodians",
+    "attribute": "note",
+    "value": "Adjust the mid-day reflectors by three degrees; hold the seed-lanterns in reserve for the afternoon when the sea breeze shifts",
+    "context": "Daily bulletin"
+  },
+  {
+    "entity": "Geography & Environment",
+    "attribute": "endnote question",
+    "value": "What is the future of a city that stores daylight to power its memories?",
+    "context": "Endnote"
+  },
+  {
+    "entity": "Date stamp",
+    "attribute": "year",
+    "value": "2149",
+    "context": "End Documents"
+  }
+]

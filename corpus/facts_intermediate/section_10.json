@@ -1,0 +1,314 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "description",
+    "value": "not a city but a pulse a hour-hand made of glass and light",
+    "context": "Intro description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "aesthetic",
+    "value": "skyline wears a halo of pale blue glow with a soft hum in the air",
+    "context": "Intro description"
+  },
+  {
+    "entity": "Grid of Light",
+    "attribute": "function",
+    "value": "sprawling lattice that feeds stores and redirects daylight as living prisms",
+    "context": "Intro description"
+  },
+  {
+    "entity": "Grid of Light",
+    "attribute": "role",
+    "value": "backbone and conscience of Gleamspire",
+    "context": "Intro description"
+  },
+  {
+    "entity": "Prism Banks",
+    "attribute": "location",
+    "value": "Gleamspire's tallest spires",
+    "context": "Memory economy description"
+  },
+  {
+    "entity": "Prism Banks",
+    "attribute": "function",
+    "value": "memory vaults and pockets of wealth that store daylight",
+    "context": "Memory economy description"
+  },
+  {
+    "entity": "memory economy",
+    "attribute": "relationship_to_energy",
+    "value": "sits atop the energy economy",
+    "context": "Economic structure"
+  },
+  {
+    "entity": "memory economy",
+    "attribute": "capabilities",
+    "value": "prisms record and recall daylight and memories; memory can be replayed refracted or reframed",
+    "context": "Memory economy description"
+  },
+  {
+    "entity": "memory economy",
+    "attribute": "wealth_measure",
+    "value": "more daylight in a prism means more tenure or credit",
+    "context": "Wealth in memory economy"
+  },
+  {
+    "entity": "Power Rails",
+    "attribute": "function",
+    "value": "link microgrids to Distribution Nodes",
+    "context": "Grid architecture"
+  },
+  {
+    "entity": "Distribution Nodes",
+    "attribute": "description",
+    "value": "breathing organs modeled as reduction gears and lattice bones that steady the city pulse",
+    "context": "Grid architecture"
+  },
+  {
+    "entity": "microgrid",
+    "attribute": "characteristic",
+    "value": "present in every district; compact modular design",
+    "context": "Grid architecture"
+  },
+  {
+    "entity": "sun wards",
+    "attribute": "location",
+    "value": "rooftops",
+    "context": "Grid architecture"
+  },
+  {
+    "entity": "sun wards",
+    "attribute": "function",
+    "value": "sealed portable prisms that collect solar grains and funnel them into neighborhood prisms",
+    "context": "Grid architecture"
+  },
+  {
+    "entity": "transparent crystal dome",
+    "attribute": "location",
+    "value": "over Clearhaven microgrid",
+    "context": "Clearhaven"
+  },
+  {
+    "entity": "Clearhaven",
+    "attribute": "feature",
+    "value": "a dome cooler than outside air that slows daylight dissipation",
+    "context": "Clearhaven description"
+  },
+  {
+    "entity": "microgrid managers",
+    "attribute": "description",
+    "value": "engineers and archivists who speak in graphs and whispers",
+    "context": "Clearhaven description"
+  },
+  {
+    "entity": "microgrid managers",
+    "attribute": "responsibilities",
+    "value": "monitor daylight borrowed and returned; track load concentration; assess risk of memory or wage loss during darkness",
+    "context": "Clearhaven description"
+  },
+  {
+    "entity": "Bright Ledger",
+    "attribute": "alias_of",
+    "value": "Prism Allocation Protocol (PAP)",
+    "context": "Rationing"
+  },
+  {
+    "entity": "Prism Allocation Protocol",
+    "attribute": "purpose",
+    "value": "governs who how and why a memory can be brightened or dimmed",
+    "context": "Rationing"
+  },
+  {
+    "entity": "The Bright Ledger, 2126 Edition",
+    "attribute": "type",
+    "value": "Document (abridged excerpt)",
+    "context": "In-world document"
+  },
+  {
+    "entity": "The Bright Ledger, 2126 Edition",
+    "attribute": "purpose",
+    "value": "allocation protocol during light scarcity",
+    "context": "In-world document"
+  },
+  {
+    "entity": "The Bright Ledger",
+    "attribute": "tokens",
+    "value": "prism daylight tokens minted weekly; distributed by district priority",
+    "context": "In-world document"
+  },
+  {
+    "entity": "The Bright Ledger",
+    "attribute": "priority_groups",
+    "value": "hospitals, memory archives, schools, critical infrastructure",
+    "context": "In-world document"
+  },
+  {
+    "entity": "The Bright Ledger",
+    "attribute": "retention_requirement",
+    "value": "minimum memory retention rate of 72 hours in blackout",
+    "context": "In-world document"
+  },
+  {
+    "entity": "Drought Memorandum",
+    "attribute": "title",
+    "value": "\"Sun Stilled\"",
+    "context": "In-world document"
+  },
+  {
+    "entity": "Drought Memorandum",
+    "attribute": "rationale",
+    "value": "drought has altered temporal rhythm; layered buffering recommended",
+    "context": "In-world document"
+  },
+  {
+    "entity": "Drought Memorandum",
+    "attribute": "measures",
+    "value": "microgrid augmentation; prism re-channeling; micro-weather fidelity",
+    "context": "In-world document"
+  },
+  {
+    "entity": "Drought Memorandum",
+    "attribute": "measure1",
+    "value": "Increase Prism Banks in central towers",
+    "context": "Measures"
+  },
+  {
+    "entity": "Drought Memorandum",
+    "attribute": "measure2",
+    "value": "Extend Weather Windows by 12 minutes in the evenings",
+    "context": "Measures"
+  },
+  {
+    "entity": "Drought Memorandum",
+    "attribute": "measure3",
+    "value": "Voluntary Illumination Pause for nonessential enterprises before 8 pm",
+    "context": "Measures"
+  },
+  {
+    "entity": "Weather Stabilization Manual",
+    "attribute": "title",
+    "value": "\"Aloft in Glass\"",
+    "context": "In-world document"
+  },
+  {
+    "entity": "Weather Stabilization Manual",
+    "attribute": "core_concept",
+    "value": "weather control is a balanced art not a weapon; prisms seed microclimates and preserve memory",
+    "context": "In-world document"
+  },
+  {
+    "entity": "Weather Stabilization Manual",
+    "attribute": "systems",
+    "value": "cloud-lattice manipulators, dew harvesters, atmospheric reflectors",
+    "context": "In-world document"
+  },
+  {
+    "entity": "Weather Stabilization Manual",
+    "attribute": "restraint",
+    "value": "insists on restraint to avoid weather booms beyond governance capacity",
+    "context": "In-world document"
+  },
+  {
+    "entity": "Archivist Lysara",
+    "attribute": "role",
+    "value": "Archivist in the Prism Archives",
+    "context": "Dialogue excerpt"
+  },
+  {
+    "entity": "Lysara",
+    "attribute": "philosophy",
+    "value": "\"We store memory as echoes not as a single bright moment; a memory is a map\"",
+    "context": "Dialogue excerpt"
+  },
+  {
+    "entity": "Engineer Kestrel",
+    "attribute": "role",
+    "value": "Engineer at a Distribution Node",
+    "context": "Dialogue excerpt"
+  },
+  {
+    "entity": "Kestrel",
+    "attribute": "philosophy",
+    "value": "\"If the node misreads a pulse the entire corridor can dim; we calibrate with discipline\"",
+    "context": "Dialogue excerpt"
+  },
+  {
+    "entity": "Councilor Bram",
+    "attribute": "role",
+    "value": "Councilor addressing drought emergency",
+    "context": "Dialogue excerpt"
+  },
+  {
+    "entity": "Councilor Bram",
+    "attribute": "thesis",
+    "value": "\"We are safeguarding the memory of today so that the future remembers us\"",
+    "context": "Dialogue excerpt"
+  },
+  {
+    "entity": "Mother",
+    "attribute": "role",
+    "value": "Mother whispering to a child at dusk",
+    "context": "Dialogue excerpt"
+  },
+  {
+    "entity": "Mother",
+    "attribute": "message",
+    "value": "\"When the prisms brighten you hear a note a chime at the edge of sleep; Gleamspire is here to remember you\"",
+    "context": "Dialogue excerpt"
+  },
+  {
+    "entity": "Central Prism Dome",
+    "attribute": "scene",
+    "value": "glowed pale blue; a heartbeat of light",
+    "context": "Night vignette"
+  },
+  {
+    "entity": "Saarin",
+    "attribute": "role",
+    "value": "old archivist in the Central Prism Dome",
+    "context": "Night vignette"
+  },
+  {
+    "entity": "Mira",
+    "attribute": "role",
+    "value": "younger technician observing load in the southern quarter",
+    "context": "Night vignette"
+  },
+  {
+    "entity": "yesterday's light",
+    "attribute": "concept",
+    "value": "memory borrowed to shield tomorrow",
+    "context": "Night vignette"
+  },
+  {
+    "entity": "load path",
+    "attribute": "description",
+    "value": "a map of energy flow from district demand to future light",
+    "context": "Night vignette"
+  },
+  {
+    "entity": "Grand narrative",
+    "attribute": "theme",
+    "value": "the Grid of Light is a memory machine that preserves brightness, weather, and wealth",
+    "context": "Overall narrative"
+  },
+  {
+    "entity": "daily drought ritual",
+    "attribute": "components",
+    "value": "distribution node roll calls; vendors align to glow; schools leave windows open; prisms gather daylight patiently",
+    "context": "Daily ritual"
+  },
+  {
+    "entity": "architect",
+    "attribute": "greatest_achievement",
+    "value": "promise kept in the dark: we still know each other\u2019s names and memories and shine for one another without breaking balance",
+    "context": "Final note"
+  },
+  {
+    "entity": "prisms",
+    "attribute": "memory_capability",
+    "value": "remember every face every sentence every child\u2019s first giggle; remember sea breeze and new wind after drought",
+    "context": "Closing description"
+  }
+]

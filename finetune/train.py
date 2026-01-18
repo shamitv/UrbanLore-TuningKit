@@ -5,6 +5,7 @@ Fine-tunes a small HuggingFace model on the generated dataset
 """
 import os
 import json
+import re
 from pathlib import Path
 from typing import Optional
 from dotenv import load_dotenv
@@ -22,6 +23,24 @@ from trl import SFTTrainer
 import inspect
 
 load_dotenv()
+
+
+def model_name_to_dir_parts(model_name: str) -> list[str]:
+    """Convert a model name into safe directory parts."""
+    parts = re.split(r"[\\/]", model_name or "")
+    parts = [p for p in parts if p]
+    return [p.replace(":", "_").replace(" ", "_") for p in parts]
+
+
+def ensure_model_output_path(output_dir: str, base_model: str) -> Path:
+    """Append model name parts to output_dir if not already present."""
+    output_path = Path(output_dir)
+    parts = model_name_to_dir_parts(base_model)
+    if not parts:
+        return output_path
+    if len(parts) <= len(output_path.parts) and list(output_path.parts[-len(parts):]) == parts:
+        return output_path
+    return output_path.joinpath(*parts)
 
 
 def load_training_dataset(dataset_file: str):
@@ -134,7 +153,7 @@ def train_model(dataset_file: str = "dataset/train.jsonl",
     print(f"Trainable parameters: {trainable_params:,} / {total_params:,} ({100 * trainable_params / total_params:.2f}%)")
     
     # Create output directory
-    output_path = Path(output_dir)
+    output_path = ensure_model_output_path(output_dir, base_model)
     output_path.mkdir(parents=True, exist_ok=True)
     
     # Training arguments

@@ -1,0 +1,302 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "type",
+    "value": "city",
+    "context": "Setting of the text"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "daylight as currency",
+    "value": "Daylight is power and currency in Gleamspire",
+    "context": "City description"
+  },
+  {
+    "entity": "Roads of Kinship",
+    "attribute": "nature",
+    "value": "Living arteries braided between districts",
+    "context": "Description of roads"
+  },
+  {
+    "entity": "Lumen Belt",
+    "attribute": "definition",
+    "value": "Lattice of half-bridges and light-tunnels connecting Crest to Tide Gate, North-Font to Hollowcore, East Nacre to Sea Gate",
+    "context": "Inter-district connectivity"
+  },
+  {
+    "entity": "Lumen Belt",
+    "attribute": "connections",
+    "value": "Crest\u2013Tide Gate; North-Font\u2013Hollowcore; East Nacre\u2013Sea Gate",
+    "context": "Geographic links"
+  },
+  {
+    "entity": "Crest",
+    "attribute": "district relation",
+    "value": "Connected to Tide Gate by Lumen Belt",
+    "context": "Inter-district connectivity"
+  },
+  {
+    "entity": "Sea Gate",
+    "attribute": "description",
+    "value": "Harbor spray tastes of copper and lemon glass",
+    "context": "Harbor environment"
+  },
+  {
+    "entity": "The Quiet Ferry",
+    "attribute": "type",
+    "value": "caravan",
+    "context": "Name of a caravan mentioned in diaspora section"
+  },
+  {
+    "entity": "The Quiet Ferry",
+    "attribute": "cargo",
+    "value": "Season's memory lines and harvest",
+    "context": "Caravan function"
+  },
+  {
+    "entity": "Vellore family",
+    "attribute": "origin",
+    "value": "Seed traced to a fisherman\u2019s daughter from Tide Gate and a glasswright from Crest",
+    "context": "Genealogical note"
+  },
+  {
+    "entity": "Hestia Vellore",
+    "attribute": "role",
+    "value": "Matriarch and memory keeper",
+    "context": "Encounter at Crest boundary"
+  },
+  {
+    "entity": "Lira Vellore",
+    "attribute": "relation",
+    "value": "Granddaughter of Hestia Vellore",
+    "context": "Character relations"
+  },
+  {
+    "entity": "Memory lines",
+    "attribute": "function",
+    "value": "Carry memory, obligation, and light; travel across districts",
+    "context": "Core concept"
+  },
+  {
+    "entity": "Light Steward",
+    "attribute": "role",
+    "value": "Mediator of exchange; can sense prism hunger",
+    "context": "Inter-district exchanges"
+  },
+  {
+    "entity": "Weather lattice",
+    "attribute": "function",
+    "value": "Grid of weather memory predicting storms and droughts",
+    "context": "Memory line concept"
+  },
+  {
+    "entity": "Memory ledger",
+    "attribute": "location",
+    "value": "Arc of Sighs; kept by memory weavers",
+    "context": "Documented memory stock"
+  },
+  {
+    "entity": "Arc of Sighs",
+    "attribute": "description",
+    "value": "River of wind between towers; city breathes your name when listened to",
+    "context": "City landscape"
+  },
+  {
+    "entity": "Light code",
+    "attribute": "definition",
+    "value": "Rules for exchanging light for goods and memory protection; influences wealth distribution",
+    "context": "City governance"
+  },
+  {
+    "entity": "Hollowcore kinship line",
+    "attribute": "status",
+    "value": "Oldest, most braided among the lines",
+    "context": "Inter-district bonds"
+  },
+  {
+    "entity": "Crest",
+    "attribute": "exchange",
+    "value": "Part of weekly light swap with Hollowcore; exchange memory for resin and iron",
+    "context": "Inter-district ritual"
+  },
+  {
+    "entity": "North-Spine",
+    "attribute": "feature",
+    "value": "Dray with a city map etched into its wooden panels showing routes since the drought",
+    "context": "Caravan equipment"
+  },
+  {
+    "entity": "Nocturne",
+    "attribute": "caravan",
+    "value": "Hollowcore caravan with memory drums; banner glows when memory line touched by guard\u2019s lantern",
+    "context": "Caravan detail"
+  },
+  {
+    "entity": "Memory drums",
+    "attribute": "material",
+    "value": "Circular discs engraved with districts\u2019 memories",
+    "context": "Caravan artifacts"
+  },
+  {
+    "entity": "Umbra Choir",
+    "attribute": "type",
+    "value": "Rebel movement",
+    "context": "In-world conflict over memory and light"
+  },
+  {
+    "entity": "Umbra Choir",
+    "attribute": "methods",
+    "value": "Shadowing memory lines; staging memory-drum heists; seeks more equitable memory sharing",
+    "context": "Resistance tactics"
+  },
+  {
+    "entity": "Mere",
+    "attribute": "role",
+    "value": "Choir scout",
+    "context": "Dialogue in Umbra Choir meeting"
+  },
+  {
+    "entity": "Kashi",
+    "attribute": "role",
+    "value": "Kin trader",
+    "context": "Dialogue in Umbra Choir meeting"
+  },
+  {
+    "entity": "Mere",
+    "attribute": "quote",
+    "value": "We do not want to erase the city\u2019s light; we want to share it more equitably",
+    "context": "Umbra Choir dialogue"
+  },
+  {
+    "entity": "Kashi",
+    "attribute": "quote",
+    "value": "Share it, you say? What do you think keeps the city\u2019s clocks running? It is not charity; it is leverage. It is a system that ensures the richest districts guard the most important memories.",
+    "context": "Umbra Choir dialogue"
+  },
+  {
+    "entity": "Mere",
+    "attribute": "quote",
+    "value": "Memory is not a toy to be used or traded as if it were a commodity. It is a living bridge between families, an inheritance.",
+    "context": "Umbra Choir dialogue"
+  },
+  {
+    "entity": "Kashi",
+    "attribute": "quote",
+    "value": "A bridge can carry many travelers, but when the bridge is owned by one party, it becomes a toll road. We resist tolls.",
+    "context": "Umbra Choir dialogue"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "High Concept",
+    "value": "Light as living memory, weather, and wealth condensed into luminous currency",
+    "context": "Foundational city idea"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "drought risk",
+    "value": "Drought of daylight threatens prisms and memory lines, risking isolation of districts",
+    "context": "City crisis scenario"
+  },
+  {
+    "entity": "Toza",
+    "attribute": "diary author",
+    "value": "Grandmother Toza of Tide Gate",
+    "context": "Diary fragment"
+  },
+  {
+    "entity": "Toza's diary fragment",
+    "attribute": "instruction",
+    "value": "Return songs that do not belong to you to their maker and guard them as windows to others\u2019 memory",
+    "context": "Diary fragment"
+  },
+  {
+    "entity": "Grandmother memory sample",
+    "attribute": "note",
+    "value": "Keep memory at heart\u2019s edge; if it shivers, tell the story twice so prism recognizes it",
+    "context": "Notebook excerpt"
+  },
+  {
+    "entity": "Lullaby of the sea-town girl",
+    "attribute": "note",
+    "value": "If the night grows teeth, sing louder",
+    "context": "Notebook excerpt"
+  },
+  {
+    "entity": "Bread recipe",
+    "attribute": "note",
+    "value": "Bread that never goes stale when the city is dim: add a drop of sea wind, a pinch of sun, and a dash of grandmother\u2019s patience",
+    "context": "Notebook excerpt"
+  },
+  {
+    "entity": "Memory-keepers",
+    "attribute": "role",
+    "value": "Guard memory lines; maintain memory libraries",
+    "context": "City guardians"
+  },
+  {
+    "entity": "Sea Gate",
+    "attribute": "description",
+    "value": "Harbor spray tastes of copper and lemon glass",
+    "context": "Harbor atmosphere"
+  },
+  {
+    "entity": "Inter-District Bonding Charter",
+    "attribute": "clause",
+    "value": "In drought, districts shall share memory lines and light repositories; violations receive joint guardianship and public censure; reparations through light exchange",
+    "context": "Charter text"
+  },
+  {
+    "entity": "North Channel Route",
+    "attribute": "ledger",
+    "value": "Entry 74-III notes twelve memory drums and twenty-three vests woven from night-silk; guard rotation schedule; light rationing distribution",
+    "context": "Ledger entry"
+  },
+  {
+    "entity": "Gatehouse Post, Crest",
+    "attribute": "note",
+    "value": "Drought persists; prism stores drained to 68% capacity; accelerate mutual aid; watch for Umbra Choir devices",
+    "context": "Ledger dispatch"
+  },
+  {
+    "entity": "Weather Consortium",
+    "attribute": "note",
+    "value": "Seasonal forecast toward dimness; prisms brittle; seek light tokens from Hollowcore for recharging stations",
+    "context": "Weather memo"
+  },
+  {
+    "entity": "Sample page",
+    "attribute": "notes",
+    "value": "Memory of grandmother who taught her grandchild to swim in light; lullaby; bread recipe",
+    "context": "Notebook excerpt"
+  },
+  {
+    "entity": "Diaspora",
+    "attribute": "definition",
+    "value": "Dispersed families who graft new bonds onto the city and preserve kin loyalties",
+    "context": "Diaspora section"
+  },
+  {
+    "entity": "North-Spine dray",
+    "attribute": "feature",
+    "value": "Map of the city etched into its wooden panels showing routes trodden since daylight drought",
+    "context": "Dray description"
+  },
+  {
+    "entity": "Sea Gate harbor",
+    "attribute": "smell",
+    "value": "scent of copper and lemon glass in spray",
+    "context": "Harbor atmosphere"
+  },
+  {
+    "entity": "Night-silk vests",
+    "attribute": "material",
+    "value": "woven from night-silk",
+    "context": "Ledger entry"
+  },
+  {
+    "entity": "Memory lines exchange cycle",
+    "attribute": "cycle",
+    "value": "scouting, memory checks, exchange of light",
+    "context": "Diaspora caravans"
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "Type",
+    "value": "city of radiant glass and living prisms",
+    "context": "Overview"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "Source of power",
+    "value": "placement\u2014the exact place you stand in the tapestry of glass where light gathers, concentrates, and leaves you with access, petition, memory, status, and warmth of day",
+    "context": "Hierarchy & Power introduction"
+  },
+  {
+    "entity": "Prisms",
+    "attribute": "Function",
+    "value": "store daylight, weather, memory, and wealth; returns daylight as currency of influence",
+    "context": "High Concept premise"
+  },
+  {
+    "entity": "Memory-threads",
+    "attribute": "Relation to city",
+    "value": "bind to the city\u2019s weather cycles and to the economy",
+    "context": "Core concept"
+  },
+  {
+    "entity": "Radiant Core",
+    "attribute": "Role",
+    "value": "center where the largest prisms are; powers central towers",
+    "context": "Section 1"
+  },
+  {
+    "entity": "Central towers",
+    "attribute": "Function",
+    "value": "house the largest prisms; store sunlight; release light as catalyst",
+    "context": "Section 1"
+  },
+  {
+    "entity": "Central towers",
+    "attribute": "Description",
+    "value": "spires pierce the clouds and become mythic symbols of brightness",
+    "context": "Section 1"
+  },
+  {
+    "entity": "Lumen Ledger",
+    "attribute": "Function",
+    "value": "records presence, words, and gaze; stores luminescent data; authorizes petition",
+    "context": "Core 1"
+  },
+  {
+    "entity": "Council",
+    "attribute": "Role",
+    "value": "grants petitions and exercises influence based on the weight of light",
+    "context": "Core 1"
+  },
+  {
+    "entity": "Periphery",
+    "attribute": "Characteristic",
+    "value": "shadowed districts with smaller assets and heavier surveillance; a fortress of restrictions",
+    "context": "Section 2"
+  },
+  {
+    "entity": "Surveillance towers",
+    "attribute": "Function",
+    "value": "listen for errant light and convert observations into reports for higher authorities",
+    "context": "Periphery 2"
+  },
+  {
+    "entity": "Market lanes",
+    "attribute": "Function",
+    "value": "route daylight as a currency through guild corridors; visibility increases persuasive power",
+    "context": "Periphery 2"
+  },
+  {
+    "entity": "Memory in periphery",
+    "attribute": "Character",
+    "value": "long-term memory reservoirs such as blue glows and corner-of-eye recollections",
+    "context": "Section 2"
+  },
+  {
+    "entity": "Guilds",
+    "attribute": "Types",
+    "value": "Lumen Weavers, Archivists, Shadekeepers, Prism-smiths",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Guild of Lumen Weavers",
+    "attribute": "Function",
+    "value": "governs daylight channels through corridors of influence",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Guild of Archivists",
+    "attribute": "Function",
+    "value": "maintains official repositories of memory-threads and transfers recollections into shared memory",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Guild of Shadekeepers",
+    "attribute": "Function",
+    "value": "monitors periphery surveillance towers; balances security and civil liberty",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Guild of Prism-smiths",
+    "attribute": "Function",
+    "value": "maintains prisms\u2019 integrity and calibration; enables learning of new memory or weather patterns",
+    "context": "Section 5"
+  },
+  {
+    "entity": "Prism Allocation Ledger",
+    "attribute": "Document type",
+    "value": "Excerpts that record daylight distribution, memory, economy and contracts",
+    "context": "Public Documents 6"
+  },
+  {
+    "entity": "Quarter 4, Year 2129",
+    "attribute": "Record",
+    "value": "Core Prism Cluster Alpha-7 reports a 1.2 kilolumen surplus",
+    "context": "Public Documents excerpt"
+  },
+  {
+    "entity": "Quarter 4, Year 2129",
+    "attribute": "Record",
+    "value": "Temporary moonlighting contracts approved for Footbridge Renewal and Sound Garden expansion",
+    "context": "Public Documents excerpt"
+  },
+  {
+    "entity": "Petition 6789-B",
+    "attribute": "Subject",
+    "value": "Citizen K. Voss\u2014memory retrieval from Core Archive for medical purposes",
+    "context": "Public Documents excerpt"
+  },
+  {
+    "entity": "Petition 6789-B",
+    "attribute": "Outcome",
+    "value": "Council Decree approved under compassionate-use clause, subject to spectral audit",
+    "context": "Public Documents excerpt"
+  },
+  {
+    "entity": "Council Minutes",
+    "attribute": "Content",
+    "value": "Drought at the perimeter; must reallocate daylight hours to prevent Market of Dawn collapse; do not starve the periphery of light; reweave daylight routes",
+    "context": "Public Documents excerpt"
+  },
+  {
+    "entity": "Night-Tide policy",
+    "attribute": "Schedule",
+    "value": "Active from 2100 hours to 0700 hours; corridors preserve a baseline of brightness for essential services",
+    "context": "Council Minutes"
+  },
+  {
+    "entity": "Night-Tide policy",
+    "attribute": "Petition rule",
+    "value": "Petitions after hour must be submitted through luminance channels",
+    "context": "Council Minutes"
+  },
+  {
+    "entity": "Periphery Gazette",
+    "attribute": "Notice",
+    "value": "Shadowline Market will close at dusk; safe corridor for essential duties with documentation",
+    "context": "Public notices"
+  },
+  {
+    "entity": "Guild Charter",
+    "attribute": "Principle",
+    "value": "Light, as a thing shared, is a social contract; the Lumen Weavers, Archivists, Shadekeepers, and Prism-smiths are trustees; daylight manipulation without authorization shall be recorded, audited, and publicly demonstrated",
+    "context": "Guild Charter"
+  },
+  {
+    "entity": "Mara",
+    "attribute": "Role",
+    "value": "street surgeon; Market of Dawn operator; lamp runs on memory-lumen",
+    "context": "Dialogues"
+  },
+  {
+    "entity": "Archivist Mera",
+    "attribute": "Role",
+    "value": "questions petitioner; tests memory\u2019s weight in lumens",
+    "context": "Dialogues"
+  },
+  {
+    "entity": "Lumen Warden",
+    "attribute": "Role",
+    "value": "patrol Shadowline; logs paths, cross-lights, and signals; memory-keepers by policy",
+    "context": "Dialogues"
+  },
+  {
+    "entity": "Grandmother",
+    "attribute": "Memory fragment",
+    "value": "diary fragment describing thinner light and old coastal memories",
+    "context": "8"
+  },
+  {
+    "entity": "Grandmother",
+    "attribute": "Consequences",
+    "value": "Memory stored in prisms can become thinner as daylight drought persists",
+    "context": "8"
+  },
+  {
+    "entity": "Teacher",
+    "attribute": "Consequence",
+    "value": "class loses portion of day as school prism lowers setting",
+    "context": "7/8"
+  },
+  {
+    "entity": "Laborer",
+    "attribute": "Consequence",
+    "value": "can petition for only fraction of daylight because daylight has been spent by a privileged quarter",
+    "context": "7"
+  },
+  {
+    "entity": "Memory bead",
+    "attribute": "Function",
+    "value": "tiny luminescent bead storing memory; can be traded for daylight or used as collateral for a loan",
+    "context": "10"
+  },
+  {
+    "entity": "Market of Dawn",
+    "attribute": "Function",
+    "value": "venue for daylight and memory exchanges; memory-based economy of visibility",
+    "context": "Scenes"
+  },
+  {
+    "entity": "Bead economy",
+    "attribute": "Content",
+    "value": "one hour of daylight in exchange for a memory you want to forget or keep",
+    "context": "Scenes"
+  },
+  {
+    "entity": "Morning",
+    "attribute": "Description",
+    "value": "Core prisms shimmer; periphery brightens later; higher districts scent of citrus and ozone; lower districts coarser light",
+    "context": "11"
+  },
+  {
+    "entity": "Drought",
+    "attribute": "Ethical test",
+    "value": "tests allocation fairness between core and periphery; questions whether to save the rich\u2019s brightness vs periphery\u2019s lifeblood",
+    "context": "9"
+  },
+  {
+    "entity": "Future governance",
+    "attribute": "Prediction",
+    "value": "new guilds may manage smaller prisms with greater autonomy and avoid fragmentation",
+    "context": "12"
+  },
+  {
+    "entity": "Archivists' Hall",
+    "attribute": "Message",
+    "value": "Memory is warmed by trust; trust is earned through visibility; public records map power to memory, weather, and people",
+    "context": "Epilogue"
+  },
+  {
+    "entity": "Map of power",
+    "attribute": "Description",
+    "value": "the map of power is also a map of memory, weather, and of the people who stand where light is brightest",
+    "context": "Epilogue"
+  }
+]

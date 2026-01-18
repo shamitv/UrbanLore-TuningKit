@@ -1,0 +1,278 @@
+[
+  {
+    "entity": "Gleamspire",
+    "attribute": "Nature",
+    "value": "a city stitched from glass and memory",
+    "context": "Opening description"
+  },
+  {
+    "entity": "Gleamspire",
+    "attribute": "Daylight role",
+    "value": "daylight is a currency, a memory, a weather pattern, and a social contract",
+    "context": "General concept of daylight in the city"
+  },
+  {
+    "entity": "High Concept",
+    "attribute": "Definition",
+    "value": "memory, weather, and wealth distilled into prisms that soak daylight and store it as a living archive",
+    "context": "Core city concept"
+  },
+  {
+    "entity": "Prism Banks",
+    "attribute": "Function",
+    "value": "feed central memory banks with daylight energy",
+    "context": "Infrastructure detail"
+  },
+  {
+    "entity": "Memory vaults",
+    "attribute": "Function",
+    "value": "store memories and regulate access to them",
+    "context": "Infrastructure detail"
+  },
+  {
+    "entity": "Daylight Board",
+    "attribute": "Authority",
+    "value": "enforces daylight allocations and policy during drought",
+    "context": "Governing body role"
+  },
+  {
+    "entity": "Notice to Residents of Gleamspire",
+    "attribute": "Content",
+    "value": " daylight allocations recalibrated by district priority indices",
+    "context": "Official notice"
+  },
+  {
+    "entity": "Notice to Residents of Gleamspire",
+    "attribute": "Mechanism",
+    "value": "redistribution conducted in phases to minimize disruption",
+    "context": "Policy details"
+  },
+  {
+    "entity": "Redistribution Protocol (R.P.)",
+    "attribute": "Component",
+    "value": "Vault-Side quotas 38% higher than Outskirts",
+    "context": "Quota policy"
+  },
+  {
+    "entity": "Redistribution Protocol (R.P.)",
+    "attribute": "Component",
+    "value": "Perimeter residents receive intermediate quotas with discretionary adjustments for households with young children, elderly dependents, or critical labor roles",
+    "context": "Quota policy"
+  },
+  {
+    "entity": "Redistribution Protocol (R.P.)",
+    "attribute": "Component",
+    "value": "Outskirts will receive rotational daylight shares with a minimum guarantee to prevent blackout",
+    "context": "Quota policy"
+  },
+  {
+    "entity": "Redistribution Protocol (R.P.)",
+    "attribute": "Component",
+    "value": "Mobility credits to incentivize relocation to prescribed sectors to maintain balanced Prism Banks",
+    "context": "Incentive policy"
+  },
+  {
+    "entity": "Alinara",
+    "attribute": "Role",
+    "value": "Councilor",
+    "context": "Forum address during drought"
+  },
+  {
+    "entity": "Mantel the Clear",
+    "attribute": "Role",
+    "value": "Chair of the Forum",
+    "context": "Council proceedings"
+  },
+  {
+    "entity": "Sunward Syndicate",
+    "attribute": "Type",
+    "value": "elite faction; specializes in alignment of solar prisms and trade of spectral memories",
+    "context": "Elite faction"
+  },
+  {
+    "entity": "Aegis Chorus",
+    "attribute": "Type",
+    "value": "elite faction; maintains city\u2019s composure through memory-sharing rituals",
+    "context": "Elite faction"
+  },
+  {
+    "entity": "Quiet Hand",
+    "attribute": "Type",
+    "value": "elite faction; preserves system integrity with discreet interventions",
+    "context": "Elite faction"
+  },
+  {
+    "entity": "Seasonal deferment",
+    "attribute": "Concept",
+    "value": "deferring a portion of life-learned memories to central districts during shortages",
+    "context": "Faction policy term"
+  },
+  {
+    "entity": "Drought of daylight",
+    "attribute": "Characterization",
+    "value": "a whisper that grows louder with every hour of pale, thinning glow",
+    "context": "Environmental condition"
+  },
+  {
+    "entity": "Prism Vaults",
+    "attribute": "Relation",
+    "value": "feed central memory banks; source of daylight in the vault network",
+    "context": "Infrastructure"
+  },
+  {
+    "entity": "Memory vaults",
+    "attribute": "Function",
+    "value": "store and regulate access to accumulated memories",
+    "context": "Infrastructure"
+  },
+  {
+    "entity": "Vault-Side",
+    "attribute": "Location",
+    "value": "near central Prism Vaults",
+    "context": "Geographical category"
+  },
+  {
+    "entity": "Interior-Clutch",
+    "attribute": "Location",
+    "value": "internal districts surrounding memory economy",
+    "context": "Geographical category"
+  },
+  {
+    "entity": "Perimeter",
+    "attribute": "Location",
+    "value": "district at the boundary around the central prism banks",
+    "context": "Geographical category"
+  },
+  {
+    "entity": "Outskirts",
+    "attribute": "Location",
+    "value": "outer districts with limited daylight access",
+    "context": "Geographical category"
+  },
+  {
+    "entity": "Arclight Arcade",
+    "attribute": "Facility",
+    "value": "gleaming kiosks where Mobility Credits are redeemed for light or memory privileges",
+    "context": "Commerce/relocation hub"
+  },
+  {
+    "entity": "Mobility Credits",
+    "attribute": "Function",
+    "value": "redeem daylight for access to memory streams, temporary vault access, or light delivery advantages",
+    "context": "Incentive system"
+  },
+  {
+    "entity": "Memory-Chest",
+    "attribute": "Object",
+    "value": "oak box with glass panels that display a memory in real-time",
+    "context": "Relocation ritual"
+  },
+  {
+    "entity": "Light Keepers",
+    "attribute": "Program",
+    "value": "Vault-Side program allowing real-time vault-floor observation via domed window",
+    "context": "Memory access program"
+  },
+  {
+    "entity": "Ilya",
+    "attribute": "Role",
+    "value": "child of a vault-side resident; participant in Light Keepers program",
+    "context": "Vignette"
+  },
+  {
+    "entity": "Lora",
+    "attribute": "Occupation",
+    "value": "coffee vendor in the Perimeter",
+    "context": "Moral map scene"
+  },
+  {
+    "entity": "Lora",
+    "attribute": "Motto",
+    "value": "we redeem light in small, bright measures",
+    "context": "Perimeter scene"
+  },
+  {
+    "entity": "Dhe",
+    "attribute": "Role",
+    "value": "regular customer with a ledger of what light bought him",
+    "context": "Perimeter moral map"
+  },
+  {
+    "entity": "Althea",
+    "attribute": "Occupation",
+    "value": "memory-archivist",
+    "context": "Memory economy figure"
+  },
+  {
+    "entity": "Memory-Scribes",
+    "attribute": "Role",
+    "value": "elite guild that curates sensory experiences of memories for the wealthy; robes glow with internal light",
+    "context": "Vault-side life"
+  },
+  {
+    "entity": "Only three per hour",
+    "attribute": "Constraint",
+    "value": "memory-viewing queue at the Memory-Scribes chamber",
+    "context": "Process constraint"
+  },
+  {
+    "entity": "Chalk boundary",
+    "attribute": "Feature",
+    "value": "chalk lines mark daylight reach boundaries in Outskirts",
+    "context": "Physical-demarcation detail"
+  },
+  {
+    "entity": "Memory corridor",
+    "attribute": "Concept",
+    "value": "an educational pathway linking pupils to vault-side scientists",
+    "context": "Education policy"
+  },
+  {
+    "entity": "Perimeter schools",
+    "attribute": "Policy",
+    "value": "offer memory-light rounds to students to access vault memory",
+    "context": "Education policy"
+  },
+  {
+    "entity": "Drought Week 3",
+    "attribute": "Date",
+    "value": "week 3 of the drought",
+    "context": "Document C date"
+  },
+  {
+    "entity": "Public Memory Ledger",
+    "attribute": "Content",
+    "value": "population reflow index 4.2; Vault-Side occupancy 87%; Outskirts up 6.3%; Perimeter up 4.1%; memory exchanges up 9.8%",
+    "context": "Document C excerpt"
+  },
+  {
+    "entity": "Juno Kareth",
+    "attribute": "Occupation",
+    "value": "memory-keeper; verifies memory-chest inventory against light quota",
+    "context": "Personal vignette"
+  },
+  {
+    "entity": "Memory-chest inscription",
+    "attribute": "Contents",
+    "value": "This memory belongs to all who walk under the blue glow; carry daylight into your new door",
+    "context": "Relocation inscription"
+  },
+  {
+    "entity": "Gleamspire public theater",
+    "attribute": "Role",
+    "value": "finale stage for resilience; features chorus and memory-archivist",
+    "context": "Cultural moment"
+  },
+  {
+    "entity": "Distant Sea",
+    "attribute": "Memory motif",
+    "value": "recurring memory reference in vault-side dialogue",
+    "context": "Dialogue motif"
+  },
+  {
+    "entity": "Antechamber of Voices",
+    "attribute": "Location",
+    "value": "public space with glass pane for hearing memory of the day\u2019s heat",
+    "context": "In-world documents"
+  }
+]
