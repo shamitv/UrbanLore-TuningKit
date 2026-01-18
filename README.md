@@ -196,7 +196,7 @@ Creates:
 - `eval/results/<org>/<model>/evaluation_results.json`: ROUGE scores and metrics
 - `eval/results/<org>/<model>/sample_predictions.json`: Example predictions
 
-For detailed information on the evaluation metrics and methodology, see [docs/eval/EVALUATION.md](docs/eval/EVALUATION.md).
+For detailed information on the evaluation metrics, methodology, and **analysis of the latest training run**, see [docs/eval/EVALUATION.md](docs/eval/EVALUATION.md).
 
 ## 🧪 Test Runs
 
@@ -216,7 +216,7 @@ Comprehensive documentation for UrbanLore-TuningKit:
 - **[GENERATOR.md](docs/agents/GENERATOR.md)**: Technical details on the corpus generation agent.
 
 ### Evaluation & Results
-- **[EVALUATION.md](docs/eval/EVALUATION.md)**: Explanation of ROUGE metrics and scoring logic.
+- **[EVALUATION.md](docs/eval/EVALUATION.md)**: Methodology, ROUGE metrics, and qualitative analysis of the latest model performance.
 - **[Test Runs](docs/runs/test_pipeline_2026-01-17.md)**: Evidence of successful pipeline execution.
 
 ### Project & Contribution
