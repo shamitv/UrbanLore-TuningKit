@@ -171,9 +171,9 @@ Configuration options:
 - `--epochs`: Number of training epochs
 
 Creates:
-- `finetune/models/final/`: Fine-tuned model
-- `finetune/models/checkpoints/`: Training checkpoints
-- `finetune/models/final/training_metadata.json`: Training info
+- `finetune/models/<org>/<model>/final/`: Fine-tuned model
+- `finetune/models/<org>/<model>/checkpoints/`: Training checkpoints
+- `finetune/models/<org>/<model>/final/training_metadata.json`: Training info
 
 ### Evaluation
 
@@ -181,14 +181,14 @@ Evaluate the fine-tuned model:
 
 ```bash
 python urbanlore.py evaluate \
-  --model-dir finetune/models/final \
+  --model-dir finetune/models/Qwen/Qwen3-0.6B/final \
   --test-file dataset/test.jsonl \
   --output-dir eval/results
 ```
 
 Creates:
-- `eval/results/evaluation_results.json`: ROUGE scores and metrics
-- `eval/results/sample_predictions.json`: Example predictions
+- `eval/results/<org>/<model>/evaluation_results.json`: ROUGE scores and metrics
+- `eval/results/<org>/<model>/sample_predictions.json`: Example predictions
 
 For detailed information on the evaluation metrics and methodology, see [docs/eval/EVALUATION.md](docs/eval/EVALUATION.md).
 
