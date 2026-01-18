@@ -4,6 +4,7 @@ UrbanLore-TuningKit CLI
 Main entrypoint for the UrbanLore pipeline
 """
 import os
+import re
 from pathlib import Path
 
 import click
@@ -17,6 +18,57 @@ def file_exists_and_not_empty(path: str) -> bool:
     """Check if file exists and is not empty."""
     p = Path(path)
     return p.exists() and p.stat().st_size > 0
+
+
+def model_name_to_dir_parts(model_name: str) -> list[str]:
+    """Convert a model name into safe directory parts."""
+    parts = re.split(r"[\\/]", model_name or "")
+    parts = [p for p in parts if p]
+    return [p.replace(":", "_").replace(" ", "_") for p in parts]
+
+
+def ensure_model_output_dir(output_dir: str, model_name: str) -> str:
+    """Append model name parts to output_dir if not already present."""
+    parts = model_name_to_dir_parts(model_name)
+    if not parts:
+        return output_dir
+    output_path = Path(output_dir)
+    if len(parts) <= len(output_path.parts) and list(output_path.parts[-len(parts):]) == parts:
+        return str(output_path)
+    return str(output_path.joinpath(*parts))
+
+
+def derive_model_parts_from_model_dir(model_dir: str) -> list[str]:
+    """Derive model parts from a model directory path."""
+    path = Path(model_dir)
+    parts = list(path.parts)
+
+    rel_parts: list[str] = []
+    for idx in range(len(parts) - 1):
+        if parts[idx].lower() == "finetune" and parts[idx + 1].lower() == "models":
+            rel_parts = parts[idx + 2:]
+            break
+
+    if not rel_parts:
+        rel_parts = parts
+
+    if rel_parts and rel_parts[-1].lower() == "final":
+        rel_parts = rel_parts[:-1]
+
+    if len(rel_parts) == 2 and rel_parts[0].lower() == "finetune" and rel_parts[1].lower() == "models":
+        return []
+
+    return [p for p in rel_parts if p and not p.endswith(":\\") and not p.endswith(":")]
+
+
+def append_model_parts(output_dir: str, model_parts: list[str]) -> str:
+    """Append model parts to output_dir if not already present."""
+    if not model_parts:
+        return output_dir
+    output_path = Path(output_dir)
+    if len(model_parts) <= len(output_path.parts) and list(output_path.parts[-len(model_parts):]) == model_parts:
+        return str(output_path)
+    return str(output_path.joinpath(*model_parts))
 
 
 @click.group()
@@ -104,7 +156,8 @@ def finetune(dataset_file, base_model, output_dir, use_qlora, epochs, force):
     if not base_model:
         base_model = os.getenv("BASE_MODEL", "Qwen/Qwen3-0.6B")
 
-    final_model_dir = os.path.join(output_dir, "final")
+    model_output_dir = ensure_model_output_dir(output_dir, base_model)
+    final_model_dir = os.path.join(model_output_dir, "final")
     metadata_file = os.path.join(final_model_dir, "training_metadata.json")
 
     if not force and file_exists_and_not_empty(metadata_file):
@@ -117,11 +170,11 @@ def finetune(dataset_file, base_model, output_dir, use_qlora, epochs, force):
     train_model(
         dataset_file=dataset_file,
         base_model=base_model,
-        output_dir=output_dir,
+        output_dir=model_output_dir,
         use_qlora=use_qlora,
         epochs=epochs
     )
-    click.echo(f"✓ Model fine-tuned and saved to {output_dir}/")
+    click.echo(f"✓ Model fine-tuned and saved to {model_output_dir}/")
 
 
 @cli.command()
@@ -131,6 +184,8 @@ def finetune(dataset_file, base_model, output_dir, use_qlora, epochs, force):
 @click.option("--force", is_flag=True, default=False, help="Regenerate even if output exists")
 def evaluate(model_dir, test_file, output_dir, force):
     """Run model evaluation"""
+    model_parts = derive_model_parts_from_model_dir(model_dir)
+    output_dir = append_model_parts(output_dir, model_parts)
     results_file = os.path.join(output_dir, "evaluation_results.json")
 
     if not force and file_exists_and_not_empty(results_file):
@@ -171,9 +226,15 @@ def run_all(target_words, corpus_dir, dataset_dir, model_dir, eval_dir, base_mod
     facts_file = os.path.join(corpus_dir, "facts.json")
     train_file = os.path.join(dataset_dir, "train.jsonl")
     test_file = os.path.join(dataset_dir, "test.jsonl")
-    final_model_dir = os.path.join(model_dir, "final")
+
+    if not base_model:
+        base_model = os.getenv("BASE_MODEL", "Qwen/Qwen3-0.6B")
+
+    model_output_dir = ensure_model_output_dir(model_dir, base_model)
+    final_model_dir = os.path.join(model_output_dir, "final")
     model_metadata = os.path.join(final_model_dir, "training_metadata.json")
-    eval_results = os.path.join(eval_dir, "evaluation_results.json")
+    eval_output_dir = append_model_parts(eval_dir, model_name_to_dir_parts(base_model))
+    eval_results = os.path.join(eval_output_dir, "evaluation_results.json")
 
     ctx.invoke(generate_corpus, target_words=target_words, output_dir=corpus_dir, force=force)
     ctx.invoke(extract_facts, corpus_file=corpus_file, output_dir=corpus_dir, force=force)
@@ -181,21 +242,18 @@ def run_all(target_words, corpus_dir, dataset_dir, model_dir, eval_dir, base_mod
                output_dir=dataset_dir, num_qa=num_qa, num_instructions=num_instructions, force=force)
 
     if force or not file_exists_and_not_empty(model_metadata):
-        if not base_model:
-            base_model = os.getenv("BASE_MODEL", "Qwen/Qwen3-0.6B")
-
         if use_qlora is None:
             use_qlora_env = os.getenv("USE_QLORA", "true").strip().lower()
             use_qlora = use_qlora_env in {"1", "true", "yes", "y"}
 
         ctx.invoke(finetune, dataset_file=train_file, base_model=base_model, 
-                   output_dir=model_dir, use_qlora=use_qlora, epochs=3, force=force)
+                   output_dir=model_output_dir, use_qlora=use_qlora, epochs=3, force=force)
     else:
         click.echo(f"⏭  Fine-tuned model already exists at {final_model_dir}, skipping (use --force to retrain)")
 
     if force or not file_exists_and_not_empty(eval_results):
         ctx.invoke(evaluate, model_dir=final_model_dir, test_file=test_file, 
-                   output_dir=eval_dir, force=force)
+                   output_dir=eval_output_dir, force=force)
     else:
         click.echo(f"⏭  Evaluation results already exist at {eval_results}, skipping (use --force to re-evaluate)")
     

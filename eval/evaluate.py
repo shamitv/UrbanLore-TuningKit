@@ -21,6 +21,39 @@ from rouge_score import rouge_scorer
 load_dotenv()
 
 
+def derive_model_parts_from_model_dir(model_dir: str) -> list[str]:
+    """Derive model parts from a model directory path."""
+    path = Path(model_dir)
+    parts = list(path.parts)
+
+    rel_parts: list[str] = []
+    for idx in range(len(parts) - 1):
+        if parts[idx].lower() == "finetune" and parts[idx + 1].lower() == "models":
+            rel_parts = parts[idx + 2:]
+            break
+
+    if not rel_parts:
+        rel_parts = parts
+
+    if rel_parts and rel_parts[-1].lower() == "final":
+        rel_parts = rel_parts[:-1]
+
+    if len(rel_parts) == 2 and rel_parts[0].lower() == "finetune" and rel_parts[1].lower() == "models":
+        return []
+
+    return [p for p in rel_parts if p and not p.endswith(":\\") and not p.endswith(":")]
+
+
+def append_model_parts(output_dir: str, model_parts: list[str]) -> str:
+    """Append model parts to output_dir if not already present."""
+    if not model_parts:
+        return output_dir
+    output_path = Path(output_dir)
+    if len(model_parts) <= len(output_path.parts) and list(output_path.parts[-len(model_parts):]) == model_parts:
+        return str(output_path)
+    return str(output_path.joinpath(*model_parts))
+
+
 def load_model_and_tokenizer(model_dir: str):
     """Load the fine-tuned model and tokenizer"""
     print(f"Loading model from {model_dir}...")
@@ -111,6 +144,9 @@ def evaluate_model(model_dir: str = "finetune/models/final",
         Path to the evaluation results file
     """
     print("Starting model evaluation...")
+
+    model_parts = derive_model_parts_from_model_dir(model_dir)
+    output_dir = append_model_parts(output_dir, model_parts)
     
     # Load model and tokenizer
     model, tokenizer = load_model_and_tokenizer(model_dir)
