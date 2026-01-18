@@ -42,6 +42,12 @@ UrbanLore-TuningKit/
 
 ## 🚀 Quick Start
 
+## TL;DR
+
+```bash
+python urbanlore.py run-all --target-words 200000 --corpus-dir corpus --dataset-dir dataset --model-dir finetune/models --base-model Qwen/Qwen3-0.6B --eval-dir eval/results --num-qa 1000 --num-instructions 500 --use-qlora true
+```
+
 ### 1. Installation
 
 ```bash
